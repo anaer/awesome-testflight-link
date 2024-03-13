@@ -5,11 +5,6 @@ on:
     branches:
       - main
   workflow_dispatch:
-    inputs:
-      python_version:
-        description: '指定 Python 版本 3.6+ （不建议修改）'
-        required: false
-        default: '3.11.1'
 
 jobs:
   main:
@@ -18,24 +13,23 @@ jobs:
       python_version: ${{ github.event.inputs.python_version }}
     steps:
       - uses: actions/checkout@v3.3.0
-      - name: Check env
-        run: if [ -z "$python_version" ]; then python_version='3.11.1'; fi
       - name: Set up Python
         uses: actions/setup-python@v4.5.0
         with:
-          python-version: ${{ env.python_version }}
+          python-version: '3.11.1'
           architecture: x64
 
       - name: Checkout main -> status_ordered
         run: |
           git config --global user.email "github_bot@noreply.github.com"
           git config --global user.name "github_bot"
-          git pull --unshallow
-          git checkout status_ordered
-          git checkout origin/main db/sqlite3.db
 
       - name: Order TestFilght Link Status
-        run: python scripts/order_status.py
+        run: |
+          curl https://raw.githubusercontent.com/pluwen/awesome-testflight-link/main/db/sqlite3.db -o db/sqlite3.db
+          git_diff=`git diff`
+          if [ -z "$git_diff" ]; then echo "Nothing Changed";exit; fi
+          python scripts/order_status.py
 
       - name: Git commit && push
         run: |
@@ -43,4 +37,4 @@ jobs:
           if [ -z "$git_diff" ]; then echo "Nothing Changed";exit; fi
           git add .
           git commit -m "Github Action Auto Updated - `date`"
-          git push origin status_ordered
+          git push origin main

@@ -1,12 +1,4 @@
 #!/usr/bin/python
-'''
-Author       : tom-snow
-Date         : 2022-03-17 11:32:32
-LastEditTime : 2022-03-17 12:17:34
-LastEditors  : tom-snow
-Description  : 
-FilePath     : /awesome-testflight-link/scripts/order_status.py
-'''
 
 import sqlite3
 import re, os, sys
@@ -24,7 +16,7 @@ README_TEMPLATE_FILE = "./data/README.template"
 def renew_doc(data_file, table):
     # header
     markdown = []
-    with open(data_file, 'r') as f:
+    with open(data_file, 'r', encoding='gbk', errors='ignore') as f:
         lines = f.readlines()
         for line in lines:
             columns = [ column.strip() for column in line.split("|") ]
@@ -34,20 +26,14 @@ def renew_doc(data_file, table):
     # 
     conn = sqlite3.connect('../db/sqlite3.db')
     cur = conn.cursor()
-    res = cur.execute(f"""SELECT app_name, testflight_link, status, last_modify FROM {table} ORDER BY 
-        CASE status
-            WHEN 'Y' THEN 0
-            WHEN 'F' THEN 1
-            WHEN 'N' THEN 2
-            WHEN 'D' THEN 3
-        END;""")
+    res = cur.execute(f"""SELECT app_name, testflight_link, status, last_modify FROM {table} WHERE status = 'Y' ORDER BY last_modify DESC;""")
     for row in res:
         app_name, testflight_link, status, last_modify = row
         testflight_link = f"[https://testflight.apple.com/join/{testflight_link}](https://testflight.apple.com/join/{testflight_link})"
         markdown.append(f"| {app_name} | {testflight_link} | {status} | {last_modify} |\n")
     conn.close()
     # 
-    with open(data_file, 'w') as f:
+    with open(data_file, 'w', encoding='gbk') as f:
         lines = f.writelines(markdown)
 
 def renew_readme():
@@ -79,7 +65,7 @@ def main():
             continue
 
         renew_doc(TABLE_MAP[table], table)
-        renew_readme()
+    renew_readme()
 
 if __name__ == "__main__":
     os.chdir(sys.path[0])
