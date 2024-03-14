@@ -3,6 +3,7 @@
 | --- | --- | --- | -- |
 | SimpleTix Box Office | [https://testflight.apple.com/join/zyByZSX8](https://testflight.apple.com/join/zyByZSX8) | Y | 2024-03-13 |
 | TikTok | [https://testflight.apple.com/join/pLmKZJKw](https://testflight.apple.com/join/pLmKZJKw) | Y | 2024-03-13 |
+| ColorSlurp Beta | [https://testflight.apple.com/join/xxEw2j1X](https://testflight.apple.com/join/xxEw2j1X) | Y | 2024-03-13 |
 | Jira Cloud by Atlassian | [https://testflight.apple.com/join/2lm7vHBS](https://testflight.apple.com/join/2lm7vHBS) | Y | 2024-03-09 |
 | Pushover Notifications | [https://testflight.apple.com/join/vkwfdWM0](https://testflight.apple.com/join/vkwfdWM0) | Y | 2024-03-09 |
 | FlowNote - powerful note-taking app | [https://testflight.apple.com/join/flHFdltG](https://testflight.apple.com/join/flHFdltG) | Y | 2024-03-08 |

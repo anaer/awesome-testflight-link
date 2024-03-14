@@ -1,14 +1,25 @@
 # Available Testflight App List
 Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a issue.
 
-## macOS App List (macOS 12)
+## Chinese App
 | Name | Url | Available | Date |
 | --- | --- | --- | -- |
-| UTM Virtual Machines | [https://testflight.apple.com/join/XQ3tNoNn](https://testflight.apple.com/join/XQ3tNoNn) | Y | 2024-03-05 |
-| Shapr3D | [https://testflight.apple.com/join/Dm6lqUW7](https://testflight.apple.com/join/Dm6lqUW7) | Y | 2023-09-19 |
-| Salam | [https://testflight.apple.com/join/IjXpQtAo](https://testflight.apple.com/join/IjXpQtAo) | Y | 2023-06-22 |
-| Ride Wait Times | [https://testflight.apple.com/join/yQNmMRwB](https://testflight.apple.com/join/yQNmMRwB) | Y | 2023-02-11 |
-| Parcel | [https://testflight.apple.com/join/GfswMZn4](https://testflight.apple.com/join/GfswMZn4) | Y | 2022-08-08 |
+| 我的世界-网易 | [https://testflight.apple.com/join/mOxZm1dD](https://testflight.apple.com/join/mOxZm1dD) | Y | 2024-01-22 |
+| Angelia | [https://testflight.apple.com/join/i37NXl07](https://testflight.apple.com/join/i37NXl07) | Y | 2024-01-12 |
+| 酷狗音乐 | [https://testflight.apple.com/join/6cnKUyZ8](https://testflight.apple.com/join/6cnKUyZ8) | Y | 2024-01-05 |
+| 西瓜视频 | [https://testflight.apple.com/join/ZkSx6V4m](https://testflight.apple.com/join/ZkSx6V4m) | Y | 2023-07-26 |
+| Maxthon Cloud Web Browser | [https://testflight.apple.com/join/ONuHkBRv](https://testflight.apple.com/join/ONuHkBRv) | Y | 2023-06-22 |
+| 事线 - 串事成线 | [https://testflight.apple.com/join/grxohdR3](https://testflight.apple.com/join/grxohdR3) | Y | 2023-01-05 |
+| 滴答清单 TickTick | [https://testflight.apple.com/join/vWQPDFQU](https://testflight.apple.com/join/vWQPDFQU) | Y | 2022-03-15 |
+
+
+## iOS/iPad OS Game List
+| Name | Url | Available | Date |
+| --- | --- | --- | -- |
+| Fugl | [https://testflight.apple.com/join/bZIZeB4N](https://testflight.apple.com/join/bZIZeB4N) | Y | 2024-02-26 |
+| WOW: Wars of Wanon | [https://testflight.apple.com/join/UZ4tYFb6](https://testflight.apple.com/join/UZ4tYFb6) | Y | 2023-11-30 |
+| DropZap World | [https://testflight.apple.com/join/CdEXgjst](https://testflight.apple.com/join/CdEXgjst) | Y | 2023-07-02 |
+| Cell to Singularity | [https://testflight.apple.com/join/RD9jGH9S](https://testflight.apple.com/join/RD9jGH9S) | Y | 2023-01-15 |
 
 
 ## iOS/iPad OS App List
@@ -16,6 +27,7 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 | --- | --- | --- | -- |
 | SimpleTix Box Office | [https://testflight.apple.com/join/zyByZSX8](https://testflight.apple.com/join/zyByZSX8) | Y | 2024-03-13 |
 | TikTok | [https://testflight.apple.com/join/pLmKZJKw](https://testflight.apple.com/join/pLmKZJKw) | Y | 2024-03-13 |
+| ColorSlurp Beta | [https://testflight.apple.com/join/xxEw2j1X](https://testflight.apple.com/join/xxEw2j1X) | Y | 2024-03-13 |
 | Jira Cloud by Atlassian | [https://testflight.apple.com/join/2lm7vHBS](https://testflight.apple.com/join/2lm7vHBS) | Y | 2024-03-09 |
 | Pushover Notifications | [https://testflight.apple.com/join/vkwfdWM0](https://testflight.apple.com/join/vkwfdWM0) | Y | 2024-03-09 |
 | FlowNote - powerful note-taking app | [https://testflight.apple.com/join/flHFdltG](https://testflight.apple.com/join/flHFdltG) | Y | 2024-03-08 |
@@ -126,25 +138,14 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 | GroupMe | [https://testflight.apple.com/join/6CcTotfX](https://testflight.apple.com/join/6CcTotfX) | Y | 2022-10-09 |
 
 
-## iOS/iPad OS Game List
+## macOS App List (macOS 12)
 | Name | Url | Available | Date |
 | --- | --- | --- | -- |
-| Fugl | [https://testflight.apple.com/join/bZIZeB4N](https://testflight.apple.com/join/bZIZeB4N) | Y | 2024-02-26 |
-| WOW: Wars of Wanon | [https://testflight.apple.com/join/UZ4tYFb6](https://testflight.apple.com/join/UZ4tYFb6) | Y | 2023-11-30 |
-| DropZap World | [https://testflight.apple.com/join/CdEXgjst](https://testflight.apple.com/join/CdEXgjst) | Y | 2023-07-02 |
-| Cell to Singularity | [https://testflight.apple.com/join/RD9jGH9S](https://testflight.apple.com/join/RD9jGH9S) | Y | 2023-01-15 |
-
-
-## Chinese App
-| Name | Url | Available | Date |
-| --- | --- | --- | -- |
-| 我的世界-网易 | [https://testflight.apple.com/join/mOxZm1dD](https://testflight.apple.com/join/mOxZm1dD) | Y | 2024-01-22 |
-| Angelia | [https://testflight.apple.com/join/i37NXl07](https://testflight.apple.com/join/i37NXl07) | Y | 2024-01-12 |
-| 酷狗音乐 | [https://testflight.apple.com/join/6cnKUyZ8](https://testflight.apple.com/join/6cnKUyZ8) | Y | 2024-01-05 |
-| 西瓜视频 | [https://testflight.apple.com/join/ZkSx6V4m](https://testflight.apple.com/join/ZkSx6V4m) | Y | 2023-07-26 |
-| Maxthon Cloud Web Browser | [https://testflight.apple.com/join/ONuHkBRv](https://testflight.apple.com/join/ONuHkBRv) | Y | 2023-06-22 |
-| 事线 - 串事成线 | [https://testflight.apple.com/join/grxohdR3](https://testflight.apple.com/join/grxohdR3) | Y | 2023-01-05 |
-| 滴答清单 TickTick | [https://testflight.apple.com/join/vWQPDFQU](https://testflight.apple.com/join/vWQPDFQU) | Y | 2022-03-15 |
+| UTM Virtual Machines | [https://testflight.apple.com/join/XQ3tNoNn](https://testflight.apple.com/join/XQ3tNoNn) | Y | 2024-03-05 |
+| Shapr3D | [https://testflight.apple.com/join/Dm6lqUW7](https://testflight.apple.com/join/Dm6lqUW7) | Y | 2023-09-19 |
+| Salam | [https://testflight.apple.com/join/IjXpQtAo](https://testflight.apple.com/join/IjXpQtAo) | Y | 2023-06-22 |
+| Ride Wait Times | [https://testflight.apple.com/join/yQNmMRwB](https://testflight.apple.com/join/yQNmMRwB) | Y | 2023-02-11 |
+| Parcel | [https://testflight.apple.com/join/GfswMZn4](https://testflight.apple.com/join/GfswMZn4) | Y | 2022-08-08 |
 
 
 ## Signup Links
