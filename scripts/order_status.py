@@ -16,7 +16,7 @@ README_TEMPLATE_FILE = "./data/README.template"
 def renew_doc(data_file, table):
     # header
     markdown = []
-    with open(data_file, 'r', encoding='gbk', errors='ignore') as f:
+    with open(data_file, 'r') as f:
         lines = f.readlines()
         for line in lines:
             columns = [ column.strip() for column in line.split("|") ]
@@ -33,7 +33,7 @@ def renew_doc(data_file, table):
         markdown.append(f"| {app_name} | {testflight_link} | {status} | {last_modify} |\n")
     conn.close()
     # 
-    with open(data_file, 'w', encoding='gbk') as f:
+    with open(data_file, 'w') as f:
         lines = f.writelines(markdown)
 
 def renew_readme():
