@@ -3,71 +3,32 @@
 import sqlite3
 import re, os, sys
 
-TABLE_MAP = {
-    "macos": "./data/macos.md",
-    "ios": "./data/ios.md",
-    "ios_game": "./data/ios_game.md",
-    "chinese": "./data/chinese.md",
-    "signup": "./data/signup.md"
-}
 README_TEMPLATE_FILE = "./data/README.template"
 
-
-def renew_doc(data_file, table):
-    # header
+def renew_readme():
     markdown = []
-    with open(data_file, 'r') as f:
-        lines = f.readlines()
-        for line in lines:
-            columns = [ column.strip() for column in line.split("|") ]
-            markdown.append(line)
-            if len(columns) > 2 and re.match(r"^:?-+:?$", columns[1]):
-                break
-    # 
+    markdown.append(f"# Available Testflight App List\n")
+    markdown.append(f"Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a issue.\n\n")
+    markdown.append(f"| type | name | link | last_modify |\n")
+    markdown.append(f"| --- | --- | --- | --- |\n")
+
     conn = sqlite3.connect('../db/sqlite3.db')
     cur = conn.cursor()
-    res = cur.execute(f"""SELECT app_name, testflight_link, status, last_modify FROM {table} WHERE status = 'Y' ORDER BY last_modify DESC;""")
-    for row in res:
-        app_name, testflight_link, status, last_modify = row
-        testflight_link = f"[https://testflight.apple.com/join/{testflight_link}](https://testflight.apple.com/join/{testflight_link})"
-        markdown.append(f"| {app_name} | {testflight_link} | {status} | {last_modify} |\n")
-    conn.close()
-    # 
-    with open(data_file, 'w') as f:
-        lines = f.writelines(markdown)
+    for table in {'chinese', 'ios_game', 'ios', 'macos'}:
+        res = cur.execute(f"""SELECT app_name, testflight_link, status, last_modify FROM {table} WHERE status = 'Y' ORDER BY last_modify DESC;""")
+        for row in res:
+            app_name, testflight_link, status, last_modify = row
+            testflight_link = f"[https://testflight.apple.com/join/{testflight_link}](https://testflight.apple.com/join/{testflight_link})"
+            markdown.append(f"| {table} | {app_name} | {testflight_link} | {last_modify} |\n")
+        markdown.append(f"| --- | --- | --- | --- |\n")
 
-def renew_readme():
-    template = ""
-    with open(README_TEMPLATE_FILE, 'r') as f:
-        template = f.read()
-    macos = ""
-    with open(TABLE_MAP["macos"], 'r') as f:
-        macos = f.read()
-    ios = ""
-    with open(TABLE_MAP["ios"], 'r') as f:
-        ios = f.read()
-    ios_game = ""
-    with open(TABLE_MAP["ios_game"], 'r') as f:
-        ios_game = f.read()
-    chinese = ""
-    with open(TABLE_MAP["chinese"], 'r') as f:
-        chinese = f.read()
-    signup = ""
-    with open(TABLE_MAP["signup"], 'r') as f:
-        signup = f.read()
-    readme = template.format(macos=macos, ios=ios, ios_game=ios_game, chinese=chinese, signup=signup)
     with open("../README.md", 'w') as f:
-        f.write(readme)
+        f.writelines(markdown)
+    conn.close()
 
 def main():
-    for table in TABLE_MAP:
-        if table == "signup": # 数据库没有此表
-            continue
-
-        renew_doc(TABLE_MAP[table], table)
     renew_readme()
 
 if __name__ == "__main__":
     os.chdir(sys.path[0])
-    
     main()
