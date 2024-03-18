@@ -14,13 +14,17 @@ def renew_readme():
 
     conn = sqlite3.connect('../db/sqlite3.db')
     cur = conn.cursor()
-    for table in {'chinese', 'ios_game', 'ios', 'macos'}:
-        res = cur.execute(f"""SELECT app_name, testflight_link, status, last_modify FROM {table} WHERE status = 'Y' ORDER BY last_modify DESC;""")
-        for row in res:
-            app_name, testflight_link, status, last_modify = row
-            testflight_link = f"[https://testflight.apple.com/join/{testflight_link}](https://testflight.apple.com/join/{testflight_link})"
-            markdown.append(f"| {table} | {app_name} | {testflight_link} | {last_modify} |\n")
-        markdown.append(f"| --- | --- | --- | --- |\n")
+    res = cur.execute(f"""
+      SELECT 'chinese' type, app_name, testflight_link, status, last_modify FROM chinese WHERE status = 'Y' 
+UNION SELECT 'ios_game' type, app_name, testflight_link, status, last_modify FROM ios_game WHERE status = 'Y' 
+UNION SELECT 'ios' type, app_name, testflight_link, status, last_modify FROM ios WHERE status = 'Y' 
+UNION SELECT 'macos' type, app_name, testflight_link, status, last_modify FROM macos WHERE status = 'Y' 
+    ORDER BY last_modify DESC;
+    """)
+    for row in res:
+        type, app_name, testflight_link, status, last_modify = row
+        testflight_link = f"[https://testflight.apple.com/join/{testflight_link}](https://testflight.apple.com/join/{testflight_link})"
+        markdown.append(f"| {type} | {app_name} | {testflight_link} | {last_modify} |\n")
 
     with open("../README.md", 'w') as f:
         f.writelines(markdown)
