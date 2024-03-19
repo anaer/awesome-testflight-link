@@ -3,7 +3,12 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 
 | type | name | link | last_modify |
 | --- | --- | --- | --- |
-| ios | Facebook Messenger | [https://testflight.apple.com/join/njVWbUm0](https://testflight.apple.com/join/njVWbUm0) | 2024-03-18 |
+| chinese | ÂæÆ‰ø°ÈîÆÁõò beta | [https://testflight.apple.com/join/iSTXkF4K](https://testflight.apple.com/join/iSTXkF4K) | 2024-03-19 |
+| ios | Cinema Time | [https://testflight.apple.com/join/wcY5wC6H](https://testflight.apple.com/join/wcY5wC6H) | 2024-03-19 |
+| ios | GitHub | [https://testflight.apple.com/join/NLskzwi5](https://testflight.apple.com/join/NLskzwi5) | 2024-03-19 |
+| ios | Retro 2 | [https://testflight.apple.com/join/IjV5V0zL](https://testflight.apple.com/join/IjV5V0zL) | 2024-03-19 |
+| ios | Windows App Mobile | [https://testflight.apple.com/join/q4ha2nsh](https://testflight.apple.com/join/q4ha2nsh) | 2024-03-19 |
+| macos | Windows App | [https://testflight.apple.com/join/YqNaYeyS](https://testflight.apple.com/join/YqNaYeyS) | 2024-03-19 |
 | ios | Microsoft Edge | [https://testflight.apple.com/join/JkU2rh21](https://testflight.apple.com/join/JkU2rh21) | 2024-03-18 |
 | ios | ColorSlurp Beta | [https://testflight.apple.com/join/xxEw2j1X](https://testflight.apple.com/join/xxEw2j1X) | 2024-03-13 |
 | ios | SimpleTix Box Office | [https://testflight.apple.com/join/zyByZSX8](https://testflight.apple.com/join/zyByZSX8) | 2024-03-13 |
@@ -35,23 +40,23 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 | ios | Flow Work | [https://testflight.apple.com/join/R7lKtZdJ](https://testflight.apple.com/join/R7lKtZdJ) | 2024-02-01 |
 | ios | Trackpet | [https://testflight.apple.com/join/sY14cetk](https://testflight.apple.com/join/sY14cetk) | 2024-01-30 |
 | ios | Musixmatch Lyrics Finder | [https://testflight.apple.com/join/7yLzN5td](https://testflight.apple.com/join/7yLzN5td) | 2024-01-26 |
-| ios | Rave ®C Watch Party | [https://testflight.apple.com/join/OrZ9CLQU](https://testflight.apple.com/join/OrZ9CLQU) | 2024-01-26 |
+| ios | Rave ‚Äì Watch Party | [https://testflight.apple.com/join/OrZ9CLQU](https://testflight.apple.com/join/OrZ9CLQU) | 2024-01-26 |
 | ios | Memento: Modern Reminders | [https://testflight.apple.com/join/aRvubPov](https://testflight.apple.com/join/aRvubPov) | 2024-01-23 |
-| chinese | Œ“µƒ ¿ΩÁ-Õ¯“◊ | [https://testflight.apple.com/join/mOxZm1dD](https://testflight.apple.com/join/mOxZm1dD) | 2024-01-22 |
+| chinese | ÊàëÁöÑ‰∏ñÁïå-ÁΩëÊòì | [https://testflight.apple.com/join/mOxZm1dD](https://testflight.apple.com/join/mOxZm1dD) | 2024-01-22 |
 | ios | HungryEx: Middleware for grocery delivery | [https://testflight.apple.com/join/k4alzQk3](https://testflight.apple.com/join/k4alzQk3) | 2024-01-22 |
 | ios | Dropbox | [https://testflight.apple.com/join/LBZaRq4I](https://testflight.apple.com/join/LBZaRq4I) | 2024-01-19 |
 | ios | Just Timers | [https://testflight.apple.com/join/pyzrz0oT](https://testflight.apple.com/join/pyzrz0oT) | 2024-01-19 |
 | ios | Microsoft Designer beta | [https://testflight.apple.com/join/KsuaylTZ](https://testflight.apple.com/join/KsuaylTZ) | 2024-01-19 |
 | chinese | Angelia | [https://testflight.apple.com/join/i37NXl07](https://testflight.apple.com/join/i37NXl07) | 2024-01-12 |
-| chinese | ø·π∑“Ù¿÷ | [https://testflight.apple.com/join/6cnKUyZ8](https://testflight.apple.com/join/6cnKUyZ8) | 2024-01-05 |
+| chinese | ÈÖ∑ÁãóÈü≥‰πê | [https://testflight.apple.com/join/6cnKUyZ8](https://testflight.apple.com/join/6cnKUyZ8) | 2024-01-05 |
 | ios | Moye beta | [https://testflight.apple.com/join/5VemL4Sm](https://testflight.apple.com/join/5VemL4Sm) | 2024-01-01 |
 | ios | Go Map!! | [https://testflight.apple.com/join/T96F9wYq](https://testflight.apple.com/join/T96F9wYq) | 2023-12-23 |
-| ios | KyPass 4 √‹¬Îπ‹¿Ì | [https://testflight.apple.com/join/wlZmOo9t](https://testflight.apple.com/join/wlZmOo9t) | 2023-12-22 |
+| ios | KyPass 4 ÂØÜÁ†ÅÁÆ°ÁêÜ | [https://testflight.apple.com/join/wlZmOo9t](https://testflight.apple.com/join/wlZmOo9t) | 2023-12-22 |
 | ios | Keka | [https://testflight.apple.com/join/gPYINGCJ](https://testflight.apple.com/join/gPYINGCJ) | 2023-12-21 |
 | ios | YACReader | [https://testflight.apple.com/join/5zhB7sRP](https://testflight.apple.com/join/5zhB7sRP) | 2023-12-13 |
 | ios | Calendars 5 by Readdle | [https://testflight.apple.com/join/tC44BniC](https://testflight.apple.com/join/tC44BniC) | 2023-12-09 |
 | ios | ownCloud | [https://testflight.apple.com/join/Oktj0iKv](https://testflight.apple.com/join/Oktj0iKv) | 2023-12-09 |
-| ios | œ£Œ÷∞◊∞Â | [https://testflight.apple.com/join/d6MQLpKY](https://testflight.apple.com/join/d6MQLpKY) | 2023-12-07 |
+| ios | Â∏åÊ≤ÉÁôΩÊùø | [https://testflight.apple.com/join/d6MQLpKY](https://testflight.apple.com/join/d6MQLpKY) | 2023-12-07 |
 | ios | Brave | [https://testflight.apple.com/join/Trcbh1o3](https://testflight.apple.com/join/Trcbh1o3) | 2023-12-02 |
 | ios | Hadge | [https://testflight.apple.com/join/rFLkfNSu](https://testflight.apple.com/join/rFLkfNSu) | 2023-11-30 |
 | ios_game | WOW: Wars of Wanon | [https://testflight.apple.com/join/UZ4tYFb6](https://testflight.apple.com/join/UZ4tYFb6) | 2023-11-30 |
@@ -71,10 +76,10 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 | ios | RocketChat | [https://testflight.apple.com/join/3gcYeoMr](https://testflight.apple.com/join/3gcYeoMr) | 2023-08-20 |
 | ios | Spark Mail - Email by Readdle | [https://testflight.apple.com/join/O2wj7i0x](https://testflight.apple.com/join/O2wj7i0x) | 2023-08-09 |
 | ios | Obsidian - Connected Notes beta | [https://testflight.apple.com/join/f3moqRS1](https://testflight.apple.com/join/f3moqRS1) | 2023-08-07 |
-| ios | FleßÁ beta | [https://testflight.apple.com/join/2g7cQfvC](https://testflight.apple.com/join/2g7cQfvC) | 2023-07-30 |
+| ios | Fle—Ö beta | [https://testflight.apple.com/join/2g7cQfvC](https://testflight.apple.com/join/2g7cQfvC) | 2023-07-30 |
 | ios | Kodi Remote beta | [https://testflight.apple.com/join/VQkpfqDN](https://testflight.apple.com/join/VQkpfqDN) | 2023-07-30 |
 | ios | Readwise Reader beta | [https://testflight.apple.com/join/NSeQo22d](https://testflight.apple.com/join/NSeQo22d) | 2023-07-30 |
-| chinese | Œ˜πœ ”∆µ | [https://testflight.apple.com/join/ZkSx6V4m](https://testflight.apple.com/join/ZkSx6V4m) | 2023-07-26 |
+| chinese | Ë•øÁìúËßÜÈ¢ë | [https://testflight.apple.com/join/ZkSx6V4m](https://testflight.apple.com/join/ZkSx6V4m) | 2023-07-26 |
 | ios | SweeLOL | [https://testflight.apple.com/join/FT9n1ncG](https://testflight.apple.com/join/FT9n1ncG) | 2023-07-09 |
 | ios | S.Mario beta | [https://testflight.apple.com/join/HLKh7Jx9](https://testflight.apple.com/join/HLKh7Jx9) | 2023-07-06 |
 | ios_game | DropZap World | [https://testflight.apple.com/join/CdEXgjst](https://testflight.apple.com/join/CdEXgjst) | 2023-07-02 |
@@ -85,7 +90,7 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 | ios | Sangoma Meet | [https://testflight.apple.com/join/BEd12vi5](https://testflight.apple.com/join/BEd12vi5) | 2023-05-25 |
 | ios | RainViewer: Live Weather Radar | [https://testflight.apple.com/join/OZ1B4sTS](https://testflight.apple.com/join/OZ1B4sTS) | 2023-05-20 |
 | ios | FRITZ!App Fon | [https://testflight.apple.com/join/SGGCxyRp](https://testflight.apple.com/join/SGGCxyRp) | 2023-05-19 |
-| ios | Termius ®C SSH client | [https://testflight.apple.com/join/MnuClabg](https://testflight.apple.com/join/MnuClabg) | 2023-05-01 |
+| ios | Termius ‚Äì SSH client | [https://testflight.apple.com/join/MnuClabg](https://testflight.apple.com/join/MnuClabg) | 2023-05-01 |
 | ios | Microsoft Lists | [https://testflight.apple.com/join/FL3caOg6](https://testflight.apple.com/join/FL3caOg6) | 2023-04-28 |
 | ios | Proton Pass | [https://testflight.apple.com/join/GiTMzX3I](https://testflight.apple.com/join/GiTMzX3I) | 2023-04-25 |
 | ios | Ulysses | [https://testflight.apple.com/join/r7ehG0dQ](https://testflight.apple.com/join/r7ehG0dQ) | 2023-04-10 |
@@ -98,7 +103,7 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 | ios | Finance Bay | [https://testflight.apple.com/join/y4etT8Ht](https://testflight.apple.com/join/y4etT8Ht) | 2023-01-16 |
 | ios_game | Cell to Singularity | [https://testflight.apple.com/join/RD9jGH9S](https://testflight.apple.com/join/RD9jGH9S) | 2023-01-15 |
 | ios | Qobuz | [https://testflight.apple.com/join/GPJZwnh9](https://testflight.apple.com/join/GPJZwnh9) | 2023-01-14 |
-| chinese |  ¬œﬂ - ¥Æ ¬≥…œﬂ | [https://testflight.apple.com/join/grxohdR3](https://testflight.apple.com/join/grxohdR3) | 2023-01-05 |
+| chinese | ‰∫ãÁ∫ø - ‰∏≤‰∫ãÊàêÁ∫ø | [https://testflight.apple.com/join/grxohdR3](https://testflight.apple.com/join/grxohdR3) | 2023-01-05 |
 | ios | Deezer | [https://testflight.apple.com/join/e7mCOEeg](https://testflight.apple.com/join/e7mCOEeg) | 2022-12-31 |
 | ios | AnyList | [https://testflight.apple.com/join/xwvLPc6o](https://testflight.apple.com/join/xwvLPc6o) | 2022-12-15 |
 | ios | tripmind | [https://testflight.apple.com/join/u4DHLMj1](https://testflight.apple.com/join/u4DHLMj1) | 2022-11-27 |
@@ -125,4 +130,4 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 | ios | waipu.tv | [https://testflight.apple.com/join/l72L1OK3](https://testflight.apple.com/join/l72L1OK3) | 2022-10-11 |
 | ios | GroupMe | [https://testflight.apple.com/join/6CcTotfX](https://testflight.apple.com/join/6CcTotfX) | 2022-10-09 |
 | macos | Parcel | [https://testflight.apple.com/join/GfswMZn4](https://testflight.apple.com/join/GfswMZn4) | 2022-08-08 |
-| chinese | µŒ¥«Âµ• TickTick | [https://testflight.apple.com/join/vWQPDFQU](https://testflight.apple.com/join/vWQPDFQU) | 2022-03-15 |
+| chinese | Êª¥Á≠îÊ∏ÖÂçï TickTick | [https://testflight.apple.com/join/vWQPDFQU](https://testflight.apple.com/join/vWQPDFQU) | 2022-03-15 |
