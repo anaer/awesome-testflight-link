@@ -3,6 +3,11 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 
 | type | name | link | last_modify |
 | --- | --- | --- | --- |
+| chinese | 事线 - 串事成线 | [https://testflight.apple.com/join/grxohdR3](https://testflight.apple.com/join/grxohdR3) | 2024-03-26 |
+| ios | Pinterest beta | [https://testflight.apple.com/join/ffIBkq35](https://testflight.apple.com/join/ffIBkq35) | 2024-03-26 |
+| ios | Yandex Browser | [https://testflight.apple.com/join/Y4k4ze6V](https://testflight.apple.com/join/Y4k4ze6V) | 2024-03-26 |
+| ios | 腾讯视频HD | [https://testflight.apple.com/join/9JaSzwSN](https://testflight.apple.com/join/9JaSzwSN) | 2024-03-26 |
+| ios | 酷我音乐 | [https://testflight.apple.com/join/XWYSZMaS](https://testflight.apple.com/join/XWYSZMaS) | 2024-03-26 |
 | ios | Television Time | [https://testflight.apple.com/join/eP0BTwVi](https://testflight.apple.com/join/eP0BTwVi) | 2024-03-23 |
 | ios | Screen Mirroring - 1001 TVs | [https://testflight.apple.com/join/Nf1dKOBG](https://testflight.apple.com/join/Nf1dKOBG) | 2024-03-22 |
 | chinese | 微信读书 | [https://testflight.apple.com/join/5MWjLpYl](https://testflight.apple.com/join/5MWjLpYl) | 2024-03-21 |
