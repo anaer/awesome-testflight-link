@@ -8,9 +8,8 @@ README_TEMPLATE_FILE = "./data/README.template"
 def renew_readme():
     markdown = []
     markdown.append(f"# Available Testflight App List\n")
-    markdown.append(f"Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a issue.\n\n")
-    markdown.append(f"| type | name | link | last_modify |\n")
-    markdown.append(f"| --- | --- | --- | --- |\n")
+    markdown.append(f"| type | name | last_modify |\n")
+    markdown.append(f"| --- | --- | --- |\n")
 
     conn = sqlite3.connect('../db/sqlite3.db')
     cur = conn.cursor()
@@ -23,8 +22,8 @@ UNION SELECT 'macos' type, app_name, testflight_link, status, last_modify FROM m
     """)
     for row in res:
         type, app_name, testflight_link, status, last_modify = row
-        testflight_link = f"[https://testflight.apple.com/join/{testflight_link}](https://testflight.apple.com/join/{testflight_link})"
-        markdown.append(f"| {type} | {app_name} | {testflight_link} | {last_modify} |\n")
+        app_name = f"[{app_name}](https://testflight.apple.com/join/{testflight_link})"
+        markdown.append(f"| {type} | {app_name} | {last_modify} |\n")
 
     with open("../README.md", 'w') as f:
         f.writelines(markdown)
