@@ -1,6 +1,9 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-04-02 |
+| ios | [Soulver](https://testflight.apple.com/join/rBWP4hPz) | 2024-04-02 |
+| ios | [Trello — Organize anything!](https://testflight.apple.com/join/cRWMcQsr) | 2024-04-02 |
 | chinese | [微信键盘 beta](https://testflight.apple.com/join/iSTXkF4K) | 2024-03-30 |
 | ios | [FRITZ!App TV](https://testflight.apple.com/join/Zl2czQO2) | 2024-03-29 |
 | ios | [Task Flow: To-Do List & Tasks](https://testflight.apple.com/join/JyqxBPFf) | 2024-03-29 |
