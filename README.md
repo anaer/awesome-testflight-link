@@ -1,6 +1,9 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| chinese | [iCost 记账](https://testflight.apple.com/join/pm1jk978) | 2024-04-03 |
+| ios | [Plant Identifier & Care](https://testflight.apple.com/join/vYqAc3Lf) | 2024-04-03 |
+| ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2024-04-03 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-04-02 |
 | ios | [Soulver](https://testflight.apple.com/join/rBWP4hPz) | 2024-04-02 |
 | ios | [Trello — Organize anything!](https://testflight.apple.com/join/cRWMcQsr) | 2024-04-02 |
@@ -95,7 +98,6 @@
 | ios | [Sangoma Meet](https://testflight.apple.com/join/BEd12vi5) | 2023-05-25 |
 | ios | [RainViewer: Live Weather Radar](https://testflight.apple.com/join/OZ1B4sTS) | 2023-05-20 |
 | ios | [FRITZ!App Fon](https://testflight.apple.com/join/SGGCxyRp) | 2023-05-19 |
-| ios | [Termius – SSH client](https://testflight.apple.com/join/MnuClabg) | 2023-05-01 |
 | ios | [Microsoft Lists](https://testflight.apple.com/join/FL3caOg6) | 2023-04-28 |
 | ios | [Proton Pass](https://testflight.apple.com/join/GiTMzX3I) | 2023-04-25 |
 | ios | [Ulysses](https://testflight.apple.com/join/r7ehG0dQ) | 2023-04-10 |
