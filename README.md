@@ -1,11 +1,11 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Damus](https://testflight.apple.com/join/CLwjLxWl) | 2024-04-04 |
+| ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-04-06 |
+| ios | [Retro 2](https://testflight.apple.com/join/IjV5V0zL) | 2024-04-06 |
+| ios | [和风天气 - 可视化天气 beta](https://testflight.apple.com/join/9KR0Xx7E) | 2024-04-06 |
+| ios | [腾讯视频HD](https://testflight.apple.com/join/9JaSzwSN) | 2024-04-06 |
 | ios | [MEGA](https://testflight.apple.com/join/4x1P5Tnx) | 2024-04-04 |
-| ios | [Microsoft SwiftKey Keyboard](https://testflight.apple.com/join/yhIhAvjp) | 2024-04-04 |
-| ios | [SHARE NOW (car2go & DriveNow)](https://testflight.apple.com/join/1SsBDNCj) | 2024-04-04 |
-| ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-04-04 |
 | ios | [Soulver](https://testflight.apple.com/join/rBWP4hPz) | 2024-04-02 |
 | ios | [Trello — Organize anything!](https://testflight.apple.com/join/cRWMcQsr) | 2024-04-02 |
 | chinese | [微信键盘 beta](https://testflight.apple.com/join/iSTXkF4K) | 2024-03-30 |
@@ -84,7 +84,6 @@
 | ios | [MyFRITZ!App](https://testflight.apple.com/join/U0v1rBE5) | 2023-09-16 |
 | ios | [Wikipedia](https://testflight.apple.com/join/Z0AU0KXC) | 2023-09-16 |
 | ios | [RocketChat](https://testflight.apple.com/join/3gcYeoMr) | 2023-08-20 |
-| ios | [Spark Mail - Email by Readdle](https://testflight.apple.com/join/O2wj7i0x) | 2023-08-09 |
 | ios | [Obsidian - Connected Notes beta](https://testflight.apple.com/join/f3moqRS1) | 2023-08-07 |
 | ios | [Fleх beta](https://testflight.apple.com/join/2g7cQfvC) | 2023-07-30 |
 | ios | [Kodi Remote beta](https://testflight.apple.com/join/VQkpfqDN) | 2023-07-30 |
