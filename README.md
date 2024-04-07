@@ -1,10 +1,9 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-04-06 |
+| chinese | [酷狗概念版](https://testflight.apple.com/join/IOgbaxds) | 2024-04-07 |
+| ios | [Microsoft Bing Search](https://testflight.apple.com/join/YAKT5ew9) | 2024-04-07 |
 | ios | [Retro 2](https://testflight.apple.com/join/IjV5V0zL) | 2024-04-06 |
-| ios | [和风天气 - 可视化天气 beta](https://testflight.apple.com/join/9KR0Xx7E) | 2024-04-06 |
-| ios | [腾讯视频HD](https://testflight.apple.com/join/9JaSzwSN) | 2024-04-06 |
 | ios | [MEGA](https://testflight.apple.com/join/4x1P5Tnx) | 2024-04-04 |
 | ios | [Soulver](https://testflight.apple.com/join/rBWP4hPz) | 2024-04-02 |
 | ios | [Trello — Organize anything!](https://testflight.apple.com/join/cRWMcQsr) | 2024-04-02 |
