@@ -1,8 +1,9 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Signal - Private Messenger](https://testflight.apple.com/join/8FHtd1Jq) | 2024-04-09 |
+| ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-04-09 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-04-08 |
-| ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2024-04-08 |
 | ios | [Retro 2](https://testflight.apple.com/join/IjV5V0zL) | 2024-04-06 |
 | ios | [Soulver](https://testflight.apple.com/join/rBWP4hPz) | 2024-04-02 |
 | ios | [Trello — Organize anything!](https://testflight.apple.com/join/cRWMcQsr) | 2024-04-02 |
