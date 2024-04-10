@@ -1,6 +1,8 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [AnimeGen](https://testflight.apple.com/join/Qx5saHll) | 2024-04-10 |
+| ios | [Hanami](https://testflight.apple.com/join/VUPzZpkc) | 2024-04-10 |
 | ios | [Signal - Private Messenger](https://testflight.apple.com/join/8FHtd1Jq) | 2024-04-09 |
 | ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-04-09 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-04-08 |
