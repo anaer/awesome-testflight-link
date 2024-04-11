@@ -1,9 +1,17 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| chinese | [QQ beta](https://testflight.apple.com/join/R5FNGUl3) | 2024-04-11 |
+| chinese | [哔哩哔哩](https://testflight.apple.com/join/K4pM1kHu) | 2024-04-11 |
+| chinese | [微信读书](https://testflight.apple.com/join/5MWjLpYl) | 2024-04-11 |
+| ios | [Everlog](https://testflight.apple.com/join/sOCDYE65) | 2024-04-11 |
+| ios | [GitHub HyperList](https://testflight.apple.com/join/qfPzqQM0) | 2024-04-11 |
+| ios | [MEGA](https://testflight.apple.com/join/4x1P5Tnx) | 2024-04-11 |
+| ios | [Notion](https://testflight.apple.com/join/YSo8aVCS) | 2024-04-11 |
+| ios | [腾讯视频HD](https://testflight.apple.com/join/9JaSzwSN) | 2024-04-11 |
+| macos | [Drafts](https://testflight.apple.com/join/GhPcOrwa) | 2024-04-11 |
 | ios | [AnimeGen](https://testflight.apple.com/join/Qx5saHll) | 2024-04-10 |
 | ios | [Hanami](https://testflight.apple.com/join/VUPzZpkc) | 2024-04-10 |
-| ios | [Signal - Private Messenger](https://testflight.apple.com/join/8FHtd1Jq) | 2024-04-09 |
 | ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-04-09 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-04-08 |
 | ios | [Retro 2](https://testflight.apple.com/join/IjV5V0zL) | 2024-04-06 |
@@ -59,7 +67,6 @@
 | ios | [Dropbox](https://testflight.apple.com/join/LBZaRq4I) | 2024-01-19 |
 | ios | [Just Timers](https://testflight.apple.com/join/pyzrz0oT) | 2024-01-19 |
 | ios | [Microsoft Designer beta](https://testflight.apple.com/join/KsuaylTZ) | 2024-01-19 |
-| chinese | [Angelia](https://testflight.apple.com/join/i37NXl07) | 2024-01-12 |
 | chinese | [酷狗音乐](https://testflight.apple.com/join/6cnKUyZ8) | 2024-01-05 |
 | ios | [Go Map!!](https://testflight.apple.com/join/T96F9wYq) | 2023-12-23 |
 | ios | [KyPass 4 密码管理](https://testflight.apple.com/join/wlZmOo9t) | 2023-12-22 |
