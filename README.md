@@ -1,18 +1,19 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Cheatsheet](https://testflight.apple.com/join/E7AnyPlA) | 2024-04-12 |
+| ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2024-04-12 |
+| ios | [Microsoft SwiftKey Keyboard](https://testflight.apple.com/join/yhIhAvjp) | 2024-04-12 |
+| ios | [Xbox Family Settings beta](https://testflight.apple.com/join/8oUnDzMQ) | 2024-04-12 |
+| macos | [Caffeine Utility](https://testflight.apple.com/join/WHIbsose) | 2024-04-12 |
 | chinese | [QQ beta](https://testflight.apple.com/join/R5FNGUl3) | 2024-04-11 |
-| chinese | [哔哩哔哩](https://testflight.apple.com/join/K4pM1kHu) | 2024-04-11 |
 | chinese | [微信读书](https://testflight.apple.com/join/5MWjLpYl) | 2024-04-11 |
-| ios | [Everlog](https://testflight.apple.com/join/sOCDYE65) | 2024-04-11 |
 | ios | [GitHub HyperList](https://testflight.apple.com/join/qfPzqQM0) | 2024-04-11 |
 | ios | [MEGA](https://testflight.apple.com/join/4x1P5Tnx) | 2024-04-11 |
-| ios | [Notion](https://testflight.apple.com/join/YSo8aVCS) | 2024-04-11 |
 | ios | [腾讯视频HD](https://testflight.apple.com/join/9JaSzwSN) | 2024-04-11 |
 | macos | [Drafts](https://testflight.apple.com/join/GhPcOrwa) | 2024-04-11 |
 | ios | [AnimeGen](https://testflight.apple.com/join/Qx5saHll) | 2024-04-10 |
 | ios | [Hanami](https://testflight.apple.com/join/VUPzZpkc) | 2024-04-10 |
-| ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-04-09 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-04-08 |
 | ios | [Retro 2](https://testflight.apple.com/join/IjV5V0zL) | 2024-04-06 |
 | ios | [Soulver](https://testflight.apple.com/join/rBWP4hPz) | 2024-04-02 |
@@ -81,7 +82,6 @@
 | ios | [Unicode Keyboard](https://testflight.apple.com/join/YKH3kGpt) | 2023-11-28 |
 | ios | [Revolut - Radically Better](https://testflight.apple.com/join/oqrinjQB) | 2023-11-16 |
 | ios | [Tapatalk - 200,000+ Forums](https://testflight.apple.com/join/oGFXVgl6) | 2023-11-16 |
-| ios | [PDF Viewer Pro by PSPDFKit](https://testflight.apple.com/join/6IMUtZ8n) | 2023-11-04 |
 | ios | [Stop Motion Studio Pro](https://testflight.apple.com/join/rfWbdRvr) | 2023-10-26 |
 | ios | [Gaming for Peace-GAP](https://testflight.apple.com/join/tJu81Sch) | 2023-10-25 |
 | ios | [Meditation Timer Zenzitizer](https://testflight.apple.com/join/QvKyRJ8x) | 2023-10-21 |
