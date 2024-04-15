@@ -1,10 +1,11 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Plex](https://testflight.apple.com/join/MY6JTzix) | 2024-04-15 |
+| ios | [TrackMyTour](https://testflight.apple.com/join/tv9dt6po) | 2024-04-15 |
 | ios | [Soulver 3](https://testflight.apple.com/join/Vlb55Wtr) | 2024-04-13 |
 | chinese | [QQ beta](https://testflight.apple.com/join/R5FNGUl3) | 2024-04-11 |
 | ios | [GitHub HyperList](https://testflight.apple.com/join/qfPzqQM0) | 2024-04-11 |
-| ios | [腾讯视频HD](https://testflight.apple.com/join/9JaSzwSN) | 2024-04-11 |
 | macos | [Drafts](https://testflight.apple.com/join/GhPcOrwa) | 2024-04-11 |
 | ios | [AnimeGen](https://testflight.apple.com/join/Qx5saHll) | 2024-04-10 |
 | ios | [Hanami](https://testflight.apple.com/join/VUPzZpkc) | 2024-04-10 |
@@ -15,7 +16,6 @@
 | ios | [FRITZ!App TV](https://testflight.apple.com/join/Zl2czQO2) | 2024-03-29 |
 | ios | [Task Flow: To-Do List & Tasks](https://testflight.apple.com/join/JyqxBPFf) | 2024-03-29 |
 | ios | [Bitwarden Password Manager](https://testflight.apple.com/join/595lFH7U) | 2024-03-27 |
-| ios | [Facebook](https://testflight.apple.com/join/C1a3MRG4) | 2024-03-27 |
 | ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2024-03-27 |
 | chinese | [事线 - 串事成线](https://testflight.apple.com/join/grxohdR3) | 2024-03-26 |
 | ios | [Television Time](https://testflight.apple.com/join/eP0BTwVi) | 2024-03-23 |
