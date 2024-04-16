@@ -1,9 +1,9 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Plex](https://testflight.apple.com/join/MY6JTzix) | 2024-04-15 |
+| chinese | [微信读书](https://testflight.apple.com/join/5MWjLpYl) | 2024-04-16 |
+| ios_game | [Stick War 3](https://testflight.apple.com/join/eUx3WxVj) | 2024-04-16 |
 | ios | [TrackMyTour](https://testflight.apple.com/join/tv9dt6po) | 2024-04-15 |
-| ios | [Soulver 3](https://testflight.apple.com/join/Vlb55Wtr) | 2024-04-13 |
 | chinese | [QQ beta](https://testflight.apple.com/join/R5FNGUl3) | 2024-04-11 |
 | ios | [GitHub HyperList](https://testflight.apple.com/join/qfPzqQM0) | 2024-04-11 |
 | macos | [Drafts](https://testflight.apple.com/join/GhPcOrwa) | 2024-04-11 |
@@ -22,7 +22,6 @@
 | ios | [Screen Mirroring - 1001 TVs](https://testflight.apple.com/join/Nf1dKOBG) | 2024-03-22 |
 | ios | [Sabertooth for Mastodon](https://testflight.apple.com/join/pBGgMKw2) | 2024-03-21 |
 | ios | [GitHub](https://testflight.apple.com/join/NLskzwi5) | 2024-03-19 |
-| ios | [Windows App Mobile](https://testflight.apple.com/join/q4ha2nsh) | 2024-03-19 |
 | macos | [Windows App](https://testflight.apple.com/join/YqNaYeyS) | 2024-03-19 |
 | ios | [ColorSlurp Beta](https://testflight.apple.com/join/xxEw2j1X) | 2024-03-13 |
 | ios | [SimpleTix Box Office](https://testflight.apple.com/join/zyByZSX8) | 2024-03-13 |
