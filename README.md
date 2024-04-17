@@ -1,8 +1,15 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| chinese | [百度贴吧](https://testflight.apple.com/join/GgBqXAqm) | 2024-04-17 |
+| ios | [Everlog](https://testflight.apple.com/join/sOCDYE65) | 2024-04-17 |
+| ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2024-04-17 |
+| ios | [Opera Touch web browser](https://testflight.apple.com/join/ASrCFVHB) | 2024-04-17 |
+| ios | [Quizlet](https://testflight.apple.com/join/mwhcPqxJ) | 2024-04-17 |
+| ios | [Spark Mail - Email by Readdle](https://testflight.apple.com/join/O2wj7i0x) | 2024-04-17 |
+| ios | [Termius – SSH client](https://testflight.apple.com/join/MnuClabg) | 2024-04-17 |
+| ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-04-17 |
 | chinese | [微信读书](https://testflight.apple.com/join/5MWjLpYl) | 2024-04-16 |
-| ios_game | [Stick War 3](https://testflight.apple.com/join/eUx3WxVj) | 2024-04-16 |
 | ios | [TrackMyTour](https://testflight.apple.com/join/tv9dt6po) | 2024-04-15 |
 | chinese | [QQ beta](https://testflight.apple.com/join/R5FNGUl3) | 2024-04-11 |
 | ios | [GitHub HyperList](https://testflight.apple.com/join/qfPzqQM0) | 2024-04-11 |
