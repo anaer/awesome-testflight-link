@@ -1,13 +1,13 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2024-04-18 |
+| ios | [Windows App Mobile](https://testflight.apple.com/join/q4ha2nsh) | 2024-04-18 |
+| ios | [iSH Shell](https://testflight.apple.com/join/97i7KM8O) | 2024-04-18 |
+| ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2024-04-18 |
+| ios_game | [Heroic Mayhem](https://testflight.apple.com/join/xjc2fPds) | 2024-04-18 |
 | chinese | [百度贴吧](https://testflight.apple.com/join/GgBqXAqm) | 2024-04-17 |
-| ios | [Everlog](https://testflight.apple.com/join/sOCDYE65) | 2024-04-17 |
 | ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2024-04-17 |
-| ios | [Opera Touch web browser](https://testflight.apple.com/join/ASrCFVHB) | 2024-04-17 |
-| ios | [Quizlet](https://testflight.apple.com/join/mwhcPqxJ) | 2024-04-17 |
-| ios | [Spark Mail - Email by Readdle](https://testflight.apple.com/join/O2wj7i0x) | 2024-04-17 |
-| ios | [Termius – SSH client](https://testflight.apple.com/join/MnuClabg) | 2024-04-17 |
 | ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-04-17 |
 | chinese | [微信读书](https://testflight.apple.com/join/5MWjLpYl) | 2024-04-16 |
 | ios | [TrackMyTour](https://testflight.apple.com/join/tv9dt6po) | 2024-04-15 |
@@ -16,7 +16,6 @@
 | macos | [Drafts](https://testflight.apple.com/join/GhPcOrwa) | 2024-04-11 |
 | ios | [AnimeGen](https://testflight.apple.com/join/Qx5saHll) | 2024-04-10 |
 | ios | [Hanami](https://testflight.apple.com/join/VUPzZpkc) | 2024-04-10 |
-| ios | [Retro 2](https://testflight.apple.com/join/IjV5V0zL) | 2024-04-06 |
 | ios | [Soulver](https://testflight.apple.com/join/rBWP4hPz) | 2024-04-02 |
 | ios | [Trello — Organize anything!](https://testflight.apple.com/join/cRWMcQsr) | 2024-04-02 |
 | chinese | [微信键盘 beta](https://testflight.apple.com/join/iSTXkF4K) | 2024-03-30 |
