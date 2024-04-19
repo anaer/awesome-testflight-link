@@ -1,12 +1,14 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2024-04-18 |
+| chinese | [iCost 记账](https://testflight.apple.com/join/pm1jk978) | 2024-04-19 |
+| ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-04-19 |
+| ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2024-04-19 |
+| ios | [Microsoft SwiftKey Keyboard](https://testflight.apple.com/join/yhIhAvjp) | 2024-04-19 |
+| ios | [Opera Touch web browser](https://testflight.apple.com/join/ASrCFVHB) | 2024-04-19 |
 | ios | [Windows App Mobile](https://testflight.apple.com/join/q4ha2nsh) | 2024-04-18 |
-| ios | [iSH Shell](https://testflight.apple.com/join/97i7KM8O) | 2024-04-18 |
 | ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2024-04-18 |
 | ios_game | [Heroic Mayhem](https://testflight.apple.com/join/xjc2fPds) | 2024-04-18 |
-| chinese | [百度贴吧](https://testflight.apple.com/join/GgBqXAqm) | 2024-04-17 |
 | ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2024-04-17 |
 | ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-04-17 |
 | chinese | [微信读书](https://testflight.apple.com/join/5MWjLpYl) | 2024-04-16 |
@@ -72,7 +74,6 @@
 | ios | [Keka](https://testflight.apple.com/join/gPYINGCJ) | 2023-12-21 |
 | ios | [YACReader](https://testflight.apple.com/join/5zhB7sRP) | 2023-12-13 |
 | ios | [Calendars 5 by Readdle](https://testflight.apple.com/join/tC44BniC) | 2023-12-09 |
-| ios | [ownCloud](https://testflight.apple.com/join/Oktj0iKv) | 2023-12-09 |
 | ios | [希沃白板](https://testflight.apple.com/join/d6MQLpKY) | 2023-12-07 |
 | ios | [Brave](https://testflight.apple.com/join/Trcbh1o3) | 2023-12-02 |
 | ios | [Hadge](https://testflight.apple.com/join/rFLkfNSu) | 2023-11-30 |
@@ -125,7 +126,6 @@
 | ios | [DropZap World](https://testflight.apple.com/join/CdEXgjst) | 2022-10-13 |
 | ios | [Firewalla](https://testflight.apple.com/join/qtUnSjJp) | 2022-10-13 |
 | ios | [IMDb: Movies & TV Shows](https://testflight.apple.com/join/Y9yo0X5t) | 2022-10-13 |
-| ios | [Microsoft To-Do](https://testflight.apple.com/join/JSq3UkAz) | 2022-10-13 |
 | ios | [Nubank](https://testflight.apple.com/join/v3SGNpM5) | 2022-10-13 |
 | ios | [Parcel - Delivery Tracking](https://testflight.apple.com/join/fMeg6C4A) | 2022-10-13 |
 | ios | [SM.MS](https://testflight.apple.com/join/bQz911w3) | 2022-10-13 |
