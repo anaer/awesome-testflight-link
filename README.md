@@ -1,17 +1,14 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2024-04-20 |
+| ios | [PDF Viewer Pro by PSPDFKit](https://testflight.apple.com/join/6IMUtZ8n) | 2024-04-20 |
 | chinese | [iCost 记账](https://testflight.apple.com/join/pm1jk978) | 2024-04-19 |
-| ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-04-19 |
 | ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2024-04-19 |
-| ios | [Microsoft SwiftKey Keyboard](https://testflight.apple.com/join/yhIhAvjp) | 2024-04-19 |
-| ios | [Opera Touch web browser](https://testflight.apple.com/join/ASrCFVHB) | 2024-04-19 |
 | ios | [Windows App Mobile](https://testflight.apple.com/join/q4ha2nsh) | 2024-04-18 |
 | ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2024-04-18 |
 | ios_game | [Heroic Mayhem](https://testflight.apple.com/join/xjc2fPds) | 2024-04-18 |
-| ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2024-04-17 |
 | ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-04-17 |
-| chinese | [微信读书](https://testflight.apple.com/join/5MWjLpYl) | 2024-04-16 |
 | ios | [TrackMyTour](https://testflight.apple.com/join/tv9dt6po) | 2024-04-15 |
 | chinese | [QQ beta](https://testflight.apple.com/join/R5FNGUl3) | 2024-04-11 |
 | ios | [GitHub HyperList](https://testflight.apple.com/join/qfPzqQM0) | 2024-04-11 |
