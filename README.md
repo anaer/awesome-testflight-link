@@ -1,6 +1,8 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Reading List - Book Tracker](https://testflight.apple.com/join/kBS5mVao) | 2024-04-22 |
+| ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-04-22 |
 | ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2024-04-20 |
 | ios | [PDF Viewer Pro by PSPDFKit](https://testflight.apple.com/join/6IMUtZ8n) | 2024-04-20 |
 | ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2024-04-19 |
