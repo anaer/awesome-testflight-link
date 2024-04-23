@@ -1,7 +1,11 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Reading List - Book Tracker](https://testflight.apple.com/join/kBS5mVao) | 2024-04-22 |
+| ios | [Microsoft To-Do](https://testflight.apple.com/join/JSq3UkAz) | 2024-04-23 |
+| ios | [Opera Touch web browser](https://testflight.apple.com/join/ASrCFVHB) | 2024-04-23 |
+| ios | [Spark Mail - Email by Readdle](https://testflight.apple.com/join/O2wj7i0x) | 2024-04-23 |
+| ios | [WhatsApp Business](https://testflight.apple.com/join/oscYikr0) | 2024-04-23 |
+| ios | [腾讯视频HD](https://testflight.apple.com/join/9JaSzwSN) | 2024-04-23 |
 | ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-04-22 |
 | ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2024-04-20 |
 | ios | [PDF Viewer Pro by PSPDFKit](https://testflight.apple.com/join/6IMUtZ8n) | 2024-04-20 |
@@ -63,7 +67,6 @@
 | ios | [HungryEx: Middleware for grocery delivery](https://testflight.apple.com/join/k4alzQk3) | 2024-01-22 |
 | ios | [Dropbox](https://testflight.apple.com/join/LBZaRq4I) | 2024-01-19 |
 | ios | [Just Timers](https://testflight.apple.com/join/pyzrz0oT) | 2024-01-19 |
-| ios | [Microsoft Designer beta](https://testflight.apple.com/join/KsuaylTZ) | 2024-01-19 |
 | chinese | [酷狗音乐](https://testflight.apple.com/join/6cnKUyZ8) | 2024-01-05 |
 | ios | [Go Map!!](https://testflight.apple.com/join/T96F9wYq) | 2023-12-23 |
 | ios | [KyPass 4 密码管理](https://testflight.apple.com/join/wlZmOo9t) | 2023-12-22 |
