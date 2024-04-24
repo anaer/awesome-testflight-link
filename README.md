@@ -1,12 +1,16 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| chinese | [Angelia](https://testflight.apple.com/join/i37NXl07) | 2024-04-24 |
+| chinese | [微信读书](https://testflight.apple.com/join/5MWjLpYl) | 2024-04-24 |
+| ios | [Microsoft SwiftKey Keyboard](https://testflight.apple.com/join/yhIhAvjp) | 2024-04-24 |
+| ios | [NS Travel Planner](https://testflight.apple.com/join/ldBwapIg) | 2024-04-24 |
+| ios | [搜狗输入法](https://testflight.apple.com/join/lSZdpEPH) | 2024-04-24 |
+| ios_game | [Minecraft Preview](https://testflight.apple.com/join/qC1ZnReJ) | 2024-04-24 |
 | ios | [Microsoft To-Do](https://testflight.apple.com/join/JSq3UkAz) | 2024-04-23 |
-| ios | [Opera Touch web browser](https://testflight.apple.com/join/ASrCFVHB) | 2024-04-23 |
 | ios | [Spark Mail - Email by Readdle](https://testflight.apple.com/join/O2wj7i0x) | 2024-04-23 |
 | ios | [WhatsApp Business](https://testflight.apple.com/join/oscYikr0) | 2024-04-23 |
 | ios | [腾讯视频HD](https://testflight.apple.com/join/9JaSzwSN) | 2024-04-23 |
-| ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-04-22 |
 | ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2024-04-20 |
 | ios | [PDF Viewer Pro by PSPDFKit](https://testflight.apple.com/join/6IMUtZ8n) | 2024-04-20 |
 | ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2024-04-19 |
