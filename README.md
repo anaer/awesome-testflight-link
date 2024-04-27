@@ -1,13 +1,10 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [FRITZ!App WLAN](https://testflight.apple.com/join/vbfCKamq) | 2024-04-26 |
+| ios | [SHARE NOW (car2go & DriveNow)](https://testflight.apple.com/join/1SsBDNCj) | 2024-04-27 |
 | ios | [Microsoft OneDrive](https://testflight.apple.com/join/LtgPLzrQ) | 2024-04-26 |
-| ios | [Notion](https://testflight.apple.com/join/YSo8aVCS) | 2024-04-26 |
-| ios | [Opera Touch web browser](https://testflight.apple.com/join/ASrCFVHB) | 2024-04-26 |
 | ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-04-26 |
 | ios | [Träning](https://testflight.apple.com/join/7s1wL3HL) | 2024-04-26 |
-| ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2024-04-26 |
 | chinese | [Angelia](https://testflight.apple.com/join/i37NXl07) | 2024-04-24 |
 | ios | [Microsoft SwiftKey Keyboard](https://testflight.apple.com/join/yhIhAvjp) | 2024-04-24 |
 | ios | [Microsoft To-Do](https://testflight.apple.com/join/JSq3UkAz) | 2024-04-23 |
