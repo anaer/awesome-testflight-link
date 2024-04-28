@@ -1,8 +1,8 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [SHARE NOW (car2go & DriveNow)](https://testflight.apple.com/join/1SsBDNCj) | 2024-04-27 |
-| ios | [Microsoft OneDrive](https://testflight.apple.com/join/LtgPLzrQ) | 2024-04-26 |
+| ios | [Signal - Private Messenger](https://testflight.apple.com/join/8FHtd1Jq) | 2024-04-28 |
+| ios | [腾讯视频HD](https://testflight.apple.com/join/9JaSzwSN) | 2024-04-28 |
 | ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-04-26 |
 | ios | [Träning](https://testflight.apple.com/join/7s1wL3HL) | 2024-04-26 |
 | chinese | [Angelia](https://testflight.apple.com/join/i37NXl07) | 2024-04-24 |
@@ -50,7 +50,6 @@
 | ios | [Twitch Beta](https://testflight.apple.com/join/8vRKFAiY) | 2024-02-23 |
 | ios | [F1ATV](https://testflight.apple.com/join/NRswe1IZ) | 2024-02-20 |
 | ios | [Peerlist](https://testflight.apple.com/join/1KDD1Gqr) | 2024-02-17 |
-| ios | [AdGuard VPN](https://testflight.apple.com/join/fZRiD1zt) | 2024-02-16 |
 | ios | [Fintunes beta](https://testflight.apple.com/join/cf2AMDpx) | 2024-02-14 |
 | ios | [CharMap](https://testflight.apple.com/join/TL68k0Sp) | 2024-02-13 |
 | ios | [NOS](https://testflight.apple.com/join/i4g2QrrG) | 2024-02-12 |
@@ -79,7 +78,6 @@
 | ios | [Brave](https://testflight.apple.com/join/Trcbh1o3) | 2023-12-02 |
 | ios | [Hadge](https://testflight.apple.com/join/rFLkfNSu) | 2023-11-30 |
 | ios_game | [WOW: Wars of Wanon](https://testflight.apple.com/join/UZ4tYFb6) | 2023-11-30 |
-| ios | [Unicode Keyboard](https://testflight.apple.com/join/YKH3kGpt) | 2023-11-28 |
 | ios | [Revolut - Radically Better](https://testflight.apple.com/join/oqrinjQB) | 2023-11-16 |
 | ios | [Tapatalk - 200,000+ Forums](https://testflight.apple.com/join/oGFXVgl6) | 2023-11-16 |
 | ios | [Stop Motion Studio Pro](https://testflight.apple.com/join/rfWbdRvr) | 2023-10-26 |
