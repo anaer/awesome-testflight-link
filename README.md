@@ -1,8 +1,9 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Signal - Private Messenger](https://testflight.apple.com/join/8FHtd1Jq) | 2024-04-28 |
-| ios | [腾讯视频HD](https://testflight.apple.com/join/9JaSzwSN) | 2024-04-28 |
+| chinese | [iCost 记账](https://testflight.apple.com/join/pm1jk978) | 2024-04-29 |
+| ios | [Retro 2](https://testflight.apple.com/join/IjV5V0zL) | 2024-04-29 |
+| ios | [Stream - An RSS Reader](https://testflight.apple.com/join/auxSqon8) | 2024-04-29 |
 | ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-04-26 |
 | ios | [Träning](https://testflight.apple.com/join/7s1wL3HL) | 2024-04-26 |
 | chinese | [Angelia](https://testflight.apple.com/join/i37NXl07) | 2024-04-24 |
@@ -41,7 +42,6 @@
 | ios | [FlowNote - powerful note-taking app](https://testflight.apple.com/join/flHFdltG) | 2024-03-08 |
 | ios | [UTM Remote Virtual Machines](https://testflight.apple.com/join/mFlnyMv3) | 2024-03-06 |
 | ios | [Jira Server by Atlassian](https://testflight.apple.com/join/6JbjYbSY) | 2024-03-05 |
-| ios | [Nearby AI - GPT AI Prompts](https://testflight.apple.com/join/xHGrkViR) | 2024-03-05 |
 | macos | [UTM Virtual Machines](https://testflight.apple.com/join/XQ3tNoNn) | 2024-03-05 |
 | ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2024-02-29 |
 | ios | [Newsbite](https://testflight.apple.com/join/7sus3M6q) | 2024-02-29 |
@@ -126,7 +126,6 @@
 | ios | [Firewalla](https://testflight.apple.com/join/qtUnSjJp) | 2022-10-13 |
 | ios | [IMDb: Movies & TV Shows](https://testflight.apple.com/join/Y9yo0X5t) | 2022-10-13 |
 | ios | [Nubank](https://testflight.apple.com/join/v3SGNpM5) | 2022-10-13 |
-| ios | [Parcel - Delivery Tracking](https://testflight.apple.com/join/fMeg6C4A) | 2022-10-13 |
 | ios | [SM.MS](https://testflight.apple.com/join/bQz911w3) | 2022-10-13 |
 | ios | [Skype For iPhone](https://testflight.apple.com/join/fB5IkJT7) | 2022-10-13 |
 | ios | [Smart Post: Schedule Media](https://testflight.apple.com/join/a0zXMXbA) | 2022-10-13 |
