@@ -1,8 +1,8 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| chinese | [iCost 记账](https://testflight.apple.com/join/pm1jk978) | 2024-04-29 |
-| ios | [Retro 2](https://testflight.apple.com/join/IjV5V0zL) | 2024-04-29 |
+| chinese | [微信读书](https://testflight.apple.com/join/5MWjLpYl) | 2024-04-30 |
+| ios | [Termius – SSH client](https://testflight.apple.com/join/MnuClabg) | 2024-04-30 |
 | ios | [Stream - An RSS Reader](https://testflight.apple.com/join/auxSqon8) | 2024-04-29 |
 | ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-04-26 |
 | ios | [Träning](https://testflight.apple.com/join/7s1wL3HL) | 2024-04-26 |
@@ -13,7 +13,6 @@
 | ios | [WhatsApp Business](https://testflight.apple.com/join/oscYikr0) | 2024-04-23 |
 | ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2024-04-20 |
 | ios | [PDF Viewer Pro by PSPDFKit](https://testflight.apple.com/join/6IMUtZ8n) | 2024-04-20 |
-| ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2024-04-19 |
 | ios | [Windows App Mobile](https://testflight.apple.com/join/q4ha2nsh) | 2024-04-18 |
 | ios_game | [Heroic Mayhem](https://testflight.apple.com/join/xjc2fPds) | 2024-04-18 |
 | ios | [TrackMyTour](https://testflight.apple.com/join/tv9dt6po) | 2024-04-15 |
@@ -59,7 +58,6 @@
 | ios | [Filmlog](https://testflight.apple.com/join/ywiozhph) | 2024-02-06 |
 | ios | [Flipabit](https://testflight.apple.com/join/ruyYHU5E) | 2024-02-02 |
 | ios | [The New York Times](https://testflight.apple.com/join/gfiSREAr) | 2024-02-02 |
-| ios | [Flow Work](https://testflight.apple.com/join/R7lKtZdJ) | 2024-02-01 |
 | ios | [Trackpet](https://testflight.apple.com/join/sY14cetk) | 2024-01-30 |
 | ios | [Musixmatch Lyrics Finder](https://testflight.apple.com/join/7yLzN5td) | 2024-01-26 |
 | ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2024-01-26 |
