@@ -1,9 +1,9 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| chinese | [微信读书](https://testflight.apple.com/join/5MWjLpYl) | 2024-04-30 |
+| ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-05-01 |
+| ios | [Signal - Private Messenger](https://testflight.apple.com/join/8FHtd1Jq) | 2024-05-01 |
 | ios | [Termius – SSH client](https://testflight.apple.com/join/MnuClabg) | 2024-04-30 |
-| ios | [Stream - An RSS Reader](https://testflight.apple.com/join/auxSqon8) | 2024-04-29 |
 | ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-04-26 |
 | ios | [Träning](https://testflight.apple.com/join/7s1wL3HL) | 2024-04-26 |
 | chinese | [Angelia](https://testflight.apple.com/join/i37NXl07) | 2024-04-24 |
