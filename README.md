@@ -1,8 +1,13 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| chinese | [哔哩哔哩](https://testflight.apple.com/join/K4pM1kHu) | 2024-05-02 |
+| chinese | [百度贴吧](https://testflight.apple.com/join/GgBqXAqm) | 2024-05-02 |
+| ios | [Reading List - Book Tracker](https://testflight.apple.com/join/kBS5mVao) | 2024-05-02 |
+| ios | [Stream - An RSS Reader](https://testflight.apple.com/join/auxSqon8) | 2024-05-02 |
+| ios_game | [Minecraft Preview](https://testflight.apple.com/join/qC1ZnReJ) | 2024-05-02 |
+| ios_game | [Stick War 3](https://testflight.apple.com/join/eUx3WxVj) | 2024-05-02 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-05-01 |
-| ios | [Signal - Private Messenger](https://testflight.apple.com/join/8FHtd1Jq) | 2024-05-01 |
 | ios | [Termius – SSH client](https://testflight.apple.com/join/MnuClabg) | 2024-04-30 |
 | ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-04-26 |
 | ios | [Träning](https://testflight.apple.com/join/7s1wL3HL) | 2024-04-26 |
@@ -30,7 +35,6 @@
 | ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2024-03-27 |
 | chinese | [事线 - 串事成线](https://testflight.apple.com/join/grxohdR3) | 2024-03-26 |
 | ios | [Television Time](https://testflight.apple.com/join/eP0BTwVi) | 2024-03-23 |
-| ios | [Screen Mirroring - 1001 TVs](https://testflight.apple.com/join/Nf1dKOBG) | 2024-03-22 |
 | ios | [Sabertooth for Mastodon](https://testflight.apple.com/join/pBGgMKw2) | 2024-03-21 |
 | ios | [GitHub](https://testflight.apple.com/join/NLskzwi5) | 2024-03-19 |
 | macos | [Windows App](https://testflight.apple.com/join/YqNaYeyS) | 2024-03-19 |
@@ -56,7 +60,6 @@
 | ios | [Sleep Cycle - Sleep Tracker beta](https://testflight.apple.com/join/tCeANbZi) | 2024-02-07 |
 | ios | [Sleep Cycle alarm clock](https://testflight.apple.com/join/8RcEFqFF) | 2024-02-07 |
 | ios | [Filmlog](https://testflight.apple.com/join/ywiozhph) | 2024-02-06 |
-| ios | [Flipabit](https://testflight.apple.com/join/ruyYHU5E) | 2024-02-02 |
 | ios | [The New York Times](https://testflight.apple.com/join/gfiSREAr) | 2024-02-02 |
 | ios | [Trackpet](https://testflight.apple.com/join/sY14cetk) | 2024-01-30 |
 | ios | [Musixmatch Lyrics Finder](https://testflight.apple.com/join/7yLzN5td) | 2024-01-26 |
