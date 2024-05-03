@@ -1,13 +1,14 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| chinese | [哔哩哔哩](https://testflight.apple.com/join/K4pM1kHu) | 2024-05-02 |
-| chinese | [百度贴吧](https://testflight.apple.com/join/GgBqXAqm) | 2024-05-02 |
-| ios | [Reading List - Book Tracker](https://testflight.apple.com/join/kBS5mVao) | 2024-05-02 |
+| ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2024-05-03 |
+| ios | [Lock Launcher beta](https://testflight.apple.com/join/clHxFnLa) | 2024-05-03 |
+| ios | [Parcel - Delivery Tracking](https://testflight.apple.com/join/fMeg6C4A) | 2024-05-03 |
+| ios | [搜狗输入法](https://testflight.apple.com/join/lSZdpEPH) | 2024-05-03 |
+| ios | [腾讯视频HD](https://testflight.apple.com/join/9JaSzwSN) | 2024-05-03 |
+| macos | [Caffeine Utility](https://testflight.apple.com/join/WHIbsose) | 2024-05-03 |
 | ios | [Stream - An RSS Reader](https://testflight.apple.com/join/auxSqon8) | 2024-05-02 |
-| ios_game | [Minecraft Preview](https://testflight.apple.com/join/qC1ZnReJ) | 2024-05-02 |
 | ios_game | [Stick War 3](https://testflight.apple.com/join/eUx3WxVj) | 2024-05-02 |
-| ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-05-01 |
 | ios | [Termius – SSH client](https://testflight.apple.com/join/MnuClabg) | 2024-04-30 |
 | ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-04-26 |
 | ios | [Träning](https://testflight.apple.com/join/7s1wL3HL) | 2024-04-26 |
@@ -42,7 +43,6 @@
 | ios | [SimpleTix Box Office](https://testflight.apple.com/join/zyByZSX8) | 2024-03-13 |
 | ios | [Jira Cloud by Atlassian](https://testflight.apple.com/join/2lm7vHBS) | 2024-03-09 |
 | ios | [Pushover Notifications](https://testflight.apple.com/join/vkwfdWM0) | 2024-03-09 |
-| ios | [FlowNote - powerful note-taking app](https://testflight.apple.com/join/flHFdltG) | 2024-03-08 |
 | ios | [UTM Remote Virtual Machines](https://testflight.apple.com/join/mFlnyMv3) | 2024-03-06 |
 | ios | [Jira Server by Atlassian](https://testflight.apple.com/join/6JbjYbSY) | 2024-03-05 |
 | macos | [UTM Virtual Machines](https://testflight.apple.com/join/XQ3tNoNn) | 2024-03-05 |
