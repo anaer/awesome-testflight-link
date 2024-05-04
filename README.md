@@ -1,14 +1,9 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2024-05-03 |
-| ios | [Lock Launcher beta](https://testflight.apple.com/join/clHxFnLa) | 2024-05-03 |
-| ios | [Parcel - Delivery Tracking](https://testflight.apple.com/join/fMeg6C4A) | 2024-05-03 |
-| ios | [搜狗输入法](https://testflight.apple.com/join/lSZdpEPH) | 2024-05-03 |
+| ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-05-04 |
 | ios | [腾讯视频HD](https://testflight.apple.com/join/9JaSzwSN) | 2024-05-03 |
 | macos | [Caffeine Utility](https://testflight.apple.com/join/WHIbsose) | 2024-05-03 |
-| ios | [Stream - An RSS Reader](https://testflight.apple.com/join/auxSqon8) | 2024-05-02 |
-| ios_game | [Stick War 3](https://testflight.apple.com/join/eUx3WxVj) | 2024-05-02 |
 | ios | [Termius – SSH client](https://testflight.apple.com/join/MnuClabg) | 2024-04-30 |
 | ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-04-26 |
 | ios | [Träning](https://testflight.apple.com/join/7s1wL3HL) | 2024-04-26 |
@@ -66,7 +61,6 @@
 | ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2024-01-26 |
 | ios | [Memento: Modern Reminders](https://testflight.apple.com/join/aRvubPov) | 2024-01-23 |
 | chinese | [我的世界-网易](https://testflight.apple.com/join/mOxZm1dD) | 2024-01-22 |
-| ios | [HungryEx: Middleware for grocery delivery](https://testflight.apple.com/join/k4alzQk3) | 2024-01-22 |
 | ios | [Dropbox](https://testflight.apple.com/join/LBZaRq4I) | 2024-01-19 |
 | ios | [Just Timers](https://testflight.apple.com/join/pyzrz0oT) | 2024-01-19 |
 | chinese | [酷狗音乐](https://testflight.apple.com/join/6cnKUyZ8) | 2024-01-05 |
