@@ -1,9 +1,8 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-05-04 |
+| ios | [FlowNote - powerful note-taking app](https://testflight.apple.com/join/flHFdltG) | 2024-05-05 |
 | ios | [腾讯视频HD](https://testflight.apple.com/join/9JaSzwSN) | 2024-05-03 |
-| macos | [Caffeine Utility](https://testflight.apple.com/join/WHIbsose) | 2024-05-03 |
 | ios | [Termius – SSH client](https://testflight.apple.com/join/MnuClabg) | 2024-04-30 |
 | ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-04-26 |
 | ios | [Träning](https://testflight.apple.com/join/7s1wL3HL) | 2024-04-26 |
@@ -11,7 +10,6 @@
 | ios | [Microsoft SwiftKey Keyboard](https://testflight.apple.com/join/yhIhAvjp) | 2024-04-24 |
 | ios | [Microsoft To-Do](https://testflight.apple.com/join/JSq3UkAz) | 2024-04-23 |
 | ios | [Spark Mail - Email by Readdle](https://testflight.apple.com/join/O2wj7i0x) | 2024-04-23 |
-| ios | [WhatsApp Business](https://testflight.apple.com/join/oscYikr0) | 2024-04-23 |
 | ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2024-04-20 |
 | ios | [PDF Viewer Pro by PSPDFKit](https://testflight.apple.com/join/6IMUtZ8n) | 2024-04-20 |
 | ios | [Windows App Mobile](https://testflight.apple.com/join/q4ha2nsh) | 2024-04-18 |
