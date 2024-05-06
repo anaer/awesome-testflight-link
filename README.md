@@ -1,7 +1,11 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [FlowNote - powerful note-taking app](https://testflight.apple.com/join/flHFdltG) | 2024-05-05 |
+| chinese | [微信读书](https://testflight.apple.com/join/5MWjLpYl) | 2024-05-06 |
+| ios | [BeReal](https://testflight.apple.com/join/IM4jE5XY) | 2024-05-06 |
+| ios | [Cheatsheet](https://testflight.apple.com/join/E7AnyPlA) | 2024-05-06 |
+| ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2024-05-06 |
+| ios | [Reading List - Book Tracker](https://testflight.apple.com/join/kBS5mVao) | 2024-05-06 |
 | ios | [腾讯视频HD](https://testflight.apple.com/join/9JaSzwSN) | 2024-05-03 |
 | ios | [Termius – SSH client](https://testflight.apple.com/join/MnuClabg) | 2024-04-30 |
 | ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-04-26 |
