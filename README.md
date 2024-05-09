@@ -1,13 +1,13 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [AdGuard VPN](https://testflight.apple.com/join/fZRiD1zt) | 2024-05-09 |
+| ios | [Onion Browser](https://testflight.apple.com/join/iPWLRpZu) | 2024-05-09 |
+| ios | [腾讯视频HD](https://testflight.apple.com/join/9JaSzwSN) | 2024-05-09 |
 | chinese | [微信读书](https://testflight.apple.com/join/5MWjLpYl) | 2024-05-08 |
-| ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2024-05-08 |
-| ios | [Pockity](https://testflight.apple.com/join/4qfWwXvP) | 2024-05-08 |
 | ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2024-05-07 |
 | ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2024-05-07 |
 | ios | [Screen Mirroring - 1001 TVs](https://testflight.apple.com/join/Nf1dKOBG) | 2024-05-07 |
-| ios | [BeReal](https://testflight.apple.com/join/IM4jE5XY) | 2024-05-06 |
 | ios | [Termius – SSH client](https://testflight.apple.com/join/MnuClabg) | 2024-04-30 |
 | ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-04-26 |
 | ios | [Träning](https://testflight.apple.com/join/7s1wL3HL) | 2024-04-26 |
@@ -34,7 +34,6 @@
 | chinese | [事线 - 串事成线](https://testflight.apple.com/join/grxohdR3) | 2024-03-26 |
 | ios | [Television Time](https://testflight.apple.com/join/eP0BTwVi) | 2024-03-23 |
 | ios | [Sabertooth for Mastodon](https://testflight.apple.com/join/pBGgMKw2) | 2024-03-21 |
-| ios | [GitHub](https://testflight.apple.com/join/NLskzwi5) | 2024-03-19 |
 | macos | [Windows App](https://testflight.apple.com/join/YqNaYeyS) | 2024-03-19 |
 | ios | [ColorSlurp Beta](https://testflight.apple.com/join/xxEw2j1X) | 2024-03-13 |
 | ios | [SimpleTix Box Office](https://testflight.apple.com/join/zyByZSX8) | 2024-03-13 |
@@ -52,7 +51,6 @@
 | ios | [Peerlist](https://testflight.apple.com/join/1KDD1Gqr) | 2024-02-17 |
 | ios | [Fintunes beta](https://testflight.apple.com/join/cf2AMDpx) | 2024-02-14 |
 | ios | [CharMap](https://testflight.apple.com/join/TL68k0Sp) | 2024-02-13 |
-| ios | [NOS](https://testflight.apple.com/join/i4g2QrrG) | 2024-02-12 |
 | ios | [Feedly](https://testflight.apple.com/join/03ER1aUo) | 2024-02-08 |
 | ios | [Sleep Cycle - Sleep Tracker beta](https://testflight.apple.com/join/tCeANbZi) | 2024-02-07 |
 | ios | [Sleep Cycle alarm clock](https://testflight.apple.com/join/8RcEFqFF) | 2024-02-07 |
