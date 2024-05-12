@@ -1,12 +1,7 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Graphite: Photo to Sketch App beta](https://testflight.apple.com/join/gRhGuXzI) | 2024-05-11 |
-| ios | [Microsoft Loop beta](https://testflight.apple.com/join/KNyadcIZ) | 2024-05-11 |
-| ios | [SHARE NOW (car2go & DriveNow)](https://testflight.apple.com/join/1SsBDNCj) | 2024-05-11 |
-| ios | [Signal - Private Messenger](https://testflight.apple.com/join/8FHtd1Jq) | 2024-05-11 |
-| macos | [Caffeine Utility](https://testflight.apple.com/join/WHIbsose) | 2024-05-11 |
-| ios | [Duolingo](https://testflight.apple.com/join/Sq8bYSnJ) | 2024-05-10 |
+| ios | [FlowNote - powerful note-taking app](https://testflight.apple.com/join/flHFdltG) | 2024-05-12 |
 | ios | [WhatsApp Business](https://testflight.apple.com/join/oscYikr0) | 2024-05-10 |
 | ios | [AdGuard VPN](https://testflight.apple.com/join/fZRiD1zt) | 2024-05-09 |
 | ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2024-05-07 |
@@ -23,7 +18,6 @@
 | ios | [TrackMyTour](https://testflight.apple.com/join/tv9dt6po) | 2024-04-15 |
 | chinese | [QQ beta](https://testflight.apple.com/join/R5FNGUl3) | 2024-04-11 |
 | ios | [GitHub HyperList](https://testflight.apple.com/join/qfPzqQM0) | 2024-04-11 |
-| macos | [Drafts](https://testflight.apple.com/join/GhPcOrwa) | 2024-04-11 |
 | ios | [AnimeGen](https://testflight.apple.com/join/Qx5saHll) | 2024-04-10 |
 | ios | [Hanami](https://testflight.apple.com/join/VUPzZpkc) | 2024-04-10 |
 | ios | [Soulver](https://testflight.apple.com/join/rBWP4hPz) | 2024-04-02 |
