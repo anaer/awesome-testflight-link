@@ -1,7 +1,12 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [FlowNote - powerful note-taking app](https://testflight.apple.com/join/flHFdltG) | 2024-05-12 |
+| chinese | [百度贴吧](https://testflight.apple.com/join/GgBqXAqm) | 2024-05-13 |
+| ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2024-05-13 |
+| ios | [Parcel - Delivery Tracking](https://testflight.apple.com/join/fMeg6C4A) | 2024-05-13 |
+| ios | [Revolut - Radically Better](https://testflight.apple.com/join/oqrinjQB) | 2024-05-13 |
+| ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-05-13 |
+| ios | [搜狗输入法](https://testflight.apple.com/join/lSZdpEPH) | 2024-05-13 |
 | ios | [WhatsApp Business](https://testflight.apple.com/join/oscYikr0) | 2024-05-10 |
 | ios | [AdGuard VPN](https://testflight.apple.com/join/fZRiD1zt) | 2024-05-09 |
 | ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2024-05-07 |
@@ -70,7 +75,6 @@
 | ios | [Hadge](https://testflight.apple.com/join/rFLkfNSu) | 2023-11-30 |
 | ios_game | [WOW: Wars of Wanon](https://testflight.apple.com/join/UZ4tYFb6) | 2023-11-30 |
 | ios | [Tapatalk - 200,000+ Forums](https://testflight.apple.com/join/oGFXVgl6) | 2023-11-16 |
-| ios | [Stop Motion Studio Pro](https://testflight.apple.com/join/rfWbdRvr) | 2023-10-26 |
 | ios | [Gaming for Peace-GAP](https://testflight.apple.com/join/tJu81Sch) | 2023-10-25 |
 | ios | [Meditation Timer Zenzitizer](https://testflight.apple.com/join/QvKyRJ8x) | 2023-10-21 |
 | ios | [Property Finder](https://testflight.apple.com/join/ctQoX4vC) | 2023-10-14 |
