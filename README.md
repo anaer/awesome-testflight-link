@@ -1,14 +1,12 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| chinese | [百度贴吧](https://testflight.apple.com/join/GgBqXAqm) | 2024-05-13 |
-| ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2024-05-13 |
-| ios | [Parcel - Delivery Tracking](https://testflight.apple.com/join/fMeg6C4A) | 2024-05-13 |
-| ios | [Revolut - Radically Better](https://testflight.apple.com/join/oqrinjQB) | 2024-05-13 |
+| ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2024-05-14 |
+| ios | [Nearby AI - GPT AI Prompts](https://testflight.apple.com/join/xHGrkViR) | 2024-05-14 |
+| ios | [Voqab - Vocabulary Training App](https://testflight.apple.com/join/o85e2EHN) | 2024-05-14 |
+| macos | [Drafts](https://testflight.apple.com/join/GhPcOrwa) | 2024-05-14 |
 | ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-05-13 |
-| ios | [搜狗输入法](https://testflight.apple.com/join/lSZdpEPH) | 2024-05-13 |
 | ios | [WhatsApp Business](https://testflight.apple.com/join/oscYikr0) | 2024-05-10 |
-| ios | [AdGuard VPN](https://testflight.apple.com/join/fZRiD1zt) | 2024-05-09 |
 | ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2024-05-07 |
 | ios | [Screen Mirroring - 1001 TVs](https://testflight.apple.com/join/Nf1dKOBG) | 2024-05-07 |
 | ios | [Termius – SSH client](https://testflight.apple.com/join/MnuClabg) | 2024-04-30 |
