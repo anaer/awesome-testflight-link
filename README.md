@@ -1,10 +1,15 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| chinese | [酷狗概念版](https://testflight.apple.com/join/IOgbaxds) | 2024-05-16 |
+| ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2024-05-16 |
+| ios | [Flipabit](https://testflight.apple.com/join/ruyYHU5E) | 2024-05-16 |
+| ios | [Microsoft Designer beta](https://testflight.apple.com/join/KsuaylTZ) | 2024-05-16 |
+| ios | [Revolut - Radically Better](https://testflight.apple.com/join/oqrinjQB) | 2024-05-16 |
+| macos | [Caffeine Utility](https://testflight.apple.com/join/WHIbsose) | 2024-05-16 |
 | ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2024-05-14 |
 | ios | [Nearby AI - GPT AI Prompts](https://testflight.apple.com/join/xHGrkViR) | 2024-05-14 |
 | ios | [Voqab - Vocabulary Training App](https://testflight.apple.com/join/o85e2EHN) | 2024-05-14 |
-| macos | [Drafts](https://testflight.apple.com/join/GhPcOrwa) | 2024-05-14 |
 | ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-05-13 |
 | ios | [WhatsApp Business](https://testflight.apple.com/join/oscYikr0) | 2024-05-10 |
 | ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2024-05-07 |
@@ -92,7 +97,6 @@
 | ios_game | [DropZap World](https://testflight.apple.com/join/CdEXgjst) | 2023-07-02 |
 | chinese | [Maxthon Cloud Web Browser](https://testflight.apple.com/join/ONuHkBRv) | 2023-06-22 |
 | macos | [Salam](https://testflight.apple.com/join/IjXpQtAo) | 2023-06-22 |
-| ios | [Harbour - Docker manager beta](https://testflight.apple.com/join/F2vK7xo4) | 2023-06-19 |
 | ios | [Sangoma Meet](https://testflight.apple.com/join/BEd12vi5) | 2023-05-25 |
 | ios | [RainViewer: Live Weather Radar](https://testflight.apple.com/join/OZ1B4sTS) | 2023-05-20 |
 | ios | [FRITZ!App Fon](https://testflight.apple.com/join/SGGCxyRp) | 2023-05-19 |
