@@ -1,10 +1,13 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| chinese | [酷狗概念版](https://testflight.apple.com/join/IOgbaxds) | 2024-05-16 |
+| ios | [AdGuard VPN](https://testflight.apple.com/join/fZRiD1zt) | 2024-05-17 |
+| ios | [Duolingo](https://testflight.apple.com/join/Sq8bYSnJ) | 2024-05-17 |
+| ios | [FlowNote - powerful note-taking app](https://testflight.apple.com/join/flHFdltG) | 2024-05-17 |
+| ios | [Signal - Private Messenger](https://testflight.apple.com/join/8FHtd1Jq) | 2024-05-17 |
+| ios | [搜狗输入法](https://testflight.apple.com/join/lSZdpEPH) | 2024-05-17 |
 | ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2024-05-16 |
 | ios | [Flipabit](https://testflight.apple.com/join/ruyYHU5E) | 2024-05-16 |
-| ios | [Microsoft Designer beta](https://testflight.apple.com/join/KsuaylTZ) | 2024-05-16 |
 | ios | [Revolut - Radically Better](https://testflight.apple.com/join/oqrinjQB) | 2024-05-16 |
 | macos | [Caffeine Utility](https://testflight.apple.com/join/WHIbsose) | 2024-05-16 |
 | ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2024-05-14 |
@@ -12,7 +15,6 @@
 | ios | [Voqab - Vocabulary Training App](https://testflight.apple.com/join/o85e2EHN) | 2024-05-14 |
 | ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-05-13 |
 | ios | [WhatsApp Business](https://testflight.apple.com/join/oscYikr0) | 2024-05-10 |
-| ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2024-05-07 |
 | ios | [Screen Mirroring - 1001 TVs](https://testflight.apple.com/join/Nf1dKOBG) | 2024-05-07 |
 | ios | [Termius – SSH client](https://testflight.apple.com/join/MnuClabg) | 2024-04-30 |
 | ios | [Träning](https://testflight.apple.com/join/7s1wL3HL) | 2024-04-26 |
@@ -21,7 +23,6 @@
 | ios | [Microsoft To-Do](https://testflight.apple.com/join/JSq3UkAz) | 2024-04-23 |
 | ios | [Spark Mail - Email by Readdle](https://testflight.apple.com/join/O2wj7i0x) | 2024-04-23 |
 | ios | [PDF Viewer Pro by PSPDFKit](https://testflight.apple.com/join/6IMUtZ8n) | 2024-04-20 |
-| ios | [Windows App Mobile](https://testflight.apple.com/join/q4ha2nsh) | 2024-04-18 |
 | ios_game | [Heroic Mayhem](https://testflight.apple.com/join/xjc2fPds) | 2024-04-18 |
 | ios | [TrackMyTour](https://testflight.apple.com/join/tv9dt6po) | 2024-04-15 |
 | chinese | [QQ beta](https://testflight.apple.com/join/R5FNGUl3) | 2024-04-11 |
