@@ -1,11 +1,14 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2024-05-18 |
+| ios | [Cheatsheet](https://testflight.apple.com/join/E7AnyPlA) | 2024-05-18 |
+| ios | [Parcel - Delivery Tracking](https://testflight.apple.com/join/fMeg6C4A) | 2024-05-18 |
+| macos | [Drafts](https://testflight.apple.com/join/GhPcOrwa) | 2024-05-18 |
+| macos | [MenubarX](https://testflight.apple.com/join/Tqr03a4h) | 2024-05-18 |
 | ios | [AdGuard VPN](https://testflight.apple.com/join/fZRiD1zt) | 2024-05-17 |
 | ios | [Duolingo](https://testflight.apple.com/join/Sq8bYSnJ) | 2024-05-17 |
 | ios | [FlowNote - powerful note-taking app](https://testflight.apple.com/join/flHFdltG) | 2024-05-17 |
-| ios | [Signal - Private Messenger](https://testflight.apple.com/join/8FHtd1Jq) | 2024-05-17 |
-| ios | [搜狗输入法](https://testflight.apple.com/join/lSZdpEPH) | 2024-05-17 |
 | ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2024-05-16 |
 | ios | [Flipabit](https://testflight.apple.com/join/ruyYHU5E) | 2024-05-16 |
 | ios | [Revolut - Radically Better](https://testflight.apple.com/join/oqrinjQB) | 2024-05-16 |
