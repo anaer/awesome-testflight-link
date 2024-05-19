@@ -1,12 +1,8 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2024-05-18 |
-| ios | [Cheatsheet](https://testflight.apple.com/join/E7AnyPlA) | 2024-05-18 |
-| ios | [Parcel - Delivery Tracking](https://testflight.apple.com/join/fMeg6C4A) | 2024-05-18 |
-| macos | [Drafts](https://testflight.apple.com/join/GhPcOrwa) | 2024-05-18 |
-| macos | [MenubarX](https://testflight.apple.com/join/Tqr03a4h) | 2024-05-18 |
-| ios | [AdGuard VPN](https://testflight.apple.com/join/fZRiD1zt) | 2024-05-17 |
+| ios | [Everlog](https://testflight.apple.com/join/sOCDYE65) | 2024-05-19 |
+| ios | [Microsoft Loop beta](https://testflight.apple.com/join/KNyadcIZ) | 2024-05-19 |
 | ios | [Duolingo](https://testflight.apple.com/join/Sq8bYSnJ) | 2024-05-17 |
 | ios | [FlowNote - powerful note-taking app](https://testflight.apple.com/join/flHFdltG) | 2024-05-17 |
 | ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2024-05-16 |
@@ -16,7 +12,6 @@
 | ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2024-05-14 |
 | ios | [Nearby AI - GPT AI Prompts](https://testflight.apple.com/join/xHGrkViR) | 2024-05-14 |
 | ios | [Voqab - Vocabulary Training App](https://testflight.apple.com/join/o85e2EHN) | 2024-05-14 |
-| ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-05-13 |
 | ios | [WhatsApp Business](https://testflight.apple.com/join/oscYikr0) | 2024-05-10 |
 | ios | [Screen Mirroring - 1001 TVs](https://testflight.apple.com/join/Nf1dKOBG) | 2024-05-07 |
 | ios | [Termius – SSH client](https://testflight.apple.com/join/MnuClabg) | 2024-04-30 |
@@ -66,7 +61,6 @@
 | ios | [The New York Times](https://testflight.apple.com/join/gfiSREAr) | 2024-02-02 |
 | ios | [Trackpet](https://testflight.apple.com/join/sY14cetk) | 2024-01-30 |
 | ios | [Musixmatch Lyrics Finder](https://testflight.apple.com/join/7yLzN5td) | 2024-01-26 |
-| ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2024-01-26 |
 | ios | [Memento: Modern Reminders](https://testflight.apple.com/join/aRvubPov) | 2024-01-23 |
 | chinese | [我的世界-网易](https://testflight.apple.com/join/mOxZm1dD) | 2024-01-22 |
 | ios | [Dropbox](https://testflight.apple.com/join/LBZaRq4I) | 2024-01-19 |
