@@ -1,8 +1,8 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Everlog](https://testflight.apple.com/join/sOCDYE65) | 2024-05-19 |
-| ios | [Microsoft Loop beta](https://testflight.apple.com/join/KNyadcIZ) | 2024-05-19 |
+| ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-05-20 |
+| ios | [Xbox Family Settings beta](https://testflight.apple.com/join/8oUnDzMQ) | 2024-05-20 |
 | ios | [Duolingo](https://testflight.apple.com/join/Sq8bYSnJ) | 2024-05-17 |
 | ios | [FlowNote - powerful note-taking app](https://testflight.apple.com/join/flHFdltG) | 2024-05-17 |
 | ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2024-05-16 |
