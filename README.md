@@ -1,21 +1,19 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [BeReal](https://testflight.apple.com/join/IM4jE5XY) | 2024-05-25 |
-| ios | [Cheatsheet](https://testflight.apple.com/join/E7AnyPlA) | 2024-05-25 |
+| ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-05-26 |
+| ios | [搜狗输入法](https://testflight.apple.com/join/lSZdpEPH) | 2024-05-26 |
+| ios | [腾讯视频HD](https://testflight.apple.com/join/9JaSzwSN) | 2024-05-26 |
+| ios_game | [Stick War 3](https://testflight.apple.com/join/eUx3WxVj) | 2024-05-26 |
 | chinese | [微信读书](https://testflight.apple.com/join/5MWjLpYl) | 2024-05-24 |
 | ios | [AdGuard VPN](https://testflight.apple.com/join/fZRiD1zt) | 2024-05-24 |
-| ios | [Microsoft Designer beta](https://testflight.apple.com/join/KsuaylTZ) | 2024-05-24 |
 | ios | [Quizlet](https://testflight.apple.com/join/mwhcPqxJ) | 2024-05-24 |
 | ios | [TV Time – #1 Show Tracker](https://testflight.apple.com/join/hjKkDsc4) | 2024-05-24 |
 | ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2024-05-23 |
 | ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2024-05-23 |
-| ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-05-23 |
 | ios | [Windows App Mobile](https://testflight.apple.com/join/q4ha2nsh) | 2024-05-23 |
-| ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2024-05-16 |
 | ios | [Flipabit](https://testflight.apple.com/join/ruyYHU5E) | 2024-05-16 |
 | ios | [Revolut - Radically Better](https://testflight.apple.com/join/oqrinjQB) | 2024-05-16 |
-| macos | [Caffeine Utility](https://testflight.apple.com/join/WHIbsose) | 2024-05-16 |
 | ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2024-05-14 |
 | ios | [Nearby AI - GPT AI Prompts](https://testflight.apple.com/join/xHGrkViR) | 2024-05-14 |
 | ios | [Voqab - Vocabulary Training App](https://testflight.apple.com/join/o85e2EHN) | 2024-05-14 |
