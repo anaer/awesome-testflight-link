@@ -1,13 +1,15 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2024-05-27 |
+| ios | [MEGA](https://testflight.apple.com/join/4x1P5Tnx) | 2024-05-27 |
+| ios | [Microsoft Loop beta](https://testflight.apple.com/join/KNyadcIZ) | 2024-05-27 |
+| ios | [Unicode Keyboard](https://testflight.apple.com/join/YKH3kGpt) | 2024-05-27 |
+| ios | [infltr - Infinite Filters](https://testflight.apple.com/join/In6e3GcJ) | 2024-05-27 |
+| macos | [Caffeine Utility](https://testflight.apple.com/join/WHIbsose) | 2024-05-27 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-05-26 |
-| ios | [搜狗输入法](https://testflight.apple.com/join/lSZdpEPH) | 2024-05-26 |
 | ios | [腾讯视频HD](https://testflight.apple.com/join/9JaSzwSN) | 2024-05-26 |
-| ios_game | [Stick War 3](https://testflight.apple.com/join/eUx3WxVj) | 2024-05-26 |
-| chinese | [微信读书](https://testflight.apple.com/join/5MWjLpYl) | 2024-05-24 |
 | ios | [AdGuard VPN](https://testflight.apple.com/join/fZRiD1zt) | 2024-05-24 |
-| ios | [Quizlet](https://testflight.apple.com/join/mwhcPqxJ) | 2024-05-24 |
 | ios | [TV Time – #1 Show Tracker](https://testflight.apple.com/join/hjKkDsc4) | 2024-05-24 |
 | ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2024-05-23 |
 | ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2024-05-23 |
