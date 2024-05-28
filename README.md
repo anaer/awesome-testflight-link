@@ -1,13 +1,15 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2024-05-27 |
-| ios | [MEGA](https://testflight.apple.com/join/4x1P5Tnx) | 2024-05-27 |
-| ios | [Microsoft Loop beta](https://testflight.apple.com/join/KNyadcIZ) | 2024-05-27 |
+| ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2024-05-28 |
+| ios | [FlowNote - powerful note-taking app](https://testflight.apple.com/join/flHFdltG) | 2024-05-28 |
+| ios | [Möbius Sync - Syncthing iOS](https://testflight.apple.com/join/n5A7ceuK) | 2024-05-28 |
+| ios | [Opera Touch web browser](https://testflight.apple.com/join/ASrCFVHB) | 2024-05-28 |
+| ios | [Parcel - Delivery Tracking](https://testflight.apple.com/join/fMeg6C4A) | 2024-05-28 |
+| ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-05-28 |
+| ios | [Yandex Browser](https://testflight.apple.com/join/Y4k4ze6V) | 2024-05-28 |
 | ios | [Unicode Keyboard](https://testflight.apple.com/join/YKH3kGpt) | 2024-05-27 |
-| ios | [infltr - Infinite Filters](https://testflight.apple.com/join/In6e3GcJ) | 2024-05-27 |
 | macos | [Caffeine Utility](https://testflight.apple.com/join/WHIbsose) | 2024-05-27 |
-| ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-05-26 |
 | ios | [腾讯视频HD](https://testflight.apple.com/join/9JaSzwSN) | 2024-05-26 |
 | ios | [AdGuard VPN](https://testflight.apple.com/join/fZRiD1zt) | 2024-05-24 |
 | ios | [TV Time – #1 Show Tracker](https://testflight.apple.com/join/hjKkDsc4) | 2024-05-24 |
@@ -53,7 +55,6 @@
 | ios | [Jira Server by Atlassian](https://testflight.apple.com/join/6JbjYbSY) | 2024-03-05 |
 | macos | [UTM Virtual Machines](https://testflight.apple.com/join/XQ3tNoNn) | 2024-03-05 |
 | ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2024-02-29 |
-| ios | [Newsbite](https://testflight.apple.com/join/7sus3M6q) | 2024-02-29 |
 | ios | [Fugl](https://testflight.apple.com/join/bZIZeB4N) | 2024-02-26 |
 | ios_game | [Fugl](https://testflight.apple.com/join/bZIZeB4N) | 2024-02-26 |
 | ios | [Twitch Beta](https://testflight.apple.com/join/8vRKFAiY) | 2024-02-23 |
