@@ -1,11 +1,14 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2024-05-28 |
+| chinese | [iCost 记账](https://testflight.apple.com/join/pm1jk978) | 2024-05-29 |
+| ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-05-29 |
+| ios | [MEGA](https://testflight.apple.com/join/4x1P5Tnx) | 2024-05-29 |
+| ios | [Microsoft Loop beta](https://testflight.apple.com/join/KNyadcIZ) | 2024-05-29 |
+| macos | [MenubarX](https://testflight.apple.com/join/Tqr03a4h) | 2024-05-29 |
 | ios | [FlowNote - powerful note-taking app](https://testflight.apple.com/join/flHFdltG) | 2024-05-28 |
 | ios | [Möbius Sync - Syncthing iOS](https://testflight.apple.com/join/n5A7ceuK) | 2024-05-28 |
 | ios | [Opera Touch web browser](https://testflight.apple.com/join/ASrCFVHB) | 2024-05-28 |
-| ios | [Parcel - Delivery Tracking](https://testflight.apple.com/join/fMeg6C4A) | 2024-05-28 |
 | ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-05-28 |
 | ios | [Yandex Browser](https://testflight.apple.com/join/Y4k4ze6V) | 2024-05-28 |
 | ios | [Unicode Keyboard](https://testflight.apple.com/join/YKH3kGpt) | 2024-05-27 |
@@ -114,7 +117,6 @@
 | ios | [Day One Journal](https://testflight.apple.com/join/NXLBigzY) | 2023-02-06 |
 | ios | [AmazFaces](https://testflight.apple.com/join/4hBEKHHg) | 2023-01-20 |
 | ios | [Salam](https://testflight.apple.com/join/IjXpQtAo) | 2023-01-17 |
-| ios | [Finance Bay](https://testflight.apple.com/join/y4etT8Ht) | 2023-01-16 |
 | ios_game | [Cell to Singularity](https://testflight.apple.com/join/RD9jGH9S) | 2023-01-15 |
 | ios | [Qobuz](https://testflight.apple.com/join/GPJZwnh9) | 2023-01-14 |
 | ios | [Deezer](https://testflight.apple.com/join/e7mCOEeg) | 2022-12-31 |
