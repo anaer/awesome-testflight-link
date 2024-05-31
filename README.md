@@ -1,19 +1,20 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Documents by Readdle](https://testflight.apple.com/join/EOPEVoDA) | 2024-05-31 |
+| ios | [Ruuvi Station](https://testflight.apple.com/join/loHFrEV1) | 2024-05-31 |
+| ios_game | [MLBB Beta](https://testflight.apple.com/join/yYjKTTlT) | 2024-05-31 |
+| ios_game | [Stick War 3](https://testflight.apple.com/join/eUx3WxVj) | 2024-05-31 |
 | ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2024-05-30 |
 | ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2024-05-30 |
-| ios | [Quizlet](https://testflight.apple.com/join/mwhcPqxJ) | 2024-05-30 |
 | chinese | [iCost 记账](https://testflight.apple.com/join/pm1jk978) | 2024-05-29 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-05-29 |
-| ios | [FlowNote - powerful note-taking app](https://testflight.apple.com/join/flHFdltG) | 2024-05-28 |
 | ios | [Möbius Sync - Syncthing iOS](https://testflight.apple.com/join/n5A7ceuK) | 2024-05-28 |
 | ios | [Opera Touch web browser](https://testflight.apple.com/join/ASrCFVHB) | 2024-05-28 |
 | ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-05-28 |
 | ios | [Yandex Browser](https://testflight.apple.com/join/Y4k4ze6V) | 2024-05-28 |
 | ios | [Unicode Keyboard](https://testflight.apple.com/join/YKH3kGpt) | 2024-05-27 |
 | macos | [Caffeine Utility](https://testflight.apple.com/join/WHIbsose) | 2024-05-27 |
-| ios | [腾讯视频HD](https://testflight.apple.com/join/9JaSzwSN) | 2024-05-26 |
 | ios | [AdGuard VPN](https://testflight.apple.com/join/fZRiD1zt) | 2024-05-24 |
 | ios | [TV Time – #1 Show Tracker](https://testflight.apple.com/join/hjKkDsc4) | 2024-05-24 |
 | ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2024-05-23 |
