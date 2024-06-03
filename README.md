@@ -1,13 +1,17 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| chinese | [iCost 记账](https://testflight.apple.com/join/pm1jk978) | 2024-06-03 |
+| ios | [Microsoft Loop beta](https://testflight.apple.com/join/KNyadcIZ) | 2024-06-03 |
+| ios | [Microsoft Outlook](https://testflight.apple.com/join/QkU4VS1s) | 2024-06-03 |
+| ios | [Signal - Private Messenger](https://testflight.apple.com/join/8FHtd1Jq) | 2024-06-03 |
+| ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-06-03 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-06-02 |
 | ios | [腾讯视频HD](https://testflight.apple.com/join/9JaSzwSN) | 2024-06-02 |
 | ios | [Microsoft Office](https://testflight.apple.com/join/eHAKJBtM) | 2024-06-01 |
 | ios | [Microsoft PowerPoint](https://testflight.apple.com/join/a9Ef0N3g) | 2024-06-01 |
 | ios | [Documents by Readdle](https://testflight.apple.com/join/EOPEVoDA) | 2024-05-31 |
 | ios | [Ruuvi Station](https://testflight.apple.com/join/loHFrEV1) | 2024-05-31 |
-| ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2024-05-30 |
 | ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2024-05-30 |
 | ios | [Möbius Sync - Syncthing iOS](https://testflight.apple.com/join/n5A7ceuK) | 2024-05-28 |
 | ios | [Opera Touch web browser](https://testflight.apple.com/join/ASrCFVHB) | 2024-05-28 |
@@ -53,7 +57,6 @@
 | ios | [Jira Cloud by Atlassian](https://testflight.apple.com/join/2lm7vHBS) | 2024-03-09 |
 | ios | [Pushover Notifications](https://testflight.apple.com/join/vkwfdWM0) | 2024-03-09 |
 | ios | [UTM Remote Virtual Machines](https://testflight.apple.com/join/mFlnyMv3) | 2024-03-06 |
-| ios | [Jira Server by Atlassian](https://testflight.apple.com/join/6JbjYbSY) | 2024-03-05 |
 | macos | [UTM Virtual Machines](https://testflight.apple.com/join/XQ3tNoNn) | 2024-03-05 |
 | ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2024-02-29 |
 | ios | [Fugl](https://testflight.apple.com/join/bZIZeB4N) | 2024-02-26 |
@@ -61,7 +64,6 @@
 | ios | [Twitch Beta](https://testflight.apple.com/join/8vRKFAiY) | 2024-02-23 |
 | ios | [F1ATV](https://testflight.apple.com/join/NRswe1IZ) | 2024-02-20 |
 | ios | [Peerlist](https://testflight.apple.com/join/1KDD1Gqr) | 2024-02-17 |
-| ios | [Fintunes beta](https://testflight.apple.com/join/cf2AMDpx) | 2024-02-14 |
 | ios | [CharMap](https://testflight.apple.com/join/TL68k0Sp) | 2024-02-13 |
 | ios | [Feedly](https://testflight.apple.com/join/03ER1aUo) | 2024-02-08 |
 | ios | [Sleep Cycle - Sleep Tracker beta](https://testflight.apple.com/join/tCeANbZi) | 2024-02-07 |
@@ -118,7 +120,6 @@
 | ios | [Qobuz](https://testflight.apple.com/join/GPJZwnh9) | 2023-01-14 |
 | ios | [Deezer](https://testflight.apple.com/join/e7mCOEeg) | 2022-12-31 |
 | ios | [AnyList](https://testflight.apple.com/join/xwvLPc6o) | 2022-12-15 |
-| ios | [tripmind](https://testflight.apple.com/join/u4DHLMj1) | 2022-11-27 |
 | ios | [Health Export](https://testflight.apple.com/join/g5FcLFJQ) | 2022-10-17 |
 | ios | [Buffer: Social Media Manager](https://testflight.apple.com/join/DOpMcusn) | 2022-10-13 |
 | ios | [Debit & Credit](https://testflight.apple.com/join/FvufwHrV) | 2022-10-13 |
