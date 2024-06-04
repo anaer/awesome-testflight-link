@@ -1,13 +1,14 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| chinese | [iCost 记账](https://testflight.apple.com/join/pm1jk978) | 2024-06-03 |
-| ios | [Microsoft Loop beta](https://testflight.apple.com/join/KNyadcIZ) | 2024-06-03 |
+| ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2024-06-04 |
+| ios | [Finance Bay](https://testflight.apple.com/join/y4etT8Ht) | 2024-06-04 |
+| ios | [Musixmatch Lyrics Finder](https://testflight.apple.com/join/7yLzN5td) | 2024-06-04 |
+| ios | [SHARE NOW (car2go & DriveNow)](https://testflight.apple.com/join/1SsBDNCj) | 2024-06-04 |
+| ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2024-06-04 |
 | ios | [Microsoft Outlook](https://testflight.apple.com/join/QkU4VS1s) | 2024-06-03 |
-| ios | [Signal - Private Messenger](https://testflight.apple.com/join/8FHtd1Jq) | 2024-06-03 |
 | ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-06-03 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-06-02 |
-| ios | [腾讯视频HD](https://testflight.apple.com/join/9JaSzwSN) | 2024-06-02 |
 | ios | [Microsoft Office](https://testflight.apple.com/join/eHAKJBtM) | 2024-06-01 |
 | ios | [Microsoft PowerPoint](https://testflight.apple.com/join/a9Ef0N3g) | 2024-06-01 |
 | ios | [Documents by Readdle](https://testflight.apple.com/join/EOPEVoDA) | 2024-05-31 |
@@ -15,7 +16,6 @@
 | ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2024-05-30 |
 | ios | [Möbius Sync - Syncthing iOS](https://testflight.apple.com/join/n5A7ceuK) | 2024-05-28 |
 | ios | [Opera Touch web browser](https://testflight.apple.com/join/ASrCFVHB) | 2024-05-28 |
-| ios | [Yandex Browser](https://testflight.apple.com/join/Y4k4ze6V) | 2024-05-28 |
 | ios | [Unicode Keyboard](https://testflight.apple.com/join/YKH3kGpt) | 2024-05-27 |
 | macos | [Caffeine Utility](https://testflight.apple.com/join/WHIbsose) | 2024-05-27 |
 | ios | [AdGuard VPN](https://testflight.apple.com/join/fZRiD1zt) | 2024-05-24 |
