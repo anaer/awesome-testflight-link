@@ -1,10 +1,10 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Overcast beta](https://testflight.apple.com/join/37azzGPG) | 2024-06-06 |
 | ios | [Duolingo](https://testflight.apple.com/join/Sq8bYSnJ) | 2024-06-05 |
 | ios | [Newsbite](https://testflight.apple.com/join/7sus3M6q) | 2024-06-05 |
 | ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2024-06-04 |
-| ios | [Finance Bay](https://testflight.apple.com/join/y4etT8Ht) | 2024-06-04 |
 | ios | [SHARE NOW (car2go & DriveNow)](https://testflight.apple.com/join/1SsBDNCj) | 2024-06-04 |
 | ios | [Microsoft Outlook](https://testflight.apple.com/join/QkU4VS1s) | 2024-06-03 |
 | ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-06-03 |
@@ -57,8 +57,6 @@
 | ios | [UTM Remote Virtual Machines](https://testflight.apple.com/join/mFlnyMv3) | 2024-03-06 |
 | macos | [UTM Virtual Machines](https://testflight.apple.com/join/XQ3tNoNn) | 2024-03-05 |
 | ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2024-02-29 |
-| ios | [Fugl](https://testflight.apple.com/join/bZIZeB4N) | 2024-02-26 |
-| ios_game | [Fugl](https://testflight.apple.com/join/bZIZeB4N) | 2024-02-26 |
 | ios | [Twitch Beta](https://testflight.apple.com/join/8vRKFAiY) | 2024-02-23 |
 | ios | [F1ATV](https://testflight.apple.com/join/NRswe1IZ) | 2024-02-20 |
 | ios | [Peerlist](https://testflight.apple.com/join/1KDD1Gqr) | 2024-02-17 |
