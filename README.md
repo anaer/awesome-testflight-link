@@ -1,14 +1,18 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [MEGA](https://testflight.apple.com/join/4x1P5Tnx) | 2024-06-07 |
+| ios | [Microsoft Loop beta](https://testflight.apple.com/join/KNyadcIZ) | 2024-06-07 |
+| ios | [Microsoft SwiftKey Keyboard](https://testflight.apple.com/join/yhIhAvjp) | 2024-06-07 |
+| ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2024-06-07 |
+| ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2024-06-07 |
+| ios | [搜狗输入法](https://testflight.apple.com/join/lSZdpEPH) | 2024-06-07 |
+| ios_game | [Stick War 3](https://testflight.apple.com/join/eUx3WxVj) | 2024-06-07 |
 | ios | [Overcast beta](https://testflight.apple.com/join/37azzGPG) | 2024-06-06 |
-| ios | [Duolingo](https://testflight.apple.com/join/Sq8bYSnJ) | 2024-06-05 |
 | ios | [Newsbite](https://testflight.apple.com/join/7sus3M6q) | 2024-06-05 |
 | ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2024-06-04 |
 | ios | [SHARE NOW (car2go & DriveNow)](https://testflight.apple.com/join/1SsBDNCj) | 2024-06-04 |
 | ios | [Microsoft Outlook](https://testflight.apple.com/join/QkU4VS1s) | 2024-06-03 |
-| ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-06-03 |
-| ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-06-02 |
 | ios | [Microsoft Office](https://testflight.apple.com/join/eHAKJBtM) | 2024-06-01 |
 | ios | [Microsoft PowerPoint](https://testflight.apple.com/join/a9Ef0N3g) | 2024-06-01 |
 | ios | [Documents by Readdle](https://testflight.apple.com/join/EOPEVoDA) | 2024-05-31 |
@@ -99,7 +103,6 @@
 | ios | [S.Mario beta](https://testflight.apple.com/join/HLKh7Jx9) | 2023-07-06 |
 | ios_game | [DropZap World](https://testflight.apple.com/join/CdEXgjst) | 2023-07-02 |
 | chinese | [Maxthon Cloud Web Browser](https://testflight.apple.com/join/ONuHkBRv) | 2023-06-22 |
-| macos | [Salam](https://testflight.apple.com/join/IjXpQtAo) | 2023-06-22 |
 | ios | [Sangoma Meet](https://testflight.apple.com/join/BEd12vi5) | 2023-05-25 |
 | ios | [RainViewer: Live Weather Radar](https://testflight.apple.com/join/OZ1B4sTS) | 2023-05-20 |
 | ios | [FRITZ!App Fon](https://testflight.apple.com/join/SGGCxyRp) | 2023-05-19 |
@@ -111,7 +114,6 @@
 | macos | [Ride Wait Times](https://testflight.apple.com/join/yQNmMRwB) | 2023-02-11 |
 | ios | [Day One Journal](https://testflight.apple.com/join/NXLBigzY) | 2023-02-06 |
 | ios | [AmazFaces](https://testflight.apple.com/join/4hBEKHHg) | 2023-01-20 |
-| ios | [Salam](https://testflight.apple.com/join/IjXpQtAo) | 2023-01-17 |
 | ios_game | [Cell to Singularity](https://testflight.apple.com/join/RD9jGH9S) | 2023-01-15 |
 | ios | [Qobuz](https://testflight.apple.com/join/GPJZwnh9) | 2023-01-14 |
 | ios | [Deezer](https://testflight.apple.com/join/e7mCOEeg) | 2022-12-31 |
