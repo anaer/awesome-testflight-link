@@ -1,16 +1,14 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Duolingo](https://testflight.apple.com/join/Sq8bYSnJ) | 2024-06-08 |
+| ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2024-06-08 |
+| macos | [Windows App](https://testflight.apple.com/join/YqNaYeyS) | 2024-06-08 |
 | ios | [MEGA](https://testflight.apple.com/join/4x1P5Tnx) | 2024-06-07 |
-| ios | [Microsoft Loop beta](https://testflight.apple.com/join/KNyadcIZ) | 2024-06-07 |
-| ios | [Microsoft SwiftKey Keyboard](https://testflight.apple.com/join/yhIhAvjp) | 2024-06-07 |
 | ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2024-06-07 |
 | ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2024-06-07 |
-| ios | [搜狗输入法](https://testflight.apple.com/join/lSZdpEPH) | 2024-06-07 |
-| ios_game | [Stick War 3](https://testflight.apple.com/join/eUx3WxVj) | 2024-06-07 |
 | ios | [Overcast beta](https://testflight.apple.com/join/37azzGPG) | 2024-06-06 |
 | ios | [Newsbite](https://testflight.apple.com/join/7sus3M6q) | 2024-06-05 |
-| ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2024-06-04 |
 | ios | [SHARE NOW (car2go & DriveNow)](https://testflight.apple.com/join/1SsBDNCj) | 2024-06-04 |
 | ios | [Microsoft Outlook](https://testflight.apple.com/join/QkU4VS1s) | 2024-06-03 |
 | ios | [Microsoft Office](https://testflight.apple.com/join/eHAKJBtM) | 2024-06-01 |
@@ -46,7 +44,6 @@
 | ios | [Hanami](https://testflight.apple.com/join/VUPzZpkc) | 2024-04-10 |
 | ios | [Soulver](https://testflight.apple.com/join/rBWP4hPz) | 2024-04-02 |
 | ios | [Trello — Organize anything!](https://testflight.apple.com/join/cRWMcQsr) | 2024-04-02 |
-| chinese | [微信键盘 beta](https://testflight.apple.com/join/iSTXkF4K) | 2024-03-30 |
 | ios | [FRITZ!App TV](https://testflight.apple.com/join/Zl2czQO2) | 2024-03-29 |
 | ios | [Task Flow: To-Do List & Tasks](https://testflight.apple.com/join/JyqxBPFf) | 2024-03-29 |
 | ios | [Bitwarden Password Manager](https://testflight.apple.com/join/595lFH7U) | 2024-03-27 |
