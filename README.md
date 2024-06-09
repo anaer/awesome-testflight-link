@@ -1,12 +1,8 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Duolingo](https://testflight.apple.com/join/Sq8bYSnJ) | 2024-06-08 |
-| ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2024-06-08 |
-| macos | [Windows App](https://testflight.apple.com/join/YqNaYeyS) | 2024-06-08 |
-| ios | [MEGA](https://testflight.apple.com/join/4x1P5Tnx) | 2024-06-07 |
-| ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2024-06-07 |
-| ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2024-06-07 |
+| ios | [Musixmatch Lyrics Finder](https://testflight.apple.com/join/7yLzN5td) | 2024-06-09 |
+| macos | [MenubarX](https://testflight.apple.com/join/Tqr03a4h) | 2024-06-09 |
 | ios | [Overcast beta](https://testflight.apple.com/join/37azzGPG) | 2024-06-06 |
 | ios | [Newsbite](https://testflight.apple.com/join/7sus3M6q) | 2024-06-05 |
 | ios | [SHARE NOW (car2go & DriveNow)](https://testflight.apple.com/join/1SsBDNCj) | 2024-06-04 |
