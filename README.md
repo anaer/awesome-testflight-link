@@ -1,7 +1,12 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios_game | [Stick War 3](https://testflight.apple.com/join/eUx3WxVj) | 2024-06-10 |
+| ios | [Microsoft SwiftKey Keyboard](https://testflight.apple.com/join/yhIhAvjp) | 2024-06-11 |
+| ios | [PDF Viewer Pro by PSPDFKit](https://testflight.apple.com/join/6IMUtZ8n) | 2024-06-11 |
+| ios | [Retro 2](https://testflight.apple.com/join/IjV5V0zL) | 2024-06-11 |
+| ios | [SimpleTix Box Office](https://testflight.apple.com/join/zyByZSX8) | 2024-06-11 |
+| ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2024-06-11 |
+| ios | [腾讯视频HD](https://testflight.apple.com/join/9JaSzwSN) | 2024-06-11 |
 | ios | [Overcast beta](https://testflight.apple.com/join/37azzGPG) | 2024-06-06 |
 | ios | [Newsbite](https://testflight.apple.com/join/7sus3M6q) | 2024-06-05 |
 | ios | [SHARE NOW (car2go & DriveNow)](https://testflight.apple.com/join/1SsBDNCj) | 2024-06-04 |
@@ -65,7 +70,6 @@
 | ios | [Just Timers](https://testflight.apple.com/join/pyzrz0oT) | 2024-01-19 |
 | chinese | [酷狗音乐](https://testflight.apple.com/join/6cnKUyZ8) | 2024-01-05 |
 | ios | [Go Map!!](https://testflight.apple.com/join/T96F9wYq) | 2023-12-23 |
-| ios | [KyPass 4 密码管理](https://testflight.apple.com/join/wlZmOo9t) | 2023-12-22 |
 | ios | [Keka](https://testflight.apple.com/join/gPYINGCJ) | 2023-12-21 |
 | ios | [YACReader](https://testflight.apple.com/join/5zhB7sRP) | 2023-12-13 |
 | ios | [Calendars 5 by Readdle](https://testflight.apple.com/join/tC44BniC) | 2023-12-09 |
