@@ -1,12 +1,14 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Microsoft SwiftKey Keyboard](https://testflight.apple.com/join/yhIhAvjp) | 2024-06-11 |
+| ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2024-06-12 |
+| ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-06-12 |
+| ios | [NS Travel Planner](https://testflight.apple.com/join/ldBwapIg) | 2024-06-12 |
+| ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-06-12 |
+| macos | [Caffeine Utility](https://testflight.apple.com/join/WHIbsose) | 2024-06-12 |
 | ios | [PDF Viewer Pro by PSPDFKit](https://testflight.apple.com/join/6IMUtZ8n) | 2024-06-11 |
-| ios | [Retro 2](https://testflight.apple.com/join/IjV5V0zL) | 2024-06-11 |
 | ios | [SimpleTix Box Office](https://testflight.apple.com/join/zyByZSX8) | 2024-06-11 |
 | ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2024-06-11 |
-| ios | [腾讯视频HD](https://testflight.apple.com/join/9JaSzwSN) | 2024-06-11 |
 | ios | [Overcast beta](https://testflight.apple.com/join/37azzGPG) | 2024-06-06 |
 | ios | [Newsbite](https://testflight.apple.com/join/7sus3M6q) | 2024-06-05 |
 | ios | [SHARE NOW (car2go & DriveNow)](https://testflight.apple.com/join/1SsBDNCj) | 2024-06-04 |
