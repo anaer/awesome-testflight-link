@@ -1,14 +1,18 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2024-06-12 |
+| chinese | [微信读书](https://testflight.apple.com/join/5MWjLpYl) | 2024-06-13 |
+| chinese | [微信键盘 beta](https://testflight.apple.com/join/iSTXkF4K) | 2024-06-13 |
+| ios | [ColorSlurp Beta](https://testflight.apple.com/join/xxEw2j1X) | 2024-06-13 |
+| ios | [Erasee: Background Remover](https://testflight.apple.com/join/t6xnU9H3) | 2024-06-13 |
+| ios | [Mixing Station](https://testflight.apple.com/join/lsd9mugy) | 2024-06-13 |
+| ios | [Quizlet](https://testflight.apple.com/join/mwhcPqxJ) | 2024-06-13 |
+| ios | [Windows App Mobile](https://testflight.apple.com/join/q4ha2nsh) | 2024-06-13 |
+| ios | [infltr - Infinite Filters](https://testflight.apple.com/join/In6e3GcJ) | 2024-06-13 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-06-12 |
-| ios | [NS Travel Planner](https://testflight.apple.com/join/ldBwapIg) | 2024-06-12 |
 | ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-06-12 |
 | macos | [Caffeine Utility](https://testflight.apple.com/join/WHIbsose) | 2024-06-12 |
-| ios | [PDF Viewer Pro by PSPDFKit](https://testflight.apple.com/join/6IMUtZ8n) | 2024-06-11 |
 | ios | [SimpleTix Box Office](https://testflight.apple.com/join/zyByZSX8) | 2024-06-11 |
-| ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2024-06-11 |
 | ios | [Overcast beta](https://testflight.apple.com/join/37azzGPG) | 2024-06-06 |
 | ios | [Newsbite](https://testflight.apple.com/join/7sus3M6q) | 2024-06-05 |
 | ios | [SHARE NOW (car2go & DriveNow)](https://testflight.apple.com/join/1SsBDNCj) | 2024-06-04 |
