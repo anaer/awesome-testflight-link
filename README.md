@@ -1,18 +1,20 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| chinese | [哔哩哔哩](https://testflight.apple.com/join/K4pM1kHu) | 2024-06-15 |
+| ios | [BeReal](https://testflight.apple.com/join/IM4jE5XY) | 2024-06-15 |
+| ios | [Fugl](https://testflight.apple.com/join/bZIZeB4N) | 2024-06-15 |
+| ios | [Onion Browser](https://testflight.apple.com/join/iPWLRpZu) | 2024-06-15 |
+| ios | [PDF Viewer Pro by PSPDFKit](https://testflight.apple.com/join/6IMUtZ8n) | 2024-06-15 |
+| ios | [Pinterest beta](https://testflight.apple.com/join/ffIBkq35) | 2024-06-15 |
+| ios_game | [Fugl](https://testflight.apple.com/join/bZIZeB4N) | 2024-06-15 |
 | ios | [FRITZ!App WLAN](https://testflight.apple.com/join/vbfCKamq) | 2024-06-14 |
 | ios | [GitHub](https://testflight.apple.com/join/NLskzwi5) | 2024-06-14 |
-| ios | [NS Travel Planner](https://testflight.apple.com/join/ldBwapIg) | 2024-06-14 |
 | ios | [Parcel - Delivery Tracking](https://testflight.apple.com/join/fMeg6C4A) | 2024-06-14 |
-| ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2024-06-14 |
 | chinese | [微信读书](https://testflight.apple.com/join/5MWjLpYl) | 2024-06-13 |
 | ios | [ColorSlurp Beta](https://testflight.apple.com/join/xxEw2j1X) | 2024-06-13 |
 | ios | [Erasee: Background Remover](https://testflight.apple.com/join/t6xnU9H3) | 2024-06-13 |
-| ios | [Mixing Station](https://testflight.apple.com/join/lsd9mugy) | 2024-06-13 |
-| ios | [Windows App Mobile](https://testflight.apple.com/join/q4ha2nsh) | 2024-06-13 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-06-12 |
-| ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-06-12 |
 | ios | [SimpleTix Box Office](https://testflight.apple.com/join/zyByZSX8) | 2024-06-11 |
 | ios | [Overcast beta](https://testflight.apple.com/join/37azzGPG) | 2024-06-06 |
 | ios | [Newsbite](https://testflight.apple.com/join/7sus3M6q) | 2024-06-05 |
