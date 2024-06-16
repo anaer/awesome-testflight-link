@@ -1,14 +1,12 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| chinese | [哔哩哔哩](https://testflight.apple.com/join/K4pM1kHu) | 2024-06-15 |
+| chinese | [微信键盘 beta](https://testflight.apple.com/join/iSTXkF4K) | 2024-06-16 |
+| chinese | [百度贴吧](https://testflight.apple.com/join/GgBqXAqm) | 2024-06-16 |
+| ios | [Lock Launcher beta](https://testflight.apple.com/join/clHxFnLa) | 2024-06-16 |
+| ios | [Musixmatch Lyrics Finder](https://testflight.apple.com/join/7yLzN5td) | 2024-06-16 |
+| macos | [Caffeine Utility](https://testflight.apple.com/join/WHIbsose) | 2024-06-16 |
 | ios | [BeReal](https://testflight.apple.com/join/IM4jE5XY) | 2024-06-15 |
-| ios | [Fugl](https://testflight.apple.com/join/bZIZeB4N) | 2024-06-15 |
-| ios | [Onion Browser](https://testflight.apple.com/join/iPWLRpZu) | 2024-06-15 |
-| ios | [PDF Viewer Pro by PSPDFKit](https://testflight.apple.com/join/6IMUtZ8n) | 2024-06-15 |
-| ios | [Pinterest beta](https://testflight.apple.com/join/ffIBkq35) | 2024-06-15 |
-| ios_game | [Fugl](https://testflight.apple.com/join/bZIZeB4N) | 2024-06-15 |
-| ios | [FRITZ!App WLAN](https://testflight.apple.com/join/vbfCKamq) | 2024-06-14 |
 | ios | [GitHub](https://testflight.apple.com/join/NLskzwi5) | 2024-06-14 |
 | ios | [Parcel - Delivery Tracking](https://testflight.apple.com/join/fMeg6C4A) | 2024-06-14 |
 | chinese | [微信读书](https://testflight.apple.com/join/5MWjLpYl) | 2024-06-13 |
