@@ -1,12 +1,9 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| chinese | [微信键盘 beta](https://testflight.apple.com/join/iSTXkF4K) | 2024-06-16 |
-| chinese | [百度贴吧](https://testflight.apple.com/join/GgBqXAqm) | 2024-06-16 |
-| ios | [Lock Launcher beta](https://testflight.apple.com/join/clHxFnLa) | 2024-06-16 |
-| ios | [Musixmatch Lyrics Finder](https://testflight.apple.com/join/7yLzN5td) | 2024-06-16 |
-| macos | [Caffeine Utility](https://testflight.apple.com/join/WHIbsose) | 2024-06-16 |
-| ios | [BeReal](https://testflight.apple.com/join/IM4jE5XY) | 2024-06-15 |
+| ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2024-06-17 |
+| ios | [Signal - Private Messenger](https://testflight.apple.com/join/8FHtd1Jq) | 2024-06-17 |
+| ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-06-17 |
 | ios | [GitHub](https://testflight.apple.com/join/NLskzwi5) | 2024-06-14 |
 | ios | [Parcel - Delivery Tracking](https://testflight.apple.com/join/fMeg6C4A) | 2024-06-14 |
 | chinese | [微信读书](https://testflight.apple.com/join/5MWjLpYl) | 2024-06-13 |
@@ -31,7 +28,6 @@
 | ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2024-05-23 |
 | ios | [Flipabit](https://testflight.apple.com/join/ruyYHU5E) | 2024-05-16 |
 | ios | [Revolut - Radically Better](https://testflight.apple.com/join/oqrinjQB) | 2024-05-16 |
-| ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2024-05-14 |
 | ios | [Nearby AI - GPT AI Prompts](https://testflight.apple.com/join/xHGrkViR) | 2024-05-14 |
 | ios | [Voqab - Vocabulary Training App](https://testflight.apple.com/join/o85e2EHN) | 2024-05-14 |
 | ios | [WhatsApp Business](https://testflight.apple.com/join/oscYikr0) | 2024-05-10 |
