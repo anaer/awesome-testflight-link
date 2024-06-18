@@ -1,15 +1,17 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2024-06-17 |
-| ios | [Signal - Private Messenger](https://testflight.apple.com/join/8FHtd1Jq) | 2024-06-17 |
+| chinese | [酷狗概念版](https://testflight.apple.com/join/IOgbaxds) | 2024-06-18 |
+| ios | [Duolingo](https://testflight.apple.com/join/Sq8bYSnJ) | 2024-06-18 |
+| ios | [Notion](https://testflight.apple.com/join/YSo8aVCS) | 2024-06-18 |
+| ios | [PushUp Workout Daily at Home](https://testflight.apple.com/join/myFEz6DW) | 2024-06-18 |
+| ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2024-06-18 |
+| macos | [SnippetsLab](https://testflight.apple.com/join/LBF2tQ2l) | 2024-06-18 |
 | ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-06-17 |
 | ios | [GitHub](https://testflight.apple.com/join/NLskzwi5) | 2024-06-14 |
 | ios | [Parcel - Delivery Tracking](https://testflight.apple.com/join/fMeg6C4A) | 2024-06-14 |
-| chinese | [微信读书](https://testflight.apple.com/join/5MWjLpYl) | 2024-06-13 |
 | ios | [ColorSlurp Beta](https://testflight.apple.com/join/xxEw2j1X) | 2024-06-13 |
 | ios | [Erasee: Background Remover](https://testflight.apple.com/join/t6xnU9H3) | 2024-06-13 |
-| ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-06-12 |
 | ios | [SimpleTix Box Office](https://testflight.apple.com/join/zyByZSX8) | 2024-06-11 |
 | ios | [Overcast beta](https://testflight.apple.com/join/37azzGPG) | 2024-06-06 |
 | ios | [Newsbite](https://testflight.apple.com/join/7sus3M6q) | 2024-06-05 |
@@ -120,7 +122,6 @@
 | ios | [Firewalla](https://testflight.apple.com/join/qtUnSjJp) | 2022-10-13 |
 | ios | [IMDb: Movies & TV Shows](https://testflight.apple.com/join/Y9yo0X5t) | 2022-10-13 |
 | ios | [Nubank](https://testflight.apple.com/join/v3SGNpM5) | 2022-10-13 |
-| ios | [SM.MS](https://testflight.apple.com/join/bQz911w3) | 2022-10-13 |
 | ios | [Skype For iPhone](https://testflight.apple.com/join/fB5IkJT7) | 2022-10-13 |
 | ios | [Smart Post: Schedule Media](https://testflight.apple.com/join/a0zXMXbA) | 2022-10-13 |
 | ios | [VFeed](https://testflight.apple.com/join/ZdC5U0fR) | 2022-10-13 |
