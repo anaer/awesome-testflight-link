@@ -1,11 +1,17 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| chinese | [酷狗概念版](https://testflight.apple.com/join/IOgbaxds) | 2024-06-18 |
-| ios | [Duolingo](https://testflight.apple.com/join/Sq8bYSnJ) | 2024-06-18 |
-| ios | [Notion](https://testflight.apple.com/join/YSo8aVCS) | 2024-06-18 |
+| chinese | [百度贴吧](https://testflight.apple.com/join/GgBqXAqm) | 2024-06-19 |
+| ios | [Microsoft Designer beta](https://testflight.apple.com/join/KsuaylTZ) | 2024-06-19 |
+| ios | [Microsoft Loop beta](https://testflight.apple.com/join/KNyadcIZ) | 2024-06-19 |
+| ios | [Musixmatch Lyrics Finder](https://testflight.apple.com/join/7yLzN5td) | 2024-06-19 |
+| ios | [PDF Viewer Pro by PSPDFKit](https://testflight.apple.com/join/6IMUtZ8n) | 2024-06-19 |
+| ios | [SM.MS](https://testflight.apple.com/join/bQz911w3) | 2024-06-19 |
+| ios | [Signal - Private Messenger](https://testflight.apple.com/join/8FHtd1Jq) | 2024-06-19 |
+| ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2024-06-19 |
+| ios_game | [Minecraft: Education Edition beta](https://testflight.apple.com/join/sBDlEXYr) | 2024-06-19 |
+| macos | [Windows App](https://testflight.apple.com/join/YqNaYeyS) | 2024-06-19 |
 | ios | [PushUp Workout Daily at Home](https://testflight.apple.com/join/myFEz6DW) | 2024-06-18 |
-| ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2024-06-18 |
 | macos | [SnippetsLab](https://testflight.apple.com/join/LBF2tQ2l) | 2024-06-18 |
 | ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-06-17 |
 | ios | [GitHub](https://testflight.apple.com/join/NLskzwi5) | 2024-06-14 |
