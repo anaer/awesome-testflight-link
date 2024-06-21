@@ -1,12 +1,17 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Cinema Time](https://testflight.apple.com/join/wcY5wC6H) | 2024-06-21 |
+| ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2024-06-21 |
+| ios | [Microsoft SwiftKey Keyboard](https://testflight.apple.com/join/yhIhAvjp) | 2024-06-21 |
+| ios | [Plant Identifier & Care](https://testflight.apple.com/join/vYqAc3Lf) | 2024-06-21 |
+| ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-06-21 |
+| ios | [Windows App Mobile](https://testflight.apple.com/join/q4ha2nsh) | 2024-06-21 |
+| ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2024-06-21 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-06-20 |
-| ios | [搜狗输入法](https://testflight.apple.com/join/lSZdpEPH) | 2024-06-20 |
 | ios | [Musixmatch Lyrics Finder](https://testflight.apple.com/join/7yLzN5td) | 2024-06-19 |
 | ios | [PDF Viewer Pro by PSPDFKit](https://testflight.apple.com/join/6IMUtZ8n) | 2024-06-19 |
 | ios | [SM.MS](https://testflight.apple.com/join/bQz911w3) | 2024-06-19 |
-| ios | [Signal - Private Messenger](https://testflight.apple.com/join/8FHtd1Jq) | 2024-06-19 |
 | ios_game | [Minecraft: Education Edition beta](https://testflight.apple.com/join/sBDlEXYr) | 2024-06-19 |
 | macos | [Windows App](https://testflight.apple.com/join/YqNaYeyS) | 2024-06-19 |
 | ios | [PushUp Workout Daily at Home](https://testflight.apple.com/join/myFEz6DW) | 2024-06-18 |
@@ -98,7 +103,6 @@
 | ios | [Kodi Remote beta](https://testflight.apple.com/join/VQkpfqDN) | 2023-07-30 |
 | ios | [Readwise Reader beta](https://testflight.apple.com/join/NSeQo22d) | 2023-07-30 |
 | chinese | [西瓜视频](https://testflight.apple.com/join/ZkSx6V4m) | 2023-07-26 |
-| ios | [SweeLOL](https://testflight.apple.com/join/FT9n1ncG) | 2023-07-09 |
 | ios | [S.Mario beta](https://testflight.apple.com/join/HLKh7Jx9) | 2023-07-06 |
 | ios_game | [DropZap World](https://testflight.apple.com/join/CdEXgjst) | 2023-07-02 |
 | chinese | [Maxthon Cloud Web Browser](https://testflight.apple.com/join/ONuHkBRv) | 2023-06-22 |
