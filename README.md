@@ -1,13 +1,11 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Cinema Time](https://testflight.apple.com/join/wcY5wC6H) | 2024-06-21 |
-| ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2024-06-21 |
-| ios | [Microsoft SwiftKey Keyboard](https://testflight.apple.com/join/yhIhAvjp) | 2024-06-21 |
-| ios | [Plant Identifier & Care](https://testflight.apple.com/join/vYqAc3Lf) | 2024-06-21 |
+| chinese | [微信键盘 beta](https://testflight.apple.com/join/iSTXkF4K) | 2024-06-22 |
+| ios | [Everlog](https://testflight.apple.com/join/sOCDYE65) | 2024-06-22 |
+| ios | [搜狗输入法](https://testflight.apple.com/join/lSZdpEPH) | 2024-06-22 |
 | ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-06-21 |
 | ios | [Windows App Mobile](https://testflight.apple.com/join/q4ha2nsh) | 2024-06-21 |
-| ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2024-06-21 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-06-20 |
 | ios | [Musixmatch Lyrics Finder](https://testflight.apple.com/join/7yLzN5td) | 2024-06-19 |
 | ios | [PDF Viewer Pro by PSPDFKit](https://testflight.apple.com/join/6IMUtZ8n) | 2024-06-19 |
