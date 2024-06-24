@@ -1,10 +1,12 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| chinese | [iCost 记账](https://testflight.apple.com/join/pm1jk978) | 2024-06-23 |
-| ios | [Plant Identifier & Care](https://testflight.apple.com/join/vYqAc3Lf) | 2024-06-23 |
+| ios | [Cinema Time](https://testflight.apple.com/join/wcY5wC6H) | 2024-06-24 |
+| ios | [Microsoft SwiftKey Keyboard](https://testflight.apple.com/join/yhIhAvjp) | 2024-06-24 |
+| ios | [Microsoft To-Do](https://testflight.apple.com/join/JSq3UkAz) | 2024-06-24 |
+| ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2024-06-24 |
+| ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2024-06-24 |
 | ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2024-06-23 |
-| ios | [all 4 hue (for Philips Hue)](https://testflight.apple.com/join/4Jc5hX2s) | 2024-06-23 |
 | ios | [搜狗输入法](https://testflight.apple.com/join/lSZdpEPH) | 2024-06-22 |
 | ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-06-21 |
 | ios | [Windows App Mobile](https://testflight.apple.com/join/q4ha2nsh) | 2024-06-21 |
@@ -116,7 +118,6 @@
 | ios | [AmazFaces](https://testflight.apple.com/join/4hBEKHHg) | 2023-01-20 |
 | ios_game | [Cell to Singularity](https://testflight.apple.com/join/RD9jGH9S) | 2023-01-15 |
 | ios | [Qobuz](https://testflight.apple.com/join/GPJZwnh9) | 2023-01-14 |
-| ios | [Deezer](https://testflight.apple.com/join/e7mCOEeg) | 2022-12-31 |
 | ios | [AnyList](https://testflight.apple.com/join/xwvLPc6o) | 2022-12-15 |
 | ios | [Health Export](https://testflight.apple.com/join/g5FcLFJQ) | 2022-10-17 |
 | ios | [Buffer: Social Media Manager](https://testflight.apple.com/join/DOpMcusn) | 2022-10-13 |
