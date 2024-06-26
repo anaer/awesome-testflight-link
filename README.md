@@ -1,13 +1,11 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Cheatsheet](https://testflight.apple.com/join/E7AnyPlA) | 2024-06-26 |
+| ios | [Musixmatch Lyrics Finder](https://testflight.apple.com/join/7yLzN5td) | 2024-06-26 |
+| ios | [腾讯视频HD](https://testflight.apple.com/join/9JaSzwSN) | 2024-06-26 |
 | ios | [Unomo](https://testflight.apple.com/join/qbYJl8sX) | 2024-06-25 |
-| ios | [Cinema Time](https://testflight.apple.com/join/wcY5wC6H) | 2024-06-24 |
-| ios | [Microsoft SwiftKey Keyboard](https://testflight.apple.com/join/yhIhAvjp) | 2024-06-24 |
-| ios | [Microsoft To-Do](https://testflight.apple.com/join/JSq3UkAz) | 2024-06-24 |
-| ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2024-06-24 |
 | ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2024-06-24 |
-| ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2024-06-23 |
 | ios | [搜狗输入法](https://testflight.apple.com/join/lSZdpEPH) | 2024-06-22 |
 | ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-06-21 |
 | ios | [Windows App Mobile](https://testflight.apple.com/join/q4ha2nsh) | 2024-06-21 |
@@ -15,7 +13,6 @@
 | ios | [PDF Viewer Pro by PSPDFKit](https://testflight.apple.com/join/6IMUtZ8n) | 2024-06-19 |
 | ios | [SM.MS](https://testflight.apple.com/join/bQz911w3) | 2024-06-19 |
 | ios_game | [Minecraft: Education Edition beta](https://testflight.apple.com/join/sBDlEXYr) | 2024-06-19 |
-| macos | [Windows App](https://testflight.apple.com/join/YqNaYeyS) | 2024-06-19 |
 | ios | [PushUp Workout Daily at Home](https://testflight.apple.com/join/myFEz6DW) | 2024-06-18 |
 | macos | [SnippetsLab](https://testflight.apple.com/join/LBF2tQ2l) | 2024-06-18 |
 | ios | [GitHub](https://testflight.apple.com/join/NLskzwi5) | 2024-06-14 |
