@@ -1,11 +1,17 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| chinese | [微信读书](https://testflight.apple.com/join/5MWjLpYl) | 2024-06-27 |
+| chinese | [百度贴吧](https://testflight.apple.com/join/GgBqXAqm) | 2024-06-27 |
+| ios | [1Password - Password Manager beta](https://testflight.apple.com/join/fzDLkIVK) | 2024-06-27 |
+| ios | [Microsoft Loop beta](https://testflight.apple.com/join/KNyadcIZ) | 2024-06-27 |
+| ios | [Mixing Station](https://testflight.apple.com/join/lsd9mugy) | 2024-06-27 |
+| ios | [Plant Identifier & Care](https://testflight.apple.com/join/vYqAc3Lf) | 2024-06-27 |
+| ios | [Retro 2](https://testflight.apple.com/join/IjV5V0zL) | 2024-06-27 |
+| ios | [YACReader](https://testflight.apple.com/join/5zhB7sRP) | 2024-06-27 |
+| macos | [MenubarX](https://testflight.apple.com/join/Tqr03a4h) | 2024-06-27 |
 | ios | [Cheatsheet](https://testflight.apple.com/join/E7AnyPlA) | 2024-06-26 |
-| ios | [Musixmatch Lyrics Finder](https://testflight.apple.com/join/7yLzN5td) | 2024-06-26 |
-| ios | [腾讯视频HD](https://testflight.apple.com/join/9JaSzwSN) | 2024-06-26 |
 | ios | [Unomo](https://testflight.apple.com/join/qbYJl8sX) | 2024-06-25 |
-| ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2024-06-24 |
 | ios | [搜狗输入法](https://testflight.apple.com/join/lSZdpEPH) | 2024-06-22 |
 | ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-06-21 |
 | ios | [Windows App Mobile](https://testflight.apple.com/join/q4ha2nsh) | 2024-06-21 |
@@ -53,7 +59,6 @@
 | ios | [Soulver](https://testflight.apple.com/join/rBWP4hPz) | 2024-04-02 |
 | ios | [Trello — Organize anything!](https://testflight.apple.com/join/cRWMcQsr) | 2024-04-02 |
 | ios | [FRITZ!App TV](https://testflight.apple.com/join/Zl2czQO2) | 2024-03-29 |
-| ios | [Task Flow: To-Do List & Tasks](https://testflight.apple.com/join/JyqxBPFf) | 2024-03-29 |
 | ios | [Bitwarden Password Manager](https://testflight.apple.com/join/595lFH7U) | 2024-03-27 |
 | ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2024-03-27 |
 | chinese | [事线 - 串事成线](https://testflight.apple.com/join/grxohdR3) | 2024-03-26 |
