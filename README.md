@@ -1,15 +1,15 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| chinese | [微信读书](https://testflight.apple.com/join/5MWjLpYl) | 2024-06-27 |
+| chinese | [酷狗概念版](https://testflight.apple.com/join/IOgbaxds) | 2024-06-28 |
+| ios | [Everlog](https://testflight.apple.com/join/sOCDYE65) | 2024-06-28 |
+| ios | [Finance Bay](https://testflight.apple.com/join/y4etT8Ht) | 2024-06-28 |
+| ios | [Microsoft Designer beta](https://testflight.apple.com/join/KsuaylTZ) | 2024-06-28 |
+| ios | [Microsoft OneDrive](https://testflight.apple.com/join/LtgPLzrQ) | 2024-06-28 |
+| ios | [腾讯视频HD](https://testflight.apple.com/join/9JaSzwSN) | 2024-06-28 |
+| macos | [Caffeine Utility](https://testflight.apple.com/join/WHIbsose) | 2024-06-28 |
 | chinese | [百度贴吧](https://testflight.apple.com/join/GgBqXAqm) | 2024-06-27 |
-| ios | [1Password - Password Manager beta](https://testflight.apple.com/join/fzDLkIVK) | 2024-06-27 |
-| ios | [Microsoft Loop beta](https://testflight.apple.com/join/KNyadcIZ) | 2024-06-27 |
-| ios | [Mixing Station](https://testflight.apple.com/join/lsd9mugy) | 2024-06-27 |
-| ios | [Plant Identifier & Care](https://testflight.apple.com/join/vYqAc3Lf) | 2024-06-27 |
 | ios | [Retro 2](https://testflight.apple.com/join/IjV5V0zL) | 2024-06-27 |
-| ios | [YACReader](https://testflight.apple.com/join/5zhB7sRP) | 2024-06-27 |
-| macos | [MenubarX](https://testflight.apple.com/join/Tqr03a4h) | 2024-06-27 |
 | ios | [Cheatsheet](https://testflight.apple.com/join/E7AnyPlA) | 2024-06-26 |
 | ios | [Unomo](https://testflight.apple.com/join/qbYJl8sX) | 2024-06-25 |
 | ios | [搜狗输入法](https://testflight.apple.com/join/lSZdpEPH) | 2024-06-22 |
@@ -68,7 +68,6 @@
 | ios | [Pushover Notifications](https://testflight.apple.com/join/vkwfdWM0) | 2024-03-09 |
 | ios | [UTM Remote Virtual Machines](https://testflight.apple.com/join/mFlnyMv3) | 2024-03-06 |
 | macos | [UTM Virtual Machines](https://testflight.apple.com/join/XQ3tNoNn) | 2024-03-05 |
-| ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2024-02-29 |
 | ios | [Twitch Beta](https://testflight.apple.com/join/8vRKFAiY) | 2024-02-23 |
 | ios | [F1ATV](https://testflight.apple.com/join/NRswe1IZ) | 2024-02-20 |
 | ios | [Peerlist](https://testflight.apple.com/join/1KDD1Gqr) | 2024-02-17 |
