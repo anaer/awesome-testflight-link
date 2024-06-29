@@ -1,21 +1,18 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| chinese | [微信键盘 beta](https://testflight.apple.com/join/iSTXkF4K) | 2024-06-29 |
+| ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2024-06-29 |
+| ios | [Musixmatch Lyrics Finder](https://testflight.apple.com/join/7yLzN5td) | 2024-06-29 |
+| ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2024-06-29 |
+| ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2024-06-29 |
 | chinese | [酷狗概念版](https://testflight.apple.com/join/IOgbaxds) | 2024-06-28 |
-| ios | [Everlog](https://testflight.apple.com/join/sOCDYE65) | 2024-06-28 |
-| ios | [Finance Bay](https://testflight.apple.com/join/y4etT8Ht) | 2024-06-28 |
-| ios | [Microsoft Designer beta](https://testflight.apple.com/join/KsuaylTZ) | 2024-06-28 |
-| ios | [Microsoft OneDrive](https://testflight.apple.com/join/LtgPLzrQ) | 2024-06-28 |
-| ios | [腾讯视频HD](https://testflight.apple.com/join/9JaSzwSN) | 2024-06-28 |
 | macos | [Caffeine Utility](https://testflight.apple.com/join/WHIbsose) | 2024-06-28 |
-| chinese | [百度贴吧](https://testflight.apple.com/join/GgBqXAqm) | 2024-06-27 |
 | ios | [Retro 2](https://testflight.apple.com/join/IjV5V0zL) | 2024-06-27 |
 | ios | [Cheatsheet](https://testflight.apple.com/join/E7AnyPlA) | 2024-06-26 |
 | ios | [Unomo](https://testflight.apple.com/join/qbYJl8sX) | 2024-06-25 |
 | ios | [搜狗输入法](https://testflight.apple.com/join/lSZdpEPH) | 2024-06-22 |
-| ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-06-21 |
 | ios | [Windows App Mobile](https://testflight.apple.com/join/q4ha2nsh) | 2024-06-21 |
-| ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-06-20 |
 | ios | [PDF Viewer Pro by PSPDFKit](https://testflight.apple.com/join/6IMUtZ8n) | 2024-06-19 |
 | ios | [SM.MS](https://testflight.apple.com/join/bQz911w3) | 2024-06-19 |
 | ios_game | [Minecraft: Education Edition beta](https://testflight.apple.com/join/sBDlEXYr) | 2024-06-19 |
