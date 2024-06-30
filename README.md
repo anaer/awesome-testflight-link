@@ -1,17 +1,16 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| chinese | [微信键盘 beta](https://testflight.apple.com/join/iSTXkF4K) | 2024-06-29 |
+| chinese | [iCost 记账](https://testflight.apple.com/join/pm1jk978) | 2024-06-30 |
+| ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-06-30 |
+| ios | [YACReader](https://testflight.apple.com/join/5zhB7sRP) | 2024-06-30 |
 | ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2024-06-29 |
 | ios | [Musixmatch Lyrics Finder](https://testflight.apple.com/join/7yLzN5td) | 2024-06-29 |
 | ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2024-06-29 |
-| ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2024-06-29 |
 | chinese | [酷狗概念版](https://testflight.apple.com/join/IOgbaxds) | 2024-06-28 |
 | macos | [Caffeine Utility](https://testflight.apple.com/join/WHIbsose) | 2024-06-28 |
-| ios | [Retro 2](https://testflight.apple.com/join/IjV5V0zL) | 2024-06-27 |
 | ios | [Cheatsheet](https://testflight.apple.com/join/E7AnyPlA) | 2024-06-26 |
 | ios | [Unomo](https://testflight.apple.com/join/qbYJl8sX) | 2024-06-25 |
-| ios | [搜狗输入法](https://testflight.apple.com/join/lSZdpEPH) | 2024-06-22 |
 | ios | [Windows App Mobile](https://testflight.apple.com/join/q4ha2nsh) | 2024-06-21 |
 | ios | [PDF Viewer Pro by PSPDFKit](https://testflight.apple.com/join/6IMUtZ8n) | 2024-06-19 |
 | ios | [SM.MS](https://testflight.apple.com/join/bQz911w3) | 2024-06-19 |
@@ -41,7 +40,6 @@
 | ios | [Revolut - Radically Better](https://testflight.apple.com/join/oqrinjQB) | 2024-05-16 |
 | ios | [Nearby AI - GPT AI Prompts](https://testflight.apple.com/join/xHGrkViR) | 2024-05-14 |
 | ios | [Voqab - Vocabulary Training App](https://testflight.apple.com/join/o85e2EHN) | 2024-05-14 |
-| ios | [WhatsApp Business](https://testflight.apple.com/join/oscYikr0) | 2024-05-10 |
 | ios | [Screen Mirroring - 1001 TVs](https://testflight.apple.com/join/Nf1dKOBG) | 2024-05-07 |
 | ios | [Termius – SSH client](https://testflight.apple.com/join/MnuClabg) | 2024-04-30 |
 | ios | [Träning](https://testflight.apple.com/join/7s1wL3HL) | 2024-04-26 |
