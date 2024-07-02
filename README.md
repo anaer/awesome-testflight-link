@@ -1,10 +1,12 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [MEGA](https://testflight.apple.com/join/4x1P5Tnx) | 2024-07-01 |
-| ios | [WhatsApp Business](https://testflight.apple.com/join/oscYikr0) | 2024-07-01 |
+| chinese | [百度贴吧](https://testflight.apple.com/join/GgBqXAqm) | 2024-07-02 |
+| ios | [BeReal](https://testflight.apple.com/join/IM4jE5XY) | 2024-07-02 |
+| ios | [Signal - Private Messenger](https://testflight.apple.com/join/8FHtd1Jq) | 2024-07-02 |
+| ios | [SweeLOL](https://testflight.apple.com/join/FT9n1ncG) | 2024-07-02 |
+| ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-07-02 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-06-30 |
-| ios | [Musixmatch Lyrics Finder](https://testflight.apple.com/join/7yLzN5td) | 2024-06-29 |
 | ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2024-06-29 |
 | chinese | [酷狗概念版](https://testflight.apple.com/join/IOgbaxds) | 2024-06-28 |
 | ios | [Cheatsheet](https://testflight.apple.com/join/E7AnyPlA) | 2024-06-26 |
@@ -60,7 +62,6 @@
 | ios | [Pushover Notifications](https://testflight.apple.com/join/vkwfdWM0) | 2024-03-09 |
 | ios | [Twitch Beta](https://testflight.apple.com/join/8vRKFAiY) | 2024-02-23 |
 | ios | [F1ATV](https://testflight.apple.com/join/NRswe1IZ) | 2024-02-20 |
-| ios | [Peerlist](https://testflight.apple.com/join/1KDD1Gqr) | 2024-02-17 |
 | ios | [CharMap](https://testflight.apple.com/join/TL68k0Sp) | 2024-02-13 |
 | ios | [Feedly](https://testflight.apple.com/join/03ER1aUo) | 2024-02-08 |
 | ios | [Sleep Cycle - Sleep Tracker beta](https://testflight.apple.com/join/tCeANbZi) | 2024-02-07 |
