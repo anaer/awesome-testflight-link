@@ -1,12 +1,13 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-07-03 |
+| ios | [Overcast beta](https://testflight.apple.com/join/37azzGPG) | 2024-07-03 |
+| macos | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-07-03 |
 | chinese | [百度贴吧](https://testflight.apple.com/join/GgBqXAqm) | 2024-07-02 |
-| ios | [BeReal](https://testflight.apple.com/join/IM4jE5XY) | 2024-07-02 |
 | ios | [Signal - Private Messenger](https://testflight.apple.com/join/8FHtd1Jq) | 2024-07-02 |
 | ios | [SweeLOL](https://testflight.apple.com/join/FT9n1ncG) | 2024-07-02 |
 | ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-07-02 |
-| ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-06-30 |
 | ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2024-06-29 |
 | chinese | [酷狗概念版](https://testflight.apple.com/join/IOgbaxds) | 2024-06-28 |
 | ios | [Cheatsheet](https://testflight.apple.com/join/E7AnyPlA) | 2024-06-26 |
