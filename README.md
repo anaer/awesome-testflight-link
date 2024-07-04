@@ -1,13 +1,12 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| chinese | [微信键盘 beta](https://testflight.apple.com/join/iSTXkF4K) | 2024-07-04 |
+| ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2024-07-04 |
 | ios | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-07-03 |
-| ios | [Overcast beta](https://testflight.apple.com/join/37azzGPG) | 2024-07-03 |
 | macos | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-07-03 |
-| chinese | [百度贴吧](https://testflight.apple.com/join/GgBqXAqm) | 2024-07-02 |
 | ios | [Signal - Private Messenger](https://testflight.apple.com/join/8FHtd1Jq) | 2024-07-02 |
 | ios | [SweeLOL](https://testflight.apple.com/join/FT9n1ncG) | 2024-07-02 |
-| ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-07-02 |
 | ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2024-06-29 |
 | chinese | [酷狗概念版](https://testflight.apple.com/join/IOgbaxds) | 2024-06-28 |
 | ios | [Cheatsheet](https://testflight.apple.com/join/E7AnyPlA) | 2024-06-26 |
@@ -76,7 +75,6 @@
 | chinese | [酷狗音乐](https://testflight.apple.com/join/6cnKUyZ8) | 2024-01-05 |
 | ios | [Go Map!!](https://testflight.apple.com/join/T96F9wYq) | 2023-12-23 |
 | ios | [Keka](https://testflight.apple.com/join/gPYINGCJ) | 2023-12-21 |
-| ios | [Calendars 5 by Readdle](https://testflight.apple.com/join/tC44BniC) | 2023-12-09 |
 | ios | [希沃白板](https://testflight.apple.com/join/d6MQLpKY) | 2023-12-07 |
 | ios | [Brave](https://testflight.apple.com/join/Trcbh1o3) | 2023-12-02 |
 | ios | [Hadge](https://testflight.apple.com/join/rFLkfNSu) | 2023-11-30 |
