@@ -1,10 +1,13 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| chinese | [微信键盘 beta](https://testflight.apple.com/join/iSTXkF4K) | 2024-07-04 |
+| chinese | [微信读书](https://testflight.apple.com/join/5MWjLpYl) | 2024-07-05 |
+| ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2024-07-05 |
+| ios | [BeReal](https://testflight.apple.com/join/IM4jE5XY) | 2024-07-05 |
+| ios | [Everlog](https://testflight.apple.com/join/sOCDYE65) | 2024-07-05 |
+| ios | [Finance Bay](https://testflight.apple.com/join/y4etT8Ht) | 2024-07-05 |
+| ios | [Retro 2](https://testflight.apple.com/join/IjV5V0zL) | 2024-07-05 |
 | ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2024-07-04 |
-| ios | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-07-03 |
-| macos | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-07-03 |
 | ios | [Signal - Private Messenger](https://testflight.apple.com/join/8FHtd1Jq) | 2024-07-02 |
 | ios | [SweeLOL](https://testflight.apple.com/join/FT9n1ncG) | 2024-07-02 |
 | ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2024-06-29 |
@@ -53,7 +56,6 @@
 | ios | [Hanami](https://testflight.apple.com/join/VUPzZpkc) | 2024-04-10 |
 | ios | [Trello — Organize anything!](https://testflight.apple.com/join/cRWMcQsr) | 2024-04-02 |
 | ios | [FRITZ!App TV](https://testflight.apple.com/join/Zl2czQO2) | 2024-03-29 |
-| ios | [Bitwarden Password Manager](https://testflight.apple.com/join/595lFH7U) | 2024-03-27 |
 | ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2024-03-27 |
 | chinese | [事线 - 串事成线](https://testflight.apple.com/join/grxohdR3) | 2024-03-26 |
 | ios | [Television Time](https://testflight.apple.com/join/eP0BTwVi) | 2024-03-23 |
