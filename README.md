@@ -1,10 +1,10 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| chinese | [微信读书](https://testflight.apple.com/join/5MWjLpYl) | 2024-07-05 |
-| ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2024-07-05 |
-| ios | [BeReal](https://testflight.apple.com/join/IM4jE5XY) | 2024-07-05 |
-| ios | [Everlog](https://testflight.apple.com/join/sOCDYE65) | 2024-07-05 |
+| ios | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-07-06 |
+| ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2024-07-06 |
+| ios | [腾讯视频HD](https://testflight.apple.com/join/9JaSzwSN) | 2024-07-06 |
+| macos | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-07-06 |
 | ios | [Finance Bay](https://testflight.apple.com/join/y4etT8Ht) | 2024-07-05 |
 | ios | [Retro 2](https://testflight.apple.com/join/IjV5V0zL) | 2024-07-05 |
 | ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2024-07-04 |
@@ -17,7 +17,6 @@
 | ios | [Windows App Mobile](https://testflight.apple.com/join/q4ha2nsh) | 2024-06-21 |
 | ios | [PDF Viewer Pro by PSPDFKit](https://testflight.apple.com/join/6IMUtZ8n) | 2024-06-19 |
 | ios | [SM.MS](https://testflight.apple.com/join/bQz911w3) | 2024-06-19 |
-| ios_game | [Minecraft: Education Edition beta](https://testflight.apple.com/join/sBDlEXYr) | 2024-06-19 |
 | ios | [PushUp Workout Daily at Home](https://testflight.apple.com/join/myFEz6DW) | 2024-06-18 |
 | macos | [SnippetsLab](https://testflight.apple.com/join/LBF2tQ2l) | 2024-06-18 |
 | ios | [GitHub](https://testflight.apple.com/join/NLskzwi5) | 2024-06-14 |
@@ -71,7 +70,6 @@
 | ios | [Filmlog](https://testflight.apple.com/join/ywiozhph) | 2024-02-06 |
 | ios | [The New York Times](https://testflight.apple.com/join/gfiSREAr) | 2024-02-02 |
 | ios | [Memento: Modern Reminders](https://testflight.apple.com/join/aRvubPov) | 2024-01-23 |
-| chinese | [我的世界-网易](https://testflight.apple.com/join/mOxZm1dD) | 2024-01-22 |
 | ios | [Dropbox](https://testflight.apple.com/join/LBZaRq4I) | 2024-01-19 |
 | ios | [Just Timers](https://testflight.apple.com/join/pyzrz0oT) | 2024-01-19 |
 | chinese | [酷狗音乐](https://testflight.apple.com/join/6cnKUyZ8) | 2024-01-05 |
