@@ -1,10 +1,6 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-07-06 |
-| ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2024-07-06 |
-| ios | [腾讯视频HD](https://testflight.apple.com/join/9JaSzwSN) | 2024-07-06 |
-| macos | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-07-06 |
 | ios | [Finance Bay](https://testflight.apple.com/join/y4etT8Ht) | 2024-07-05 |
 | ios | [Retro 2](https://testflight.apple.com/join/IjV5V0zL) | 2024-07-05 |
 | ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2024-07-04 |
