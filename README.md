@@ -1,6 +1,9 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-07-08 |
+| ios_game | [Stick War 3](https://testflight.apple.com/join/eUx3WxVj) | 2024-07-08 |
+| macos | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-07-08 |
 | ios | [Finance Bay](https://testflight.apple.com/join/y4etT8Ht) | 2024-07-05 |
 | ios | [Retro 2](https://testflight.apple.com/join/IjV5V0zL) | 2024-07-05 |
 | ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2024-07-04 |
