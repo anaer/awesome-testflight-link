@@ -1,11 +1,9 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-07-08 |
-| ios_game | [Stick War 3](https://testflight.apple.com/join/eUx3WxVj) | 2024-07-08 |
-| macos | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-07-08 |
+| ios | [WhatsApp Business](https://testflight.apple.com/join/oscYikr0) | 2024-07-10 |
+| ios | [Xbox](https://testflight.apple.com/join/dfUeaFHS) | 2024-07-10 |
 | ios | [Finance Bay](https://testflight.apple.com/join/y4etT8Ht) | 2024-07-05 |
-| ios | [Retro 2](https://testflight.apple.com/join/IjV5V0zL) | 2024-07-05 |
 | ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2024-07-04 |
 | ios | [Signal - Private Messenger](https://testflight.apple.com/join/8FHtd1Jq) | 2024-07-02 |
 | ios | [SweeLOL](https://testflight.apple.com/join/FT9n1ncG) | 2024-07-02 |
@@ -48,7 +46,6 @@
 | ios | [Spark Mail - Email by Readdle](https://testflight.apple.com/join/O2wj7i0x) | 2024-04-23 |
 | ios_game | [Heroic Mayhem](https://testflight.apple.com/join/xjc2fPds) | 2024-04-18 |
 | ios | [TrackMyTour](https://testflight.apple.com/join/tv9dt6po) | 2024-04-15 |
-| chinese | [QQ beta](https://testflight.apple.com/join/R5FNGUl3) | 2024-04-11 |
 | ios | [GitHub HyperList](https://testflight.apple.com/join/qfPzqQM0) | 2024-04-11 |
 | ios | [AnimeGen](https://testflight.apple.com/join/Qx5saHll) | 2024-04-10 |
 | ios | [Hanami](https://testflight.apple.com/join/VUPzZpkc) | 2024-04-10 |
@@ -71,7 +68,6 @@
 | ios | [Memento: Modern Reminders](https://testflight.apple.com/join/aRvubPov) | 2024-01-23 |
 | ios | [Dropbox](https://testflight.apple.com/join/LBZaRq4I) | 2024-01-19 |
 | ios | [Just Timers](https://testflight.apple.com/join/pyzrz0oT) | 2024-01-19 |
-| chinese | [酷狗音乐](https://testflight.apple.com/join/6cnKUyZ8) | 2024-01-05 |
 | ios | [Go Map!!](https://testflight.apple.com/join/T96F9wYq) | 2023-12-23 |
 | ios | [Keka](https://testflight.apple.com/join/gPYINGCJ) | 2023-12-21 |
 | ios | [希沃白板](https://testflight.apple.com/join/d6MQLpKY) | 2023-12-07 |
