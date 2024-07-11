@@ -1,8 +1,20 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [WhatsApp Business](https://testflight.apple.com/join/oscYikr0) | 2024-07-10 |
-| ios | [Xbox](https://testflight.apple.com/join/dfUeaFHS) | 2024-07-10 |
+| chinese | [我的世界-网易](https://testflight.apple.com/join/mOxZm1dD) | 2024-07-11 |
+| chinese | [酷狗音乐](https://testflight.apple.com/join/6cnKUyZ8) | 2024-07-11 |
+| ios | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-07-11 |
+| ios | [Deezer](https://testflight.apple.com/join/e7mCOEeg) | 2024-07-11 |
+| ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2024-07-11 |
+| ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2024-07-11 |
+| ios | [Graphite: Photo to Sketch App beta](https://testflight.apple.com/join/gRhGuXzI) | 2024-07-11 |
+| ios | [Microsoft Loop beta](https://testflight.apple.com/join/KNyadcIZ) | 2024-07-11 |
+| ios | [Plant Identifier & Care](https://testflight.apple.com/join/vYqAc3Lf) | 2024-07-11 |
+| ios | [Yandex Browser](https://testflight.apple.com/join/Y4k4ze6V) | 2024-07-11 |
+| ios | [搜狗输入法](https://testflight.apple.com/join/lSZdpEPH) | 2024-07-11 |
+| ios | [腾讯视频HD](https://testflight.apple.com/join/9JaSzwSN) | 2024-07-11 |
+| ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2024-07-11 |
+| macos | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-07-11 |
 | ios | [Finance Bay](https://testflight.apple.com/join/y4etT8Ht) | 2024-07-05 |
 | ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2024-07-04 |
 | ios | [Signal - Private Messenger](https://testflight.apple.com/join/8FHtd1Jq) | 2024-07-02 |
@@ -12,7 +24,6 @@
 | ios | [Cheatsheet](https://testflight.apple.com/join/E7AnyPlA) | 2024-06-26 |
 | ios | [Unomo](https://testflight.apple.com/join/qbYJl8sX) | 2024-06-25 |
 | ios | [Windows App Mobile](https://testflight.apple.com/join/q4ha2nsh) | 2024-06-21 |
-| ios | [PDF Viewer Pro by PSPDFKit](https://testflight.apple.com/join/6IMUtZ8n) | 2024-06-19 |
 | ios | [SM.MS](https://testflight.apple.com/join/bQz911w3) | 2024-06-19 |
 | ios | [PushUp Workout Daily at Home](https://testflight.apple.com/join/myFEz6DW) | 2024-06-18 |
 | macos | [SnippetsLab](https://testflight.apple.com/join/LBF2tQ2l) | 2024-06-18 |
