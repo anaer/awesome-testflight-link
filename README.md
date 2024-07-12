@@ -1,20 +1,11 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| chinese | [我的世界-网易](https://testflight.apple.com/join/mOxZm1dD) | 2024-07-11 |
+| ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2024-07-12 |
+| ios | [Everlog](https://testflight.apple.com/join/sOCDYE65) | 2024-07-12 |
+| ios | [Overcast beta](https://testflight.apple.com/join/37azzGPG) | 2024-07-12 |
 | chinese | [酷狗音乐](https://testflight.apple.com/join/6cnKUyZ8) | 2024-07-11 |
-| ios | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-07-11 |
-| ios | [Deezer](https://testflight.apple.com/join/e7mCOEeg) | 2024-07-11 |
-| ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2024-07-11 |
-| ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2024-07-11 |
-| ios | [Graphite: Photo to Sketch App beta](https://testflight.apple.com/join/gRhGuXzI) | 2024-07-11 |
-| ios | [Microsoft Loop beta](https://testflight.apple.com/join/KNyadcIZ) | 2024-07-11 |
-| ios | [Plant Identifier & Care](https://testflight.apple.com/join/vYqAc3Lf) | 2024-07-11 |
-| ios | [Yandex Browser](https://testflight.apple.com/join/Y4k4ze6V) | 2024-07-11 |
-| ios | [搜狗输入法](https://testflight.apple.com/join/lSZdpEPH) | 2024-07-11 |
-| ios | [腾讯视频HD](https://testflight.apple.com/join/9JaSzwSN) | 2024-07-11 |
 | ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2024-07-11 |
-| macos | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-07-11 |
 | ios | [Finance Bay](https://testflight.apple.com/join/y4etT8Ht) | 2024-07-05 |
 | ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2024-07-04 |
 | ios | [Signal - Private Messenger](https://testflight.apple.com/join/8FHtd1Jq) | 2024-07-02 |
@@ -91,7 +82,6 @@
 | ios | [Property Finder](https://testflight.apple.com/join/ctQoX4vC) | 2023-10-14 |
 | ios | [FotMob Live Soccer Scores](https://testflight.apple.com/join/zEAwGlrV) | 2023-10-07 |
 | ios | [Chanyan](https://testflight.apple.com/join/ky5bRwMY) | 2023-09-23 |
-| macos | [Shapr3D](https://testflight.apple.com/join/Dm6lqUW7) | 2023-09-19 |
 | ios | [MyFRITZ!App](https://testflight.apple.com/join/U0v1rBE5) | 2023-09-16 |
 | ios | [Wikipedia](https://testflight.apple.com/join/Z0AU0KXC) | 2023-09-16 |
 | ios | [RocketChat](https://testflight.apple.com/join/3gcYeoMr) | 2023-08-20 |
