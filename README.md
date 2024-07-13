@@ -1,9 +1,14 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2024-07-12 |
+| ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-07-13 |
+| ios | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-07-13 |
+| ios | [Deezer](https://testflight.apple.com/join/e7mCOEeg) | 2024-07-13 |
+| ios | [Microsoft SwiftKey Keyboard](https://testflight.apple.com/join/yhIhAvjp) | 2024-07-13 |
+| ios | [Yandex Browser](https://testflight.apple.com/join/Y4k4ze6V) | 2024-07-13 |
+| macos | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-07-13 |
+| macos | [Drafts](https://testflight.apple.com/join/GhPcOrwa) | 2024-07-13 |
 | ios | [Everlog](https://testflight.apple.com/join/sOCDYE65) | 2024-07-12 |
-| ios | [Overcast beta](https://testflight.apple.com/join/37azzGPG) | 2024-07-12 |
 | chinese | [酷狗音乐](https://testflight.apple.com/join/6cnKUyZ8) | 2024-07-11 |
 | ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2024-07-11 |
 | ios | [Finance Bay](https://testflight.apple.com/join/y4etT8Ht) | 2024-07-05 |
@@ -46,7 +51,6 @@
 | ios | [Träning](https://testflight.apple.com/join/7s1wL3HL) | 2024-04-26 |
 | chinese | [Angelia](https://testflight.apple.com/join/i37NXl07) | 2024-04-24 |
 | ios | [Spark Mail - Email by Readdle](https://testflight.apple.com/join/O2wj7i0x) | 2024-04-23 |
-| ios_game | [Heroic Mayhem](https://testflight.apple.com/join/xjc2fPds) | 2024-04-18 |
 | ios | [TrackMyTour](https://testflight.apple.com/join/tv9dt6po) | 2024-04-15 |
 | ios | [GitHub HyperList](https://testflight.apple.com/join/qfPzqQM0) | 2024-04-11 |
 | ios | [AnimeGen](https://testflight.apple.com/join/Qx5saHll) | 2024-04-10 |
