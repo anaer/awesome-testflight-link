@@ -1,15 +1,10 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Calendars 5 by Readdle](https://testflight.apple.com/join/tC44BniC) | 2024-07-14 |
+| ios | [Mixing Station](https://testflight.apple.com/join/lsd9mugy) | 2024-07-14 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-07-13 |
-| ios | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-07-13 |
-| ios | [Deezer](https://testflight.apple.com/join/e7mCOEeg) | 2024-07-13 |
-| ios | [Microsoft SwiftKey Keyboard](https://testflight.apple.com/join/yhIhAvjp) | 2024-07-13 |
-| ios | [Yandex Browser](https://testflight.apple.com/join/Y4k4ze6V) | 2024-07-13 |
-| macos | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-07-13 |
-| macos | [Drafts](https://testflight.apple.com/join/GhPcOrwa) | 2024-07-13 |
 | ios | [Everlog](https://testflight.apple.com/join/sOCDYE65) | 2024-07-12 |
-| chinese | [酷狗音乐](https://testflight.apple.com/join/6cnKUyZ8) | 2024-07-11 |
 | ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2024-07-11 |
 | ios | [Finance Bay](https://testflight.apple.com/join/y4etT8Ht) | 2024-07-05 |
 | ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2024-07-04 |
