@@ -1,10 +1,15 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2024-07-18 |
+| ios | [Microsoft Bing Search](https://testflight.apple.com/join/YAKT5ew9) | 2024-07-18 |
+| ios | [Microsoft SwiftKey Keyboard](https://testflight.apple.com/join/yhIhAvjp) | 2024-07-18 |
+| ios | [Microsoft To-Do](https://testflight.apple.com/join/JSq3UkAz) | 2024-07-18 |
+| ios | [NOS](https://testflight.apple.com/join/i4g2QrrG) | 2024-07-18 |
+| ios | [PDF Viewer Pro by PSPDFKit](https://testflight.apple.com/join/6IMUtZ8n) | 2024-07-18 |
+| ios_game | [Minecraft: Education Edition beta](https://testflight.apple.com/join/sBDlEXYr) | 2024-07-18 |
 | chinese | [酷狗音乐](https://testflight.apple.com/join/6cnKUyZ8) | 2024-07-15 |
 | ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2024-07-15 |
-| ios | [Lock Launcher beta](https://testflight.apple.com/join/clHxFnLa) | 2024-07-15 |
-| ios | [Xbox](https://testflight.apple.com/join/dfUeaFHS) | 2024-07-15 |
 | ios | [网易 Filmly](https://testflight.apple.com/join/sIj5iOoj) | 2024-07-15 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-07-13 |
 | ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2024-07-11 |
@@ -54,7 +59,6 @@
 | ios | [Hanami](https://testflight.apple.com/join/VUPzZpkc) | 2024-04-10 |
 | ios | [Trello — Organize anything!](https://testflight.apple.com/join/cRWMcQsr) | 2024-04-02 |
 | ios | [FRITZ!App TV](https://testflight.apple.com/join/Zl2czQO2) | 2024-03-29 |
-| ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2024-03-27 |
 | chinese | [事线 - 串事成线](https://testflight.apple.com/join/grxohdR3) | 2024-03-26 |
 | ios | [Television Time](https://testflight.apple.com/join/eP0BTwVi) | 2024-03-23 |
 | ios | [Sabertooth for Mastodon](https://testflight.apple.com/join/pBGgMKw2) | 2024-03-21 |
@@ -87,7 +91,6 @@
 | ios | [Wikipedia](https://testflight.apple.com/join/Z0AU0KXC) | 2023-09-16 |
 | ios | [RocketChat](https://testflight.apple.com/join/3gcYeoMr) | 2023-08-20 |
 | ios | [Obsidian - Connected Notes beta](https://testflight.apple.com/join/f3moqRS1) | 2023-08-07 |
-| ios | [Fleх beta](https://testflight.apple.com/join/2g7cQfvC) | 2023-07-30 |
 | ios | [Kodi Remote beta](https://testflight.apple.com/join/VQkpfqDN) | 2023-07-30 |
 | ios | [Readwise Reader beta](https://testflight.apple.com/join/NSeQo22d) | 2023-07-30 |
 | chinese | [西瓜视频](https://testflight.apple.com/join/ZkSx6V4m) | 2023-07-26 |
