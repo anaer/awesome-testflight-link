@@ -1,13 +1,15 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2024-07-18 |
-| ios | [Microsoft Bing Search](https://testflight.apple.com/join/YAKT5ew9) | 2024-07-18 |
-| ios | [Microsoft SwiftKey Keyboard](https://testflight.apple.com/join/yhIhAvjp) | 2024-07-18 |
-| ios | [Microsoft To-Do](https://testflight.apple.com/join/JSq3UkAz) | 2024-07-18 |
+| chinese | [QQ beta](https://testflight.apple.com/join/R5FNGUl3) | 2024-07-20 |
+| chinese | [微信读书](https://testflight.apple.com/join/5MWjLpYl) | 2024-07-20 |
+| ios | [Deezer](https://testflight.apple.com/join/e7mCOEeg) | 2024-07-20 |
+| ios | [Notion](https://testflight.apple.com/join/YSo8aVCS) | 2024-07-20 |
+| ios | [S1 Mufu](https://testflight.apple.com/join/KwboYTNt) | 2024-07-20 |
+| ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2024-07-20 |
+| ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-07-20 |
 | ios | [NOS](https://testflight.apple.com/join/i4g2QrrG) | 2024-07-18 |
 | ios | [PDF Viewer Pro by PSPDFKit](https://testflight.apple.com/join/6IMUtZ8n) | 2024-07-18 |
-| ios_game | [Minecraft: Education Edition beta](https://testflight.apple.com/join/sBDlEXYr) | 2024-07-18 |
 | chinese | [酷狗音乐](https://testflight.apple.com/join/6cnKUyZ8) | 2024-07-15 |
 | ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2024-07-15 |
 | ios | [网易 Filmly](https://testflight.apple.com/join/sIj5iOoj) | 2024-07-15 |
@@ -58,7 +60,6 @@
 | ios | [AnimeGen](https://testflight.apple.com/join/Qx5saHll) | 2024-04-10 |
 | ios | [Hanami](https://testflight.apple.com/join/VUPzZpkc) | 2024-04-10 |
 | ios | [Trello — Organize anything!](https://testflight.apple.com/join/cRWMcQsr) | 2024-04-02 |
-| ios | [FRITZ!App TV](https://testflight.apple.com/join/Zl2czQO2) | 2024-03-29 |
 | chinese | [事线 - 串事成线](https://testflight.apple.com/join/grxohdR3) | 2024-03-26 |
 | ios | [Television Time](https://testflight.apple.com/join/eP0BTwVi) | 2024-03-23 |
 | ios | [Sabertooth for Mastodon](https://testflight.apple.com/join/pBGgMKw2) | 2024-03-21 |
@@ -70,7 +71,6 @@
 | ios | [Feedly](https://testflight.apple.com/join/03ER1aUo) | 2024-02-08 |
 | ios | [Sleep Cycle - Sleep Tracker beta](https://testflight.apple.com/join/tCeANbZi) | 2024-02-07 |
 | ios | [Sleep Cycle alarm clock](https://testflight.apple.com/join/8RcEFqFF) | 2024-02-07 |
-| ios | [Filmlog](https://testflight.apple.com/join/ywiozhph) | 2024-02-06 |
 | ios | [The New York Times](https://testflight.apple.com/join/gfiSREAr) | 2024-02-02 |
 | ios | [Memento: Modern Reminders](https://testflight.apple.com/join/aRvubPov) | 2024-01-23 |
 | ios | [Dropbox](https://testflight.apple.com/join/LBZaRq4I) | 2024-01-19 |
@@ -123,7 +123,6 @@
 | ios | [VFeed](https://testflight.apple.com/join/ZdC5U0fR) | 2022-10-13 |
 | ios | [WordPress](https://testflight.apple.com/join/AkJQt8Pw) | 2022-10-13 |
 | ios | [feeeed](https://testflight.apple.com/join/ixRrWfQL) | 2022-10-13 |
-| ios | [FRITZ!App Smart Home](https://testflight.apple.com/join/kzVJhIg1) | 2022-10-11 |
 | ios | [Imgur - Meme & GIF Maker](https://testflight.apple.com/join/Qd42y5Pw) | 2022-10-11 |
 | ios | [LIFX](https://testflight.apple.com/join/TYoQEz4T) | 2022-10-11 |
 | ios | [Microsoft Authenticator](https://testflight.apple.com/join/Coqmmppd) | 2022-10-11 |
