@@ -3,8 +3,6 @@
 | --- | --- | --- |
 | chinese | [QQ beta](https://testflight.apple.com/join/R5FNGUl3) | 2024-07-20 |
 | chinese | [微信读书](https://testflight.apple.com/join/5MWjLpYl) | 2024-07-20 |
-| ios | [Deezer](https://testflight.apple.com/join/e7mCOEeg) | 2024-07-20 |
-| ios | [Notion](https://testflight.apple.com/join/YSo8aVCS) | 2024-07-20 |
 | ios | [S1 Mufu](https://testflight.apple.com/join/KwboYTNt) | 2024-07-20 |
 | ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2024-07-20 |
 | ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-07-20 |
@@ -14,12 +12,10 @@
 | ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2024-07-15 |
 | ios | [网易 Filmly](https://testflight.apple.com/join/sIj5iOoj) | 2024-07-15 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-07-13 |
-| ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2024-07-11 |
 | ios | [Finance Bay](https://testflight.apple.com/join/y4etT8Ht) | 2024-07-05 |
 | ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2024-07-04 |
 | ios | [Signal - Private Messenger](https://testflight.apple.com/join/8FHtd1Jq) | 2024-07-02 |
 | ios | [SweeLOL](https://testflight.apple.com/join/FT9n1ncG) | 2024-07-02 |
-| ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2024-06-29 |
 | chinese | [酷狗概念版](https://testflight.apple.com/join/IOgbaxds) | 2024-06-28 |
 | ios | [Cheatsheet](https://testflight.apple.com/join/E7AnyPlA) | 2024-06-26 |
 | ios | [Unomo](https://testflight.apple.com/join/qbYJl8sX) | 2024-06-25 |
