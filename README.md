@@ -1,15 +1,17 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Microsoft Designer beta](https://testflight.apple.com/join/KsuaylTZ) | 2024-07-23 |
+| ios | [Notion](https://testflight.apple.com/join/YSo8aVCS) | 2024-07-23 |
+| ios | [YACReader](https://testflight.apple.com/join/5zhB7sRP) | 2024-07-23 |
+| ios_game | [Stick War 3](https://testflight.apple.com/join/eUx3WxVj) | 2024-07-23 |
 | chinese | [QQ beta](https://testflight.apple.com/join/R5FNGUl3) | 2024-07-20 |
 | chinese | [微信读书](https://testflight.apple.com/join/5MWjLpYl) | 2024-07-20 |
 | ios | [S1 Mufu](https://testflight.apple.com/join/KwboYTNt) | 2024-07-20 |
-| ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2024-07-20 |
 | ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-07-20 |
 | ios | [NOS](https://testflight.apple.com/join/i4g2QrrG) | 2024-07-18 |
 | ios | [PDF Viewer Pro by PSPDFKit](https://testflight.apple.com/join/6IMUtZ8n) | 2024-07-18 |
 | chinese | [酷狗音乐](https://testflight.apple.com/join/6cnKUyZ8) | 2024-07-15 |
-| ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2024-07-15 |
 | ios | [网易 Filmly](https://testflight.apple.com/join/sIj5iOoj) | 2024-07-15 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-07-13 |
 | ios | [Finance Bay](https://testflight.apple.com/join/y4etT8Ht) | 2024-07-05 |
@@ -31,7 +33,6 @@
 | ios | [Newsbite](https://testflight.apple.com/join/7sus3M6q) | 2024-06-05 |
 | ios | [SHARE NOW (car2go & DriveNow)](https://testflight.apple.com/join/1SsBDNCj) | 2024-06-04 |
 | ios | [Microsoft Outlook](https://testflight.apple.com/join/QkU4VS1s) | 2024-06-03 |
-| ios | [Microsoft Office](https://testflight.apple.com/join/eHAKJBtM) | 2024-06-01 |
 | ios | [Microsoft PowerPoint](https://testflight.apple.com/join/a9Ef0N3g) | 2024-06-01 |
 | ios | [Documents by Readdle](https://testflight.apple.com/join/EOPEVoDA) | 2024-05-31 |
 | ios | [Ruuvi Station](https://testflight.apple.com/join/loHFrEV1) | 2024-05-31 |
@@ -48,8 +49,6 @@
 | ios | [Voqab - Vocabulary Training App](https://testflight.apple.com/join/o85e2EHN) | 2024-05-14 |
 | ios | [Screen Mirroring - 1001 TVs](https://testflight.apple.com/join/Nf1dKOBG) | 2024-05-07 |
 | ios | [Termius – SSH client](https://testflight.apple.com/join/MnuClabg) | 2024-04-30 |
-| ios | [Träning](https://testflight.apple.com/join/7s1wL3HL) | 2024-04-26 |
-| chinese | [Angelia](https://testflight.apple.com/join/i37NXl07) | 2024-04-24 |
 | ios | [Spark Mail - Email by Readdle](https://testflight.apple.com/join/O2wj7i0x) | 2024-04-23 |
 | ios | [TrackMyTour](https://testflight.apple.com/join/tv9dt6po) | 2024-04-15 |
 | ios | [GitHub HyperList](https://testflight.apple.com/join/qfPzqQM0) | 2024-04-11 |
