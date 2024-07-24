@@ -1,13 +1,13 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Microsoft Designer beta](https://testflight.apple.com/join/KsuaylTZ) | 2024-07-23 |
-| ios | [Notion](https://testflight.apple.com/join/YSo8aVCS) | 2024-07-23 |
-| ios | [YACReader](https://testflight.apple.com/join/5zhB7sRP) | 2024-07-23 |
-| ios_game | [Stick War 3](https://testflight.apple.com/join/eUx3WxVj) | 2024-07-23 |
+| ios | [Filmlog](https://testflight.apple.com/join/ywiozhph) | 2024-07-24 |
+| ios | [Fugl](https://testflight.apple.com/join/bZIZeB4N) | 2024-07-24 |
+| ios | [Microsoft SwiftKey Keyboard](https://testflight.apple.com/join/yhIhAvjp) | 2024-07-24 |
+| ios_game | [Fugl](https://testflight.apple.com/join/bZIZeB4N) | 2024-07-24 |
+| ios_game | [Minecraft Preview](https://testflight.apple.com/join/qC1ZnReJ) | 2024-07-24 |
 | chinese | [QQ beta](https://testflight.apple.com/join/R5FNGUl3) | 2024-07-20 |
 | chinese | [微信读书](https://testflight.apple.com/join/5MWjLpYl) | 2024-07-20 |
-| ios | [S1 Mufu](https://testflight.apple.com/join/KwboYTNt) | 2024-07-20 |
 | ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-07-20 |
 | ios | [NOS](https://testflight.apple.com/join/i4g2QrrG) | 2024-07-18 |
 | ios | [PDF Viewer Pro by PSPDFKit](https://testflight.apple.com/join/6IMUtZ8n) | 2024-07-18 |
@@ -25,7 +25,6 @@
 | ios | [SM.MS](https://testflight.apple.com/join/bQz911w3) | 2024-06-19 |
 | ios | [PushUp Workout Daily at Home](https://testflight.apple.com/join/myFEz6DW) | 2024-06-18 |
 | macos | [SnippetsLab](https://testflight.apple.com/join/LBF2tQ2l) | 2024-06-18 |
-| ios | [GitHub](https://testflight.apple.com/join/NLskzwi5) | 2024-06-14 |
 | ios | [Parcel - Delivery Tracking](https://testflight.apple.com/join/fMeg6C4A) | 2024-06-14 |
 | ios | [ColorSlurp Beta](https://testflight.apple.com/join/xxEw2j1X) | 2024-06-13 |
 | ios | [Erasee: Background Remover](https://testflight.apple.com/join/t6xnU9H3) | 2024-06-13 |
