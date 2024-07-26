@@ -1,11 +1,14 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Everlog](https://testflight.apple.com/join/sOCDYE65) | 2024-07-26 |
+| ios | [FRITZ!App WLAN](https://testflight.apple.com/join/vbfCKamq) | 2024-07-26 |
+| ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2024-07-26 |
+| ios | [Plex](https://testflight.apple.com/join/MY6JTzix) | 2024-07-26 |
+| ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2024-07-26 |
 | ios | [Filmlog](https://testflight.apple.com/join/ywiozhph) | 2024-07-24 |
 | ios | [Fugl](https://testflight.apple.com/join/bZIZeB4N) | 2024-07-24 |
-| ios | [Microsoft SwiftKey Keyboard](https://testflight.apple.com/join/yhIhAvjp) | 2024-07-24 |
 | ios_game | [Fugl](https://testflight.apple.com/join/bZIZeB4N) | 2024-07-24 |
-| ios_game | [Minecraft Preview](https://testflight.apple.com/join/qC1ZnReJ) | 2024-07-24 |
 | chinese | [QQ beta](https://testflight.apple.com/join/R5FNGUl3) | 2024-07-20 |
 | chinese | [微信读书](https://testflight.apple.com/join/5MWjLpYl) | 2024-07-20 |
 | ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-07-20 |
@@ -15,7 +18,6 @@
 | ios | [网易 Filmly](https://testflight.apple.com/join/sIj5iOoj) | 2024-07-15 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-07-13 |
 | ios | [Finance Bay](https://testflight.apple.com/join/y4etT8Ht) | 2024-07-05 |
-| ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2024-07-04 |
 | ios | [Signal - Private Messenger](https://testflight.apple.com/join/8FHtd1Jq) | 2024-07-02 |
 | ios | [SweeLOL](https://testflight.apple.com/join/FT9n1ncG) | 2024-07-02 |
 | chinese | [酷狗概念版](https://testflight.apple.com/join/IOgbaxds) | 2024-06-28 |
