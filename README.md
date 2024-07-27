@@ -1,11 +1,11 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Everlog](https://testflight.apple.com/join/sOCDYE65) | 2024-07-26 |
+| ios | [Calendars 5 by Readdle](https://testflight.apple.com/join/tC44BniC) | 2024-07-27 |
+| ios | [Quizlet](https://testflight.apple.com/join/mwhcPqxJ) | 2024-07-27 |
 | ios | [FRITZ!App WLAN](https://testflight.apple.com/join/vbfCKamq) | 2024-07-26 |
 | ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2024-07-26 |
 | ios | [Plex](https://testflight.apple.com/join/MY6JTzix) | 2024-07-26 |
-| ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2024-07-26 |
 | ios | [Filmlog](https://testflight.apple.com/join/ywiozhph) | 2024-07-24 |
 | ios | [Fugl](https://testflight.apple.com/join/bZIZeB4N) | 2024-07-24 |
 | ios_game | [Fugl](https://testflight.apple.com/join/bZIZeB4N) | 2024-07-24 |
@@ -16,7 +16,6 @@
 | ios | [PDF Viewer Pro by PSPDFKit](https://testflight.apple.com/join/6IMUtZ8n) | 2024-07-18 |
 | chinese | [酷狗音乐](https://testflight.apple.com/join/6cnKUyZ8) | 2024-07-15 |
 | ios | [网易 Filmly](https://testflight.apple.com/join/sIj5iOoj) | 2024-07-15 |
-| ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-07-13 |
 | ios | [Finance Bay](https://testflight.apple.com/join/y4etT8Ht) | 2024-07-05 |
 | ios | [Signal - Private Messenger](https://testflight.apple.com/join/8FHtd1Jq) | 2024-07-02 |
 | ios | [SweeLOL](https://testflight.apple.com/join/FT9n1ncG) | 2024-07-02 |
@@ -42,7 +41,6 @@
 | ios | [Unicode Keyboard](https://testflight.apple.com/join/YKH3kGpt) | 2024-05-27 |
 | ios | [AdGuard VPN](https://testflight.apple.com/join/fZRiD1zt) | 2024-05-24 |
 | ios | [TV Time – #1 Show Tracker](https://testflight.apple.com/join/hjKkDsc4) | 2024-05-24 |
-| ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2024-05-23 |
 | ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2024-05-23 |
 | ios | [Flipabit](https://testflight.apple.com/join/ruyYHU5E) | 2024-05-16 |
 | ios | [Revolut - Radically Better](https://testflight.apple.com/join/oqrinjQB) | 2024-05-16 |
