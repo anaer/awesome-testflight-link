@@ -1,10 +1,12 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| chinese | [微信键盘 beta](https://testflight.apple.com/join/iSTXkF4K) | 2024-07-28 |
+| ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-07-28 |
+| macos | [Windows App](https://testflight.apple.com/join/YqNaYeyS) | 2024-07-28 |
 | ios | [Calendars 5 by Readdle](https://testflight.apple.com/join/tC44BniC) | 2024-07-27 |
 | ios | [Quizlet](https://testflight.apple.com/join/mwhcPqxJ) | 2024-07-27 |
 | ios | [FRITZ!App WLAN](https://testflight.apple.com/join/vbfCKamq) | 2024-07-26 |
-| ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2024-07-26 |
 | ios | [Plex](https://testflight.apple.com/join/MY6JTzix) | 2024-07-26 |
 | ios | [Filmlog](https://testflight.apple.com/join/ywiozhph) | 2024-07-24 |
 | ios | [Fugl](https://testflight.apple.com/join/bZIZeB4N) | 2024-07-24 |
