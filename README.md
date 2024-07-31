@@ -1,12 +1,14 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| chinese | [微信键盘 beta](https://testflight.apple.com/join/iSTXkF4K) | 2024-07-28 |
+| ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2024-07-31 |
+| ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2024-07-31 |
+| ios | [Microsoft Bing Search](https://testflight.apple.com/join/YAKT5ew9) | 2024-07-31 |
+| ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2024-07-31 |
+| ios | [WhatsApp Business](https://testflight.apple.com/join/oscYikr0) | 2024-07-31 |
+| ios | [腾讯视频HD](https://testflight.apple.com/join/9JaSzwSN) | 2024-07-31 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-07-28 |
-| macos | [Windows App](https://testflight.apple.com/join/YqNaYeyS) | 2024-07-28 |
 | ios | [Calendars 5 by Readdle](https://testflight.apple.com/join/tC44BniC) | 2024-07-27 |
-| ios | [Quizlet](https://testflight.apple.com/join/mwhcPqxJ) | 2024-07-27 |
-| ios | [FRITZ!App WLAN](https://testflight.apple.com/join/vbfCKamq) | 2024-07-26 |
 | ios | [Plex](https://testflight.apple.com/join/MY6JTzix) | 2024-07-26 |
 | ios | [Filmlog](https://testflight.apple.com/join/ywiozhph) | 2024-07-24 |
 | ios | [Fugl](https://testflight.apple.com/join/bZIZeB4N) | 2024-07-24 |
@@ -15,7 +17,6 @@
 | chinese | [微信读书](https://testflight.apple.com/join/5MWjLpYl) | 2024-07-20 |
 | ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-07-20 |
 | ios | [NOS](https://testflight.apple.com/join/i4g2QrrG) | 2024-07-18 |
-| ios | [PDF Viewer Pro by PSPDFKit](https://testflight.apple.com/join/6IMUtZ8n) | 2024-07-18 |
 | chinese | [酷狗音乐](https://testflight.apple.com/join/6cnKUyZ8) | 2024-07-15 |
 | ios | [网易 Filmly](https://testflight.apple.com/join/sIj5iOoj) | 2024-07-15 |
 | ios | [Finance Bay](https://testflight.apple.com/join/y4etT8Ht) | 2024-07-05 |
@@ -27,7 +28,6 @@
 | ios | [Windows App Mobile](https://testflight.apple.com/join/q4ha2nsh) | 2024-06-21 |
 | ios | [SM.MS](https://testflight.apple.com/join/bQz911w3) | 2024-06-19 |
 | ios | [PushUp Workout Daily at Home](https://testflight.apple.com/join/myFEz6DW) | 2024-06-18 |
-| macos | [SnippetsLab](https://testflight.apple.com/join/LBF2tQ2l) | 2024-06-18 |
 | ios | [Parcel - Delivery Tracking](https://testflight.apple.com/join/fMeg6C4A) | 2024-06-14 |
 | ios | [ColorSlurp Beta](https://testflight.apple.com/join/xxEw2j1X) | 2024-06-13 |
 | ios | [Erasee: Background Remover](https://testflight.apple.com/join/t6xnU9H3) | 2024-06-13 |
