@@ -1,12 +1,17 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| chinese | [微信键盘 beta](https://testflight.apple.com/join/iSTXkF4K) | 2024-08-05 |
+| ios | [Microsoft Loop beta](https://testflight.apple.com/join/KNyadcIZ) | 2024-08-05 |
+| ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2024-08-05 |
+| ios | [和风天气 - 可视化天气 beta](https://testflight.apple.com/join/9KR0Xx7E) | 2024-08-05 |
+| ios | [搜狗输入法](https://testflight.apple.com/join/lSZdpEPH) | 2024-08-05 |
+| ios_game | [Stick War 3](https://testflight.apple.com/join/eUx3WxVj) | 2024-08-05 |
 | ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2024-08-02 |
 | ios | [Quizlet](https://testflight.apple.com/join/mwhcPqxJ) | 2024-08-02 |
 | ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2024-07-31 |
 | ios | [Microsoft Bing Search](https://testflight.apple.com/join/YAKT5ew9) | 2024-07-31 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-07-28 |
-| ios | [Calendars 5 by Readdle](https://testflight.apple.com/join/tC44BniC) | 2024-07-27 |
 | ios | [Plex](https://testflight.apple.com/join/MY6JTzix) | 2024-07-26 |
 | ios | [Filmlog](https://testflight.apple.com/join/ywiozhph) | 2024-07-24 |
 | ios | [Fugl](https://testflight.apple.com/join/bZIZeB4N) | 2024-07-24 |
@@ -66,7 +71,6 @@
 | ios | [The New York Times](https://testflight.apple.com/join/gfiSREAr) | 2024-02-02 |
 | ios | [Memento: Modern Reminders](https://testflight.apple.com/join/aRvubPov) | 2024-01-23 |
 | ios | [Dropbox](https://testflight.apple.com/join/LBZaRq4I) | 2024-01-19 |
-| ios | [Just Timers](https://testflight.apple.com/join/pyzrz0oT) | 2024-01-19 |
 | ios | [Go Map!!](https://testflight.apple.com/join/T96F9wYq) | 2023-12-23 |
 | ios | [Keka](https://testflight.apple.com/join/gPYINGCJ) | 2023-12-21 |
 | ios | [希沃白板](https://testflight.apple.com/join/d6MQLpKY) | 2023-12-07 |
