@@ -1,14 +1,15 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| chinese | [微信键盘 beta](https://testflight.apple.com/join/iSTXkF4K) | 2024-08-05 |
+| ios | [Calendars 5 by Readdle](https://testflight.apple.com/join/tC44BniC) | 2024-08-06 |
+| ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2024-08-06 |
+| ios | [Microsoft Office](https://testflight.apple.com/join/eHAKJBtM) | 2024-08-06 |
+| ios | [腾讯视频HD](https://testflight.apple.com/join/9JaSzwSN) | 2024-08-06 |
 | ios | [Microsoft Loop beta](https://testflight.apple.com/join/KNyadcIZ) | 2024-08-05 |
 | ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2024-08-05 |
 | ios | [和风天气 - 可视化天气 beta](https://testflight.apple.com/join/9KR0Xx7E) | 2024-08-05 |
-| ios | [搜狗输入法](https://testflight.apple.com/join/lSZdpEPH) | 2024-08-05 |
 | ios_game | [Stick War 3](https://testflight.apple.com/join/eUx3WxVj) | 2024-08-05 |
 | ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2024-08-02 |
-| ios | [Quizlet](https://testflight.apple.com/join/mwhcPqxJ) | 2024-08-02 |
 | ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2024-07-31 |
 | ios | [Microsoft Bing Search](https://testflight.apple.com/join/YAKT5ew9) | 2024-07-31 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-07-28 |
@@ -17,8 +18,6 @@
 | ios | [Fugl](https://testflight.apple.com/join/bZIZeB4N) | 2024-07-24 |
 | ios_game | [Fugl](https://testflight.apple.com/join/bZIZeB4N) | 2024-07-24 |
 | chinese | [QQ beta](https://testflight.apple.com/join/R5FNGUl3) | 2024-07-20 |
-| chinese | [微信读书](https://testflight.apple.com/join/5MWjLpYl) | 2024-07-20 |
-| ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-07-20 |
 | ios | [NOS](https://testflight.apple.com/join/i4g2QrrG) | 2024-07-18 |
 | chinese | [酷狗音乐](https://testflight.apple.com/join/6cnKUyZ8) | 2024-07-15 |
 | ios | [网易 Filmly](https://testflight.apple.com/join/sIj5iOoj) | 2024-07-15 |
