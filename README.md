@@ -1,12 +1,9 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Calendars 5 by Readdle](https://testflight.apple.com/join/tC44BniC) | 2024-08-06 |
+| ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-08-07 |
 | ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2024-08-06 |
 | ios | [Microsoft Office](https://testflight.apple.com/join/eHAKJBtM) | 2024-08-06 |
-| ios | [腾讯视频HD](https://testflight.apple.com/join/9JaSzwSN) | 2024-08-06 |
-| ios | [Microsoft Loop beta](https://testflight.apple.com/join/KNyadcIZ) | 2024-08-05 |
-| ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2024-08-05 |
 | ios | [和风天气 - 可视化天气 beta](https://testflight.apple.com/join/9KR0Xx7E) | 2024-08-05 |
 | ios_game | [Stick War 3](https://testflight.apple.com/join/eUx3WxVj) | 2024-08-05 |
 | ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2024-08-02 |
