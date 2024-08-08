@@ -1,6 +1,13 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-08-08 |
+| ios | [Deezer](https://testflight.apple.com/join/e7mCOEeg) | 2024-08-08 |
+| ios | [Reading List - Book Tracker](https://testflight.apple.com/join/kBS5mVao) | 2024-08-08 |
+| ios | [搜狗输入法](https://testflight.apple.com/join/lSZdpEPH) | 2024-08-08 |
+| ios | [腾讯视频HD](https://testflight.apple.com/join/9JaSzwSN) | 2024-08-08 |
+| macos | [APTV-Mac beta](https://testflight.apple.com/join/QN934ULR) | 2024-08-08 |
+| macos | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-08-08 |
 | ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-08-07 |
 | ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2024-08-06 |
 | ios | [Microsoft Office](https://testflight.apple.com/join/eHAKJBtM) | 2024-08-06 |
@@ -49,7 +56,6 @@
 | ios | [Termius – SSH client](https://testflight.apple.com/join/MnuClabg) | 2024-04-30 |
 | ios | [Spark Mail - Email by Readdle](https://testflight.apple.com/join/O2wj7i0x) | 2024-04-23 |
 | ios | [TrackMyTour](https://testflight.apple.com/join/tv9dt6po) | 2024-04-15 |
-| ios | [GitHub HyperList](https://testflight.apple.com/join/qfPzqQM0) | 2024-04-11 |
 | ios | [AnimeGen](https://testflight.apple.com/join/Qx5saHll) | 2024-04-10 |
 | ios | [Hanami](https://testflight.apple.com/join/VUPzZpkc) | 2024-04-10 |
 | ios | [Trello — Organize anything!](https://testflight.apple.com/join/cRWMcQsr) | 2024-04-02 |
