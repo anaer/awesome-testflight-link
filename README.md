@@ -1,20 +1,20 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Elytra](https://testflight.apple.com/join/PYYu2Cco) | 2024-08-09 |
+| ios | [Lock Launcher beta](https://testflight.apple.com/join/clHxFnLa) | 2024-08-10 |
+| ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2024-08-10 |
+| ios | [Xbox Family Settings beta](https://testflight.apple.com/join/8oUnDzMQ) | 2024-08-10 |
+| ios | [YACReader](https://testflight.apple.com/join/5zhB7sRP) | 2024-08-10 |
+| macos | [Drafts](https://testflight.apple.com/join/GhPcOrwa) | 2024-08-10 |
 | ios | [NS Travel Planner](https://testflight.apple.com/join/ldBwapIg) | 2024-08-09 |
-| ios | [Quizlet](https://testflight.apple.com/join/mwhcPqxJ) | 2024-08-09 |
-| ios | [infltr - Infinite Filters](https://testflight.apple.com/join/In6e3GcJ) | 2024-08-09 |
 | macos | [APTV-Mac beta](https://testflight.apple.com/join/QN934ULR) | 2024-08-08 |
 | ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-08-07 |
 | ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2024-08-06 |
 | ios | [Microsoft Office](https://testflight.apple.com/join/eHAKJBtM) | 2024-08-06 |
-| ios_game | [Stick War 3](https://testflight.apple.com/join/eUx3WxVj) | 2024-08-05 |
 | ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2024-08-02 |
 | ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2024-07-31 |
 | ios | [Microsoft Bing Search](https://testflight.apple.com/join/YAKT5ew9) | 2024-07-31 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-07-28 |
-| ios | [Plex](https://testflight.apple.com/join/MY6JTzix) | 2024-07-26 |
 | ios | [Filmlog](https://testflight.apple.com/join/ywiozhph) | 2024-07-24 |
 | ios | [Fugl](https://testflight.apple.com/join/bZIZeB4N) | 2024-07-24 |
 | ios_game | [Fugl](https://testflight.apple.com/join/bZIZeB4N) | 2024-07-24 |
@@ -69,7 +69,6 @@
 | ios | [Sleep Cycle alarm clock](https://testflight.apple.com/join/8RcEFqFF) | 2024-02-07 |
 | ios | [The New York Times](https://testflight.apple.com/join/gfiSREAr) | 2024-02-02 |
 | ios | [Memento: Modern Reminders](https://testflight.apple.com/join/aRvubPov) | 2024-01-23 |
-| ios | [Dropbox](https://testflight.apple.com/join/LBZaRq4I) | 2024-01-19 |
 | ios | [Go Map!!](https://testflight.apple.com/join/T96F9wYq) | 2023-12-23 |
 | ios | [Keka](https://testflight.apple.com/join/gPYINGCJ) | 2023-12-21 |
 | ios | [希沃白板](https://testflight.apple.com/join/d6MQLpKY) | 2023-12-07 |
