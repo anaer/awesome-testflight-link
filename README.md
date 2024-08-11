@@ -1,12 +1,8 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Lock Launcher beta](https://testflight.apple.com/join/clHxFnLa) | 2024-08-10 |
 | ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2024-08-10 |
-| ios | [Xbox Family Settings beta](https://testflight.apple.com/join/8oUnDzMQ) | 2024-08-10 |
-| ios | [YACReader](https://testflight.apple.com/join/5zhB7sRP) | 2024-08-10 |
 | macos | [Drafts](https://testflight.apple.com/join/GhPcOrwa) | 2024-08-10 |
-| ios | [NS Travel Planner](https://testflight.apple.com/join/ldBwapIg) | 2024-08-09 |
 | macos | [APTV-Mac beta](https://testflight.apple.com/join/QN934ULR) | 2024-08-08 |
 | ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-08-07 |
 | ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2024-08-06 |
