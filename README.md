@@ -1,7 +1,8 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2024-08-10 |
+| ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2024-08-12 |
+| ios | [iSH Shell](https://testflight.apple.com/join/97i7KM8O) | 2024-08-12 |
 | macos | [Drafts](https://testflight.apple.com/join/GhPcOrwa) | 2024-08-10 |
 | macos | [APTV-Mac beta](https://testflight.apple.com/join/QN934ULR) | 2024-08-08 |
 | ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-08-07 |
@@ -43,7 +44,6 @@
 | ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2024-05-23 |
 | ios | [Flipabit](https://testflight.apple.com/join/ruyYHU5E) | 2024-05-16 |
 | ios | [Revolut - Radically Better](https://testflight.apple.com/join/oqrinjQB) | 2024-05-16 |
-| ios | [Nearby AI - GPT AI Prompts](https://testflight.apple.com/join/xHGrkViR) | 2024-05-14 |
 | ios | [Voqab - Vocabulary Training App](https://testflight.apple.com/join/o85e2EHN) | 2024-05-14 |
 | ios | [Screen Mirroring - 1001 TVs](https://testflight.apple.com/join/Nf1dKOBG) | 2024-05-07 |
 | ios | [Termius – SSH client](https://testflight.apple.com/join/MnuClabg) | 2024-04-30 |
