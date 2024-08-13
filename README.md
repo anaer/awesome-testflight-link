@@ -1,10 +1,10 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2024-08-12 |
-| ios | [iSH Shell](https://testflight.apple.com/join/97i7KM8O) | 2024-08-12 |
+| ios | [Bitwarden Password Manager](https://testflight.apple.com/join/595lFH7U) | 2024-08-13 |
+| ios | [MEGA](https://testflight.apple.com/join/4x1P5Tnx) | 2024-08-13 |
+| ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2024-08-13 |
 | macos | [Drafts](https://testflight.apple.com/join/GhPcOrwa) | 2024-08-10 |
-| macos | [APTV-Mac beta](https://testflight.apple.com/join/QN934ULR) | 2024-08-08 |
 | ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-08-07 |
 | ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2024-08-06 |
 | ios | [Microsoft Office](https://testflight.apple.com/join/eHAKJBtM) | 2024-08-06 |
@@ -42,7 +42,6 @@
 | ios | [AdGuard VPN](https://testflight.apple.com/join/fZRiD1zt) | 2024-05-24 |
 | ios | [TV Time – #1 Show Tracker](https://testflight.apple.com/join/hjKkDsc4) | 2024-05-24 |
 | ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2024-05-23 |
-| ios | [Flipabit](https://testflight.apple.com/join/ruyYHU5E) | 2024-05-16 |
 | ios | [Revolut - Radically Better](https://testflight.apple.com/join/oqrinjQB) | 2024-05-16 |
 | ios | [Voqab - Vocabulary Training App](https://testflight.apple.com/join/o85e2EHN) | 2024-05-14 |
 | ios | [Screen Mirroring - 1001 TVs](https://testflight.apple.com/join/Nf1dKOBG) | 2024-05-07 |
