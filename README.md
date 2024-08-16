@@ -1,10 +1,15 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| chinese | [我的世界-网易](https://testflight.apple.com/join/mOxZm1dD) | 2024-08-16 |
+| ios | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-08-16 |
+| ios | [Dropbox](https://testflight.apple.com/join/LBZaRq4I) | 2024-08-16 |
+| ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2024-08-16 |
+| ios | [Microsoft Loop beta](https://testflight.apple.com/join/KNyadcIZ) | 2024-08-16 |
+| ios | [Quizlet](https://testflight.apple.com/join/mwhcPqxJ) | 2024-08-16 |
+| macos | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-08-16 |
 | ios | [Flipabit](https://testflight.apple.com/join/ruyYHU5E) | 2024-08-15 |
 | ios | [PDF Viewer Pro by PSPDFKit](https://testflight.apple.com/join/6IMUtZ8n) | 2024-08-15 |
-| ios | [Retro 2](https://testflight.apple.com/join/IjV5V0zL) | 2024-08-15 |
-| macos | [Windows App](https://testflight.apple.com/join/YqNaYeyS) | 2024-08-15 |
 | ios | [Bitwarden Password Manager](https://testflight.apple.com/join/595lFH7U) | 2024-08-13 |
 | ios | [MEGA](https://testflight.apple.com/join/4x1P5Tnx) | 2024-08-13 |
 | ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2024-08-13 |
