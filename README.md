@@ -1,13 +1,13 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2024-08-17 |
+| ios | [Cinema Time](https://testflight.apple.com/join/wcY5wC6H) | 2024-08-17 |
+| ios | [Plex](https://testflight.apple.com/join/MY6JTzix) | 2024-08-17 |
+| ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2024-08-17 |
 | chinese | [我的世界-网易](https://testflight.apple.com/join/mOxZm1dD) | 2024-08-16 |
-| ios | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-08-16 |
-| ios | [Dropbox](https://testflight.apple.com/join/LBZaRq4I) | 2024-08-16 |
 | ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2024-08-16 |
-| ios | [Microsoft Loop beta](https://testflight.apple.com/join/KNyadcIZ) | 2024-08-16 |
 | ios | [Quizlet](https://testflight.apple.com/join/mwhcPqxJ) | 2024-08-16 |
-| macos | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-08-16 |
 | ios | [Flipabit](https://testflight.apple.com/join/ruyYHU5E) | 2024-08-15 |
 | ios | [PDF Viewer Pro by PSPDFKit](https://testflight.apple.com/join/6IMUtZ8n) | 2024-08-15 |
 | ios | [Bitwarden Password Manager](https://testflight.apple.com/join/595lFH7U) | 2024-08-13 |
@@ -62,7 +62,6 @@
 | ios | [Trello — Organize anything!](https://testflight.apple.com/join/cRWMcQsr) | 2024-04-02 |
 | chinese | [事线 - 串事成线](https://testflight.apple.com/join/grxohdR3) | 2024-03-26 |
 | ios | [Television Time](https://testflight.apple.com/join/eP0BTwVi) | 2024-03-23 |
-| ios | [Sabertooth for Mastodon](https://testflight.apple.com/join/pBGgMKw2) | 2024-03-21 |
 | ios | [Jira Cloud by Atlassian](https://testflight.apple.com/join/2lm7vHBS) | 2024-03-09 |
 | ios | [Pushover Notifications](https://testflight.apple.com/join/vkwfdWM0) | 2024-03-09 |
 | ios | [Twitch Beta](https://testflight.apple.com/join/8vRKFAiY) | 2024-02-23 |
