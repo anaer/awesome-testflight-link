@@ -1,26 +1,18 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2024-08-17 |
-| ios | [Cinema Time](https://testflight.apple.com/join/wcY5wC6H) | 2024-08-17 |
-| ios | [Plex](https://testflight.apple.com/join/MY6JTzix) | 2024-08-17 |
-| ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2024-08-17 |
 | chinese | [我的世界-网易](https://testflight.apple.com/join/mOxZm1dD) | 2024-08-16 |
 | ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2024-08-16 |
-| ios | [Quizlet](https://testflight.apple.com/join/mwhcPqxJ) | 2024-08-16 |
 | ios | [Flipabit](https://testflight.apple.com/join/ruyYHU5E) | 2024-08-15 |
 | ios | [PDF Viewer Pro by PSPDFKit](https://testflight.apple.com/join/6IMUtZ8n) | 2024-08-15 |
 | ios | [Bitwarden Password Manager](https://testflight.apple.com/join/595lFH7U) | 2024-08-13 |
-| ios | [MEGA](https://testflight.apple.com/join/4x1P5Tnx) | 2024-08-13 |
 | ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2024-08-13 |
 | macos | [Drafts](https://testflight.apple.com/join/GhPcOrwa) | 2024-08-10 |
-| ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-08-07 |
 | ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2024-08-06 |
 | ios | [Microsoft Office](https://testflight.apple.com/join/eHAKJBtM) | 2024-08-06 |
 | ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2024-08-02 |
 | ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2024-07-31 |
 | ios | [Microsoft Bing Search](https://testflight.apple.com/join/YAKT5ew9) | 2024-07-31 |
-| ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-07-28 |
 | ios | [Filmlog](https://testflight.apple.com/join/ywiozhph) | 2024-07-24 |
 | ios | [Fugl](https://testflight.apple.com/join/bZIZeB4N) | 2024-07-24 |
 | ios_game | [Fugl](https://testflight.apple.com/join/bZIZeB4N) | 2024-07-24 |
@@ -41,7 +33,6 @@
 | ios | [SimpleTix Box Office](https://testflight.apple.com/join/zyByZSX8) | 2024-06-11 |
 | ios | [Newsbite](https://testflight.apple.com/join/7sus3M6q) | 2024-06-05 |
 | ios | [SHARE NOW (car2go & DriveNow)](https://testflight.apple.com/join/1SsBDNCj) | 2024-06-04 |
-| ios | [Microsoft Outlook](https://testflight.apple.com/join/QkU4VS1s) | 2024-06-03 |
 | ios | [Microsoft PowerPoint](https://testflight.apple.com/join/a9Ef0N3g) | 2024-06-01 |
 | ios | [Documents by Readdle](https://testflight.apple.com/join/EOPEVoDA) | 2024-05-31 |
 | ios | [Ruuvi Station](https://testflight.apple.com/join/loHFrEV1) | 2024-05-31 |
