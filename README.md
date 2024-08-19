@@ -1,6 +1,15 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-08-19 |
+| ios | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-08-19 |
+| ios | [Microsoft Outlook](https://testflight.apple.com/join/QkU4VS1s) | 2024-08-19 |
+| ios | [Salam](https://testflight.apple.com/join/IjXpQtAo) | 2024-08-19 |
+| ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2024-08-19 |
+| ios | [腾讯视频HD](https://testflight.apple.com/join/9JaSzwSN) | 2024-08-19 |
+| macos | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-08-19 |
+| macos | [MenubarX](https://testflight.apple.com/join/Tqr03a4h) | 2024-08-19 |
+| macos | [Salam](https://testflight.apple.com/join/IjXpQtAo) | 2024-08-19 |
 | chinese | [我的世界-网易](https://testflight.apple.com/join/mOxZm1dD) | 2024-08-16 |
 | ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2024-08-16 |
 | ios | [Flipabit](https://testflight.apple.com/join/ruyYHU5E) | 2024-08-15 |
@@ -9,7 +18,6 @@
 | ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2024-08-13 |
 | macos | [Drafts](https://testflight.apple.com/join/GhPcOrwa) | 2024-08-10 |
 | ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2024-08-06 |
-| ios | [Microsoft Office](https://testflight.apple.com/join/eHAKJBtM) | 2024-08-06 |
 | ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2024-08-02 |
 | ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2024-07-31 |
 | ios | [Microsoft Bing Search](https://testflight.apple.com/join/YAKT5ew9) | 2024-07-31 |
@@ -75,7 +83,6 @@
 | ios | [Property Finder](https://testflight.apple.com/join/ctQoX4vC) | 2023-10-14 |
 | ios | [FotMob Live Soccer Scores](https://testflight.apple.com/join/zEAwGlrV) | 2023-10-07 |
 | ios | [Chanyan](https://testflight.apple.com/join/ky5bRwMY) | 2023-09-23 |
-| ios | [MyFRITZ!App](https://testflight.apple.com/join/U0v1rBE5) | 2023-09-16 |
 | ios | [Wikipedia](https://testflight.apple.com/join/Z0AU0KXC) | 2023-09-16 |
 | ios | [RocketChat](https://testflight.apple.com/join/3gcYeoMr) | 2023-08-20 |
 | ios | [Obsidian - Connected Notes beta](https://testflight.apple.com/join/f3moqRS1) | 2023-08-07 |
