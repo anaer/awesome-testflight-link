@@ -1,10 +1,12 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| chinese | [微信键盘 beta](https://testflight.apple.com/join/iSTXkF4K) | 2024-08-21 |
+| ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2024-08-22 |
+| ios | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-08-22 |
+| ios | [MyFRITZ!App](https://testflight.apple.com/join/U0v1rBE5) | 2024-08-22 |
+| ios | [腾讯视频HD](https://testflight.apple.com/join/9JaSzwSN) | 2024-08-22 |
+| macos | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-08-22 |
 | ios | [FRITZ!App Smart Home](https://testflight.apple.com/join/kzVJhIg1) | 2024-08-21 |
-| ios | [Microsoft Loop beta](https://testflight.apple.com/join/KNyadcIZ) | 2024-08-21 |
-| ios | [MEGA](https://testflight.apple.com/join/4x1P5Tnx) | 2024-08-20 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-08-19 |
 | ios | [Salam](https://testflight.apple.com/join/IjXpQtAo) | 2024-08-19 |
 | macos | [Salam](https://testflight.apple.com/join/IjXpQtAo) | 2024-08-19 |
