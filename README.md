@@ -1,13 +1,11 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Deezer](https://testflight.apple.com/join/e7mCOEeg) | 2024-08-24 |
+| ios | [Overcast beta](https://testflight.apple.com/join/37azzGPG) | 2024-08-24 |
 | chinese | [微信键盘 beta](https://testflight.apple.com/join/iSTXkF4K) | 2024-08-23 |
-| ios | [1Password - Password Manager beta](https://testflight.apple.com/join/fzDLkIVK) | 2024-08-23 |
-| ios | [Sabertooth for Mastodon](https://testflight.apple.com/join/pBGgMKw2) | 2024-08-23 |
-| ios_game | [Stick War 3](https://testflight.apple.com/join/eUx3WxVj) | 2024-08-23 |
 | ios | [MyFRITZ!App](https://testflight.apple.com/join/U0v1rBE5) | 2024-08-22 |
 | ios | [FRITZ!App Smart Home](https://testflight.apple.com/join/kzVJhIg1) | 2024-08-21 |
-| ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-08-19 |
 | ios | [Salam](https://testflight.apple.com/join/IjXpQtAo) | 2024-08-19 |
 | macos | [Salam](https://testflight.apple.com/join/IjXpQtAo) | 2024-08-19 |
 | chinese | [我的世界-网易](https://testflight.apple.com/join/mOxZm1dD) | 2024-08-16 |
@@ -81,7 +79,6 @@
 | ios | [Gaming for Peace-GAP](https://testflight.apple.com/join/tJu81Sch) | 2023-10-25 |
 | ios | [Meditation Timer Zenzitizer](https://testflight.apple.com/join/QvKyRJ8x) | 2023-10-21 |
 | ios | [Property Finder](https://testflight.apple.com/join/ctQoX4vC) | 2023-10-14 |
-| ios | [FotMob Live Soccer Scores](https://testflight.apple.com/join/zEAwGlrV) | 2023-10-07 |
 | ios | [Chanyan](https://testflight.apple.com/join/ky5bRwMY) | 2023-09-23 |
 | ios | [Wikipedia](https://testflight.apple.com/join/Z0AU0KXC) | 2023-09-16 |
 | ios | [RocketChat](https://testflight.apple.com/join/3gcYeoMr) | 2023-08-20 |
