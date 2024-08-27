@@ -1,13 +1,14 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| chinese | [哔哩哔哩](https://testflight.apple.com/join/K4pM1kHu) | 2024-08-26 |
-| ios | [Microsoft Loop beta](https://testflight.apple.com/join/KNyadcIZ) | 2024-08-26 |
-| ios | [Microsoft Office](https://testflight.apple.com/join/eHAKJBtM) | 2024-08-26 |
+| chinese | [微信读书](https://testflight.apple.com/join/5MWjLpYl) | 2024-08-27 |
+| ios | [FlowNote - powerful note-taking app](https://testflight.apple.com/join/flHFdltG) | 2024-08-27 |
+| ios | [MyFRITZ!App](https://testflight.apple.com/join/U0v1rBE5) | 2024-08-27 |
+| ios | [Notion](https://testflight.apple.com/join/YSo8aVCS) | 2024-08-27 |
+| ios | [Sabertooth for Mastodon](https://testflight.apple.com/join/pBGgMKw2) | 2024-08-27 |
+| ios | [Yandex Browser](https://testflight.apple.com/join/Y4k4ze6V) | 2024-08-27 |
 | ios | [Overcast beta](https://testflight.apple.com/join/37azzGPG) | 2024-08-26 |
-| ios | [Xbox](https://testflight.apple.com/join/dfUeaFHS) | 2024-08-26 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-08-25 |
-| ios | [MEGA](https://testflight.apple.com/join/4x1P5Tnx) | 2024-08-25 |
 | ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2024-08-25 |
 | ios | [FRITZ!App Smart Home](https://testflight.apple.com/join/kzVJhIg1) | 2024-08-21 |
 | ios | [Salam](https://testflight.apple.com/join/IjXpQtAo) | 2024-08-19 |
