@@ -1,12 +1,14 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Dropbox](https://testflight.apple.com/join/LBZaRq4I) | 2024-08-30 |
+| ios | [FRITZ!App WLAN](https://testflight.apple.com/join/vbfCKamq) | 2024-08-30 |
+| ios | [FotMob Live Soccer Scores](https://testflight.apple.com/join/zEAwGlrV) | 2024-08-30 |
+| ios | [Microsoft Outlook](https://testflight.apple.com/join/QkU4VS1s) | 2024-08-30 |
+| ios_game | [Minecraft: Education Edition beta](https://testflight.apple.com/join/sBDlEXYr) | 2024-08-30 |
 | ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2024-08-28 |
-| ios | [Lock Launcher beta](https://testflight.apple.com/join/clHxFnLa) | 2024-08-28 |
 | ios | [腾讯视频HD](https://testflight.apple.com/join/9JaSzwSN) | 2024-08-28 |
-| macos | [Windows App](https://testflight.apple.com/join/YqNaYeyS) | 2024-08-28 |
 | chinese | [微信读书](https://testflight.apple.com/join/5MWjLpYl) | 2024-08-27 |
-| ios | [MyFRITZ!App](https://testflight.apple.com/join/U0v1rBE5) | 2024-08-27 |
 | ios | [Sabertooth for Mastodon](https://testflight.apple.com/join/pBGgMKw2) | 2024-08-27 |
 | ios | [Overcast beta](https://testflight.apple.com/join/37azzGPG) | 2024-08-26 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-08-25 |
@@ -34,7 +36,6 @@
 | ios | [SweeLOL](https://testflight.apple.com/join/FT9n1ncG) | 2024-07-02 |
 | ios | [Cheatsheet](https://testflight.apple.com/join/E7AnyPlA) | 2024-06-26 |
 | ios | [Unomo](https://testflight.apple.com/join/qbYJl8sX) | 2024-06-25 |
-| ios | [Windows App Mobile](https://testflight.apple.com/join/q4ha2nsh) | 2024-06-21 |
 | ios | [SM.MS](https://testflight.apple.com/join/bQz911w3) | 2024-06-19 |
 | ios | [PushUp Workout Daily at Home](https://testflight.apple.com/join/myFEz6DW) | 2024-06-18 |
 | ios | [Parcel - Delivery Tracking](https://testflight.apple.com/join/fMeg6C4A) | 2024-06-14 |
