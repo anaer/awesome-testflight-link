@@ -1,13 +1,16 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Airmail - Your Mail With You](https://testflight.apple.com/join/wRiLlWPE) | 2024-08-31 |
+| ios | [Elytra](https://testflight.apple.com/join/PYYu2Cco) | 2024-08-31 |
+| ios | [IFTTT](https://testflight.apple.com/join/Lgmzxy7Y) | 2024-08-31 |
+| ios | [Microsoft Office](https://testflight.apple.com/join/eHAKJBtM) | 2024-08-31 |
+| ios | [Microsoft SwiftKey Keyboard](https://testflight.apple.com/join/yhIhAvjp) | 2024-08-31 |
+| ios | [Windows App Mobile](https://testflight.apple.com/join/q4ha2nsh) | 2024-08-31 |
+| ios_game | [Stick War 3](https://testflight.apple.com/join/eUx3WxVj) | 2024-08-31 |
 | ios | [Dropbox](https://testflight.apple.com/join/LBZaRq4I) | 2024-08-30 |
-| ios | [FRITZ!App WLAN](https://testflight.apple.com/join/vbfCKamq) | 2024-08-30 |
 | ios | [FotMob Live Soccer Scores](https://testflight.apple.com/join/zEAwGlrV) | 2024-08-30 |
-| ios | [Microsoft Outlook](https://testflight.apple.com/join/QkU4VS1s) | 2024-08-30 |
 | ios_game | [Minecraft: Education Edition beta](https://testflight.apple.com/join/sBDlEXYr) | 2024-08-30 |
-| ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2024-08-28 |
-| ios | [腾讯视频HD](https://testflight.apple.com/join/9JaSzwSN) | 2024-08-28 |
 | chinese | [微信读书](https://testflight.apple.com/join/5MWjLpYl) | 2024-08-27 |
 | ios | [Sabertooth for Mastodon](https://testflight.apple.com/join/pBGgMKw2) | 2024-08-27 |
 | ios | [Overcast beta](https://testflight.apple.com/join/37azzGPG) | 2024-08-26 |
