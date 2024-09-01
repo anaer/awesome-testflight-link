@@ -1,13 +1,13 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| chinese | [哔哩哔哩](https://testflight.apple.com/join/K4pM1kHu) | 2024-09-01 |
+| ios | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-09-01 |
+| ios | [Pockity](https://testflight.apple.com/join/4qfWwXvP) | 2024-09-01 |
+| macos | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-09-01 |
 | ios | [Airmail - Your Mail With You](https://testflight.apple.com/join/wRiLlWPE) | 2024-08-31 |
-| ios | [Elytra](https://testflight.apple.com/join/PYYu2Cco) | 2024-08-31 |
 | ios | [IFTTT](https://testflight.apple.com/join/Lgmzxy7Y) | 2024-08-31 |
 | ios | [Microsoft Office](https://testflight.apple.com/join/eHAKJBtM) | 2024-08-31 |
-| ios | [Microsoft SwiftKey Keyboard](https://testflight.apple.com/join/yhIhAvjp) | 2024-08-31 |
-| ios | [Windows App Mobile](https://testflight.apple.com/join/q4ha2nsh) | 2024-08-31 |
-| ios_game | [Stick War 3](https://testflight.apple.com/join/eUx3WxVj) | 2024-08-31 |
 | ios | [Dropbox](https://testflight.apple.com/join/LBZaRq4I) | 2024-08-30 |
 | ios | [FotMob Live Soccer Scores](https://testflight.apple.com/join/zEAwGlrV) | 2024-08-30 |
 | ios_game | [Minecraft: Education Edition beta](https://testflight.apple.com/join/sBDlEXYr) | 2024-08-30 |
