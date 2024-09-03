@@ -1,7 +1,12 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| chinese | [微信键盘 beta](https://testflight.apple.com/join/iSTXkF4K) | 2024-09-02 |
+| ios | [BeReal](https://testflight.apple.com/join/IM4jE5XY) | 2024-09-03 |
+| ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-09-03 |
+| ios | [Hanami](https://testflight.apple.com/join/VUPzZpkc) | 2024-09-03 |
+| ios | [Microsoft Bing Search](https://testflight.apple.com/join/YAKT5ew9) | 2024-09-03 |
+| ios | [YACReader](https://testflight.apple.com/join/5zhB7sRP) | 2024-09-03 |
+| ios | [Yandex Browser](https://testflight.apple.com/join/Y4k4ze6V) | 2024-09-03 |
 | ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2024-09-02 |
 | ios | [Pockity](https://testflight.apple.com/join/4qfWwXvP) | 2024-09-01 |
 | ios | [Airmail - Your Mail With You](https://testflight.apple.com/join/wRiLlWPE) | 2024-08-31 |
@@ -10,7 +15,6 @@
 | ios | [Dropbox](https://testflight.apple.com/join/LBZaRq4I) | 2024-08-30 |
 | ios | [FotMob Live Soccer Scores](https://testflight.apple.com/join/zEAwGlrV) | 2024-08-30 |
 | ios_game | [Minecraft: Education Edition beta](https://testflight.apple.com/join/sBDlEXYr) | 2024-08-30 |
-| chinese | [微信读书](https://testflight.apple.com/join/5MWjLpYl) | 2024-08-27 |
 | ios | [Sabertooth for Mastodon](https://testflight.apple.com/join/pBGgMKw2) | 2024-08-27 |
 | ios | [Overcast beta](https://testflight.apple.com/join/37azzGPG) | 2024-08-26 |
 | ios | [FRITZ!App Smart Home](https://testflight.apple.com/join/kzVJhIg1) | 2024-08-21 |
@@ -44,7 +48,6 @@
 | ios | [SimpleTix Box Office](https://testflight.apple.com/join/zyByZSX8) | 2024-06-11 |
 | ios | [SHARE NOW (car2go & DriveNow)](https://testflight.apple.com/join/1SsBDNCj) | 2024-06-04 |
 | ios | [Microsoft PowerPoint](https://testflight.apple.com/join/a9Ef0N3g) | 2024-06-01 |
-| ios | [Documents by Readdle](https://testflight.apple.com/join/EOPEVoDA) | 2024-05-31 |
 | ios | [Ruuvi Station](https://testflight.apple.com/join/loHFrEV1) | 2024-05-31 |
 | ios | [Möbius Sync - Syncthing iOS](https://testflight.apple.com/join/n5A7ceuK) | 2024-05-28 |
 | ios | [Opera Touch web browser](https://testflight.apple.com/join/ASrCFVHB) | 2024-05-28 |
