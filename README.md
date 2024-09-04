@@ -1,13 +1,14 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [BeReal](https://testflight.apple.com/join/IM4jE5XY) | 2024-09-03 |
+| chinese | [哔哩哔哩](https://testflight.apple.com/join/K4pM1kHu) | 2024-09-04 |
+| chinese | [微信键盘 beta](https://testflight.apple.com/join/iSTXkF4K) | 2024-09-04 |
+| ios | [Microsoft To-Do](https://testflight.apple.com/join/JSq3UkAz) | 2024-09-04 |
+| ios | [Retro 2](https://testflight.apple.com/join/IjV5V0zL) | 2024-09-04 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-09-03 |
 | ios | [Hanami](https://testflight.apple.com/join/VUPzZpkc) | 2024-09-03 |
-| ios | [Microsoft Bing Search](https://testflight.apple.com/join/YAKT5ew9) | 2024-09-03 |
 | ios | [YACReader](https://testflight.apple.com/join/5zhB7sRP) | 2024-09-03 |
 | ios | [Yandex Browser](https://testflight.apple.com/join/Y4k4ze6V) | 2024-09-03 |
-| ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2024-09-02 |
 | ios | [Pockity](https://testflight.apple.com/join/4qfWwXvP) | 2024-09-01 |
 | ios | [Airmail - Your Mail With You](https://testflight.apple.com/join/wRiLlWPE) | 2024-08-31 |
 | ios | [IFTTT](https://testflight.apple.com/join/Lgmzxy7Y) | 2024-08-31 |
