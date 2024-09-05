@@ -1,14 +1,16 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| chinese | [哔哩哔哩](https://testflight.apple.com/join/K4pM1kHu) | 2024-09-04 |
+| ios | [Calendars 5 by Readdle](https://testflight.apple.com/join/tC44BniC) | 2024-09-05 |
+| ios | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-09-05 |
+| ios | [FlowNote - powerful note-taking app](https://testflight.apple.com/join/flHFdltG) | 2024-09-05 |
+| ios | [Microsoft SwiftKey Keyboard](https://testflight.apple.com/join/yhIhAvjp) | 2024-09-05 |
+| ios | [MyFRITZ!App](https://testflight.apple.com/join/U0v1rBE5) | 2024-09-05 |
+| ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-09-05 |
+| macos | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-09-05 |
 | chinese | [微信键盘 beta](https://testflight.apple.com/join/iSTXkF4K) | 2024-09-04 |
-| ios | [Microsoft To-Do](https://testflight.apple.com/join/JSq3UkAz) | 2024-09-04 |
-| ios | [Retro 2](https://testflight.apple.com/join/IjV5V0zL) | 2024-09-04 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-09-03 |
 | ios | [Hanami](https://testflight.apple.com/join/VUPzZpkc) | 2024-09-03 |
-| ios | [YACReader](https://testflight.apple.com/join/5zhB7sRP) | 2024-09-03 |
-| ios | [Yandex Browser](https://testflight.apple.com/join/Y4k4ze6V) | 2024-09-03 |
 | ios | [Pockity](https://testflight.apple.com/join/4qfWwXvP) | 2024-09-01 |
 | ios | [Airmail - Your Mail With You](https://testflight.apple.com/join/wRiLlWPE) | 2024-08-31 |
 | ios | [IFTTT](https://testflight.apple.com/join/Lgmzxy7Y) | 2024-08-31 |
