@@ -1,19 +1,17 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| chinese | [百度贴吧](https://testflight.apple.com/join/GgBqXAqm) | 2024-09-06 |
-| ios | [Grocery-Smart Grocery List](https://testflight.apple.com/join/v29eXz9t) | 2024-09-06 |
-| ios | [MEGA](https://testflight.apple.com/join/4x1P5Tnx) | 2024-09-06 |
-| ios | [Microsoft Loop beta](https://testflight.apple.com/join/KNyadcIZ) | 2024-09-06 |
-| ios | [Plant Identifier & Care](https://testflight.apple.com/join/vYqAc3Lf) | 2024-09-06 |
-| ios | [Steam iOS beta](https://testflight.apple.com/join/8BOPXsGz) | 2024-09-06 |
+| ios | [Darkroom – Photo Editor](https://testflight.apple.com/join/mzR3XvHe) | 2024-09-07 |
+| ios | [Deezer](https://testflight.apple.com/join/e7mCOEeg) | 2024-09-07 |
+| ios | [Graphite: Photo to Sketch App beta](https://testflight.apple.com/join/gRhGuXzI) | 2024-09-07 |
+| ios | [腾讯视频HD](https://testflight.apple.com/join/9JaSzwSN) | 2024-09-07 |
+| ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2024-09-07 |
 | ios | [Calendars 5 by Readdle](https://testflight.apple.com/join/tC44BniC) | 2024-09-05 |
 | ios | [MyFRITZ!App](https://testflight.apple.com/join/U0v1rBE5) | 2024-09-05 |
 | ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-09-05 |
 | chinese | [微信键盘 beta](https://testflight.apple.com/join/iSTXkF4K) | 2024-09-04 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-09-03 |
 | ios | [Hanami](https://testflight.apple.com/join/VUPzZpkc) | 2024-09-03 |
-| ios | [Pockity](https://testflight.apple.com/join/4qfWwXvP) | 2024-09-01 |
 | ios | [Airmail - Your Mail With You](https://testflight.apple.com/join/wRiLlWPE) | 2024-08-31 |
 | ios | [IFTTT](https://testflight.apple.com/join/Lgmzxy7Y) | 2024-08-31 |
 | ios | [Microsoft Office](https://testflight.apple.com/join/eHAKJBtM) | 2024-08-31 |
