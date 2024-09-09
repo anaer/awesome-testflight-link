@@ -1,10 +1,15 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-09-09 |
+| ios | [Microsoft Outlook](https://testflight.apple.com/join/QkU4VS1s) | 2024-09-09 |
+| ios | [Pinterest beta](https://testflight.apple.com/join/ffIBkq35) | 2024-09-09 |
+| ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2024-09-09 |
+| ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2024-09-09 |
+| ios | [Xbox](https://testflight.apple.com/join/dfUeaFHS) | 2024-09-09 |
+| macos | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-09-09 |
 | ios | [Just Timers](https://testflight.apple.com/join/pyzrz0oT) | 2024-09-08 |
-| ios | [Norton](https://testflight.apple.com/join/iHcEgAaT) | 2024-09-08 |
 | macos | [Caffeine Utility](https://testflight.apple.com/join/WHIbsose) | 2024-09-08 |
-| ios | [Darkroom – Photo Editor](https://testflight.apple.com/join/mzR3XvHe) | 2024-09-07 |
 | ios | [Calendars 5 by Readdle](https://testflight.apple.com/join/tC44BniC) | 2024-09-05 |
 | ios | [MyFRITZ!App](https://testflight.apple.com/join/U0v1rBE5) | 2024-09-05 |
 | chinese | [微信键盘 beta](https://testflight.apple.com/join/iSTXkF4K) | 2024-09-04 |
