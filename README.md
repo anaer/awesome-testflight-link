@@ -1,13 +1,15 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-09-11 |
+| ios | [Finance Bay](https://testflight.apple.com/join/y4etT8Ht) | 2024-09-11 |
+| ios | [KDE Connect](https://testflight.apple.com/join/vxCluwBF) | 2024-09-11 |
+| ios | [Retro 2](https://testflight.apple.com/join/IjV5V0zL) | 2024-09-11 |
+| macos | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-09-11 |
 | ios | [Potatso Lite](https://testflight.apple.com/join/NkF46PRd) | 2024-09-10 |
-| ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2024-09-10 |
 | ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-09-10 |
 | ios | [ownCloud](https://testflight.apple.com/join/Oktj0iKv) | 2024-09-10 |
 | ios | [Microsoft Outlook](https://testflight.apple.com/join/QkU4VS1s) | 2024-09-09 |
-| ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2024-09-09 |
-| ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2024-09-09 |
 | ios | [Calendars 5 by Readdle](https://testflight.apple.com/join/tC44BniC) | 2024-09-05 |
 | ios | [MyFRITZ!App](https://testflight.apple.com/join/U0v1rBE5) | 2024-09-05 |
 | chinese | [微信键盘 beta](https://testflight.apple.com/join/iSTXkF4K) | 2024-09-04 |
@@ -46,7 +48,6 @@
 | ios | [SM.MS](https://testflight.apple.com/join/bQz911w3) | 2024-06-19 |
 | ios | [PushUp Workout Daily at Home](https://testflight.apple.com/join/myFEz6DW) | 2024-06-18 |
 | ios | [Parcel - Delivery Tracking](https://testflight.apple.com/join/fMeg6C4A) | 2024-06-14 |
-| ios | [ColorSlurp Beta](https://testflight.apple.com/join/xxEw2j1X) | 2024-06-13 |
 | ios | [Erasee: Background Remover](https://testflight.apple.com/join/t6xnU9H3) | 2024-06-13 |
 | ios | [SimpleTix Box Office](https://testflight.apple.com/join/zyByZSX8) | 2024-06-11 |
 | ios | [SHARE NOW (car2go & DriveNow)](https://testflight.apple.com/join/1SsBDNCj) | 2024-06-04 |
@@ -58,7 +59,6 @@
 | ios | [TV Time – #1 Show Tracker](https://testflight.apple.com/join/hjKkDsc4) | 2024-05-24 |
 | ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2024-05-23 |
 | ios | [Revolut - Radically Better](https://testflight.apple.com/join/oqrinjQB) | 2024-05-16 |
-| ios | [Voqab - Vocabulary Training App](https://testflight.apple.com/join/o85e2EHN) | 2024-05-14 |
 | ios | [Screen Mirroring - 1001 TVs](https://testflight.apple.com/join/Nf1dKOBG) | 2024-05-07 |
 | ios | [Termius – SSH client](https://testflight.apple.com/join/MnuClabg) | 2024-04-30 |
 | ios | [TrackMyTour](https://testflight.apple.com/join/tv9dt6po) | 2024-04-15 |
