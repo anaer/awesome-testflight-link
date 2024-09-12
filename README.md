@@ -1,15 +1,16 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-09-11 |
+| ios | [CardioBot - Heart Rate Monitor](https://testflight.apple.com/join/H82FVVt6) | 2024-09-12 |
+| ios | [Elytra](https://testflight.apple.com/join/PYYu2Cco) | 2024-09-12 |
+| ios | [Grocery-Smart Grocery List](https://testflight.apple.com/join/v29eXz9t) | 2024-09-12 |
+| ios | [Microsoft SwiftKey Keyboard](https://testflight.apple.com/join/yhIhAvjp) | 2024-09-12 |
+| macos | [Caffeine Utility](https://testflight.apple.com/join/WHIbsose) | 2024-09-12 |
 | ios | [Finance Bay](https://testflight.apple.com/join/y4etT8Ht) | 2024-09-11 |
 | ios | [KDE Connect](https://testflight.apple.com/join/vxCluwBF) | 2024-09-11 |
-| ios | [Retro 2](https://testflight.apple.com/join/IjV5V0zL) | 2024-09-11 |
-| macos | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-09-11 |
 | ios | [Potatso Lite](https://testflight.apple.com/join/NkF46PRd) | 2024-09-10 |
 | ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-09-10 |
 | ios | [ownCloud](https://testflight.apple.com/join/Oktj0iKv) | 2024-09-10 |
-| ios | [Microsoft Outlook](https://testflight.apple.com/join/QkU4VS1s) | 2024-09-09 |
 | ios | [Calendars 5 by Readdle](https://testflight.apple.com/join/tC44BniC) | 2024-09-05 |
 | ios | [MyFRITZ!App](https://testflight.apple.com/join/U0v1rBE5) | 2024-09-05 |
 | chinese | [微信键盘 beta](https://testflight.apple.com/join/iSTXkF4K) | 2024-09-04 |
