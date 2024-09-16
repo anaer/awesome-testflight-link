@@ -1,9 +1,11 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| chinese | [哔哩哔哩](https://testflight.apple.com/join/K4pM1kHu) | 2024-09-15 |
+| ios | [1Password - Password Manager beta](https://testflight.apple.com/join/fzDLkIVK) | 2024-09-16 |
+| ios | [Deezer](https://testflight.apple.com/join/e7mCOEeg) | 2024-09-16 |
+| ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2024-09-16 |
+| ios | [腾讯视频HD](https://testflight.apple.com/join/9JaSzwSN) | 2024-09-16 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-09-15 |
-| ios | [Graphite: Photo to Sketch App beta](https://testflight.apple.com/join/gRhGuXzI) | 2024-09-15 |
 | ios | [S1 Mufu](https://testflight.apple.com/join/KwboYTNt) | 2024-09-15 |
 | ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2024-09-15 |
 | ios | [BeReal](https://testflight.apple.com/join/IM4jE5XY) | 2024-09-14 |
