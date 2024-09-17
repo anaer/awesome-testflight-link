@@ -1,14 +1,11 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [1Password - Password Manager beta](https://testflight.apple.com/join/fzDLkIVK) | 2024-09-16 |
+| ios | [FRITZ!App WLAN](https://testflight.apple.com/join/vbfCKamq) | 2024-09-17 |
+| ios | [Finance Bay](https://testflight.apple.com/join/y4etT8Ht) | 2024-09-17 |
+| ios | [Lock Launcher beta](https://testflight.apple.com/join/clHxFnLa) | 2024-09-17 |
+| ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-09-17 |
 | ios | [Deezer](https://testflight.apple.com/join/e7mCOEeg) | 2024-09-16 |
-| ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2024-09-16 |
-| ios | [腾讯视频HD](https://testflight.apple.com/join/9JaSzwSN) | 2024-09-16 |
-| ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-09-15 |
-| ios | [S1 Mufu](https://testflight.apple.com/join/KwboYTNt) | 2024-09-15 |
-| ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2024-09-15 |
-| ios | [BeReal](https://testflight.apple.com/join/IM4jE5XY) | 2024-09-14 |
 | ios | [Just Timers](https://testflight.apple.com/join/pyzrz0oT) | 2024-09-14 |
 | ios | [Darkroom – Photo Editor](https://testflight.apple.com/join/mzR3XvHe) | 2024-09-13 |
 | ios | [Spark Mail - Email by Readdle](https://testflight.apple.com/join/O2wj7i0x) | 2024-09-13 |
@@ -16,7 +13,6 @@
 | ios | [KDE Connect](https://testflight.apple.com/join/vxCluwBF) | 2024-09-11 |
 | ios | [Potatso Lite](https://testflight.apple.com/join/NkF46PRd) | 2024-09-10 |
 | ios | [ownCloud](https://testflight.apple.com/join/Oktj0iKv) | 2024-09-10 |
-| ios | [Calendars 5 by Readdle](https://testflight.apple.com/join/tC44BniC) | 2024-09-05 |
 | ios | [MyFRITZ!App](https://testflight.apple.com/join/U0v1rBE5) | 2024-09-05 |
 | chinese | [微信键盘 beta](https://testflight.apple.com/join/iSTXkF4K) | 2024-09-04 |
 | ios | [Hanami](https://testflight.apple.com/join/VUPzZpkc) | 2024-09-03 |
