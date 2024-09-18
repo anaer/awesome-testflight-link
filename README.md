@@ -1,11 +1,12 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [FRITZ!App WLAN](https://testflight.apple.com/join/vbfCKamq) | 2024-09-17 |
-| ios | [Finance Bay](https://testflight.apple.com/join/y4etT8Ht) | 2024-09-17 |
-| ios | [Lock Launcher beta](https://testflight.apple.com/join/clHxFnLa) | 2024-09-17 |
+| ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2024-09-18 |
+| ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-09-18 |
+| ios | [Grocery-Smart Grocery List](https://testflight.apple.com/join/v29eXz9t) | 2024-09-18 |
+| ios | [和风天气 - 可视化天气 beta](https://testflight.apple.com/join/9KR0Xx7E) | 2024-09-18 |
+| macos | [Caffeine Utility](https://testflight.apple.com/join/WHIbsose) | 2024-09-18 |
 | ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-09-17 |
-| ios | [Deezer](https://testflight.apple.com/join/e7mCOEeg) | 2024-09-16 |
 | ios | [Just Timers](https://testflight.apple.com/join/pyzrz0oT) | 2024-09-14 |
 | ios | [Darkroom – Photo Editor](https://testflight.apple.com/join/mzR3XvHe) | 2024-09-13 |
 | ios | [Spark Mail - Email by Readdle](https://testflight.apple.com/join/O2wj7i0x) | 2024-09-13 |
