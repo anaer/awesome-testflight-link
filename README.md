@@ -1,16 +1,14 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| chinese | [微信读书](https://testflight.apple.com/join/5MWjLpYl) | 2024-09-20 |
+| ios | [Everlog](https://testflight.apple.com/join/sOCDYE65) | 2024-09-21 |
+| ios | [Jira Server by Atlassian](https://testflight.apple.com/join/6JbjYbSY) | 2024-09-21 |
+| ios | [Microsoft Outlook](https://testflight.apple.com/join/QkU4VS1s) | 2024-09-21 |
+| ios | [Stop Motion Studio Pro](https://testflight.apple.com/join/rfWbdRvr) | 2024-09-21 |
 | chinese | [我的世界-网易](https://testflight.apple.com/join/mOxZm1dD) | 2024-09-20 |
 | ios | [Dropbox](https://testflight.apple.com/join/LBZaRq4I) | 2024-09-20 |
-| ios | [Plant Identifier & Care](https://testflight.apple.com/join/vYqAc3Lf) | 2024-09-20 |
 | ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2024-09-20 |
-| ios | [Windows App Mobile](https://testflight.apple.com/join/q4ha2nsh) | 2024-09-20 |
-| macos | [Windows App](https://testflight.apple.com/join/YqNaYeyS) | 2024-09-20 |
-| ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2024-09-18 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-09-18 |
-| ios | [Grocery-Smart Grocery List](https://testflight.apple.com/join/v29eXz9t) | 2024-09-18 |
 | ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-09-17 |
 | ios | [Just Timers](https://testflight.apple.com/join/pyzrz0oT) | 2024-09-14 |
 | ios | [Darkroom – Photo Editor](https://testflight.apple.com/join/mzR3XvHe) | 2024-09-13 |
