@@ -1,11 +1,11 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Microsoft Designer beta](https://testflight.apple.com/join/KsuaylTZ) | 2024-09-22 |
-| ios | [S1 Mufu](https://testflight.apple.com/join/KwboYTNt) | 2024-09-22 |
-| ios | [Yandex Browser](https://testflight.apple.com/join/Y4k4ze6V) | 2024-09-22 |
+| ios | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-09-23 |
+| ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2024-09-23 |
+| macos | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-09-23 |
+| macos | [Windows App](https://testflight.apple.com/join/YqNaYeyS) | 2024-09-23 |
 | ios | [Jira Server by Atlassian](https://testflight.apple.com/join/6JbjYbSY) | 2024-09-21 |
-| ios | [Microsoft Outlook](https://testflight.apple.com/join/QkU4VS1s) | 2024-09-21 |
 | ios | [Stop Motion Studio Pro](https://testflight.apple.com/join/rfWbdRvr) | 2024-09-21 |
 | chinese | [我的世界-网易](https://testflight.apple.com/join/mOxZm1dD) | 2024-09-20 |
 | ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2024-09-20 |
