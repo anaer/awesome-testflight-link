@@ -1,10 +1,10 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-09-23 |
-| ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2024-09-23 |
-| macos | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-09-23 |
-| macos | [Windows App](https://testflight.apple.com/join/YqNaYeyS) | 2024-09-23 |
+| ios | [Notion](https://testflight.apple.com/join/YSo8aVCS) | 2024-09-24 |
+| ios | [Retro 2](https://testflight.apple.com/join/IjV5V0zL) | 2024-09-24 |
+| ios | [搜狗输入法](https://testflight.apple.com/join/lSZdpEPH) | 2024-09-24 |
+| macos | [Caffeine Utility](https://testflight.apple.com/join/WHIbsose) | 2024-09-24 |
 | ios | [Jira Server by Atlassian](https://testflight.apple.com/join/6JbjYbSY) | 2024-09-21 |
 | ios | [Stop Motion Studio Pro](https://testflight.apple.com/join/rfWbdRvr) | 2024-09-21 |
 | chinese | [我的世界-网易](https://testflight.apple.com/join/mOxZm1dD) | 2024-09-20 |
