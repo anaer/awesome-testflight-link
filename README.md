@@ -1,6 +1,7 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Tuttii Beta](https://testflight.apple.com/join/2dTbntXZ) | 2024-09-25 |
 | ios | [Notion](https://testflight.apple.com/join/YSo8aVCS) | 2024-09-24 |
 | ios | [Retro 2](https://testflight.apple.com/join/IjV5V0zL) | 2024-09-24 |
 | ios | [搜狗输入法](https://testflight.apple.com/join/lSZdpEPH) | 2024-09-24 |
