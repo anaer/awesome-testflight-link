@@ -1,14 +1,15 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| chinese | [iCost 记账](https://testflight.apple.com/join/pm1jk978) | 2024-09-26 |
+| ios | [Cs Music Player](https://testflight.apple.com/join/dU2r1pkq) | 2024-09-26 |
+| ios | [Forward - 新视界](https://testflight.apple.com/join/7Nsb3Eu4) | 2024-09-26 |
+| ios | [Grocery-Smart Grocery List](https://testflight.apple.com/join/v29eXz9t) | 2024-09-26 |
+| ios | [NS Travel Planner](https://testflight.apple.com/join/ldBwapIg) | 2024-09-26 |
+| ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-09-26 |
 | ios | [Tuttii Beta](https://testflight.apple.com/join/2dTbntXZ) | 2024-09-25 |
-| ios | [Notion](https://testflight.apple.com/join/YSo8aVCS) | 2024-09-24 |
-| ios | [Retro 2](https://testflight.apple.com/join/IjV5V0zL) | 2024-09-24 |
-| ios | [搜狗输入法](https://testflight.apple.com/join/lSZdpEPH) | 2024-09-24 |
-| macos | [Caffeine Utility](https://testflight.apple.com/join/WHIbsose) | 2024-09-24 |
 | ios | [Jira Server by Atlassian](https://testflight.apple.com/join/6JbjYbSY) | 2024-09-21 |
 | ios | [Stop Motion Studio Pro](https://testflight.apple.com/join/rfWbdRvr) | 2024-09-21 |
-| chinese | [我的世界-网易](https://testflight.apple.com/join/mOxZm1dD) | 2024-09-20 |
 | ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2024-09-20 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-09-18 |
 | ios | [Just Timers](https://testflight.apple.com/join/pyzrz0oT) | 2024-09-14 |
@@ -19,12 +20,10 @@
 | ios | [Potatso Lite](https://testflight.apple.com/join/NkF46PRd) | 2024-09-10 |
 | ios | [ownCloud](https://testflight.apple.com/join/Oktj0iKv) | 2024-09-10 |
 | ios | [MyFRITZ!App](https://testflight.apple.com/join/U0v1rBE5) | 2024-09-05 |
-| chinese | [微信键盘 beta](https://testflight.apple.com/join/iSTXkF4K) | 2024-09-04 |
 | ios | [Hanami](https://testflight.apple.com/join/VUPzZpkc) | 2024-09-03 |
 | ios | [Airmail - Your Mail With You](https://testflight.apple.com/join/wRiLlWPE) | 2024-08-31 |
 | ios | [IFTTT](https://testflight.apple.com/join/Lgmzxy7Y) | 2024-08-31 |
 | ios | [Microsoft Office](https://testflight.apple.com/join/eHAKJBtM) | 2024-08-31 |
-| ios | [FotMob Live Soccer Scores](https://testflight.apple.com/join/zEAwGlrV) | 2024-08-30 |
 | ios_game | [Minecraft: Education Edition beta](https://testflight.apple.com/join/sBDlEXYr) | 2024-08-30 |
 | ios | [Sabertooth for Mastodon](https://testflight.apple.com/join/pBGgMKw2) | 2024-08-27 |
 | ios | [Overcast beta](https://testflight.apple.com/join/37azzGPG) | 2024-08-26 |
@@ -101,7 +100,6 @@
 | ios_game | [DropZap World](https://testflight.apple.com/join/CdEXgjst) | 2023-07-02 |
 | chinese | [Maxthon Cloud Web Browser](https://testflight.apple.com/join/ONuHkBRv) | 2023-06-22 |
 | ios | [Sangoma Meet](https://testflight.apple.com/join/BEd12vi5) | 2023-05-25 |
-| ios | [RainViewer: Live Weather Radar](https://testflight.apple.com/join/OZ1B4sTS) | 2023-05-20 |
 | ios | [FRITZ!App Fon](https://testflight.apple.com/join/SGGCxyRp) | 2023-05-19 |
 | ios | [Microsoft Lists](https://testflight.apple.com/join/FL3caOg6) | 2023-04-28 |
 | ios | [Proton Pass](https://testflight.apple.com/join/GiTMzX3I) | 2023-04-25 |
