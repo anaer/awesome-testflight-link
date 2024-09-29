@@ -1,19 +1,15 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Grocery-Smart Grocery List](https://testflight.apple.com/join/v29eXz9t) | 2024-09-29 |
 | ios | [Deezer](https://testflight.apple.com/join/e7mCOEeg) | 2024-09-27 |
-| ios | [Dropbox](https://testflight.apple.com/join/LBZaRq4I) | 2024-09-27 |
-| ios | [Everlog](https://testflight.apple.com/join/sOCDYE65) | 2024-09-27 |
-| ios | [Norton](https://testflight.apple.com/join/iHcEgAaT) | 2024-09-27 |
 | ios | [Cs Music Player](https://testflight.apple.com/join/dU2r1pkq) | 2024-09-26 |
 | ios | [Forward - 新视界](https://testflight.apple.com/join/7Nsb3Eu4) | 2024-09-26 |
 | ios | [NS Travel Planner](https://testflight.apple.com/join/ldBwapIg) | 2024-09-26 |
-| ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-09-26 |
 | ios | [Tuttii Beta](https://testflight.apple.com/join/2dTbntXZ) | 2024-09-25 |
 | ios | [Jira Server by Atlassian](https://testflight.apple.com/join/6JbjYbSY) | 2024-09-21 |
 | ios | [Stop Motion Studio Pro](https://testflight.apple.com/join/rfWbdRvr) | 2024-09-21 |
 | ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2024-09-20 |
-| ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-09-18 |
 | ios | [Just Timers](https://testflight.apple.com/join/pyzrz0oT) | 2024-09-14 |
 | ios | [Spark Mail - Email by Readdle](https://testflight.apple.com/join/O2wj7i0x) | 2024-09-13 |
 | ios | [CardioBot - Heart Rate Monitor](https://testflight.apple.com/join/H82FVVt6) | 2024-09-12 |
