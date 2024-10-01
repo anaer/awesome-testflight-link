@@ -1,10 +1,14 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-10-01 |
+| ios | [Everlog](https://testflight.apple.com/join/sOCDYE65) | 2024-10-01 |
+| ios | [Just Timers](https://testflight.apple.com/join/pyzrz0oT) | 2024-10-01 |
+| ios | [Mixing Station](https://testflight.apple.com/join/lsd9mugy) | 2024-10-01 |
+| ios | [YACReader](https://testflight.apple.com/join/5zhB7sRP) | 2024-10-01 |
+| macos | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-10-01 |
 | chinese | [哔哩哔哩](https://testflight.apple.com/join/K4pM1kHu) | 2024-09-30 |
 | chinese | [微信键盘 beta](https://testflight.apple.com/join/iSTXkF4K) | 2024-09-30 |
-| ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2024-09-30 |
-| ios | [Windows App Mobile](https://testflight.apple.com/join/q4ha2nsh) | 2024-09-30 |
 | ios | [Deezer](https://testflight.apple.com/join/e7mCOEeg) | 2024-09-27 |
 | ios | [Cs Music Player](https://testflight.apple.com/join/dU2r1pkq) | 2024-09-26 |
 | ios | [NS Travel Planner](https://testflight.apple.com/join/ldBwapIg) | 2024-09-26 |
