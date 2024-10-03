@@ -1,16 +1,13 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Graphite: Photo to Sketch App beta](https://testflight.apple.com/join/gRhGuXzI) | 2024-10-02 |
-| ios | [Microsoft Loop beta](https://testflight.apple.com/join/KNyadcIZ) | 2024-10-02 |
-| ios | [Microsoft Outlook](https://testflight.apple.com/join/QkU4VS1s) | 2024-10-02 |
-| ios | [Reading List - Book Tracker](https://testflight.apple.com/join/kBS5mVao) | 2024-10-02 |
+| chinese | [酷狗概念版](https://testflight.apple.com/join/IOgbaxds) | 2024-10-03 |
+| ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2024-10-03 |
+| macos | [Windows App](https://testflight.apple.com/join/YqNaYeyS) | 2024-10-03 |
 | ios | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-10-01 |
-| ios | [Everlog](https://testflight.apple.com/join/sOCDYE65) | 2024-10-01 |
 | ios | [Just Timers](https://testflight.apple.com/join/pyzrz0oT) | 2024-10-01 |
 | ios | [YACReader](https://testflight.apple.com/join/5zhB7sRP) | 2024-10-01 |
 | macos | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-10-01 |
-| chinese | [哔哩哔哩](https://testflight.apple.com/join/K4pM1kHu) | 2024-09-30 |
 | ios | [Deezer](https://testflight.apple.com/join/e7mCOEeg) | 2024-09-27 |
 | ios | [Cs Music Player](https://testflight.apple.com/join/dU2r1pkq) | 2024-09-26 |
 | ios | [NS Travel Planner](https://testflight.apple.com/join/ldBwapIg) | 2024-09-26 |
@@ -40,7 +37,6 @@
 | ios | [Bitwarden Password Manager](https://testflight.apple.com/join/595lFH7U) | 2024-08-13 |
 | macos | [Drafts](https://testflight.apple.com/join/GhPcOrwa) | 2024-08-10 |
 | ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2024-08-06 |
-| ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2024-08-02 |
 | ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2024-07-31 |
 | ios | [Filmlog](https://testflight.apple.com/join/ywiozhph) | 2024-07-24 |
 | ios | [Fugl](https://testflight.apple.com/join/bZIZeB4N) | 2024-07-24 |
@@ -116,7 +112,6 @@
 | ios_game | [Cell to Singularity](https://testflight.apple.com/join/RD9jGH9S) | 2023-01-15 |
 | ios | [Qobuz](https://testflight.apple.com/join/GPJZwnh9) | 2023-01-14 |
 | ios | [AnyList](https://testflight.apple.com/join/xwvLPc6o) | 2022-12-15 |
-| ios | [Health Export](https://testflight.apple.com/join/g5FcLFJQ) | 2022-10-17 |
 | ios | [Buffer: Social Media Manager](https://testflight.apple.com/join/DOpMcusn) | 2022-10-13 |
 | ios | [Debit & Credit](https://testflight.apple.com/join/FvufwHrV) | 2022-10-13 |
 | ios | [DropZap World](https://testflight.apple.com/join/CdEXgjst) | 2022-10-13 |
