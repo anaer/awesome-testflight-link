@@ -1,11 +1,9 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| chinese | [酷狗概念版](https://testflight.apple.com/join/IOgbaxds) | 2024-10-03 |
+| ios | [Dropbox](https://testflight.apple.com/join/LBZaRq4I) | 2024-10-04 |
 | ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2024-10-03 |
-| macos | [Windows App](https://testflight.apple.com/join/YqNaYeyS) | 2024-10-03 |
 | ios | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-10-01 |
-| ios | [Just Timers](https://testflight.apple.com/join/pyzrz0oT) | 2024-10-01 |
 | ios | [YACReader](https://testflight.apple.com/join/5zhB7sRP) | 2024-10-01 |
 | macos | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-10-01 |
 | ios | [Deezer](https://testflight.apple.com/join/e7mCOEeg) | 2024-09-27 |
@@ -36,7 +34,6 @@
 | ios | [PDF Viewer Pro by PSPDFKit](https://testflight.apple.com/join/6IMUtZ8n) | 2024-08-15 |
 | ios | [Bitwarden Password Manager](https://testflight.apple.com/join/595lFH7U) | 2024-08-13 |
 | macos | [Drafts](https://testflight.apple.com/join/GhPcOrwa) | 2024-08-10 |
-| ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2024-08-06 |
 | ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2024-07-31 |
 | ios | [Filmlog](https://testflight.apple.com/join/ywiozhph) | 2024-07-24 |
 | ios | [Fugl](https://testflight.apple.com/join/bZIZeB4N) | 2024-07-24 |
@@ -50,7 +47,6 @@
 | ios | [Cheatsheet](https://testflight.apple.com/join/E7AnyPlA) | 2024-06-26 |
 | ios | [Unomo](https://testflight.apple.com/join/qbYJl8sX) | 2024-06-25 |
 | ios | [SM.MS](https://testflight.apple.com/join/bQz911w3) | 2024-06-19 |
-| ios | [PushUp Workout Daily at Home](https://testflight.apple.com/join/myFEz6DW) | 2024-06-18 |
 | ios | [Parcel - Delivery Tracking](https://testflight.apple.com/join/fMeg6C4A) | 2024-06-14 |
 | ios | [Erasee: Background Remover](https://testflight.apple.com/join/t6xnU9H3) | 2024-06-13 |
 | ios | [SHARE NOW (car2go & DriveNow)](https://testflight.apple.com/join/1SsBDNCj) | 2024-06-04 |
@@ -130,4 +126,3 @@
 | ios | [waipu.tv](https://testflight.apple.com/join/l72L1OK3) | 2022-10-11 |
 | ios | [GroupMe](https://testflight.apple.com/join/6CcTotfX) | 2022-10-09 |
 | macos | [Parcel](https://testflight.apple.com/join/GfswMZn4) | 2022-08-08 |
-| chinese | [滴答清单 TickTick](https://testflight.apple.com/join/vWQPDFQU) | 2022-03-15 |
