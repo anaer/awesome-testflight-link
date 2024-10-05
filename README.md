@@ -1,8 +1,8 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Dropbox](https://testflight.apple.com/join/LBZaRq4I) | 2024-10-04 |
-| ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2024-10-03 |
+| ios | [Microsoft Outlook](https://testflight.apple.com/join/QkU4VS1s) | 2024-10-05 |
+| ios | [Windows App Mobile](https://testflight.apple.com/join/q4ha2nsh) | 2024-10-05 |
 | ios | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-10-01 |
 | ios | [YACReader](https://testflight.apple.com/join/5zhB7sRP) | 2024-10-01 |
 | macos | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-10-01 |
