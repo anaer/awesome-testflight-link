@@ -1,11 +1,8 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Microsoft Outlook](https://testflight.apple.com/join/QkU4VS1s) | 2024-10-05 |
-| ios | [Windows App Mobile](https://testflight.apple.com/join/q4ha2nsh) | 2024-10-05 |
-| ios | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-10-01 |
+| ios | [Lock Launcher beta](https://testflight.apple.com/join/clHxFnLa) | 2024-10-06 |
 | ios | [YACReader](https://testflight.apple.com/join/5zhB7sRP) | 2024-10-01 |
-| macos | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-10-01 |
 | ios | [Deezer](https://testflight.apple.com/join/e7mCOEeg) | 2024-09-27 |
 | ios | [Cs Music Player](https://testflight.apple.com/join/dU2r1pkq) | 2024-09-26 |
 | ios | [NS Travel Planner](https://testflight.apple.com/join/ldBwapIg) | 2024-09-26 |
