@@ -1,8 +1,8 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Microsoft OneDrive](https://testflight.apple.com/join/LtgPLzrQ) | 2024-10-07 |
-| ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2024-10-07 |
+| ios | [腾讯视频HD](https://testflight.apple.com/join/9JaSzwSN) | 2024-10-08 |
+| macos | [Caffeine Utility](https://testflight.apple.com/join/WHIbsose) | 2024-10-08 |
 | ios | [YACReader](https://testflight.apple.com/join/5zhB7sRP) | 2024-10-01 |
 | ios | [Deezer](https://testflight.apple.com/join/e7mCOEeg) | 2024-09-27 |
 | ios | [Cs Music Player](https://testflight.apple.com/join/dU2r1pkq) | 2024-09-26 |
