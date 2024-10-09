@@ -1,7 +1,10 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [腾讯视频HD](https://testflight.apple.com/join/9JaSzwSN) | 2024-10-08 |
+| ios | [BeReal](https://testflight.apple.com/join/IM4jE5XY) | 2024-10-09 |
+| ios | [Microsoft SwiftKey Keyboard](https://testflight.apple.com/join/yhIhAvjp) | 2024-10-09 |
+| ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2024-10-09 |
+| macos | [Windows App](https://testflight.apple.com/join/YqNaYeyS) | 2024-10-09 |
 | macos | [Caffeine Utility](https://testflight.apple.com/join/WHIbsose) | 2024-10-08 |
 | ios | [YACReader](https://testflight.apple.com/join/5zhB7sRP) | 2024-10-01 |
 | ios | [Deezer](https://testflight.apple.com/join/e7mCOEeg) | 2024-09-27 |
