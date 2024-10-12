@@ -1,17 +1,13 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Just Timers](https://testflight.apple.com/join/pyzrz0oT) | 2024-10-12 |
+| ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2024-10-12 |
+| ios | [腾讯视频HD](https://testflight.apple.com/join/9JaSzwSN) | 2024-10-12 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-10-11 |
-| ios | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-10-11 |
-| ios | [Dropbox](https://testflight.apple.com/join/LBZaRq4I) | 2024-10-11 |
 | ios | [Love2D Game Maker](https://testflight.apple.com/join/bCLmQKfQ) | 2024-10-11 |
-| ios | [Microsoft Loop beta](https://testflight.apple.com/join/KNyadcIZ) | 2024-10-11 |
-| ios | [Reading List - Book Tracker](https://testflight.apple.com/join/kBS5mVao) | 2024-10-11 |
 | ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-10-11 |
-| ios_game | [Stick War 3](https://testflight.apple.com/join/eUx3WxVj) | 2024-10-11 |
-| macos | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-10-11 |
 | ios | [BeReal](https://testflight.apple.com/join/IM4jE5XY) | 2024-10-09 |
-| macos | [Windows App](https://testflight.apple.com/join/YqNaYeyS) | 2024-10-09 |
 | ios | [YACReader](https://testflight.apple.com/join/5zhB7sRP) | 2024-10-01 |
 | ios | [Deezer](https://testflight.apple.com/join/e7mCOEeg) | 2024-09-27 |
 | ios | [Cs Music Player](https://testflight.apple.com/join/dU2r1pkq) | 2024-09-26 |
@@ -85,7 +81,6 @@
 | ios | [希沃白板](https://testflight.apple.com/join/d6MQLpKY) | 2023-12-07 |
 | ios | [Brave](https://testflight.apple.com/join/Trcbh1o3) | 2023-12-02 |
 | ios | [Hadge](https://testflight.apple.com/join/rFLkfNSu) | 2023-11-30 |
-| ios_game | [WOW: Wars of Wanon](https://testflight.apple.com/join/UZ4tYFb6) | 2023-11-30 |
 | ios | [Tapatalk - 200,000+ Forums](https://testflight.apple.com/join/oGFXVgl6) | 2023-11-16 |
 | ios | [Gaming for Peace-GAP](https://testflight.apple.com/join/tJu81Sch) | 2023-10-25 |
 | ios | [Meditation Timer Zenzitizer](https://testflight.apple.com/join/QvKyRJ8x) | 2023-10-21 |
