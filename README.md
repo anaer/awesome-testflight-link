@@ -1,12 +1,15 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Just Timers](https://testflight.apple.com/join/pyzrz0oT) | 2024-10-12 |
+| chinese | [微信键盘 beta](https://testflight.apple.com/join/iSTXkF4K) | 2024-10-13 |
+| ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2024-10-13 |
+| ios | [Finance Bay](https://testflight.apple.com/join/y4etT8Ht) | 2024-10-13 |
+| ios | [Microsoft Bing Search](https://testflight.apple.com/join/YAKT5ew9) | 2024-10-13 |
+| macos | [Caffeine Utility](https://testflight.apple.com/join/WHIbsose) | 2024-10-13 |
+| macos | [Windows App](https://testflight.apple.com/join/YqNaYeyS) | 2024-10-13 |
 | ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2024-10-12 |
-| ios | [腾讯视频HD](https://testflight.apple.com/join/9JaSzwSN) | 2024-10-12 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-10-11 |
 | ios | [Love2D Game Maker](https://testflight.apple.com/join/bCLmQKfQ) | 2024-10-11 |
-| ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-10-11 |
 | ios | [BeReal](https://testflight.apple.com/join/IM4jE5XY) | 2024-10-09 |
 | ios | [YACReader](https://testflight.apple.com/join/5zhB7sRP) | 2024-10-01 |
 | ios | [Deezer](https://testflight.apple.com/join/e7mCOEeg) | 2024-09-27 |
