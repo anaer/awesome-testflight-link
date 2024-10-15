@@ -1,11 +1,14 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Fast Camera](https://testflight.apple.com/join/haPQdDs9) | 2024-10-15 |
+| ios | [Finance Bay](https://testflight.apple.com/join/y4etT8Ht) | 2024-10-15 |
+| ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-10-15 |
+| ios | [UTM Remote Virtual Machines](https://testflight.apple.com/join/mFlnyMv3) | 2024-10-15 |
+| macos | [UTM Virtual Machines](https://testflight.apple.com/join/XQ3tNoNn) | 2024-10-15 |
 | ios | [Microsoft Office](https://testflight.apple.com/join/eHAKJBtM) | 2024-10-14 |
-| ios | [iSH Shell](https://testflight.apple.com/join/97i7KM8O) | 2024-10-14 |
 | chinese | [微信键盘 beta](https://testflight.apple.com/join/iSTXkF4K) | 2024-10-13 |
 | ios | [Microsoft Bing Search](https://testflight.apple.com/join/YAKT5ew9) | 2024-10-13 |
-| macos | [Caffeine Utility](https://testflight.apple.com/join/WHIbsose) | 2024-10-13 |
 | ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2024-10-12 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-10-11 |
 | ios | [Love2D Game Maker](https://testflight.apple.com/join/bCLmQKfQ) | 2024-10-11 |
