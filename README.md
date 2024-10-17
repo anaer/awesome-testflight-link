@@ -1,14 +1,15 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Everlog](https://testflight.apple.com/join/sOCDYE65) | 2024-10-16 |
+| ios | [MEGA](https://testflight.apple.com/join/4x1P5Tnx) | 2024-10-17 |
+| ios | [Microsoft Designer beta](https://testflight.apple.com/join/KsuaylTZ) | 2024-10-17 |
+| ios | [Microsoft Outlook](https://testflight.apple.com/join/QkU4VS1s) | 2024-10-17 |
+| ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-10-17 |
+| ios | [Yandex Browser](https://testflight.apple.com/join/Y4k4ze6V) | 2024-10-17 |
 | ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2024-10-16 |
 | ios | [Graphite: Photo to Sketch App beta](https://testflight.apple.com/join/gRhGuXzI) | 2024-10-16 |
-| ios | [和风天气 - 可视化天气 beta](https://testflight.apple.com/join/9KR0Xx7E) | 2024-10-16 |
-| ios | [腾讯视频HD](https://testflight.apple.com/join/9JaSzwSN) | 2024-10-16 |
 | macos | [Caffeine Utility](https://testflight.apple.com/join/WHIbsose) | 2024-10-16 |
 | ios | [Fast Camera](https://testflight.apple.com/join/haPQdDs9) | 2024-10-15 |
-| ios | [Finance Bay](https://testflight.apple.com/join/y4etT8Ht) | 2024-10-15 |
 | ios | [UTM Remote Virtual Machines](https://testflight.apple.com/join/mFlnyMv3) | 2024-10-15 |
 | macos | [UTM Virtual Machines](https://testflight.apple.com/join/XQ3tNoNn) | 2024-10-15 |
 | chinese | [微信键盘 beta](https://testflight.apple.com/join/iSTXkF4K) | 2024-10-13 |
