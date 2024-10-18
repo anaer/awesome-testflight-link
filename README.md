@@ -1,9 +1,8 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [MEGA](https://testflight.apple.com/join/4x1P5Tnx) | 2024-10-17 |
+| ios | [Everlog](https://testflight.apple.com/join/sOCDYE65) | 2024-10-18 |
 | ios | [Microsoft Designer beta](https://testflight.apple.com/join/KsuaylTZ) | 2024-10-17 |
-| ios | [Microsoft Outlook](https://testflight.apple.com/join/QkU4VS1s) | 2024-10-17 |
 | ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-10-17 |
 | ios | [Yandex Browser](https://testflight.apple.com/join/Y4k4ze6V) | 2024-10-17 |
 | ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2024-10-16 |
