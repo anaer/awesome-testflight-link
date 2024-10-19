@@ -1,7 +1,13 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Everlog](https://testflight.apple.com/join/sOCDYE65) | 2024-10-18 |
+| chinese | [Weibo intl. beta](https://testflight.apple.com/join/2LslNUOW) | 2024-10-19 |
+| chinese | [哔哩哔哩](https://testflight.apple.com/join/K4pM1kHu) | 2024-10-19 |
+| ios | [FRITZ!App TV](https://testflight.apple.com/join/Zl2czQO2) | 2024-10-19 |
+| ios | [Grocery-Smart Grocery List](https://testflight.apple.com/join/v29eXz9t) | 2024-10-19 |
+| ios | [Microsoft Loop beta](https://testflight.apple.com/join/KNyadcIZ) | 2024-10-19 |
+| ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2024-10-19 |
+| macos | [Windows App](https://testflight.apple.com/join/YqNaYeyS) | 2024-10-19 |
 | ios | [Microsoft Designer beta](https://testflight.apple.com/join/KsuaylTZ) | 2024-10-17 |
 | ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-10-17 |
 | ios | [Yandex Browser](https://testflight.apple.com/join/Y4k4ze6V) | 2024-10-17 |
