@@ -1,23 +1,18 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Everlog](https://testflight.apple.com/join/sOCDYE65) | 2024-10-20 |
+| ios | [iSH Shell](https://testflight.apple.com/join/97i7KM8O) | 2024-10-20 |
 | chinese | [Weibo intl. beta](https://testflight.apple.com/join/2LslNUOW) | 2024-10-19 |
-| chinese | [哔哩哔哩](https://testflight.apple.com/join/K4pM1kHu) | 2024-10-19 |
 | ios | [FRITZ!App TV](https://testflight.apple.com/join/Zl2czQO2) | 2024-10-19 |
 | ios | [Grocery-Smart Grocery List](https://testflight.apple.com/join/v29eXz9t) | 2024-10-19 |
-| ios | [Microsoft Loop beta](https://testflight.apple.com/join/KNyadcIZ) | 2024-10-19 |
-| ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2024-10-19 |
-| macos | [Windows App](https://testflight.apple.com/join/YqNaYeyS) | 2024-10-19 |
 | ios | [Microsoft Designer beta](https://testflight.apple.com/join/KsuaylTZ) | 2024-10-17 |
-| ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-10-17 |
 | ios | [Yandex Browser](https://testflight.apple.com/join/Y4k4ze6V) | 2024-10-17 |
 | ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2024-10-16 |
 | ios | [Graphite: Photo to Sketch App beta](https://testflight.apple.com/join/gRhGuXzI) | 2024-10-16 |
-| macos | [Caffeine Utility](https://testflight.apple.com/join/WHIbsose) | 2024-10-16 |
 | ios | [Fast Camera](https://testflight.apple.com/join/haPQdDs9) | 2024-10-15 |
 | ios | [UTM Remote Virtual Machines](https://testflight.apple.com/join/mFlnyMv3) | 2024-10-15 |
 | macos | [UTM Virtual Machines](https://testflight.apple.com/join/XQ3tNoNn) | 2024-10-15 |
-| chinese | [微信键盘 beta](https://testflight.apple.com/join/iSTXkF4K) | 2024-10-13 |
 | ios | [Microsoft Bing Search](https://testflight.apple.com/join/YAKT5ew9) | 2024-10-13 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-10-11 |
 | ios | [Love2D Game Maker](https://testflight.apple.com/join/bCLmQKfQ) | 2024-10-11 |
