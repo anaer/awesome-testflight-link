@@ -1,11 +1,11 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-10-22 |
+| ios | [Windows App Mobile](https://testflight.apple.com/join/q4ha2nsh) | 2024-10-22 |
+| macos | [Caffeine Utility](https://testflight.apple.com/join/WHIbsose) | 2024-10-22 |
+| macos | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-10-22 |
 | ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2024-10-21 |
-| ios | [Notion](https://testflight.apple.com/join/YSo8aVCS) | 2024-10-21 |
-| ios | [Xbox](https://testflight.apple.com/join/dfUeaFHS) | 2024-10-21 |
-| ios | [腾讯视频HD](https://testflight.apple.com/join/9JaSzwSN) | 2024-10-21 |
-| ios_game | [Stick War 3](https://testflight.apple.com/join/eUx3WxVj) | 2024-10-21 |
 | chinese | [Weibo intl. beta](https://testflight.apple.com/join/2LslNUOW) | 2024-10-19 |
 | ios | [FRITZ!App TV](https://testflight.apple.com/join/Zl2czQO2) | 2024-10-19 |
 | ios | [Grocery-Smart Grocery List](https://testflight.apple.com/join/v29eXz9t) | 2024-10-19 |
