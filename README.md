@@ -1,18 +1,19 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-10-25 |
+| ios | [Everlog](https://testflight.apple.com/join/sOCDYE65) | 2024-10-25 |
+| ios | [GitHub](https://testflight.apple.com/join/NLskzwi5) | 2024-10-25 |
+| ios | [Plant Identifier & Care](https://testflight.apple.com/join/vYqAc3Lf) | 2024-10-25 |
+| ios | [腾讯视频HD](https://testflight.apple.com/join/9JaSzwSN) | 2024-10-25 |
 | chinese | [微信键盘 beta](https://testflight.apple.com/join/iSTXkF4K) | 2024-10-24 |
 | chinese | [我的世界-网易](https://testflight.apple.com/join/mOxZm1dD) | 2024-10-24 |
 | chinese | [知乎](https://testflight.apple.com/join/TX83Mn7J) | 2024-10-24 |
-| ios | [1Password - Password Manager beta](https://testflight.apple.com/join/fzDLkIVK) | 2024-10-24 |
 | ios | [FotMob Live Soccer Scores](https://testflight.apple.com/join/zEAwGlrV) | 2024-10-24 |
-| ios | [Microsoft To-Do](https://testflight.apple.com/join/JSq3UkAz) | 2024-10-24 |
-| ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-10-24 |
 | macos | [Caffeine Utility](https://testflight.apple.com/join/WHIbsose) | 2024-10-22 |
 | ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2024-10-21 |
 | chinese | [Weibo intl. beta](https://testflight.apple.com/join/2LslNUOW) | 2024-10-19 |
 | ios | [FRITZ!App TV](https://testflight.apple.com/join/Zl2czQO2) | 2024-10-19 |
-| ios | [Grocery-Smart Grocery List](https://testflight.apple.com/join/v29eXz9t) | 2024-10-19 |
 | ios | [Microsoft Designer beta](https://testflight.apple.com/join/KsuaylTZ) | 2024-10-17 |
 | ios | [Yandex Browser](https://testflight.apple.com/join/Y4k4ze6V) | 2024-10-17 |
 | ios | [Graphite: Photo to Sketch App beta](https://testflight.apple.com/join/gRhGuXzI) | 2024-10-16 |
