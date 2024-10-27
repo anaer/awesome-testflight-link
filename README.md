@@ -4,9 +4,6 @@
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-10-25 |
 | ios | [Everlog](https://testflight.apple.com/join/sOCDYE65) | 2024-10-25 |
 | ios | [GitHub](https://testflight.apple.com/join/NLskzwi5) | 2024-10-25 |
-| ios | [Plant Identifier & Care](https://testflight.apple.com/join/vYqAc3Lf) | 2024-10-25 |
-| ios | [腾讯视频HD](https://testflight.apple.com/join/9JaSzwSN) | 2024-10-25 |
-| chinese | [微信键盘 beta](https://testflight.apple.com/join/iSTXkF4K) | 2024-10-24 |
 | chinese | [我的世界-网易](https://testflight.apple.com/join/mOxZm1dD) | 2024-10-24 |
 | chinese | [知乎](https://testflight.apple.com/join/TX83Mn7J) | 2024-10-24 |
 | ios | [FotMob Live Soccer Scores](https://testflight.apple.com/join/zEAwGlrV) | 2024-10-24 |
