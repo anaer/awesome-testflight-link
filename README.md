@@ -1,6 +1,7 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Tunna - Xray/V2ray Proxy Utility](https://testflight.apple.com/join/dqMoJObA) | 2024-10-28 |
 | ios | [Fedicat](https://testflight.apple.com/join/b6GatWTY) | 2024-10-27 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-10-25 |
 | ios | [Everlog](https://testflight.apple.com/join/sOCDYE65) | 2024-10-25 |
