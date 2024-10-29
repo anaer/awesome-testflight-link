@@ -1,10 +1,12 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Lock Launcher beta](https://testflight.apple.com/join/clHxFnLa) | 2024-10-29 |
+| ios | [Pockity](https://testflight.apple.com/join/4qfWwXvP) | 2024-10-29 |
+| ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2024-10-29 |
 | ios | [Tunna - Xray/V2ray Proxy Utility](https://testflight.apple.com/join/dqMoJObA) | 2024-10-28 |
 | ios | [Fedicat](https://testflight.apple.com/join/b6GatWTY) | 2024-10-27 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-10-25 |
-| ios | [Everlog](https://testflight.apple.com/join/sOCDYE65) | 2024-10-25 |
 | ios | [GitHub](https://testflight.apple.com/join/NLskzwi5) | 2024-10-25 |
 | chinese | [我的世界-网易](https://testflight.apple.com/join/mOxZm1dD) | 2024-10-24 |
 | chinese | [知乎](https://testflight.apple.com/join/TX83Mn7J) | 2024-10-24 |
@@ -29,7 +31,6 @@
 | ios | [Tuttii Beta](https://testflight.apple.com/join/2dTbntXZ) | 2024-09-25 |
 | ios | [Jira Server by Atlassian](https://testflight.apple.com/join/6JbjYbSY) | 2024-09-21 |
 | ios | [Stop Motion Studio Pro](https://testflight.apple.com/join/rfWbdRvr) | 2024-09-21 |
-| ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2024-09-20 |
 | ios | [Spark Mail - Email by Readdle](https://testflight.apple.com/join/O2wj7i0x) | 2024-09-13 |
 | ios | [KDE Connect](https://testflight.apple.com/join/vxCluwBF) | 2024-09-11 |
 | ios | [Potatso Lite](https://testflight.apple.com/join/NkF46PRd) | 2024-09-10 |
@@ -78,7 +79,6 @@
 | chinese | [事线 - 串事成线](https://testflight.apple.com/join/grxohdR3) | 2024-03-26 |
 | ios | [Television Time](https://testflight.apple.com/join/eP0BTwVi) | 2024-03-23 |
 | ios | [Jira Cloud by Atlassian](https://testflight.apple.com/join/2lm7vHBS) | 2024-03-09 |
-| ios | [Pushover Notifications](https://testflight.apple.com/join/vkwfdWM0) | 2024-03-09 |
 | ios | [Twitch Beta](https://testflight.apple.com/join/8vRKFAiY) | 2024-02-23 |
 | ios | [F1ATV](https://testflight.apple.com/join/NRswe1IZ) | 2024-02-20 |
 | ios | [CharMap](https://testflight.apple.com/join/TL68k0Sp) | 2024-02-13 |
