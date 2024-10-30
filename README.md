@@ -1,9 +1,16 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Lock Launcher beta](https://testflight.apple.com/join/clHxFnLa) | 2024-10-29 |
+| ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2024-10-30 |
+| ios | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-10-30 |
+| ios | [FRITZ!App WLAN](https://testflight.apple.com/join/vbfCKamq) | 2024-10-30 |
+| ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2024-10-30 |
+| ios | [MyFRITZ!App](https://testflight.apple.com/join/U0v1rBE5) | 2024-10-30 |
+| ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2024-10-30 |
+| ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2024-10-30 |
+| ios | [Windows App Mobile](https://testflight.apple.com/join/q4ha2nsh) | 2024-10-30 |
+| macos | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-10-30 |
 | ios | [Pockity](https://testflight.apple.com/join/4qfWwXvP) | 2024-10-29 |
-| ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2024-10-29 |
 | ios | [Tunna - Xray/V2ray Proxy Utility](https://testflight.apple.com/join/dqMoJObA) | 2024-10-28 |
 | ios | [Fedicat](https://testflight.apple.com/join/b6GatWTY) | 2024-10-27 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-10-25 |
