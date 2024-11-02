@@ -1,17 +1,19 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| chinese | [哔哩哔哩](https://testflight.apple.com/join/K4pM1kHu) | 2024-11-02 |
+| chinese | [滴答清单 TickTick](https://testflight.apple.com/join/vWQPDFQU) | 2024-11-02 |
+| ios | [Fugl](https://testflight.apple.com/join/bZIZeB4N) | 2024-11-02 |
+| ios | [MEGA](https://testflight.apple.com/join/4x1P5Tnx) | 2024-11-02 |
+| ios | [Windows App Mobile](https://testflight.apple.com/join/q4ha2nsh) | 2024-11-02 |
+| ios_game | [Fugl](https://testflight.apple.com/join/bZIZeB4N) | 2024-11-02 |
 | chinese | [微信键盘 beta](https://testflight.apple.com/join/iSTXkF4K) | 2024-11-01 |
-| ios | [Dropbox](https://testflight.apple.com/join/LBZaRq4I) | 2024-11-01 |
 | ios | [Xbox Family Settings beta](https://testflight.apple.com/join/8oUnDzMQ) | 2024-11-01 |
 | ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2024-11-01 |
-| macos | [Windows App](https://testflight.apple.com/join/YqNaYeyS) | 2024-11-01 |
 | ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2024-10-30 |
-| ios | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-10-30 |
 | ios | [FRITZ!App WLAN](https://testflight.apple.com/join/vbfCKamq) | 2024-10-30 |
 | ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2024-10-30 |
 | ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2024-10-30 |
-| macos | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-10-30 |
 | ios | [Tunna - Xray/V2ray Proxy Utility](https://testflight.apple.com/join/dqMoJObA) | 2024-10-28 |
 | ios | [Fedicat](https://testflight.apple.com/join/b6GatWTY) | 2024-10-27 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-10-25 |
