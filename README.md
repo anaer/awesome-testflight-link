@@ -1,14 +1,10 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| chinese | [哔哩哔哩](https://testflight.apple.com/join/K4pM1kHu) | 2024-11-02 |
 | chinese | [滴答清单 TickTick](https://testflight.apple.com/join/vWQPDFQU) | 2024-11-02 |
 | ios | [Fugl](https://testflight.apple.com/join/bZIZeB4N) | 2024-11-02 |
-| ios | [MEGA](https://testflight.apple.com/join/4x1P5Tnx) | 2024-11-02 |
-| ios | [Windows App Mobile](https://testflight.apple.com/join/q4ha2nsh) | 2024-11-02 |
 | ios_game | [Fugl](https://testflight.apple.com/join/bZIZeB4N) | 2024-11-02 |
 | chinese | [微信键盘 beta](https://testflight.apple.com/join/iSTXkF4K) | 2024-11-01 |
-| ios | [Xbox Family Settings beta](https://testflight.apple.com/join/8oUnDzMQ) | 2024-11-01 |
 | ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2024-11-01 |
 | ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2024-10-30 |
 | ios | [FRITZ!App WLAN](https://testflight.apple.com/join/vbfCKamq) | 2024-10-30 |
@@ -98,7 +94,6 @@
 | ios | [Keka](https://testflight.apple.com/join/gPYINGCJ) | 2023-12-21 |
 | ios | [希沃白板](https://testflight.apple.com/join/d6MQLpKY) | 2023-12-07 |
 | ios | [Brave](https://testflight.apple.com/join/Trcbh1o3) | 2023-12-02 |
-| ios | [Hadge](https://testflight.apple.com/join/rFLkfNSu) | 2023-11-30 |
 | ios | [Tapatalk - 200,000+ Forums](https://testflight.apple.com/join/oGFXVgl6) | 2023-11-16 |
 | ios | [Gaming for Peace-GAP](https://testflight.apple.com/join/tJu81Sch) | 2023-10-25 |
 | ios | [Meditation Timer Zenzitizer](https://testflight.apple.com/join/QvKyRJ8x) | 2023-10-21 |
