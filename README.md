@@ -1,13 +1,15 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| chinese | [酷狗概念版](https://testflight.apple.com/join/IOgbaxds) | 2024-11-05 |
+| ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2024-11-05 |
+| ios_game | [Stick War 3](https://testflight.apple.com/join/eUx3WxVj) | 2024-11-05 |
 | chinese | [滴答清单 TickTick](https://testflight.apple.com/join/vWQPDFQU) | 2024-11-02 |
 | ios | [Fugl](https://testflight.apple.com/join/bZIZeB4N) | 2024-11-02 |
 | ios_game | [Fugl](https://testflight.apple.com/join/bZIZeB4N) | 2024-11-02 |
 | chinese | [微信键盘 beta](https://testflight.apple.com/join/iSTXkF4K) | 2024-11-01 |
 | ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2024-11-01 |
 | ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2024-10-30 |
-| ios | [FRITZ!App WLAN](https://testflight.apple.com/join/vbfCKamq) | 2024-10-30 |
 | ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2024-10-30 |
 | ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2024-10-30 |
 | ios | [Tunna - Xray/V2ray Proxy Utility](https://testflight.apple.com/join/dqMoJObA) | 2024-10-28 |
@@ -49,7 +51,6 @@
 | ios | [FRITZ!App Smart Home](https://testflight.apple.com/join/kzVJhIg1) | 2024-08-21 |
 | ios | [Salam](https://testflight.apple.com/join/IjXpQtAo) | 2024-08-19 |
 | macos | [Salam](https://testflight.apple.com/join/IjXpQtAo) | 2024-08-19 |
-| ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2024-08-16 |
 | ios | [Flipabit](https://testflight.apple.com/join/ruyYHU5E) | 2024-08-15 |
 | ios | [PDF Viewer Pro by PSPDFKit](https://testflight.apple.com/join/6IMUtZ8n) | 2024-08-15 |
 | ios | [Bitwarden Password Manager](https://testflight.apple.com/join/595lFH7U) | 2024-08-13 |
