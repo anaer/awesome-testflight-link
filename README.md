@@ -1,9 +1,9 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| chinese | [酷狗概念版](https://testflight.apple.com/join/IOgbaxds) | 2024-11-05 |
-| ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2024-11-05 |
-| ios_game | [Stick War 3](https://testflight.apple.com/join/eUx3WxVj) | 2024-11-05 |
+| ios | [Hadge](https://testflight.apple.com/join/rFLkfNSu) | 2024-11-06 |
+| ios | [Microsoft Loop beta](https://testflight.apple.com/join/KNyadcIZ) | 2024-11-06 |
+| ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-11-06 |
 | chinese | [滴答清单 TickTick](https://testflight.apple.com/join/vWQPDFQU) | 2024-11-02 |
 | ios | [Fugl](https://testflight.apple.com/join/bZIZeB4N) | 2024-11-02 |
 | ios_game | [Fugl](https://testflight.apple.com/join/bZIZeB4N) | 2024-11-02 |
