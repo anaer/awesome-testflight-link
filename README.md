@@ -1,15 +1,14 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Notion](https://testflight.apple.com/join/YSo8aVCS) | 2024-11-07 |
 | ios | [Hadge](https://testflight.apple.com/join/rFLkfNSu) | 2024-11-06 |
-| ios | [Microsoft Loop beta](https://testflight.apple.com/join/KNyadcIZ) | 2024-11-06 |
 | ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-11-06 |
 | chinese | [滴答清单 TickTick](https://testflight.apple.com/join/vWQPDFQU) | 2024-11-02 |
 | ios | [Fugl](https://testflight.apple.com/join/bZIZeB4N) | 2024-11-02 |
 | ios_game | [Fugl](https://testflight.apple.com/join/bZIZeB4N) | 2024-11-02 |
 | chinese | [微信键盘 beta](https://testflight.apple.com/join/iSTXkF4K) | 2024-11-01 |
 | ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2024-11-01 |
-| ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2024-10-30 |
 | ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2024-10-30 |
 | ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2024-10-30 |
 | ios | [Tunna - Xray/V2ray Proxy Utility](https://testflight.apple.com/join/dqMoJObA) | 2024-10-28 |
