@@ -1,6 +1,13 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2024-11-12 |
+| ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2024-11-12 |
+| ios | [Health Export](https://testflight.apple.com/join/g5FcLFJQ) | 2024-11-12 |
+| ios | [Microsoft Office](https://testflight.apple.com/join/eHAKJBtM) | 2024-11-12 |
+| ios | [Microsoft To-Do](https://testflight.apple.com/join/JSq3UkAz) | 2024-11-12 |
+| ios | [Spotify - Music and Podcasts](https://testflight.apple.com/join/1SyedSId) | 2024-11-12 |
+| ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-11-12 |
 | ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2024-11-11 |
 | ios | [Musixmatch Lyrics Finder](https://testflight.apple.com/join/7yLzN5td) | 2024-11-08 |
 | ios | [Hadge](https://testflight.apple.com/join/rFLkfNSu) | 2024-11-06 |
