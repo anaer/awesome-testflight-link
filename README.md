@@ -1,14 +1,14 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [1Blocker](https://testflight.apple.com/join/KjmVWFnT) | 2024-11-17 |
+| ios | [MyFRITZ!App](https://testflight.apple.com/join/U0v1rBE5) | 2024-11-17 |
+| ios | [PushUp Workout Daily at Home](https://testflight.apple.com/join/myFEz6DW) | 2024-11-17 |
+| ios | [Reading List - Book Tracker](https://testflight.apple.com/join/kBS5mVao) | 2024-11-17 |
+| macos | [Caffeine Utility](https://testflight.apple.com/join/WHIbsose) | 2024-11-17 |
 | ios | [Flipabit](https://testflight.apple.com/join/ruyYHU5E) | 2024-11-14 |
-| ios | [Just Timers](https://testflight.apple.com/join/pyzrz0oT) | 2024-11-14 |
-| ios | [infltr - Infinite Filters](https://testflight.apple.com/join/In6e3GcJ) | 2024-11-14 |
-| ios_game | [Stick War 3](https://testflight.apple.com/join/eUx3WxVj) | 2024-11-14 |
 | ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2024-11-12 |
 | ios | [Health Export](https://testflight.apple.com/join/g5FcLFJQ) | 2024-11-12 |
-| ios | [Spotify - Music and Podcasts](https://testflight.apple.com/join/1SyedSId) | 2024-11-12 |
-| ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2024-11-11 |
 | ios | [Musixmatch Lyrics Finder](https://testflight.apple.com/join/7yLzN5td) | 2024-11-08 |
 | ios | [Hadge](https://testflight.apple.com/join/rFLkfNSu) | 2024-11-06 |
 | chinese | [滴答清单 TickTick](https://testflight.apple.com/join/vWQPDFQU) | 2024-11-02 |
