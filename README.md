@@ -2,11 +2,31 @@
 | type | name | last_modify |
 | --- | --- | --- |
 | ios | [1Password - Password Manager beta](https://testflight.apple.com/join/fzDLkIVK) | 2024-11-18 |
+| ios | [Adobe Acrobat Reader: Edit PDF](https://testflight.apple.com/join/8XhFnQlp) | 2024-11-18 |
+| ios | [Bitwarden Beta](https://testflight.apple.com/join/S4OQEYYQ) | 2024-11-18 |
+| ios | [Cash App](https://testflight.apple.com/join/An0RiOFF) | 2024-11-18 |
+| ios | [Element Messenger](https://testflight.apple.com/join/lCeTuDKM) | 2024-11-18 |
+| ios | [Element X - Secure Chat & Call](https://testflight.apple.com/join/uZbeZCOi) | 2024-11-18 |
+| ios | [Grindr - Gay Dating & Chat](https://testflight.apple.com/join/eO265vw7) | 2024-11-18 |
+| ios | [Intuit Credit Karma](https://testflight.apple.com/join/JrqR9vkv) | 2024-11-18 |
+| ios | [Life360: Find Friends & Family beta](https://testflight.apple.com/join/syX6IOJF) | 2024-11-18 |
+| ios | [MSN (Start)](https://testflight.apple.com/join/jOahtut6) | 2024-11-18 |
+| ios | [Mastodon](https://testflight.apple.com/join/ebSjPU84) | 2024-11-18 |
+| ios | [Microsoft Defender: Security](https://testflight.apple.com/join/AYVtbvfc) | 2024-11-18 |
+| ios | [Microsoft Dynamics 365](https://testflight.apple.com/join/ocBZp14V) | 2024-11-18 |
 | ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2024-11-18 |
 | ios | [Microsoft Office](https://testflight.apple.com/join/eHAKJBtM) | 2024-11-18 |
+| ios | [Monzo Bank - Mobile Banking](https://testflight.apple.com/join/2NZLBFyb) | 2024-11-18 |
+| ios | [Opera GX](https://testflight.apple.com/join/t3k1AVL3) | 2024-11-18 |
+| ios | [Oura](https://testflight.apple.com/join/NPhd6XTF) | 2024-11-18 |
+| ios | [PPSSPP - PSP emulator](https://testflight.apple.com/join/uNlhFG0m) | 2024-11-18 |
 | ios | [QR File Transfer](https://testflight.apple.com/join/P5UOcDLa) | 2024-11-18 |
+| ios | [Reddit](https://testflight.apple.com/join/b9jMyOWt) | 2024-11-18 |
+| ios | [Shadow PC beta](https://testflight.apple.com/join/PxpSW79P) | 2024-11-18 |
 | ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2024-11-18 |
 | ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-11-18 |
+| ios | [UniFi](https://testflight.apple.com/join/Pkd9a658) | 2024-11-18 |
+| ios | [Windscribe VPN](https://testflight.apple.com/join/oKib5JOq) | 2024-11-18 |
 | ios | [1Blocker](https://testflight.apple.com/join/KjmVWFnT) | 2024-11-17 |
 | ios | [MyFRITZ!App](https://testflight.apple.com/join/U0v1rBE5) | 2024-11-17 |
 | ios | [PushUp Workout Daily at Home](https://testflight.apple.com/join/myFEz6DW) | 2024-11-17 |
