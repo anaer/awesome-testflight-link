@@ -1,13 +1,17 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [1Password - Password Manager beta](https://testflight.apple.com/join/fzDLkIVK) | 2024-11-18 |
+| ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2024-11-18 |
+| ios | [Microsoft Office](https://testflight.apple.com/join/eHAKJBtM) | 2024-11-18 |
+| ios | [QR File Transfer](https://testflight.apple.com/join/P5UOcDLa) | 2024-11-18 |
+| ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2024-11-18 |
+| ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-11-18 |
 | ios | [1Blocker](https://testflight.apple.com/join/KjmVWFnT) | 2024-11-17 |
 | ios | [MyFRITZ!App](https://testflight.apple.com/join/U0v1rBE5) | 2024-11-17 |
 | ios | [PushUp Workout Daily at Home](https://testflight.apple.com/join/myFEz6DW) | 2024-11-17 |
-| ios | [Reading List - Book Tracker](https://testflight.apple.com/join/kBS5mVao) | 2024-11-17 |
 | macos | [Caffeine Utility](https://testflight.apple.com/join/WHIbsose) | 2024-11-17 |
 | ios | [Flipabit](https://testflight.apple.com/join/ruyYHU5E) | 2024-11-14 |
-| ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2024-11-12 |
 | ios | [Health Export](https://testflight.apple.com/join/g5FcLFJQ) | 2024-11-12 |
 | ios | [Musixmatch Lyrics Finder](https://testflight.apple.com/join/7yLzN5td) | 2024-11-08 |
 | ios | [Hadge](https://testflight.apple.com/join/rFLkfNSu) | 2024-11-06 |
@@ -132,7 +136,6 @@
 | ios | [Smart Post: Schedule Media](https://testflight.apple.com/join/a0zXMXbA) | 2022-10-13 |
 | ios | [VFeed](https://testflight.apple.com/join/ZdC5U0fR) | 2022-10-13 |
 | ios | [WordPress](https://testflight.apple.com/join/AkJQt8Pw) | 2022-10-13 |
-| ios | [feeeed](https://testflight.apple.com/join/ixRrWfQL) | 2022-10-13 |
 | ios | [Imgur - Meme & GIF Maker](https://testflight.apple.com/join/Qd42y5Pw) | 2022-10-11 |
 | ios | [LIFX](https://testflight.apple.com/join/TYoQEz4T) | 2022-10-11 |
 | ios | [Microsoft Authenticator](https://testflight.apple.com/join/Coqmmppd) | 2022-10-11 |
