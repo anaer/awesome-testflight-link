@@ -1,7 +1,11 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [1Password - Password Manager beta](https://testflight.apple.com/join/fzDLkIVK) | 2024-11-18 |
+| ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2024-11-20 |
+| ios | [Soulver 3](https://testflight.apple.com/join/Vlb55Wtr) | 2024-11-20 |
+| ios | [feeeed](https://testflight.apple.com/join/ixRrWfQL) | 2024-11-20 |
+| ios_game | [Minecraft: Education Edition beta](https://testflight.apple.com/join/sBDlEXYr) | 2024-11-20 |
+| macos | [MenubarX](https://testflight.apple.com/join/Tqr03a4h) | 2024-11-20 |
 | ios | [Adobe Acrobat Reader: Edit PDF](https://testflight.apple.com/join/8XhFnQlp) | 2024-11-18 |
 | ios | [Bitwarden Beta](https://testflight.apple.com/join/S4OQEYYQ) | 2024-11-18 |
 | ios | [Cash App](https://testflight.apple.com/join/An0RiOFF) | 2024-11-18 |
@@ -15,7 +19,6 @@
 | ios | [Microsoft Defender: Security](https://testflight.apple.com/join/AYVtbvfc) | 2024-11-18 |
 | ios | [Microsoft Dynamics 365](https://testflight.apple.com/join/ocBZp14V) | 2024-11-18 |
 | ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2024-11-18 |
-| ios | [Microsoft Office](https://testflight.apple.com/join/eHAKJBtM) | 2024-11-18 |
 | ios | [Monzo Bank - Mobile Banking](https://testflight.apple.com/join/2NZLBFyb) | 2024-11-18 |
 | ios | [Opera GX](https://testflight.apple.com/join/t3k1AVL3) | 2024-11-18 |
 | ios | [Oura](https://testflight.apple.com/join/NPhd6XTF) | 2024-11-18 |
@@ -23,14 +26,12 @@
 | ios | [QR File Transfer](https://testflight.apple.com/join/P5UOcDLa) | 2024-11-18 |
 | ios | [Reddit](https://testflight.apple.com/join/b9jMyOWt) | 2024-11-18 |
 | ios | [Shadow PC beta](https://testflight.apple.com/join/PxpSW79P) | 2024-11-18 |
-| ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2024-11-18 |
 | ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-11-18 |
 | ios | [UniFi](https://testflight.apple.com/join/Pkd9a658) | 2024-11-18 |
 | ios | [Windscribe VPN](https://testflight.apple.com/join/oKib5JOq) | 2024-11-18 |
 | ios | [1Blocker](https://testflight.apple.com/join/KjmVWFnT) | 2024-11-17 |
 | ios | [MyFRITZ!App](https://testflight.apple.com/join/U0v1rBE5) | 2024-11-17 |
 | ios | [PushUp Workout Daily at Home](https://testflight.apple.com/join/myFEz6DW) | 2024-11-17 |
-| macos | [Caffeine Utility](https://testflight.apple.com/join/WHIbsose) | 2024-11-17 |
 | ios | [Flipabit](https://testflight.apple.com/join/ruyYHU5E) | 2024-11-14 |
 | ios | [Health Export](https://testflight.apple.com/join/g5FcLFJQ) | 2024-11-12 |
 | ios | [Musixmatch Lyrics Finder](https://testflight.apple.com/join/7yLzN5td) | 2024-11-08 |
@@ -64,7 +65,6 @@
 | ios | [NS Travel Planner](https://testflight.apple.com/join/ldBwapIg) | 2024-09-26 |
 | ios | [Tuttii Beta](https://testflight.apple.com/join/2dTbntXZ) | 2024-09-25 |
 | ios | [Jira Server by Atlassian](https://testflight.apple.com/join/6JbjYbSY) | 2024-09-21 |
-| ios | [Spark Mail - Email by Readdle](https://testflight.apple.com/join/O2wj7i0x) | 2024-09-13 |
 | ios | [KDE Connect](https://testflight.apple.com/join/vxCluwBF) | 2024-09-11 |
 | ios | [Potatso Lite](https://testflight.apple.com/join/NkF46PRd) | 2024-09-10 |
 | ios | [ownCloud](https://testflight.apple.com/join/Oktj0iKv) | 2024-09-10 |
@@ -114,7 +114,6 @@
 | ios | [Sleep Cycle - Sleep Tracker beta](https://testflight.apple.com/join/tCeANbZi) | 2024-02-07 |
 | ios | [Sleep Cycle alarm clock](https://testflight.apple.com/join/8RcEFqFF) | 2024-02-07 |
 | ios | [The New York Times](https://testflight.apple.com/join/gfiSREAr) | 2024-02-02 |
-| ios | [Memento: Modern Reminders](https://testflight.apple.com/join/aRvubPov) | 2024-01-23 |
 | ios | [Go Map!!](https://testflight.apple.com/join/T96F9wYq) | 2023-12-23 |
 | ios | [Keka](https://testflight.apple.com/join/gPYINGCJ) | 2023-12-21 |
 | ios | [希沃白板](https://testflight.apple.com/join/d6MQLpKY) | 2023-12-07 |
