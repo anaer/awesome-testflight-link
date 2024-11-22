@@ -1,11 +1,13 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Dropbox](https://testflight.apple.com/join/LBZaRq4I) | 2024-11-22 |
+| ios | [Just Timers](https://testflight.apple.com/join/pyzrz0oT) | 2024-11-22 |
+| ios | [搜狗输入法](https://testflight.apple.com/join/lSZdpEPH) | 2024-11-22 |
 | ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2024-11-20 |
 | ios | [Soulver 3](https://testflight.apple.com/join/Vlb55Wtr) | 2024-11-20 |
 | ios | [feeeed](https://testflight.apple.com/join/ixRrWfQL) | 2024-11-20 |
 | ios_game | [Minecraft: Education Edition beta](https://testflight.apple.com/join/sBDlEXYr) | 2024-11-20 |
-| macos | [MenubarX](https://testflight.apple.com/join/Tqr03a4h) | 2024-11-20 |
 | ios | [Adobe Acrobat Reader: Edit PDF](https://testflight.apple.com/join/8XhFnQlp) | 2024-11-18 |
 | ios | [Bitwarden Beta](https://testflight.apple.com/join/S4OQEYYQ) | 2024-11-18 |
 | ios | [Cash App](https://testflight.apple.com/join/An0RiOFF) | 2024-11-18 |
@@ -26,7 +28,6 @@
 | ios | [QR File Transfer](https://testflight.apple.com/join/P5UOcDLa) | 2024-11-18 |
 | ios | [Reddit](https://testflight.apple.com/join/b9jMyOWt) | 2024-11-18 |
 | ios | [Shadow PC beta](https://testflight.apple.com/join/PxpSW79P) | 2024-11-18 |
-| ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-11-18 |
 | ios | [UniFi](https://testflight.apple.com/join/Pkd9a658) | 2024-11-18 |
 | ios | [Windscribe VPN](https://testflight.apple.com/join/oKib5JOq) | 2024-11-18 |
 | ios | [1Blocker](https://testflight.apple.com/join/KjmVWFnT) | 2024-11-17 |
