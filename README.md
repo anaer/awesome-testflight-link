@@ -1,9 +1,13 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| chinese | [哔哩哔哩](https://testflight.apple.com/join/K4pM1kHu) | 2024-11-23 |
+| ios | [Microsoft Loop beta](https://testflight.apple.com/join/KNyadcIZ) | 2024-11-23 |
+| ios | [Proton VPN: Fast & Secure](https://testflight.apple.com/join/3yl2MSbw) | 2024-11-23 |
+| ios | [Wipr 2](https://testflight.apple.com/join/YkdEItQi) | 2024-11-23 |
+| ios | [腾讯视频HD](https://testflight.apple.com/join/9JaSzwSN) | 2024-11-23 |
 | ios | [Dropbox](https://testflight.apple.com/join/LBZaRq4I) | 2024-11-22 |
 | ios | [Just Timers](https://testflight.apple.com/join/pyzrz0oT) | 2024-11-22 |
-| ios | [搜狗输入法](https://testflight.apple.com/join/lSZdpEPH) | 2024-11-22 |
 | ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2024-11-20 |
 | ios | [Soulver 3](https://testflight.apple.com/join/Vlb55Wtr) | 2024-11-20 |
 | ios | [feeeed](https://testflight.apple.com/join/ixRrWfQL) | 2024-11-20 |
@@ -31,7 +35,6 @@
 | ios | [UniFi](https://testflight.apple.com/join/Pkd9a658) | 2024-11-18 |
 | ios | [Windscribe VPN](https://testflight.apple.com/join/oKib5JOq) | 2024-11-18 |
 | ios | [1Blocker](https://testflight.apple.com/join/KjmVWFnT) | 2024-11-17 |
-| ios | [MyFRITZ!App](https://testflight.apple.com/join/U0v1rBE5) | 2024-11-17 |
 | ios | [PushUp Workout Daily at Home](https://testflight.apple.com/join/myFEz6DW) | 2024-11-17 |
 | ios | [Flipabit](https://testflight.apple.com/join/ruyYHU5E) | 2024-11-14 |
 | ios | [Health Export](https://testflight.apple.com/join/g5FcLFJQ) | 2024-11-12 |
