@@ -1,12 +1,12 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| chinese | [哔哩哔哩](https://testflight.apple.com/join/K4pM1kHu) | 2024-11-23 |
-| ios | [Microsoft Loop beta](https://testflight.apple.com/join/KNyadcIZ) | 2024-11-23 |
-| ios | [Proton VPN: Fast & Secure](https://testflight.apple.com/join/3yl2MSbw) | 2024-11-23 |
-| ios | [Wipr 2](https://testflight.apple.com/join/YkdEItQi) | 2024-11-23 |
-| ios | [腾讯视频HD](https://testflight.apple.com/join/9JaSzwSN) | 2024-11-23 |
-| ios | [Dropbox](https://testflight.apple.com/join/LBZaRq4I) | 2024-11-22 |
+| ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2024-11-26 |
+| ios | [FRITZ!App WLAN](https://testflight.apple.com/join/vbfCKamq) | 2024-11-26 |
+| ios | [Microsoft Office](https://testflight.apple.com/join/eHAKJBtM) | 2024-11-26 |
+| ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2024-11-26 |
+| ios | [Spark Mail - Email by Readdle](https://testflight.apple.com/join/O2wj7i0x) | 2024-11-26 |
+| macos | [Caffeine Utility](https://testflight.apple.com/join/WHIbsose) | 2024-11-26 |
 | ios | [Just Timers](https://testflight.apple.com/join/pyzrz0oT) | 2024-11-22 |
 | ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2024-11-20 |
 | ios | [Soulver 3](https://testflight.apple.com/join/Vlb55Wtr) | 2024-11-20 |
