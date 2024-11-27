@@ -1,9 +1,10 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| chinese | [哔哩哔哩](https://testflight.apple.com/join/K4pM1kHu) | 2024-11-27 |
+| ios | [StarPlayrX](https://testflight.apple.com/join/Ecz0xXvf) | 2024-11-27 |
+| ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-11-27 |
 | ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2024-11-26 |
-| ios | [FRITZ!App WLAN](https://testflight.apple.com/join/vbfCKamq) | 2024-11-26 |
-| ios | [Microsoft Office](https://testflight.apple.com/join/eHAKJBtM) | 2024-11-26 |
 | ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2024-11-26 |
 | ios | [Spark Mail - Email by Readdle](https://testflight.apple.com/join/O2wj7i0x) | 2024-11-26 |
 | macos | [Caffeine Utility](https://testflight.apple.com/join/WHIbsose) | 2024-11-26 |
@@ -82,7 +83,6 @@
 | macos | [Salam](https://testflight.apple.com/join/IjXpQtAo) | 2024-08-19 |
 | ios | [PDF Viewer Pro by PSPDFKit](https://testflight.apple.com/join/6IMUtZ8n) | 2024-08-15 |
 | ios | [Bitwarden Password Manager](https://testflight.apple.com/join/595lFH7U) | 2024-08-13 |
-| macos | [Drafts](https://testflight.apple.com/join/GhPcOrwa) | 2024-08-10 |
 | ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2024-07-31 |
 | ios | [Filmlog](https://testflight.apple.com/join/ywiozhph) | 2024-07-24 |
 | chinese | [QQ beta](https://testflight.apple.com/join/R5FNGUl3) | 2024-07-20 |
