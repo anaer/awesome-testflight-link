@@ -2,10 +2,12 @@
 | type | name | last_modify |
 | --- | --- | --- |
 | chinese | [酷狗概念版](https://testflight.apple.com/join/IOgbaxds) | 2024-11-30 |
+| ios | [Clipchamp Dev](https://testflight.apple.com/join/rG93mFo8) | 2024-11-30 |
 | ios | [Dropbox](https://testflight.apple.com/join/LBZaRq4I) | 2024-11-30 |
 | ios | [Microsoft To-Do](https://testflight.apple.com/join/JSq3UkAz) | 2024-11-30 |
 | ios | [MyFRITZ!App](https://testflight.apple.com/join/U0v1rBE5) | 2024-11-30 |
 | ios | [Proton VPN: Fast & Secure](https://testflight.apple.com/join/3yl2MSbw) | 2024-11-30 |
+| ios | [TikTok Now](https://testflight.apple.com/join/OTGrzX7C) | 2024-11-30 |
 | chinese | [哔哩哔哩](https://testflight.apple.com/join/K4pM1kHu) | 2024-11-27 |
 | ios | [StarPlayrX](https://testflight.apple.com/join/Ecz0xXvf) | 2024-11-27 |
 | ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2024-11-26 |
