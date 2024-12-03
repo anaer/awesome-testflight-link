@@ -1,6 +1,12 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [BeReal](https://testflight.apple.com/join/IM4jE5XY) | 2024-12-03 |
+| ios | [Dropbox](https://testflight.apple.com/join/LBZaRq4I) | 2024-12-03 |
+| ios | [Grocery-Smart Grocery List](https://testflight.apple.com/join/v29eXz9t) | 2024-12-03 |
+| ios | [Microsoft Office](https://testflight.apple.com/join/eHAKJBtM) | 2024-12-03 |
+| ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-12-03 |
+| ios | [Xbox](https://testflight.apple.com/join/dfUeaFHS) | 2024-12-03 |
 | ios | [Microsoft Loop beta](https://testflight.apple.com/join/KNyadcIZ) | 2024-12-02 |
 | ios | [Clipchamp Dev](https://testflight.apple.com/join/rG93mFo8) | 2024-11-30 |
 | ios | [MyFRITZ!App](https://testflight.apple.com/join/U0v1rBE5) | 2024-11-30 |
