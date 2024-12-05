@@ -1,19 +1,17 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [FRITZ!App WLAN](https://testflight.apple.com/join/vbfCKamq) | 2024-12-05 |
+| ios | [Microsoft OneDrive](https://testflight.apple.com/join/LtgPLzrQ) | 2024-12-05 |
+| ios | [Pinterest beta](https://testflight.apple.com/join/ffIBkq35) | 2024-12-05 |
+| macos | [Caffeine Utility](https://testflight.apple.com/join/WHIbsose) | 2024-12-05 |
 | ios | [BeReal](https://testflight.apple.com/join/IM4jE5XY) | 2024-12-03 |
-| ios | [Dropbox](https://testflight.apple.com/join/LBZaRq4I) | 2024-12-03 |
-| ios | [Grocery-Smart Grocery List](https://testflight.apple.com/join/v29eXz9t) | 2024-12-03 |
-| ios | [Microsoft Office](https://testflight.apple.com/join/eHAKJBtM) | 2024-12-03 |
-| ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-12-03 |
-| ios | [Xbox](https://testflight.apple.com/join/dfUeaFHS) | 2024-12-03 |
 | ios | [Microsoft Loop beta](https://testflight.apple.com/join/KNyadcIZ) | 2024-12-02 |
 | ios | [Clipchamp Dev](https://testflight.apple.com/join/rG93mFo8) | 2024-11-30 |
 | ios | [MyFRITZ!App](https://testflight.apple.com/join/U0v1rBE5) | 2024-11-30 |
 | ios | [Proton VPN: Fast & Secure](https://testflight.apple.com/join/3yl2MSbw) | 2024-11-30 |
 | ios | [TikTok Now](https://testflight.apple.com/join/OTGrzX7C) | 2024-11-30 |
 | ios | [StarPlayrX](https://testflight.apple.com/join/Ecz0xXvf) | 2024-11-27 |
-| ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2024-11-26 |
 | ios | [Spark Mail - Email by Readdle](https://testflight.apple.com/join/O2wj7i0x) | 2024-11-26 |
 | ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2024-11-20 |
 | ios | [Soulver 3](https://testflight.apple.com/join/Vlb55Wtr) | 2024-11-20 |
