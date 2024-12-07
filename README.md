@@ -1,13 +1,10 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [AliExpress - Shopping App beta](https://testflight.apple.com/join/TFhYeUyJ) | 2024-12-06 |
-| ios | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-12-06 |
-| ios | [Dropbox](https://testflight.apple.com/join/LBZaRq4I) | 2024-12-06 |
+| chinese | [哔哩哔哩](https://testflight.apple.com/join/K4pM1kHu) | 2024-12-07 |
+| ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-12-07 |
+| ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-12-07 |
 | ios | [Microsoft Office](https://testflight.apple.com/join/eHAKJBtM) | 2024-12-06 |
-| ios | [搜狗输入法](https://testflight.apple.com/join/lSZdpEPH) | 2024-12-06 |
-| ios_game | [WOW: Wars of Wanon](https://testflight.apple.com/join/UZ4tYFb6) | 2024-12-06 |
-| macos | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-12-06 |
 | ios | [FRITZ!App WLAN](https://testflight.apple.com/join/vbfCKamq) | 2024-12-05 |
 | ios | [Microsoft OneDrive](https://testflight.apple.com/join/LtgPLzrQ) | 2024-12-05 |
 | macos | [Caffeine Utility](https://testflight.apple.com/join/WHIbsose) | 2024-12-05 |
@@ -70,7 +67,6 @@
 | ios | [UTM Remote Virtual Machines](https://testflight.apple.com/join/mFlnyMv3) | 2024-10-15 |
 | macos | [UTM Virtual Machines](https://testflight.apple.com/join/XQ3tNoNn) | 2024-10-15 |
 | ios | [Microsoft Bing Search](https://testflight.apple.com/join/YAKT5ew9) | 2024-10-13 |
-| ios | [YACReader](https://testflight.apple.com/join/5zhB7sRP) | 2024-10-01 |
 | ios | [Deezer](https://testflight.apple.com/join/e7mCOEeg) | 2024-09-27 |
 | ios | [Cs Music Player](https://testflight.apple.com/join/dU2r1pkq) | 2024-09-26 |
 | ios | [NS Travel Planner](https://testflight.apple.com/join/ldBwapIg) | 2024-09-26 |
