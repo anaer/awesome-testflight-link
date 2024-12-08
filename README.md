@@ -1,11 +1,11 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| chinese | [哔哩哔哩](https://testflight.apple.com/join/K4pM1kHu) | 2024-12-07 |
+| ios | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-12-08 |
+| ios | [Microsoft Loop beta](https://testflight.apple.com/join/KNyadcIZ) | 2024-12-08 |
+| macos | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-12-08 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-12-07 |
-| ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-12-07 |
 | ios | [Microsoft Office](https://testflight.apple.com/join/eHAKJBtM) | 2024-12-06 |
-| ios | [FRITZ!App WLAN](https://testflight.apple.com/join/vbfCKamq) | 2024-12-05 |
 | ios | [Microsoft OneDrive](https://testflight.apple.com/join/LtgPLzrQ) | 2024-12-05 |
 | macos | [Caffeine Utility](https://testflight.apple.com/join/WHIbsose) | 2024-12-05 |
 | ios | [BeReal](https://testflight.apple.com/join/IM4jE5XY) | 2024-12-03 |
@@ -73,7 +73,6 @@
 | ios | [Tuttii Beta](https://testflight.apple.com/join/2dTbntXZ) | 2024-09-25 |
 | ios | [Jira Server by Atlassian](https://testflight.apple.com/join/6JbjYbSY) | 2024-09-21 |
 | ios | [KDE Connect](https://testflight.apple.com/join/vxCluwBF) | 2024-09-11 |
-| ios | [Potatso Lite](https://testflight.apple.com/join/NkF46PRd) | 2024-09-10 |
 | ios | [ownCloud](https://testflight.apple.com/join/Oktj0iKv) | 2024-09-10 |
 | ios | [Airmail - Your Mail With You](https://testflight.apple.com/join/wRiLlWPE) | 2024-08-31 |
 | ios | [IFTTT](https://testflight.apple.com/join/Lgmzxy7Y) | 2024-08-31 |
