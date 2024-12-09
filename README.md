@@ -1,11 +1,11 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-12-08 |
-| ios | [Microsoft Loop beta](https://testflight.apple.com/join/KNyadcIZ) | 2024-12-08 |
-| macos | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-12-08 |
+| ios | [Instagram](https://testflight.apple.com/join/72eyUWVE) | 2024-12-09 |
+| ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2024-12-09 |
+| ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2024-12-09 |
+| ios | [YACReader](https://testflight.apple.com/join/5zhB7sRP) | 2024-12-09 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-12-07 |
-| ios | [Microsoft Office](https://testflight.apple.com/join/eHAKJBtM) | 2024-12-06 |
 | ios | [Microsoft OneDrive](https://testflight.apple.com/join/LtgPLzrQ) | 2024-12-05 |
 | macos | [Caffeine Utility](https://testflight.apple.com/join/WHIbsose) | 2024-12-05 |
 | ios | [BeReal](https://testflight.apple.com/join/IM4jE5XY) | 2024-12-03 |
@@ -24,7 +24,6 @@
 | ios | [Cash App](https://testflight.apple.com/join/An0RiOFF) | 2024-11-18 |
 | ios | [Element Messenger](https://testflight.apple.com/join/lCeTuDKM) | 2024-11-18 |
 | ios | [Element X - Secure Chat & Call](https://testflight.apple.com/join/uZbeZCOi) | 2024-11-18 |
-| ios | [Grindr - Gay Dating & Chat](https://testflight.apple.com/join/eO265vw7) | 2024-11-18 |
 | ios | [Intuit Credit Karma](https://testflight.apple.com/join/JrqR9vkv) | 2024-11-18 |
 | ios | [Life360: Find Friends & Family beta](https://testflight.apple.com/join/syX6IOJF) | 2024-11-18 |
 | ios | [MSN (Start)](https://testflight.apple.com/join/jOahtut6) | 2024-11-18 |
@@ -73,7 +72,6 @@
 | ios | [Tuttii Beta](https://testflight.apple.com/join/2dTbntXZ) | 2024-09-25 |
 | ios | [Jira Server by Atlassian](https://testflight.apple.com/join/6JbjYbSY) | 2024-09-21 |
 | ios | [KDE Connect](https://testflight.apple.com/join/vxCluwBF) | 2024-09-11 |
-| ios | [ownCloud](https://testflight.apple.com/join/Oktj0iKv) | 2024-09-10 |
 | ios | [Airmail - Your Mail With You](https://testflight.apple.com/join/wRiLlWPE) | 2024-08-31 |
 | ios | [IFTTT](https://testflight.apple.com/join/Lgmzxy7Y) | 2024-08-31 |
 | ios | [Sabertooth for Mastodon](https://testflight.apple.com/join/pBGgMKw2) | 2024-08-27 |
