@@ -1,9 +1,15 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2024-12-14 |
+| ios | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-12-14 |
+| ios | [Finance Bay](https://testflight.apple.com/join/y4etT8Ht) | 2024-12-14 |
+| ios | [Grindr - Gay Dating & Chat](https://testflight.apple.com/join/eO265vw7) | 2024-12-14 |
+| ios | [Just Timers](https://testflight.apple.com/join/pyzrz0oT) | 2024-12-14 |
+| ios | [Microsoft To-Do](https://testflight.apple.com/join/JSq3UkAz) | 2024-12-14 |
+| ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-12-14 |
+| macos | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-12-14 |
 | ios | [Instagram](https://testflight.apple.com/join/72eyUWVE) | 2024-12-09 |
-| ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2024-12-09 |
-| ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2024-12-09 |
 | ios | [YACReader](https://testflight.apple.com/join/5zhB7sRP) | 2024-12-09 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-12-07 |
 | ios | [Microsoft OneDrive](https://testflight.apple.com/join/LtgPLzrQ) | 2024-12-05 |
@@ -15,7 +21,6 @@
 | ios | [TikTok Now](https://testflight.apple.com/join/OTGrzX7C) | 2024-11-30 |
 | ios | [StarPlayrX](https://testflight.apple.com/join/Ecz0xXvf) | 2024-11-27 |
 | ios | [Spark Mail - Email by Readdle](https://testflight.apple.com/join/O2wj7i0x) | 2024-11-26 |
-| ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2024-11-20 |
 | ios | [Soulver 3](https://testflight.apple.com/join/Vlb55Wtr) | 2024-11-20 |
 | ios | [feeeed](https://testflight.apple.com/join/ixRrWfQL) | 2024-11-20 |
 | ios_game | [Minecraft: Education Edition beta](https://testflight.apple.com/join/sBDlEXYr) | 2024-11-20 |
@@ -29,14 +34,12 @@
 | ios | [MSN (Start)](https://testflight.apple.com/join/jOahtut6) | 2024-11-18 |
 | ios | [Mastodon](https://testflight.apple.com/join/ebSjPU84) | 2024-11-18 |
 | ios | [Microsoft Defender: Security](https://testflight.apple.com/join/AYVtbvfc) | 2024-11-18 |
-| ios | [Microsoft Dynamics 365](https://testflight.apple.com/join/ocBZp14V) | 2024-11-18 |
 | ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2024-11-18 |
 | ios | [Monzo Bank - Mobile Banking](https://testflight.apple.com/join/2NZLBFyb) | 2024-11-18 |
 | ios | [Opera GX](https://testflight.apple.com/join/t3k1AVL3) | 2024-11-18 |
 | ios | [Oura](https://testflight.apple.com/join/NPhd6XTF) | 2024-11-18 |
 | ios | [PPSSPP - PSP emulator](https://testflight.apple.com/join/uNlhFG0m) | 2024-11-18 |
 | ios | [QR File Transfer](https://testflight.apple.com/join/P5UOcDLa) | 2024-11-18 |
-| ios | [Reddit](https://testflight.apple.com/join/b9jMyOWt) | 2024-11-18 |
 | ios | [Shadow PC beta](https://testflight.apple.com/join/PxpSW79P) | 2024-11-18 |
 | ios | [UniFi](https://testflight.apple.com/join/Pkd9a658) | 2024-11-18 |
 | ios | [Windscribe VPN](https://testflight.apple.com/join/oKib5JOq) | 2024-11-18 |
@@ -71,7 +74,6 @@
 | ios | [NS Travel Planner](https://testflight.apple.com/join/ldBwapIg) | 2024-09-26 |
 | ios | [Tuttii Beta](https://testflight.apple.com/join/2dTbntXZ) | 2024-09-25 |
 | ios | [Jira Server by Atlassian](https://testflight.apple.com/join/6JbjYbSY) | 2024-09-21 |
-| ios | [KDE Connect](https://testflight.apple.com/join/vxCluwBF) | 2024-09-11 |
 | ios | [Airmail - Your Mail With You](https://testflight.apple.com/join/wRiLlWPE) | 2024-08-31 |
 | ios | [IFTTT](https://testflight.apple.com/join/Lgmzxy7Y) | 2024-08-31 |
 | ios | [Sabertooth for Mastodon](https://testflight.apple.com/join/pBGgMKw2) | 2024-08-27 |
@@ -81,7 +83,6 @@
 | macos | [Salam](https://testflight.apple.com/join/IjXpQtAo) | 2024-08-19 |
 | ios | [PDF Viewer Pro by PSPDFKit](https://testflight.apple.com/join/6IMUtZ8n) | 2024-08-15 |
 | ios | [Bitwarden Password Manager](https://testflight.apple.com/join/595lFH7U) | 2024-08-13 |
-| ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2024-07-31 |
 | ios | [Filmlog](https://testflight.apple.com/join/ywiozhph) | 2024-07-24 |
 | chinese | [QQ beta](https://testflight.apple.com/join/R5FNGUl3) | 2024-07-20 |
 | ios | [NOS](https://testflight.apple.com/join/i4g2QrrG) | 2024-07-18 |
