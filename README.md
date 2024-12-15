@@ -1,17 +1,16 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2024-12-14 |
+| ios | [CardioBot - Heart Rate Monitor](https://testflight.apple.com/join/H82FVVt6) | 2024-12-15 |
+| ios | [Microsoft Outlook](https://testflight.apple.com/join/QkU4VS1s) | 2024-12-15 |
+| ios | [World Clock Time Widget](https://testflight.apple.com/join/8wa9T053) | 2024-12-15 |
 | ios | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-12-14 |
 | ios | [Finance Bay](https://testflight.apple.com/join/y4etT8Ht) | 2024-12-14 |
 | ios | [Grindr - Gay Dating & Chat](https://testflight.apple.com/join/eO265vw7) | 2024-12-14 |
 | ios | [Just Timers](https://testflight.apple.com/join/pyzrz0oT) | 2024-12-14 |
 | ios | [Microsoft To-Do](https://testflight.apple.com/join/JSq3UkAz) | 2024-12-14 |
-| ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-12-14 |
 | macos | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-12-14 |
-| ios | [Instagram](https://testflight.apple.com/join/72eyUWVE) | 2024-12-09 |
 | ios | [YACReader](https://testflight.apple.com/join/5zhB7sRP) | 2024-12-09 |
-| ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-12-07 |
 | ios | [Microsoft OneDrive](https://testflight.apple.com/join/LtgPLzrQ) | 2024-12-05 |
 | macos | [Caffeine Utility](https://testflight.apple.com/join/WHIbsose) | 2024-12-05 |
 | ios | [BeReal](https://testflight.apple.com/join/IM4jE5XY) | 2024-12-03 |
@@ -111,7 +110,6 @@
 | ios | [Jira Cloud by Atlassian](https://testflight.apple.com/join/2lm7vHBS) | 2024-03-09 |
 | ios | [Twitch Beta](https://testflight.apple.com/join/8vRKFAiY) | 2024-02-23 |
 | ios | [F1ATV](https://testflight.apple.com/join/NRswe1IZ) | 2024-02-20 |
-| ios | [CharMap](https://testflight.apple.com/join/TL68k0Sp) | 2024-02-13 |
 | ios | [Feedly](https://testflight.apple.com/join/03ER1aUo) | 2024-02-08 |
 | ios | [Sleep Cycle - Sleep Tracker beta](https://testflight.apple.com/join/tCeANbZi) | 2024-02-07 |
 | ios | [Sleep Cycle alarm clock](https://testflight.apple.com/join/8RcEFqFF) | 2024-02-07 |
