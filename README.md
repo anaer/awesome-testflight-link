@@ -1,15 +1,14 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [CardioBot - Heart Rate Monitor](https://testflight.apple.com/join/H82FVVt6) | 2024-12-15 |
-| ios | [Microsoft Outlook](https://testflight.apple.com/join/QkU4VS1s) | 2024-12-15 |
+| ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2024-12-16 |
+| ios | [Love2D Game Maker](https://testflight.apple.com/join/bCLmQKfQ) | 2024-12-16 |
+| ios | [Monosnap - screenshot editor](https://testflight.apple.com/join/qQzBVHZs) | 2024-12-16 |
+| ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2024-12-16 |
 | ios | [World Clock Time Widget](https://testflight.apple.com/join/8wa9T053) | 2024-12-15 |
-| ios | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-12-14 |
 | ios | [Finance Bay](https://testflight.apple.com/join/y4etT8Ht) | 2024-12-14 |
 | ios | [Grindr - Gay Dating & Chat](https://testflight.apple.com/join/eO265vw7) | 2024-12-14 |
-| ios | [Just Timers](https://testflight.apple.com/join/pyzrz0oT) | 2024-12-14 |
 | ios | [Microsoft To-Do](https://testflight.apple.com/join/JSq3UkAz) | 2024-12-14 |
-| macos | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2024-12-14 |
 | ios | [YACReader](https://testflight.apple.com/join/5zhB7sRP) | 2024-12-09 |
 | ios | [Microsoft OneDrive](https://testflight.apple.com/join/LtgPLzrQ) | 2024-12-05 |
 | macos | [Caffeine Utility](https://testflight.apple.com/join/WHIbsose) | 2024-12-05 |
@@ -137,7 +136,6 @@
 | ios | [Microsoft Lists](https://testflight.apple.com/join/FL3caOg6) | 2023-04-28 |
 | ios | [Proton Pass](https://testflight.apple.com/join/GiTMzX3I) | 2023-04-25 |
 | ios | [Ulysses](https://testflight.apple.com/join/r7ehG0dQ) | 2023-04-10 |
-| ios | [Collabora Office](https://testflight.apple.com/join/TEnBWi68) | 2023-02-11 |
 | ios | [Ride Wait Times](https://testflight.apple.com/join/yQNmMRwB) | 2023-02-11 |
 | macos | [Ride Wait Times](https://testflight.apple.com/join/yQNmMRwB) | 2023-02-11 |
 | ios | [Day One Journal](https://testflight.apple.com/join/NXLBigzY) | 2023-02-06 |
