@@ -1,14 +1,12 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2024-12-16 |
+| ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-12-17 |
 | ios | [Love2D Game Maker](https://testflight.apple.com/join/bCLmQKfQ) | 2024-12-16 |
 | ios | [Monosnap - screenshot editor](https://testflight.apple.com/join/qQzBVHZs) | 2024-12-16 |
-| ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2024-12-16 |
 | ios | [World Clock Time Widget](https://testflight.apple.com/join/8wa9T053) | 2024-12-15 |
 | ios | [Finance Bay](https://testflight.apple.com/join/y4etT8Ht) | 2024-12-14 |
 | ios | [Grindr - Gay Dating & Chat](https://testflight.apple.com/join/eO265vw7) | 2024-12-14 |
-| ios | [Microsoft To-Do](https://testflight.apple.com/join/JSq3UkAz) | 2024-12-14 |
 | ios | [YACReader](https://testflight.apple.com/join/5zhB7sRP) | 2024-12-09 |
 | ios | [Microsoft OneDrive](https://testflight.apple.com/join/LtgPLzrQ) | 2024-12-05 |
 | macos | [Caffeine Utility](https://testflight.apple.com/join/WHIbsose) | 2024-12-05 |
@@ -151,7 +149,6 @@
 | ios | [Nubank](https://testflight.apple.com/join/v3SGNpM5) | 2022-10-13 |
 | ios | [Skype For iPhone](https://testflight.apple.com/join/fB5IkJT7) | 2022-10-13 |
 | ios | [Smart Post: Schedule Media](https://testflight.apple.com/join/a0zXMXbA) | 2022-10-13 |
-| ios | [VFeed](https://testflight.apple.com/join/ZdC5U0fR) | 2022-10-13 |
 | ios | [WordPress](https://testflight.apple.com/join/AkJQt8Pw) | 2022-10-13 |
 | ios | [Imgur - Meme & GIF Maker](https://testflight.apple.com/join/Qd42y5Pw) | 2022-10-11 |
 | ios | [LIFX](https://testflight.apple.com/join/TYoQEz4T) | 2022-10-11 |
