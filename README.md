@@ -1,7 +1,11 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| chinese | [哔哩哔哩](https://testflight.apple.com/join/K4pM1kHu) | 2024-12-18 |
+| ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-12-19 |
+| ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2024-12-19 |
+| ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2024-12-19 |
+| ios | [Instagram](https://testflight.apple.com/join/72eyUWVE) | 2024-12-19 |
+| ios | [Reddit](https://testflight.apple.com/join/b9jMyOWt) | 2024-12-19 |
 | ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-12-18 |
 | ios | [VFeed](https://testflight.apple.com/join/ZdC5U0fR) | 2024-12-18 |
 | ios | [Love2D Game Maker](https://testflight.apple.com/join/bCLmQKfQ) | 2024-12-16 |
@@ -74,7 +78,6 @@
 | ios | [Jira Server by Atlassian](https://testflight.apple.com/join/6JbjYbSY) | 2024-09-21 |
 | ios | [Airmail - Your Mail With You](https://testflight.apple.com/join/wRiLlWPE) | 2024-08-31 |
 | ios | [IFTTT](https://testflight.apple.com/join/Lgmzxy7Y) | 2024-08-31 |
-| ios | [Sabertooth for Mastodon](https://testflight.apple.com/join/pBGgMKw2) | 2024-08-27 |
 | ios | [Overcast beta](https://testflight.apple.com/join/37azzGPG) | 2024-08-26 |
 | ios | [FRITZ!App Smart Home](https://testflight.apple.com/join/kzVJhIg1) | 2024-08-21 |
 | ios | [Salam](https://testflight.apple.com/join/IjXpQtAo) | 2024-08-19 |
