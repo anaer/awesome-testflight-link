@@ -1,7 +1,7 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-12-19 |
+| ios | [Steam iOS beta](https://testflight.apple.com/join/8BOPXsGz) | 2024-12-20 |
 | ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2024-12-19 |
 | ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2024-12-19 |
 | ios | [Instagram](https://testflight.apple.com/join/72eyUWVE) | 2024-12-19 |
