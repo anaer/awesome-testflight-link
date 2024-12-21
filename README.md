@@ -1,12 +1,11 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-12-21 |
 | ios | [Steam iOS beta](https://testflight.apple.com/join/8BOPXsGz) | 2024-12-20 |
 | ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2024-12-19 |
 | ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2024-12-19 |
-| ios | [Instagram](https://testflight.apple.com/join/72eyUWVE) | 2024-12-19 |
 | ios | [Reddit](https://testflight.apple.com/join/b9jMyOWt) | 2024-12-19 |
-| ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-12-18 |
 | ios | [VFeed](https://testflight.apple.com/join/ZdC5U0fR) | 2024-12-18 |
 | ios | [Love2D Game Maker](https://testflight.apple.com/join/bCLmQKfQ) | 2024-12-16 |
 | ios | [Monosnap - screenshot editor](https://testflight.apple.com/join/qQzBVHZs) | 2024-12-16 |
@@ -15,7 +14,6 @@
 | ios | [Grindr - Gay Dating & Chat](https://testflight.apple.com/join/eO265vw7) | 2024-12-14 |
 | ios | [YACReader](https://testflight.apple.com/join/5zhB7sRP) | 2024-12-09 |
 | ios | [Microsoft OneDrive](https://testflight.apple.com/join/LtgPLzrQ) | 2024-12-05 |
-| macos | [Caffeine Utility](https://testflight.apple.com/join/WHIbsose) | 2024-12-05 |
 | ios | [BeReal](https://testflight.apple.com/join/IM4jE5XY) | 2024-12-03 |
 | ios | [Clipchamp Dev](https://testflight.apple.com/join/rG93mFo8) | 2024-11-30 |
 | ios | [MyFRITZ!App](https://testflight.apple.com/join/U0v1rBE5) | 2024-11-30 |
