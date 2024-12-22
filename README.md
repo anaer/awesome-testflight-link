@@ -1,10 +1,11 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [CardioBot - Heart Rate Monitor](https://testflight.apple.com/join/H82FVVt6) | 2024-12-22 |
+| ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-12-22 |
+| macos | [Caffeine Utility](https://testflight.apple.com/join/WHIbsose) | 2024-12-22 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-12-21 |
 | ios | [Steam iOS beta](https://testflight.apple.com/join/8BOPXsGz) | 2024-12-20 |
-| ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2024-12-19 |
-| ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2024-12-19 |
 | ios | [Reddit](https://testflight.apple.com/join/b9jMyOWt) | 2024-12-19 |
 | ios | [VFeed](https://testflight.apple.com/join/ZdC5U0fR) | 2024-12-18 |
 | ios | [Love2D Game Maker](https://testflight.apple.com/join/bCLmQKfQ) | 2024-12-16 |
