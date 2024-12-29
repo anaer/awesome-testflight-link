@@ -1,11 +1,7 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [AliExpress - Shopping App beta](https://testflight.apple.com/join/TFhYeUyJ) | 2024-12-28 |
-| ios | [Just Timers](https://testflight.apple.com/join/pyzrz0oT) | 2024-12-28 |
-| ios_game | [Minecraft Preview](https://testflight.apple.com/join/qC1ZnReJ) | 2024-12-28 |
-| ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2024-12-24 |
-| ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-12-21 |
+| ios | [Instagram](https://testflight.apple.com/join/72eyUWVE) | 2024-12-29 |
 | ios | [Steam iOS beta](https://testflight.apple.com/join/8BOPXsGz) | 2024-12-20 |
 | ios | [Reddit](https://testflight.apple.com/join/b9jMyOWt) | 2024-12-19 |
 | ios | [VFeed](https://testflight.apple.com/join/ZdC5U0fR) | 2024-12-18 |
