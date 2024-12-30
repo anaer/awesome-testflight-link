@@ -1,6 +1,12 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2024-12-30 |
+| ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-12-30 |
+| ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2024-12-30 |
+| ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2024-12-30 |
+| ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2024-12-30 |
+| ios | [搜狗输入法](https://testflight.apple.com/join/lSZdpEPH) | 2024-12-30 |
 | ios | [Instagram](https://testflight.apple.com/join/72eyUWVE) | 2024-12-29 |
 | ios | [Steam iOS beta](https://testflight.apple.com/join/8BOPXsGz) | 2024-12-20 |
 | ios | [Reddit](https://testflight.apple.com/join/b9jMyOWt) | 2024-12-19 |
@@ -127,7 +133,6 @@
 | ios_game | [DropZap World](https://testflight.apple.com/join/CdEXgjst) | 2023-07-02 |
 | chinese | [Maxthon Cloud Web Browser](https://testflight.apple.com/join/ONuHkBRv) | 2023-06-22 |
 | ios | [Sangoma Meet](https://testflight.apple.com/join/BEd12vi5) | 2023-05-25 |
-| ios | [FRITZ!App Fon](https://testflight.apple.com/join/SGGCxyRp) | 2023-05-19 |
 | ios | [Microsoft Lists](https://testflight.apple.com/join/FL3caOg6) | 2023-04-28 |
 | ios | [Proton Pass](https://testflight.apple.com/join/GiTMzX3I) | 2023-04-25 |
 | ios | [Ulysses](https://testflight.apple.com/join/r7ehG0dQ) | 2023-04-10 |
