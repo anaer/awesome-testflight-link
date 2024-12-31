@@ -1,13 +1,10 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2024-12-30 |
+| ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2024-12-31 |
+| ios | [MEGA](https://testflight.apple.com/join/4x1P5Tnx) | 2024-12-31 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-12-30 |
-| ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2024-12-30 |
 | ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2024-12-30 |
-| ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2024-12-30 |
-| ios | [搜狗输入法](https://testflight.apple.com/join/lSZdpEPH) | 2024-12-30 |
-| ios | [Instagram](https://testflight.apple.com/join/72eyUWVE) | 2024-12-29 |
 | ios | [Steam iOS beta](https://testflight.apple.com/join/8BOPXsGz) | 2024-12-20 |
 | ios | [Reddit](https://testflight.apple.com/join/b9jMyOWt) | 2024-12-19 |
 | ios | [VFeed](https://testflight.apple.com/join/ZdC5U0fR) | 2024-12-18 |
@@ -102,7 +99,6 @@
 | ios | [TV Time – #1 Show Tracker](https://testflight.apple.com/join/hjKkDsc4) | 2024-05-24 |
 | ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2024-05-23 |
 | ios | [Revolut - Radically Better](https://testflight.apple.com/join/oqrinjQB) | 2024-05-16 |
-| ios | [Termius – SSH client](https://testflight.apple.com/join/MnuClabg) | 2024-04-30 |
 | ios | [TrackMyTour](https://testflight.apple.com/join/tv9dt6po) | 2024-04-15 |
 | ios | [Trello — Organize anything!](https://testflight.apple.com/join/cRWMcQsr) | 2024-04-02 |
 | chinese | [事线 - 串事成线](https://testflight.apple.com/join/grxohdR3) | 2024-03-26 |
