@@ -1,8 +1,10 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Instagram](https://testflight.apple.com/join/72eyUWVE) | 2025-01-02 |
+| ios | [KDE Connect](https://testflight.apple.com/join/vxCluwBF) | 2025-01-02 |
+| macos | [Caffeine Utility](https://testflight.apple.com/join/WHIbsose) | 2025-01-02 |
 | ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2024-12-31 |
-| ios | [MEGA](https://testflight.apple.com/join/4x1P5Tnx) | 2024-12-31 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-12-30 |
 | ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2024-12-30 |
 | ios | [Steam iOS beta](https://testflight.apple.com/join/8BOPXsGz) | 2024-12-20 |
