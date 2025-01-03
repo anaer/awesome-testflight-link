@@ -1,12 +1,13 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [CardioBot - Heart Rate Monitor](https://testflight.apple.com/join/H82FVVt6) | 2025-01-03 |
+| ios | [Custom Contacts 2](https://testflight.apple.com/join/uOLgKHRN) | 2025-01-03 |
+| ios | [KyPass 4 密码管理](https://testflight.apple.com/join/wlZmOo9t) | 2025-01-03 |
+| ios | [Microsoft Whiteboard](https://testflight.apple.com/join/HSWkbCxV) | 2025-01-03 |
+| ios | [Termius – SSH client](https://testflight.apple.com/join/MnuClabg) | 2025-01-03 |
 | ios | [Instagram](https://testflight.apple.com/join/72eyUWVE) | 2025-01-02 |
 | ios | [KDE Connect](https://testflight.apple.com/join/vxCluwBF) | 2025-01-02 |
-| macos | [Caffeine Utility](https://testflight.apple.com/join/WHIbsose) | 2025-01-02 |
-| ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2024-12-31 |
-| ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2024-12-30 |
-| ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2024-12-30 |
 | ios | [Steam iOS beta](https://testflight.apple.com/join/8BOPXsGz) | 2024-12-20 |
 | ios | [Reddit](https://testflight.apple.com/join/b9jMyOWt) | 2024-12-19 |
 | ios | [VFeed](https://testflight.apple.com/join/ZdC5U0fR) | 2024-12-18 |
@@ -29,7 +30,6 @@
 | ios_game | [Minecraft: Education Edition beta](https://testflight.apple.com/join/sBDlEXYr) | 2024-11-20 |
 | ios | [Adobe Acrobat Reader: Edit PDF](https://testflight.apple.com/join/8XhFnQlp) | 2024-11-18 |
 | ios | [Bitwarden Beta](https://testflight.apple.com/join/S4OQEYYQ) | 2024-11-18 |
-| ios | [Cash App](https://testflight.apple.com/join/An0RiOFF) | 2024-11-18 |
 | ios | [Element Messenger](https://testflight.apple.com/join/lCeTuDKM) | 2024-11-18 |
 | ios | [Element X - Secure Chat & Call](https://testflight.apple.com/join/uZbeZCOi) | 2024-11-18 |
 | ios | [Intuit Credit Karma](https://testflight.apple.com/join/JrqR9vkv) | 2024-11-18 |
@@ -67,8 +67,6 @@
 | ios | [Yandex Browser](https://testflight.apple.com/join/Y4k4ze6V) | 2024-10-17 |
 | ios | [Graphite: Photo to Sketch App beta](https://testflight.apple.com/join/gRhGuXzI) | 2024-10-16 |
 | ios | [Fast Camera](https://testflight.apple.com/join/haPQdDs9) | 2024-10-15 |
-| ios | [UTM Remote Virtual Machines](https://testflight.apple.com/join/mFlnyMv3) | 2024-10-15 |
-| macos | [UTM Virtual Machines](https://testflight.apple.com/join/XQ3tNoNn) | 2024-10-15 |
 | ios | [Microsoft Bing Search](https://testflight.apple.com/join/YAKT5ew9) | 2024-10-13 |
 | ios | [Deezer](https://testflight.apple.com/join/e7mCOEeg) | 2024-09-27 |
 | ios | [NS Travel Planner](https://testflight.apple.com/join/ldBwapIg) | 2024-09-26 |
