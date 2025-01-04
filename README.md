@@ -6,10 +6,8 @@
 | ios | [KyPass 4 密码管理](https://testflight.apple.com/join/wlZmOo9t) | 2025-01-03 |
 | ios | [Microsoft Whiteboard](https://testflight.apple.com/join/HSWkbCxV) | 2025-01-03 |
 | ios | [Termius – SSH client](https://testflight.apple.com/join/MnuClabg) | 2025-01-03 |
-| ios | [Instagram](https://testflight.apple.com/join/72eyUWVE) | 2025-01-02 |
 | ios | [KDE Connect](https://testflight.apple.com/join/vxCluwBF) | 2025-01-02 |
 | ios | [Steam iOS beta](https://testflight.apple.com/join/8BOPXsGz) | 2024-12-20 |
-| ios | [Reddit](https://testflight.apple.com/join/b9jMyOWt) | 2024-12-19 |
 | ios | [VFeed](https://testflight.apple.com/join/ZdC5U0fR) | 2024-12-18 |
 | ios | [Love2D Game Maker](https://testflight.apple.com/join/bCLmQKfQ) | 2024-12-16 |
 | ios | [Monosnap - screenshot editor](https://testflight.apple.com/join/qQzBVHZs) | 2024-12-16 |
@@ -110,7 +108,6 @@
 | ios | [Sleep Cycle - Sleep Tracker beta](https://testflight.apple.com/join/tCeANbZi) | 2024-02-07 |
 | ios | [Sleep Cycle alarm clock](https://testflight.apple.com/join/8RcEFqFF) | 2024-02-07 |
 | ios | [The New York Times](https://testflight.apple.com/join/gfiSREAr) | 2024-02-02 |
-| ios | [Go Map!!](https://testflight.apple.com/join/T96F9wYq) | 2023-12-23 |
 | ios | [Keka](https://testflight.apple.com/join/gPYINGCJ) | 2023-12-21 |
 | ios | [希沃白板](https://testflight.apple.com/join/d6MQLpKY) | 2023-12-07 |
 | ios | [Brave](https://testflight.apple.com/join/Trcbh1o3) | 2023-12-02 |
