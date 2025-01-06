@@ -1,9 +1,7 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2025-01-05 |
-| ios | [Microsoft SwiftKey Keyboard](https://testflight.apple.com/join/yhIhAvjp) | 2025-01-05 |
-| ios | [Musixmatch Lyrics Finder](https://testflight.apple.com/join/7yLzN5td) | 2025-01-05 |
+| ios | [Instagram](https://testflight.apple.com/join/72eyUWVE) | 2025-01-06 |
 | ios | [CardioBot - Heart Rate Monitor](https://testflight.apple.com/join/H82FVVt6) | 2025-01-03 |
 | ios | [Custom Contacts 2](https://testflight.apple.com/join/uOLgKHRN) | 2025-01-03 |
 | ios | [KyPass 4 密码管理](https://testflight.apple.com/join/wlZmOo9t) | 2025-01-03 |
