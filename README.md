@@ -1,6 +1,14 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2025-01-07 |
+| ios | [Dash Calc](https://testflight.apple.com/join/4vmNqTE8) | 2025-01-07 |
+| ios | [Go Map!!](https://testflight.apple.com/join/T96F9wYq) | 2025-01-07 |
+| ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-01-07 |
+| ios | [MEGA](https://testflight.apple.com/join/4x1P5Tnx) | 2025-01-07 |
+| ios | [Microsoft To-Do](https://testflight.apple.com/join/JSq3UkAz) | 2025-01-07 |
+| ios | [Reddit](https://testflight.apple.com/join/b9jMyOWt) | 2025-01-07 |
+| ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2025-01-07 |
 | ios | [Instagram](https://testflight.apple.com/join/72eyUWVE) | 2025-01-06 |
 | ios | [CardioBot - Heart Rate Monitor](https://testflight.apple.com/join/H82FVVt6) | 2025-01-03 |
 | ios | [Custom Contacts 2](https://testflight.apple.com/join/uOLgKHRN) | 2025-01-03 |
@@ -8,7 +16,6 @@
 | ios | [Microsoft Whiteboard](https://testflight.apple.com/join/HSWkbCxV) | 2025-01-03 |
 | ios | [Termius – SSH client](https://testflight.apple.com/join/MnuClabg) | 2025-01-03 |
 | ios | [KDE Connect](https://testflight.apple.com/join/vxCluwBF) | 2025-01-02 |
-| ios | [Steam iOS beta](https://testflight.apple.com/join/8BOPXsGz) | 2024-12-20 |
 | ios | [VFeed](https://testflight.apple.com/join/ZdC5U0fR) | 2024-12-18 |
 | ios | [Love2D Game Maker](https://testflight.apple.com/join/bCLmQKfQ) | 2024-12-16 |
 | ios | [Monosnap - screenshot editor](https://testflight.apple.com/join/qQzBVHZs) | 2024-12-16 |
