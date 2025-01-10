@@ -1,19 +1,16 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Pushover Notifications](https://testflight.apple.com/join/vkwfdWM0) | 2025-01-10 |
+| ios | [S1 Mufu](https://testflight.apple.com/join/KwboYTNt) | 2025-01-10 |
 | ios | [Discord](https://testflight.apple.com/join/gdE4pRzI) | 2025-01-09 |
 | ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2025-01-09 |
 | ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2025-01-09 |
-| ios | [WhatsApp Business](https://testflight.apple.com/join/oscYikr0) | 2025-01-09 |
-| ios | [Wipr 2](https://testflight.apple.com/join/YkdEItQi) | 2025-01-09 |
-| macos | [Caffeine Utility](https://testflight.apple.com/join/WHIbsose) | 2025-01-09 |
 | ios | [DailyTown](https://testflight.apple.com/join/Q37kksaC) | 2025-01-08 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2025-01-07 |
 | ios | [Dash Calc](https://testflight.apple.com/join/4vmNqTE8) | 2025-01-07 |
 | ios | [Go Map!!](https://testflight.apple.com/join/T96F9wYq) | 2025-01-07 |
-| ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-01-07 |
 | ios | [Reddit](https://testflight.apple.com/join/b9jMyOWt) | 2025-01-07 |
-| ios | [CardioBot - Heart Rate Monitor](https://testflight.apple.com/join/H82FVVt6) | 2025-01-03 |
 | ios | [Custom Contacts 2](https://testflight.apple.com/join/uOLgKHRN) | 2025-01-03 |
 | ios | [KyPass 4 密码管理](https://testflight.apple.com/join/wlZmOo9t) | 2025-01-03 |
 | ios | [Microsoft Whiteboard](https://testflight.apple.com/join/HSWkbCxV) | 2025-01-03 |
