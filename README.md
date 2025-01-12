@@ -1,10 +1,15 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| chinese | [QQ beta](https://testflight.apple.com/join/R5FNGUl3) | 2025-01-12 |
+| chinese | [iCost 记账](https://testflight.apple.com/join/pm1jk978) | 2025-01-12 |
+| chinese | [微信读书](https://testflight.apple.com/join/5MWjLpYl) | 2025-01-12 |
+| chinese | [百度贴吧](https://testflight.apple.com/join/GgBqXAqm) | 2025-01-12 |
+| ios | [Instagram](https://testflight.apple.com/join/72eyUWVE) | 2025-01-12 |
+| ios | [Microsoft SwiftKey Keyboard](https://testflight.apple.com/join/yhIhAvjp) | 2025-01-12 |
 | chinese | [酷狗音乐](https://testflight.apple.com/join/6cnKUyZ8) | 2025-01-11 |
 | ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2025-01-11 |
 | ios | [Musixmatch Lyrics Finder](https://testflight.apple.com/join/7yLzN5td) | 2025-01-11 |
-| ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2025-01-11 |
 | ios | [Pushover Notifications](https://testflight.apple.com/join/vkwfdWM0) | 2025-01-10 |
 | ios | [S1 Mufu](https://testflight.apple.com/join/KwboYTNt) | 2025-01-10 |
 | ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2025-01-09 |
@@ -14,7 +19,6 @@
 | ios | [Dash Calc](https://testflight.apple.com/join/4vmNqTE8) | 2025-01-07 |
 | ios | [Go Map!!](https://testflight.apple.com/join/T96F9wYq) | 2025-01-07 |
 | ios | [Reddit](https://testflight.apple.com/join/b9jMyOWt) | 2025-01-07 |
-| ios | [Custom Contacts 2](https://testflight.apple.com/join/uOLgKHRN) | 2025-01-03 |
 | ios | [KyPass 4 密码管理](https://testflight.apple.com/join/wlZmOo9t) | 2025-01-03 |
 | ios | [Microsoft Whiteboard](https://testflight.apple.com/join/HSWkbCxV) | 2025-01-03 |
 | ios | [Termius – SSH client](https://testflight.apple.com/join/MnuClabg) | 2025-01-03 |
