@@ -2,6 +2,7 @@
 | type | name | last_modify |
 | --- | --- | --- |
 | ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2025-01-13 |
+| ios_game | [FlexicX](https://testflight.apple.com/join/YSaEbc8C) | 2025-01-13 |
 | chinese | [QQ beta](https://testflight.apple.com/join/R5FNGUl3) | 2025-01-12 |
 | chinese | [酷狗音乐](https://testflight.apple.com/join/6cnKUyZ8) | 2025-01-11 |
 | ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2025-01-11 |
