@@ -1,7 +1,10 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-01-14 |
+| ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2025-01-16 |
+| ios | [CardioBot - Heart Rate Monitor](https://testflight.apple.com/join/H82FVVt6) | 2025-01-16 |
+| ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2025-01-16 |
+| ios_game | [Stick War 3](https://testflight.apple.com/join/eUx3WxVj) | 2025-01-16 |
 | ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2025-01-14 |
 | ios_game | [FlexicX](https://testflight.apple.com/join/YSaEbc8C) | 2025-01-13 |
 | chinese | [酷狗音乐](https://testflight.apple.com/join/6cnKUyZ8) | 2025-01-11 |
@@ -130,7 +133,6 @@
 | ios | [S.Mario beta](https://testflight.apple.com/join/HLKh7Jx9) | 2023-07-06 |
 | ios_game | [DropZap World](https://testflight.apple.com/join/CdEXgjst) | 2023-07-02 |
 | chinese | [Maxthon Cloud Web Browser](https://testflight.apple.com/join/ONuHkBRv) | 2023-06-22 |
-| ios | [Sangoma Meet](https://testflight.apple.com/join/BEd12vi5) | 2023-05-25 |
 | ios | [Microsoft Lists](https://testflight.apple.com/join/FL3caOg6) | 2023-04-28 |
 | ios | [Proton Pass](https://testflight.apple.com/join/GiTMzX3I) | 2023-04-25 |
 | ios | [Ulysses](https://testflight.apple.com/join/r7ehG0dQ) | 2023-04-10 |
