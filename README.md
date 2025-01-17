@@ -1,13 +1,11 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Instagram](https://testflight.apple.com/join/72eyUWVE) | 2025-01-17 |
+| ios | [Sangoma Meet](https://testflight.apple.com/join/BEd12vi5) | 2025-01-17 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2025-01-16 |
-| ios | [CardioBot - Heart Rate Monitor](https://testflight.apple.com/join/H82FVVt6) | 2025-01-16 |
 | ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2025-01-16 |
-| ios_game | [Stick War 3](https://testflight.apple.com/join/eUx3WxVj) | 2025-01-16 |
 | ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2025-01-14 |
-| ios_game | [FlexicX](https://testflight.apple.com/join/YSaEbc8C) | 2025-01-13 |
-| chinese | [酷狗音乐](https://testflight.apple.com/join/6cnKUyZ8) | 2025-01-11 |
 | ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2025-01-11 |
 | ios | [Pushover Notifications](https://testflight.apple.com/join/vkwfdWM0) | 2025-01-10 |
 | ios | [S1 Mufu](https://testflight.apple.com/join/KwboYTNt) | 2025-01-10 |
