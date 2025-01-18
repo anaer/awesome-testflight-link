@@ -1,11 +1,11 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Instagram](https://testflight.apple.com/join/72eyUWVE) | 2025-01-17 |
+| ios | [FRITZ!App Fon](https://testflight.apple.com/join/SGGCxyRp) | 2025-01-18 |
+| ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2025-01-18 |
+| ios | [iSH Shell](https://testflight.apple.com/join/97i7KM8O) | 2025-01-18 |
 | ios | [Sangoma Meet](https://testflight.apple.com/join/BEd12vi5) | 2025-01-17 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2025-01-16 |
-| ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2025-01-16 |
-| ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2025-01-14 |
 | ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2025-01-11 |
 | ios | [Pushover Notifications](https://testflight.apple.com/join/vkwfdWM0) | 2025-01-10 |
 | ios | [S1 Mufu](https://testflight.apple.com/join/KwboYTNt) | 2025-01-10 |
