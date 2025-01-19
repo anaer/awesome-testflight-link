@@ -1,9 +1,12 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| chinese | [iCost 记账](https://testflight.apple.com/join/pm1jk978) | 2025-01-19 |
+| chinese | [哔哩哔哩](https://testflight.apple.com/join/K4pM1kHu) | 2025-01-19 |
+| chinese | [酷狗音乐](https://testflight.apple.com/join/6cnKUyZ8) | 2025-01-19 |
+| ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2025-01-19 |
 | ios | [FRITZ!App Fon](https://testflight.apple.com/join/SGGCxyRp) | 2025-01-18 |
 | ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2025-01-18 |
-| ios | [iSH Shell](https://testflight.apple.com/join/97i7KM8O) | 2025-01-18 |
 | ios | [Sangoma Meet](https://testflight.apple.com/join/BEd12vi5) | 2025-01-17 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2025-01-16 |
 | ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2025-01-11 |
@@ -85,7 +88,6 @@
 | ios | [FRITZ!App Smart Home](https://testflight.apple.com/join/kzVJhIg1) | 2024-08-21 |
 | ios | [PDF Viewer Pro by PSPDFKit](https://testflight.apple.com/join/6IMUtZ8n) | 2024-08-15 |
 | ios | [Bitwarden Password Manager](https://testflight.apple.com/join/595lFH7U) | 2024-08-13 |
-| ios | [Filmlog](https://testflight.apple.com/join/ywiozhph) | 2024-07-24 |
 | ios | [NOS](https://testflight.apple.com/join/i4g2QrrG) | 2024-07-18 |
 | ios | [网易 Filmly](https://testflight.apple.com/join/sIj5iOoj) | 2024-07-15 |
 | ios | [Signal - Private Messenger](https://testflight.apple.com/join/8FHtd1Jq) | 2024-07-02 |
@@ -117,7 +119,6 @@
 | ios | [Keka](https://testflight.apple.com/join/gPYINGCJ) | 2023-12-21 |
 | ios | [希沃白板](https://testflight.apple.com/join/d6MQLpKY) | 2023-12-07 |
 | ios | [Brave](https://testflight.apple.com/join/Trcbh1o3) | 2023-12-02 |
-| ios | [Tapatalk - 200,000+ Forums](https://testflight.apple.com/join/oGFXVgl6) | 2023-11-16 |
 | ios | [Gaming for Peace-GAP](https://testflight.apple.com/join/tJu81Sch) | 2023-10-25 |
 | ios | [Meditation Timer Zenzitizer](https://testflight.apple.com/join/QvKyRJ8x) | 2023-10-21 |
 | ios | [Property Finder](https://testflight.apple.com/join/ctQoX4vC) | 2023-10-14 |
