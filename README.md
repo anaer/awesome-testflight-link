@@ -1,12 +1,10 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [AliExpress - Shopping App beta](https://testflight.apple.com/join/TFhYeUyJ) | 2025-01-21 |
+| ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2025-01-21 |
 | chinese | [百度贴吧](https://testflight.apple.com/join/GgBqXAqm) | 2025-01-20 |
 | ios | [CardioBot - Heart Rate Monitor](https://testflight.apple.com/join/H82FVVt6) | 2025-01-20 |
-| ios | [Instagram](https://testflight.apple.com/join/72eyUWVE) | 2025-01-20 |
-| ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2025-01-20 |
-| ios | [Steam iOS beta](https://testflight.apple.com/join/8BOPXsGz) | 2025-01-20 |
-| ios_game | [Minecraft Preview](https://testflight.apple.com/join/qC1ZnReJ) | 2025-01-20 |
 | ios | [FRITZ!App Fon](https://testflight.apple.com/join/SGGCxyRp) | 2025-01-18 |
 | ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2025-01-18 |
 | ios | [Sangoma Meet](https://testflight.apple.com/join/BEd12vi5) | 2025-01-17 |
@@ -16,7 +14,6 @@
 | ios | [DailyTown](https://testflight.apple.com/join/Q37kksaC) | 2025-01-08 |
 | ios | [Dash Calc](https://testflight.apple.com/join/4vmNqTE8) | 2025-01-07 |
 | ios | [Go Map!!](https://testflight.apple.com/join/T96F9wYq) | 2025-01-07 |
-| ios | [Reddit](https://testflight.apple.com/join/b9jMyOWt) | 2025-01-07 |
 | ios | [KyPass 4 密码管理](https://testflight.apple.com/join/wlZmOo9t) | 2025-01-03 |
 | ios | [Microsoft Whiteboard](https://testflight.apple.com/join/HSWkbCxV) | 2025-01-03 |
 | ios | [Termius – SSH client](https://testflight.apple.com/join/MnuClabg) | 2025-01-03 |
@@ -66,7 +63,6 @@
 | ios | [Fugl](https://testflight.apple.com/join/bZIZeB4N) | 2024-11-02 |
 | ios_game | [Fugl](https://testflight.apple.com/join/bZIZeB4N) | 2024-11-02 |
 | chinese | [微信键盘 beta](https://testflight.apple.com/join/iSTXkF4K) | 2024-11-01 |
-| ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2024-11-01 |
 | ios | [Tunna - Xray/V2ray Proxy Utility](https://testflight.apple.com/join/dqMoJObA) | 2024-10-28 |
 | ios | [Fedicat](https://testflight.apple.com/join/b6GatWTY) | 2024-10-27 |
 | chinese | [我的世界-网易](https://testflight.apple.com/join/mOxZm1dD) | 2024-10-24 |
