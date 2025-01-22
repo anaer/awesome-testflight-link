@@ -1,16 +1,17 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| chinese | [酷狗音乐](https://testflight.apple.com/join/6cnKUyZ8) | 2025-01-22 |
+| ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2025-01-22 |
+| ios | [FRITZ!App WLAN](https://testflight.apple.com/join/vbfCKamq) | 2025-01-22 |
+| ios_game | [Stick War 3](https://testflight.apple.com/join/eUx3WxVj) | 2025-01-22 |
 | ios | [AliExpress - Shopping App beta](https://testflight.apple.com/join/TFhYeUyJ) | 2025-01-21 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2025-01-21 |
-| chinese | [百度贴吧](https://testflight.apple.com/join/GgBqXAqm) | 2025-01-20 |
-| ios | [CardioBot - Heart Rate Monitor](https://testflight.apple.com/join/H82FVVt6) | 2025-01-20 |
 | ios | [FRITZ!App Fon](https://testflight.apple.com/join/SGGCxyRp) | 2025-01-18 |
 | ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2025-01-18 |
 | ios | [Sangoma Meet](https://testflight.apple.com/join/BEd12vi5) | 2025-01-17 |
 | ios | [Pushover Notifications](https://testflight.apple.com/join/vkwfdWM0) | 2025-01-10 |
 | ios | [S1 Mufu](https://testflight.apple.com/join/KwboYTNt) | 2025-01-10 |
-| ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2025-01-09 |
 | ios | [DailyTown](https://testflight.apple.com/join/Q37kksaC) | 2025-01-08 |
 | ios | [Dash Calc](https://testflight.apple.com/join/4vmNqTE8) | 2025-01-07 |
 | ios | [Go Map!!](https://testflight.apple.com/join/T96F9wYq) | 2025-01-07 |
@@ -25,7 +26,6 @@
 | ios | [Finance Bay](https://testflight.apple.com/join/y4etT8Ht) | 2024-12-14 |
 | ios | [Grindr - Gay Dating & Chat](https://testflight.apple.com/join/eO265vw7) | 2024-12-14 |
 | ios | [YACReader](https://testflight.apple.com/join/5zhB7sRP) | 2024-12-09 |
-| ios | [Microsoft OneDrive](https://testflight.apple.com/join/LtgPLzrQ) | 2024-12-05 |
 | ios | [BeReal](https://testflight.apple.com/join/IM4jE5XY) | 2024-12-03 |
 | ios | [Clipchamp Dev](https://testflight.apple.com/join/rG93mFo8) | 2024-11-30 |
 | ios | [MyFRITZ!App](https://testflight.apple.com/join/U0v1rBE5) | 2024-11-30 |
