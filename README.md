@@ -1,15 +1,12 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| chinese | [QQ beta](https://testflight.apple.com/join/R5FNGUl3) | 2025-01-23 |
+| ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2025-01-24 |
+| ios | [CardioBot - Heart Rate Monitor](https://testflight.apple.com/join/H82FVVt6) | 2025-01-24 |
 | ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-01-23 |
 | ios | [RainViewer: Live Weather Radar](https://testflight.apple.com/join/OZ1B4sTS) | 2025-01-23 |
 | ios | [Reddit](https://testflight.apple.com/join/b9jMyOWt) | 2025-01-23 |
-| ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2025-01-23 |
-| ios | [iSH Shell](https://testflight.apple.com/join/97i7KM8O) | 2025-01-23 |
 | chinese | [酷狗音乐](https://testflight.apple.com/join/6cnKUyZ8) | 2025-01-22 |
-| ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2025-01-22 |
-| ios_game | [Stick War 3](https://testflight.apple.com/join/eUx3WxVj) | 2025-01-22 |
 | ios | [AliExpress - Shopping App beta](https://testflight.apple.com/join/TFhYeUyJ) | 2025-01-21 |
 | ios | [FRITZ!App Fon](https://testflight.apple.com/join/SGGCxyRp) | 2025-01-18 |
 | ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2025-01-18 |
@@ -34,7 +31,6 @@
 | ios | [Clipchamp Dev](https://testflight.apple.com/join/rG93mFo8) | 2024-11-30 |
 | ios | [MyFRITZ!App](https://testflight.apple.com/join/U0v1rBE5) | 2024-11-30 |
 | ios | [Proton VPN: Fast & Secure](https://testflight.apple.com/join/3yl2MSbw) | 2024-11-30 |
-| ios | [TikTok Now](https://testflight.apple.com/join/OTGrzX7C) | 2024-11-30 |
 | ios | [StarPlayrX](https://testflight.apple.com/join/Ecz0xXvf) | 2024-11-27 |
 | ios | [Spark Mail - Email by Readdle](https://testflight.apple.com/join/O2wj7i0x) | 2024-11-26 |
 | ios | [Soulver 3](https://testflight.apple.com/join/Vlb55Wtr) | 2024-11-20 |
