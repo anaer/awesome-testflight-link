@@ -1,8 +1,8 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2025-01-25 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2025-01-24 |
-| ios | [CardioBot - Heart Rate Monitor](https://testflight.apple.com/join/H82FVVt6) | 2025-01-24 |
 | ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-01-23 |
 | ios | [RainViewer: Live Weather Radar](https://testflight.apple.com/join/OZ1B4sTS) | 2025-01-23 |
 | ios | [Reddit](https://testflight.apple.com/join/b9jMyOWt) | 2025-01-23 |
@@ -54,7 +54,6 @@
 | ios | [Shadow PC beta](https://testflight.apple.com/join/PxpSW79P) | 2024-11-18 |
 | ios | [UniFi](https://testflight.apple.com/join/Pkd9a658) | 2024-11-18 |
 | ios | [Windscribe VPN](https://testflight.apple.com/join/oKib5JOq) | 2024-11-18 |
-| ios | [1Blocker](https://testflight.apple.com/join/KjmVWFnT) | 2024-11-17 |
 | ios | [PushUp Workout Daily at Home](https://testflight.apple.com/join/myFEz6DW) | 2024-11-17 |
 | ios | [Flipabit](https://testflight.apple.com/join/ruyYHU5E) | 2024-11-14 |
 | ios | [Health Export](https://testflight.apple.com/join/g5FcLFJQ) | 2024-11-12 |
