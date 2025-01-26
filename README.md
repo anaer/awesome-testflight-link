@@ -1,12 +1,10 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2025-01-25 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2025-01-24 |
 | ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-01-23 |
 | ios | [RainViewer: Live Weather Radar](https://testflight.apple.com/join/OZ1B4sTS) | 2025-01-23 |
 | ios | [Reddit](https://testflight.apple.com/join/b9jMyOWt) | 2025-01-23 |
-| chinese | [酷狗音乐](https://testflight.apple.com/join/6cnKUyZ8) | 2025-01-22 |
 | ios | [AliExpress - Shopping App beta](https://testflight.apple.com/join/TFhYeUyJ) | 2025-01-21 |
 | ios | [FRITZ!App Fon](https://testflight.apple.com/join/SGGCxyRp) | 2025-01-18 |
 | ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2025-01-18 |
