@@ -1,15 +1,14 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2025-01-28 |
+| ios | [1Blocker](https://testflight.apple.com/join/KjmVWFnT) | 2025-01-29 |
+| ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2025-01-29 |
+| ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-01-29 |
+| ios | [Reddit](https://testflight.apple.com/join/b9jMyOWt) | 2025-01-29 |
+| ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2025-01-29 |
+| macos | [Drafts](https://testflight.apple.com/join/GhPcOrwa) | 2025-01-29 |
 | ios | [Filmlog](https://testflight.apple.com/join/ywiozhph) | 2025-01-28 |
-| ios | [Instagram](https://testflight.apple.com/join/72eyUWVE) | 2025-01-28 |
-| ios | [Microsoft OneDrive](https://testflight.apple.com/join/LtgPLzrQ) | 2025-01-28 |
 | ios | [Microsoft To-Do](https://testflight.apple.com/join/JSq3UkAz) | 2025-01-28 |
-| ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2025-01-28 |
-| ios_game | [Stick War 3](https://testflight.apple.com/join/eUx3WxVj) | 2025-01-28 |
-| macos | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2025-01-28 |
-| ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2025-01-24 |
 | ios | [RainViewer: Live Weather Radar](https://testflight.apple.com/join/OZ1B4sTS) | 2025-01-23 |
 | ios | [AliExpress - Shopping App beta](https://testflight.apple.com/join/TFhYeUyJ) | 2025-01-21 |
 | ios | [FRITZ!App Fon](https://testflight.apple.com/join/SGGCxyRp) | 2025-01-18 |
