@@ -1,18 +1,16 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [1Blocker](https://testflight.apple.com/join/KjmVWFnT) | 2025-01-29 |
+| ios | [FRITZ!App WLAN](https://testflight.apple.com/join/vbfCKamq) | 2025-01-30 |
+| ios | [Reading List - Book Tracker](https://testflight.apple.com/join/kBS5mVao) | 2025-01-30 |
 | ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2025-01-29 |
 | ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-01-29 |
-| ios | [Reddit](https://testflight.apple.com/join/b9jMyOWt) | 2025-01-29 |
 | ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2025-01-29 |
 | macos | [Drafts](https://testflight.apple.com/join/GhPcOrwa) | 2025-01-29 |
 | ios | [Filmlog](https://testflight.apple.com/join/ywiozhph) | 2025-01-28 |
-| ios | [Microsoft To-Do](https://testflight.apple.com/join/JSq3UkAz) | 2025-01-28 |
 | ios | [RainViewer: Live Weather Radar](https://testflight.apple.com/join/OZ1B4sTS) | 2025-01-23 |
 | ios | [AliExpress - Shopping App beta](https://testflight.apple.com/join/TFhYeUyJ) | 2025-01-21 |
 | ios | [FRITZ!App Fon](https://testflight.apple.com/join/SGGCxyRp) | 2025-01-18 |
-| ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2025-01-18 |
 | ios | [Sangoma Meet](https://testflight.apple.com/join/BEd12vi5) | 2025-01-17 |
 | ios | [Pushover Notifications](https://testflight.apple.com/join/vkwfdWM0) | 2025-01-10 |
 | ios | [S1 Mufu](https://testflight.apple.com/join/KwboYTNt) | 2025-01-10 |
