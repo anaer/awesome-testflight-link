@@ -1,8 +1,11 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Instagram](https://testflight.apple.com/join/72eyUWVE) | 2025-01-31 |
+| ios | [MEGA](https://testflight.apple.com/join/4x1P5Tnx) | 2025-01-31 |
+| ios | [Reddit](https://testflight.apple.com/join/b9jMyOWt) | 2025-01-31 |
+| ios_game | [Stick War 3](https://testflight.apple.com/join/eUx3WxVj) | 2025-01-31 |
 | ios | [FRITZ!App WLAN](https://testflight.apple.com/join/vbfCKamq) | 2025-01-30 |
-| ios | [Reading List - Book Tracker](https://testflight.apple.com/join/kBS5mVao) | 2025-01-30 |
 | ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2025-01-29 |
 | ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-01-29 |
 | ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2025-01-29 |
@@ -36,7 +39,6 @@
 | ios | [Spark Mail - Email by Readdle](https://testflight.apple.com/join/O2wj7i0x) | 2024-11-26 |
 | ios | [Soulver 3](https://testflight.apple.com/join/Vlb55Wtr) | 2024-11-20 |
 | ios | [feeeed](https://testflight.apple.com/join/ixRrWfQL) | 2024-11-20 |
-| ios_game | [Minecraft: Education Edition beta](https://testflight.apple.com/join/sBDlEXYr) | 2024-11-20 |
 | ios | [Adobe Acrobat Reader: Edit PDF](https://testflight.apple.com/join/8XhFnQlp) | 2024-11-18 |
 | ios | [Element Messenger](https://testflight.apple.com/join/lCeTuDKM) | 2024-11-18 |
 | ios | [Element X - Secure Chat & Call](https://testflight.apple.com/join/uZbeZCOi) | 2024-11-18 |
@@ -59,8 +61,6 @@
 | ios | [Health Export](https://testflight.apple.com/join/g5FcLFJQ) | 2024-11-12 |
 | ios | [Hadge](https://testflight.apple.com/join/rFLkfNSu) | 2024-11-06 |
 | chinese | [滴答清单 TickTick](https://testflight.apple.com/join/vWQPDFQU) | 2024-11-02 |
-| ios | [Fugl](https://testflight.apple.com/join/bZIZeB4N) | 2024-11-02 |
-| ios_game | [Fugl](https://testflight.apple.com/join/bZIZeB4N) | 2024-11-02 |
 | chinese | [微信键盘 beta](https://testflight.apple.com/join/iSTXkF4K) | 2024-11-01 |
 | ios | [Tunna - Xray/V2ray Proxy Utility](https://testflight.apple.com/join/dqMoJObA) | 2024-10-28 |
 | ios | [Fedicat](https://testflight.apple.com/join/b6GatWTY) | 2024-10-27 |
@@ -139,7 +139,6 @@
 | ios | [Buffer: Social Media Manager](https://testflight.apple.com/join/DOpMcusn) | 2022-10-13 |
 | ios | [Debit & Credit](https://testflight.apple.com/join/FvufwHrV) | 2022-10-13 |
 | ios | [DropZap World](https://testflight.apple.com/join/CdEXgjst) | 2022-10-13 |
-| ios | [Firewalla](https://testflight.apple.com/join/qtUnSjJp) | 2022-10-13 |
 | ios | [IMDb: Movies & TV Shows](https://testflight.apple.com/join/Y9yo0X5t) | 2022-10-13 |
 | ios | [Nubank](https://testflight.apple.com/join/v3SGNpM5) | 2022-10-13 |
 | ios | [Skype For iPhone](https://testflight.apple.com/join/fB5IkJT7) | 2022-10-13 |
