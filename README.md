@@ -1,11 +1,10 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Instagram](https://testflight.apple.com/join/72eyUWVE) | 2025-01-31 |
+| chinese | [酷狗音乐](https://testflight.apple.com/join/6cnKUyZ8) | 2025-02-01 |
+| ios | [Firewalla](https://testflight.apple.com/join/qtUnSjJp) | 2025-02-01 |
+| ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2025-02-01 |
 | ios | [MEGA](https://testflight.apple.com/join/4x1P5Tnx) | 2025-01-31 |
-| ios | [Reddit](https://testflight.apple.com/join/b9jMyOWt) | 2025-01-31 |
-| ios_game | [Stick War 3](https://testflight.apple.com/join/eUx3WxVj) | 2025-01-31 |
-| ios | [FRITZ!App WLAN](https://testflight.apple.com/join/vbfCKamq) | 2025-01-30 |
 | ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2025-01-29 |
 | ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-01-29 |
 | ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2025-01-29 |
