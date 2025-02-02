@@ -1,10 +1,10 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| chinese | [酷狗音乐](https://testflight.apple.com/join/6cnKUyZ8) | 2025-02-01 |
-| ios | [Firewalla](https://testflight.apple.com/join/qtUnSjJp) | 2025-02-01 |
-| ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2025-02-01 |
-| ios | [MEGA](https://testflight.apple.com/join/4x1P5Tnx) | 2025-01-31 |
+| ios | [Custom Contacts 2](https://testflight.apple.com/join/uOLgKHRN) | 2025-02-02 |
+| ios | [Microsoft Office](https://testflight.apple.com/join/eHAKJBtM) | 2025-02-02 |
+| ios | [Musixmatch Lyrics Finder](https://testflight.apple.com/join/7yLzN5td) | 2025-02-02 |
+| ios | [Pythonista 3](https://testflight.apple.com/join/qDkBu2ur) | 2025-02-02 |
 | ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2025-01-29 |
 | ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-01-29 |
 | ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2025-01-29 |
