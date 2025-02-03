@@ -1,13 +1,14 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Custom Contacts 2](https://testflight.apple.com/join/uOLgKHRN) | 2025-02-02 |
-| ios | [Microsoft Office](https://testflight.apple.com/join/eHAKJBtM) | 2025-02-02 |
-| ios | [Musixmatch Lyrics Finder](https://testflight.apple.com/join/7yLzN5td) | 2025-02-02 |
-| ios | [Pythonista 3](https://testflight.apple.com/join/qDkBu2ur) | 2025-02-02 |
+| chinese | [QQ beta](https://testflight.apple.com/join/R5FNGUl3) | 2025-02-03 |
+| ios | [1Password - Password Manager beta](https://testflight.apple.com/join/fzDLkIVK) | 2025-02-03 |
+| ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2025-02-03 |
+| ios | [Microsoft OneDrive](https://testflight.apple.com/join/LtgPLzrQ) | 2025-02-03 |
+| ios | [Reddit](https://testflight.apple.com/join/b9jMyOWt) | 2025-02-03 |
+| ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2025-02-03 |
+| ios | [腾讯视频HD](https://testflight.apple.com/join/9JaSzwSN) | 2025-02-03 |
 | ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2025-01-29 |
-| ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-01-29 |
-| ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2025-01-29 |
 | macos | [Drafts](https://testflight.apple.com/join/GhPcOrwa) | 2025-01-29 |
 | ios | [Filmlog](https://testflight.apple.com/join/ywiozhph) | 2025-01-28 |
 | ios | [RainViewer: Live Weather Radar](https://testflight.apple.com/join/OZ1B4sTS) | 2025-01-23 |
@@ -59,7 +60,6 @@
 | ios | [Flipabit](https://testflight.apple.com/join/ruyYHU5E) | 2024-11-14 |
 | ios | [Health Export](https://testflight.apple.com/join/g5FcLFJQ) | 2024-11-12 |
 | ios | [Hadge](https://testflight.apple.com/join/rFLkfNSu) | 2024-11-06 |
-| chinese | [滴答清单 TickTick](https://testflight.apple.com/join/vWQPDFQU) | 2024-11-02 |
 | chinese | [微信键盘 beta](https://testflight.apple.com/join/iSTXkF4K) | 2024-11-01 |
 | ios | [Tunna - Xray/V2ray Proxy Utility](https://testflight.apple.com/join/dqMoJObA) | 2024-10-28 |
 | ios | [Fedicat](https://testflight.apple.com/join/b6GatWTY) | 2024-10-27 |
