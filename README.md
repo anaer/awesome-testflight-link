@@ -1,13 +1,8 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| chinese | [QQ beta](https://testflight.apple.com/join/R5FNGUl3) | 2025-02-03 |
-| ios | [1Password - Password Manager beta](https://testflight.apple.com/join/fzDLkIVK) | 2025-02-03 |
-| ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2025-02-03 |
-| ios | [Microsoft OneDrive](https://testflight.apple.com/join/LtgPLzrQ) | 2025-02-03 |
-| ios | [Reddit](https://testflight.apple.com/join/b9jMyOWt) | 2025-02-03 |
-| ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2025-02-03 |
-| ios | [腾讯视频HD](https://testflight.apple.com/join/9JaSzwSN) | 2025-02-03 |
+| ios | [GitHub](https://testflight.apple.com/join/NLskzwi5) | 2025-02-04 |
+| ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-02-04 |
 | ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2025-01-29 |
 | macos | [Drafts](https://testflight.apple.com/join/GhPcOrwa) | 2025-01-29 |
 | ios | [Filmlog](https://testflight.apple.com/join/ywiozhph) | 2025-01-28 |
