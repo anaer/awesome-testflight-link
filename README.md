@@ -1,12 +1,17 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| chinese | [酷狗音乐](https://testflight.apple.com/join/6cnKUyZ8) | 2025-02-05 |
+| chinese | [QQ beta](https://testflight.apple.com/join/R5FNGUl3) | 2025-02-06 |
+| ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2025-02-06 |
+| ios | [Damus](https://testflight.apple.com/join/CLwjLxWl) | 2025-02-06 |
+| ios | [Musixmatch Lyrics Finder](https://testflight.apple.com/join/7yLzN5td) | 2025-02-06 |
+| ios | [Quizlet](https://testflight.apple.com/join/mwhcPqxJ) | 2025-02-06 |
+| ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2025-02-06 |
+| ios | [iSH Shell](https://testflight.apple.com/join/97i7KM8O) | 2025-02-06 |
+| macos | [Batch Clipboard](https://testflight.apple.com/join/epg3cusH) | 2025-02-06 |
 | ios | [Firewalla](https://testflight.apple.com/join/qtUnSjJp) | 2025-02-05 |
 | ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2025-02-05 |
-| ios | [Reddit](https://testflight.apple.com/join/b9jMyOWt) | 2025-02-05 |
 | ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2025-02-05 |
-| ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-02-04 |
 | ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2025-01-29 |
 | macos | [Drafts](https://testflight.apple.com/join/GhPcOrwa) | 2025-01-29 |
 | ios | [Filmlog](https://testflight.apple.com/join/ywiozhph) | 2025-01-28 |
@@ -50,7 +55,6 @@
 | ios | [Monzo Bank - Mobile Banking](https://testflight.apple.com/join/2NZLBFyb) | 2024-11-18 |
 | ios | [Opera GX](https://testflight.apple.com/join/t3k1AVL3) | 2024-11-18 |
 | ios | [Oura](https://testflight.apple.com/join/NPhd6XTF) | 2024-11-18 |
-| ios | [PPSSPP - PSP emulator](https://testflight.apple.com/join/uNlhFG0m) | 2024-11-18 |
 | ios | [QR File Transfer](https://testflight.apple.com/join/P5UOcDLa) | 2024-11-18 |
 | ios | [Shadow PC beta](https://testflight.apple.com/join/PxpSW79P) | 2024-11-18 |
 | ios | [UniFi](https://testflight.apple.com/join/Pkd9a658) | 2024-11-18 |
