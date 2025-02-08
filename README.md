@@ -1,13 +1,14 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2025-02-08 |
+| ios | [MEGA](https://testflight.apple.com/join/4x1P5Tnx) | 2025-02-08 |
+| ios | [Microsoft Outlook](https://testflight.apple.com/join/QkU4VS1s) | 2025-02-08 |
+| ios | [Pythonista 3](https://testflight.apple.com/join/qDkBu2ur) | 2025-02-08 |
+| macos | [Code Piper](https://testflight.apple.com/join/7raK338Y) | 2025-02-08 |
 | chinese | [QQ beta](https://testflight.apple.com/join/R5FNGUl3) | 2025-02-06 |
-| ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2025-02-06 |
 | ios | [Damus](https://testflight.apple.com/join/CLwjLxWl) | 2025-02-06 |
-| ios | [Musixmatch Lyrics Finder](https://testflight.apple.com/join/7yLzN5td) | 2025-02-06 |
 | ios | [Quizlet](https://testflight.apple.com/join/mwhcPqxJ) | 2025-02-06 |
-| ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2025-02-06 |
-| ios | [iSH Shell](https://testflight.apple.com/join/97i7KM8O) | 2025-02-06 |
 | macos | [Batch Clipboard](https://testflight.apple.com/join/epg3cusH) | 2025-02-06 |
 | ios | [Firewalla](https://testflight.apple.com/join/qtUnSjJp) | 2025-02-05 |
 | ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2025-02-05 |
@@ -107,7 +108,6 @@
 | ios | [Jira Cloud by Atlassian](https://testflight.apple.com/join/2lm7vHBS) | 2024-03-09 |
 | ios | [Twitch Beta](https://testflight.apple.com/join/8vRKFAiY) | 2024-02-23 |
 | ios | [F1ATV](https://testflight.apple.com/join/NRswe1IZ) | 2024-02-20 |
-| ios | [Feedly](https://testflight.apple.com/join/03ER1aUo) | 2024-02-08 |
 | ios | [Sleep Cycle - Sleep Tracker beta](https://testflight.apple.com/join/tCeANbZi) | 2024-02-07 |
 | ios | [Sleep Cycle alarm clock](https://testflight.apple.com/join/8RcEFqFF) | 2024-02-07 |
 | ios | [The New York Times](https://testflight.apple.com/join/gfiSREAr) | 2024-02-02 |
