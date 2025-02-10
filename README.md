@@ -1,8 +1,10 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2025-02-10 |
+| ios | [Cash App](https://testflight.apple.com/join/An0RiOFF) | 2025-02-10 |
+| ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2025-02-10 |
 | ios | [Musixmatch Lyrics Finder](https://testflight.apple.com/join/7yLzN5td) | 2025-02-09 |
-| ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2025-02-08 |
 | macos | [Code Piper](https://testflight.apple.com/join/7raK338Y) | 2025-02-08 |
 | ios | [Quizlet](https://testflight.apple.com/join/mwhcPqxJ) | 2025-02-06 |
 | macos | [Batch Clipboard](https://testflight.apple.com/join/epg3cusH) | 2025-02-06 |
@@ -95,7 +97,6 @@
 | ios | [Opera Touch web browser](https://testflight.apple.com/join/ASrCFVHB) | 2024-05-28 |
 | ios | [AdGuard VPN](https://testflight.apple.com/join/fZRiD1zt) | 2024-05-24 |
 | ios | [TV Time – #1 Show Tracker](https://testflight.apple.com/join/hjKkDsc4) | 2024-05-24 |
-| ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2024-05-23 |
 | ios | [Revolut - Radically Better](https://testflight.apple.com/join/oqrinjQB) | 2024-05-16 |
 | ios | [TrackMyTour](https://testflight.apple.com/join/tv9dt6po) | 2024-04-15 |
 | ios | [Trello — Organize anything!](https://testflight.apple.com/join/cRWMcQsr) | 2024-04-02 |
@@ -138,7 +139,6 @@
 | ios | [DropZap World](https://testflight.apple.com/join/CdEXgjst) | 2022-10-13 |
 | ios | [IMDb: Movies & TV Shows](https://testflight.apple.com/join/Y9yo0X5t) | 2022-10-13 |
 | ios | [Nubank](https://testflight.apple.com/join/v3SGNpM5) | 2022-10-13 |
-| ios | [Skype For iPhone](https://testflight.apple.com/join/fB5IkJT7) | 2022-10-13 |
 | ios | [Smart Post: Schedule Media](https://testflight.apple.com/join/a0zXMXbA) | 2022-10-13 |
 | ios | [WordPress](https://testflight.apple.com/join/AkJQt8Pw) | 2022-10-13 |
 | ios | [Imgur - Meme & GIF Maker](https://testflight.apple.com/join/Qd42y5Pw) | 2022-10-11 |
