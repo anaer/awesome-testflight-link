@@ -1,13 +1,18 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2025-02-10 |
-| ios | [Cash App](https://testflight.apple.com/join/An0RiOFF) | 2025-02-10 |
-| ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2025-02-10 |
+| chinese | [知乎](https://testflight.apple.com/join/TX83Mn7J) | 2025-02-11 |
+| chinese | [酷狗音乐](https://testflight.apple.com/join/6cnKUyZ8) | 2025-02-11 |
+| ios | [Darkroom – Photo Editor](https://testflight.apple.com/join/mzR3XvHe) | 2025-02-11 |
+| ios | [Fugl](https://testflight.apple.com/join/bZIZeB4N) | 2025-02-11 |
+| ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-02-11 |
+| ios | [Instagram](https://testflight.apple.com/join/72eyUWVE) | 2025-02-11 |
+| ios | [腾讯视频HD](https://testflight.apple.com/join/9JaSzwSN) | 2025-02-11 |
+| ios_game | [Fugl](https://testflight.apple.com/join/bZIZeB4N) | 2025-02-11 |
+| ios_game | [Minecraft: Education Edition beta](https://testflight.apple.com/join/sBDlEXYr) | 2025-02-11 |
 | ios | [Musixmatch Lyrics Finder](https://testflight.apple.com/join/7yLzN5td) | 2025-02-09 |
 | macos | [Code Piper](https://testflight.apple.com/join/7raK338Y) | 2025-02-08 |
 | ios | [Quizlet](https://testflight.apple.com/join/mwhcPqxJ) | 2025-02-06 |
-| macos | [Batch Clipboard](https://testflight.apple.com/join/epg3cusH) | 2025-02-06 |
 | ios | [Firewalla](https://testflight.apple.com/join/qtUnSjJp) | 2025-02-05 |
 | ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2025-02-05 |
 | ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2025-02-05 |
@@ -59,7 +64,6 @@
 | ios | [UniFi](https://testflight.apple.com/join/Pkd9a658) | 2024-11-18 |
 | ios | [Windscribe VPN](https://testflight.apple.com/join/oKib5JOq) | 2024-11-18 |
 | ios | [PushUp Workout Daily at Home](https://testflight.apple.com/join/myFEz6DW) | 2024-11-17 |
-| ios | [Flipabit](https://testflight.apple.com/join/ruyYHU5E) | 2024-11-14 |
 | ios | [Health Export](https://testflight.apple.com/join/g5FcLFJQ) | 2024-11-12 |
 | ios | [Hadge](https://testflight.apple.com/join/rFLkfNSu) | 2024-11-06 |
 | chinese | [微信键盘 beta](https://testflight.apple.com/join/iSTXkF4K) | 2024-11-01 |
@@ -89,7 +93,6 @@
 | ios | [Cheatsheet](https://testflight.apple.com/join/E7AnyPlA) | 2024-06-26 |
 | ios | [SM.MS](https://testflight.apple.com/join/bQz911w3) | 2024-06-19 |
 | ios | [Parcel - Delivery Tracking](https://testflight.apple.com/join/fMeg6C4A) | 2024-06-14 |
-| ios | [Erasee: Background Remover](https://testflight.apple.com/join/t6xnU9H3) | 2024-06-13 |
 | ios | [SHARE NOW (car2go & DriveNow)](https://testflight.apple.com/join/1SsBDNCj) | 2024-06-04 |
 | ios | [Microsoft PowerPoint](https://testflight.apple.com/join/a9Ef0N3g) | 2024-06-01 |
 | ios | [Ruuvi Station](https://testflight.apple.com/join/loHFrEV1) | 2024-05-31 |
