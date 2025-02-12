@@ -1,16 +1,14 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Microsoft Office](https://testflight.apple.com/join/eHAKJBtM) | 2025-02-12 |
+| ios | [Reddit](https://testflight.apple.com/join/b9jMyOWt) | 2025-02-12 |
+| ios_game | [Stick War 3](https://testflight.apple.com/join/eUx3WxVj) | 2025-02-12 |
 | chinese | [知乎](https://testflight.apple.com/join/TX83Mn7J) | 2025-02-11 |
 | chinese | [酷狗音乐](https://testflight.apple.com/join/6cnKUyZ8) | 2025-02-11 |
-| ios | [Darkroom – Photo Editor](https://testflight.apple.com/join/mzR3XvHe) | 2025-02-11 |
 | ios | [Fugl](https://testflight.apple.com/join/bZIZeB4N) | 2025-02-11 |
 | ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-02-11 |
-| ios | [Instagram](https://testflight.apple.com/join/72eyUWVE) | 2025-02-11 |
-| ios | [腾讯视频HD](https://testflight.apple.com/join/9JaSzwSN) | 2025-02-11 |
 | ios_game | [Fugl](https://testflight.apple.com/join/bZIZeB4N) | 2025-02-11 |
-| ios_game | [Minecraft: Education Edition beta](https://testflight.apple.com/join/sBDlEXYr) | 2025-02-11 |
-| ios | [Musixmatch Lyrics Finder](https://testflight.apple.com/join/7yLzN5td) | 2025-02-09 |
 | macos | [Code Piper](https://testflight.apple.com/join/7raK338Y) | 2025-02-08 |
 | ios | [Quizlet](https://testflight.apple.com/join/mwhcPqxJ) | 2025-02-06 |
 | ios | [Firewalla](https://testflight.apple.com/join/qtUnSjJp) | 2025-02-05 |
