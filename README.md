@@ -1,13 +1,12 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Microsoft Office](https://testflight.apple.com/join/eHAKJBtM) | 2025-02-12 |
+| ios | [Microsoft Outlook](https://testflight.apple.com/join/QkU4VS1s) | 2025-02-13 |
+| ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2025-02-13 |
 | ios | [Reddit](https://testflight.apple.com/join/b9jMyOWt) | 2025-02-12 |
-| ios_game | [Stick War 3](https://testflight.apple.com/join/eUx3WxVj) | 2025-02-12 |
 | chinese | [知乎](https://testflight.apple.com/join/TX83Mn7J) | 2025-02-11 |
 | chinese | [酷狗音乐](https://testflight.apple.com/join/6cnKUyZ8) | 2025-02-11 |
 | ios | [Fugl](https://testflight.apple.com/join/bZIZeB4N) | 2025-02-11 |
-| ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-02-11 |
 | ios_game | [Fugl](https://testflight.apple.com/join/bZIZeB4N) | 2025-02-11 |
 | macos | [Code Piper](https://testflight.apple.com/join/7raK338Y) | 2025-02-08 |
 | ios | [Quizlet](https://testflight.apple.com/join/mwhcPqxJ) | 2025-02-06 |
