@@ -1,17 +1,17 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2025-02-14 |
-| ios | [Microsoft Loop beta](https://testflight.apple.com/join/KNyadcIZ) | 2025-02-14 |
-| macos | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2025-02-14 |
+| chinese | [酷狗音乐](https://testflight.apple.com/join/6cnKUyZ8) | 2025-02-15 |
+| ios | [Reddit](https://testflight.apple.com/join/b9jMyOWt) | 2025-02-15 |
+| ios | [Spotify - Music and Podcasts](https://testflight.apple.com/join/1SyedSId) | 2025-02-15 |
+| ios | [Spotify Music](https://testflight.apple.com/join/7lt2tesn) | 2025-02-15 |
+| ios | [infltr - Infinite Filters](https://testflight.apple.com/join/In6e3GcJ) | 2025-02-15 |
 | ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2025-02-13 |
-| chinese | [知乎](https://testflight.apple.com/join/TX83Mn7J) | 2025-02-11 |
 | ios | [Fugl](https://testflight.apple.com/join/bZIZeB4N) | 2025-02-11 |
 | ios_game | [Fugl](https://testflight.apple.com/join/bZIZeB4N) | 2025-02-11 |
 | macos | [Code Piper](https://testflight.apple.com/join/7raK338Y) | 2025-02-08 |
 | ios | [Quizlet](https://testflight.apple.com/join/mwhcPqxJ) | 2025-02-06 |
 | ios | [Firewalla](https://testflight.apple.com/join/qtUnSjJp) | 2025-02-05 |
-| ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2025-02-05 |
 | ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2025-02-05 |
 | ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2025-01-29 |
 | macos | [Drafts](https://testflight.apple.com/join/GhPcOrwa) | 2025-01-29 |
