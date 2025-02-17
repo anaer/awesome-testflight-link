@@ -1,16 +1,20 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| chinese | [酷狗音乐](https://testflight.apple.com/join/6cnKUyZ8) | 2025-02-17 |
+| ios | [1Blocker](https://testflight.apple.com/join/KjmVWFnT) | 2025-02-17 |
+| ios | [GitHub](https://testflight.apple.com/join/NLskzwi5) | 2025-02-17 |
+| ios | [Instagram](https://testflight.apple.com/join/72eyUWVE) | 2025-02-17 |
+| ios | [Microsoft OneDrive](https://testflight.apple.com/join/LtgPLzrQ) | 2025-02-17 |
+| ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2025-02-17 |
 | ios | [Tuttii Beta](https://testflight.apple.com/join/2dTbntXZ) | 2025-02-16 |
 | ios | [Spotify - Music and Podcasts](https://testflight.apple.com/join/1SyedSId) | 2025-02-15 |
-| ios | [Spotify Music](https://testflight.apple.com/join/7lt2tesn) | 2025-02-15 |
 | ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2025-02-13 |
 | ios | [Fugl](https://testflight.apple.com/join/bZIZeB4N) | 2025-02-11 |
 | ios_game | [Fugl](https://testflight.apple.com/join/bZIZeB4N) | 2025-02-11 |
 | macos | [Code Piper](https://testflight.apple.com/join/7raK338Y) | 2025-02-08 |
 | ios | [Quizlet](https://testflight.apple.com/join/mwhcPqxJ) | 2025-02-06 |
 | ios | [Firewalla](https://testflight.apple.com/join/qtUnSjJp) | 2025-02-05 |
-| ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2025-02-05 |
 | ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2025-01-29 |
 | macos | [Drafts](https://testflight.apple.com/join/GhPcOrwa) | 2025-01-29 |
 | ios | [Filmlog](https://testflight.apple.com/join/ywiozhph) | 2025-01-28 |
