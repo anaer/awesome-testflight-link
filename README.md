@@ -1,12 +1,12 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2025-02-18 |
+| ios | [FRITZ!App WLAN](https://testflight.apple.com/join/vbfCKamq) | 2025-02-18 |
+| ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-02-18 |
+| ios | [Musixmatch Lyrics Finder](https://testflight.apple.com/join/7yLzN5td) | 2025-02-18 |
+| ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2025-02-18 |
 | chinese | [酷狗音乐](https://testflight.apple.com/join/6cnKUyZ8) | 2025-02-17 |
-| ios | [1Blocker](https://testflight.apple.com/join/KjmVWFnT) | 2025-02-17 |
-| ios | [GitHub](https://testflight.apple.com/join/NLskzwi5) | 2025-02-17 |
-| ios | [Instagram](https://testflight.apple.com/join/72eyUWVE) | 2025-02-17 |
-| ios | [Microsoft OneDrive](https://testflight.apple.com/join/LtgPLzrQ) | 2025-02-17 |
-| ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2025-02-17 |
 | ios | [Tuttii Beta](https://testflight.apple.com/join/2dTbntXZ) | 2025-02-16 |
 | ios | [Spotify - Music and Podcasts](https://testflight.apple.com/join/1SyedSId) | 2025-02-15 |
 | ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2025-02-13 |
@@ -130,7 +130,6 @@
 | ios | [Ride Wait Times](https://testflight.apple.com/join/yQNmMRwB) | 2023-02-11 |
 | macos | [Ride Wait Times](https://testflight.apple.com/join/yQNmMRwB) | 2023-02-11 |
 | ios | [Day One Journal](https://testflight.apple.com/join/NXLBigzY) | 2023-02-06 |
-| ios | [AmazFaces](https://testflight.apple.com/join/4hBEKHHg) | 2023-01-20 |
 | ios_game | [Cell to Singularity](https://testflight.apple.com/join/RD9jGH9S) | 2023-01-15 |
 | ios | [Qobuz](https://testflight.apple.com/join/GPJZwnh9) | 2023-01-14 |
 | ios | [AnyList](https://testflight.apple.com/join/xwvLPc6o) | 2022-12-15 |
