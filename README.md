@@ -1,10 +1,14 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2025-02-18 |
-| ios | [FRITZ!App WLAN](https://testflight.apple.com/join/vbfCKamq) | 2025-02-18 |
+| ios | [Darkroom – Photo Editor](https://testflight.apple.com/join/mzR3XvHe) | 2025-02-19 |
+| ios | [GitHub](https://testflight.apple.com/join/NLskzwi5) | 2025-02-19 |
+| ios | [Me@Walmart](https://testflight.apple.com/join/bqo4smK7) | 2025-02-19 |
+| ios | [Overcast beta](https://testflight.apple.com/join/37azzGPG) | 2025-02-19 |
+| ios | [Phone Call Notes: VoxNote](https://testflight.apple.com/join/vjNaxsFb) | 2025-02-19 |
+| ios | [Reddit](https://testflight.apple.com/join/b9jMyOWt) | 2025-02-19 |
+| macos | [Caffeine Utility](https://testflight.apple.com/join/WHIbsose) | 2025-02-19 |
 | ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-02-18 |
-| ios | [Musixmatch Lyrics Finder](https://testflight.apple.com/join/7yLzN5td) | 2025-02-18 |
 | ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2025-02-18 |
 | chinese | [酷狗音乐](https://testflight.apple.com/join/6cnKUyZ8) | 2025-02-17 |
 | ios | [Tuttii Beta](https://testflight.apple.com/join/2dTbntXZ) | 2025-02-16 |
