@@ -1,10 +1,10 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Darkroom – Photo Editor](https://testflight.apple.com/join/mzR3XvHe) | 2025-02-19 |
-| ios | [GitHub](https://testflight.apple.com/join/NLskzwi5) | 2025-02-19 |
+| chinese | [QQ beta](https://testflight.apple.com/join/R5FNGUl3) | 2025-02-20 |
+| ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2025-02-20 |
+| ios | [腾讯视频HD](https://testflight.apple.com/join/9JaSzwSN) | 2025-02-20 |
 | ios | [Me@Walmart](https://testflight.apple.com/join/bqo4smK7) | 2025-02-19 |
-| ios | [Overcast beta](https://testflight.apple.com/join/37azzGPG) | 2025-02-19 |
 | ios | [Phone Call Notes: VoxNote](https://testflight.apple.com/join/vjNaxsFb) | 2025-02-19 |
 | ios | [Reddit](https://testflight.apple.com/join/b9jMyOWt) | 2025-02-19 |
 | macos | [Caffeine Utility](https://testflight.apple.com/join/WHIbsose) | 2025-02-19 |
