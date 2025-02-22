@@ -1,17 +1,20 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| chinese | [哔哩哔哩](https://testflight.apple.com/join/K4pM1kHu) | 2025-02-22 |
+| chinese | [微信读书](https://testflight.apple.com/join/5MWjLpYl) | 2025-02-22 |
+| ios | [1Password - Password Manager beta](https://testflight.apple.com/join/fzDLkIVK) | 2025-02-22 |
+| ios | [Darkroom – Photo Editor](https://testflight.apple.com/join/mzR3XvHe) | 2025-02-22 |
+| ios | [Microsoft SwiftKey Keyboard](https://testflight.apple.com/join/yhIhAvjp) | 2025-02-22 |
+| ios | [Overcast beta](https://testflight.apple.com/join/37azzGPG) | 2025-02-22 |
+| ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2025-02-22 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2025-02-21 |
-| ios | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2025-02-21 |
 | ios | [Pinterest beta](https://testflight.apple.com/join/ffIBkq35) | 2025-02-21 |
-| ios_game | [Stick War 3](https://testflight.apple.com/join/eUx3WxVj) | 2025-02-21 |
 | macos | [Batch Clipboard](https://testflight.apple.com/join/epg3cusH) | 2025-02-21 |
-| macos | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2025-02-21 |
 | ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2025-02-20 |
 | ios | [Me@Walmart](https://testflight.apple.com/join/bqo4smK7) | 2025-02-19 |
 | ios | [Phone Call Notes: VoxNote](https://testflight.apple.com/join/vjNaxsFb) | 2025-02-19 |
 | ios | [Reddit](https://testflight.apple.com/join/b9jMyOWt) | 2025-02-19 |
-| macos | [Caffeine Utility](https://testflight.apple.com/join/WHIbsose) | 2025-02-19 |
 | ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-02-18 |
 | ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2025-02-18 |
 | chinese | [酷狗音乐](https://testflight.apple.com/join/6cnKUyZ8) | 2025-02-17 |
