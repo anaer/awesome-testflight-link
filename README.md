@@ -1,12 +1,8 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| chinese | [哔哩哔哩](https://testflight.apple.com/join/K4pM1kHu) | 2025-02-22 |
-| chinese | [微信读书](https://testflight.apple.com/join/5MWjLpYl) | 2025-02-22 |
-| ios | [1Password - Password Manager beta](https://testflight.apple.com/join/fzDLkIVK) | 2025-02-22 |
-| ios | [Darkroom – Photo Editor](https://testflight.apple.com/join/mzR3XvHe) | 2025-02-22 |
-| ios | [Microsoft SwiftKey Keyboard](https://testflight.apple.com/join/yhIhAvjp) | 2025-02-22 |
-| ios | [Overcast beta](https://testflight.apple.com/join/37azzGPG) | 2025-02-22 |
+| ios | [AmazFaces](https://testflight.apple.com/join/4hBEKHHg) | 2025-02-23 |
+| macos | [Caffeine Utility](https://testflight.apple.com/join/WHIbsose) | 2025-02-23 |
 | ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2025-02-22 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2025-02-21 |
 | ios | [Pinterest beta](https://testflight.apple.com/join/ffIBkq35) | 2025-02-21 |
@@ -19,11 +15,9 @@
 | ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2025-02-18 |
 | chinese | [酷狗音乐](https://testflight.apple.com/join/6cnKUyZ8) | 2025-02-17 |
 | ios | [Tuttii Beta](https://testflight.apple.com/join/2dTbntXZ) | 2025-02-16 |
-| ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2025-02-13 |
 | ios | [Fugl](https://testflight.apple.com/join/bZIZeB4N) | 2025-02-11 |
 | ios_game | [Fugl](https://testflight.apple.com/join/bZIZeB4N) | 2025-02-11 |
 | macos | [Code Piper](https://testflight.apple.com/join/7raK338Y) | 2025-02-08 |
-| ios | [Quizlet](https://testflight.apple.com/join/mwhcPqxJ) | 2025-02-06 |
 | ios | [Firewalla](https://testflight.apple.com/join/qtUnSjJp) | 2025-02-05 |
 | ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2025-01-29 |
 | macos | [Drafts](https://testflight.apple.com/join/GhPcOrwa) | 2025-01-29 |
@@ -94,7 +88,6 @@
 | ios | [FRITZ!App Smart Home](https://testflight.apple.com/join/kzVJhIg1) | 2024-08-21 |
 | ios | [PDF Viewer Pro by PSPDFKit](https://testflight.apple.com/join/6IMUtZ8n) | 2024-08-15 |
 | ios | [NOS](https://testflight.apple.com/join/i4g2QrrG) | 2024-07-18 |
-| ios | [网易 Filmly](https://testflight.apple.com/join/sIj5iOoj) | 2024-07-15 |
 | ios | [Signal - Private Messenger](https://testflight.apple.com/join/8FHtd1Jq) | 2024-07-02 |
 | ios | [SweeLOL](https://testflight.apple.com/join/FT9n1ncG) | 2024-07-02 |
 | ios | [Cheatsheet](https://testflight.apple.com/join/E7AnyPlA) | 2024-06-26 |
