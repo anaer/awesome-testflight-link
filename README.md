@@ -1,18 +1,21 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [ColorSlurp Beta](https://testflight.apple.com/join/xxEw2j1X) | 2025-02-25 |
+| ios | [GitHub](https://testflight.apple.com/join/NLskzwi5) | 2025-02-25 |
+| ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2025-02-25 |
+| ios | [Quizlet](https://testflight.apple.com/join/mwhcPqxJ) | 2025-02-25 |
+| ios | [Spotify - Music and Podcasts](https://testflight.apple.com/join/1SyedSId) | 2025-02-25 |
+| ios | [Spotify Music](https://testflight.apple.com/join/7lt2tesn) | 2025-02-25 |
+| ios | [网易 Filmly](https://testflight.apple.com/join/sIj5iOoj) | 2025-02-25 |
 | ios | [AmazFaces](https://testflight.apple.com/join/4hBEKHHg) | 2025-02-23 |
 | macos | [Caffeine Utility](https://testflight.apple.com/join/WHIbsose) | 2025-02-23 |
-| ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2025-02-22 |
-| ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2025-02-21 |
 | ios | [Pinterest beta](https://testflight.apple.com/join/ffIBkq35) | 2025-02-21 |
 | macos | [Batch Clipboard](https://testflight.apple.com/join/epg3cusH) | 2025-02-21 |
 | ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2025-02-20 |
 | ios | [Me@Walmart](https://testflight.apple.com/join/bqo4smK7) | 2025-02-19 |
 | ios | [Phone Call Notes: VoxNote](https://testflight.apple.com/join/vjNaxsFb) | 2025-02-19 |
 | ios | [Reddit](https://testflight.apple.com/join/b9jMyOWt) | 2025-02-19 |
-| ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-02-18 |
-| ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2025-02-18 |
 | chinese | [酷狗音乐](https://testflight.apple.com/join/6cnKUyZ8) | 2025-02-17 |
 | ios | [Tuttii Beta](https://testflight.apple.com/join/2dTbntXZ) | 2025-02-16 |
 | ios | [Fugl](https://testflight.apple.com/join/bZIZeB4N) | 2025-02-11 |
@@ -45,7 +48,6 @@
 | ios | [Clipchamp Dev](https://testflight.apple.com/join/rG93mFo8) | 2024-11-30 |
 | ios | [MyFRITZ!App](https://testflight.apple.com/join/U0v1rBE5) | 2024-11-30 |
 | ios | [Proton VPN: Fast & Secure](https://testflight.apple.com/join/3yl2MSbw) | 2024-11-30 |
-| ios | [StarPlayrX](https://testflight.apple.com/join/Ecz0xXvf) | 2024-11-27 |
 | ios | [Spark Mail - Email by Readdle](https://testflight.apple.com/join/O2wj7i0x) | 2024-11-26 |
 | ios | [Soulver 3](https://testflight.apple.com/join/Vlb55Wtr) | 2024-11-20 |
 | ios | [feeeed](https://testflight.apple.com/join/ixRrWfQL) | 2024-11-20 |
@@ -82,7 +84,6 @@
 | ios | [Microsoft Bing Search](https://testflight.apple.com/join/YAKT5ew9) | 2024-10-13 |
 | ios | [Deezer](https://testflight.apple.com/join/e7mCOEeg) | 2024-09-27 |
 | ios | [NS Travel Planner](https://testflight.apple.com/join/ldBwapIg) | 2024-09-26 |
-| ios | [Jira Server by Atlassian](https://testflight.apple.com/join/6JbjYbSY) | 2024-09-21 |
 | ios | [Airmail - Your Mail With You](https://testflight.apple.com/join/wRiLlWPE) | 2024-08-31 |
 | ios | [IFTTT](https://testflight.apple.com/join/Lgmzxy7Y) | 2024-08-31 |
 | ios | [FRITZ!App Smart Home](https://testflight.apple.com/join/kzVJhIg1) | 2024-08-21 |
@@ -118,7 +119,6 @@
 | ios | [Property Finder](https://testflight.apple.com/join/ctQoX4vC) | 2023-10-14 |
 | ios | [Chanyan](https://testflight.apple.com/join/ky5bRwMY) | 2023-09-23 |
 | ios | [Wikipedia](https://testflight.apple.com/join/Z0AU0KXC) | 2023-09-16 |
-| ios | [RocketChat](https://testflight.apple.com/join/3gcYeoMr) | 2023-08-20 |
 | ios | [Obsidian - Connected Notes beta](https://testflight.apple.com/join/f3moqRS1) | 2023-08-07 |
 | ios | [Kodi Remote beta](https://testflight.apple.com/join/VQkpfqDN) | 2023-07-30 |
 | ios | [Readwise Reader beta](https://testflight.apple.com/join/NSeQo22d) | 2023-07-30 |
