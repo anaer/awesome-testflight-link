@@ -1,15 +1,13 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Instagram](https://testflight.apple.com/join/72eyUWVE) | 2025-02-26 |
+| ios | [ProtonMail - Encrypted Email](https://testflight.apple.com/join/8SxXknzD) | 2025-02-26 |
+| ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2025-02-26 |
+| ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2025-02-26 |
 | ios | [ColorSlurp Beta](https://testflight.apple.com/join/xxEw2j1X) | 2025-02-25 |
 | ios | [GitHub](https://testflight.apple.com/join/NLskzwi5) | 2025-02-25 |
-| ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2025-02-25 |
-| ios | [Quizlet](https://testflight.apple.com/join/mwhcPqxJ) | 2025-02-25 |
-| ios | [Spotify - Music and Podcasts](https://testflight.apple.com/join/1SyedSId) | 2025-02-25 |
-| ios | [Spotify Music](https://testflight.apple.com/join/7lt2tesn) | 2025-02-25 |
-| ios | [网易 Filmly](https://testflight.apple.com/join/sIj5iOoj) | 2025-02-25 |
 | ios | [AmazFaces](https://testflight.apple.com/join/4hBEKHHg) | 2025-02-23 |
-| macos | [Caffeine Utility](https://testflight.apple.com/join/WHIbsose) | 2025-02-23 |
 | ios | [Pinterest beta](https://testflight.apple.com/join/ffIBkq35) | 2025-02-21 |
 | macos | [Batch Clipboard](https://testflight.apple.com/join/epg3cusH) | 2025-02-21 |
 | ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2025-02-20 |
@@ -26,7 +24,6 @@
 | macos | [Drafts](https://testflight.apple.com/join/GhPcOrwa) | 2025-01-29 |
 | ios | [Filmlog](https://testflight.apple.com/join/ywiozhph) | 2025-01-28 |
 | ios | [RainViewer: Live Weather Radar](https://testflight.apple.com/join/OZ1B4sTS) | 2025-01-23 |
-| ios | [AliExpress - Shopping App beta](https://testflight.apple.com/join/TFhYeUyJ) | 2025-01-21 |
 | ios | [FRITZ!App Fon](https://testflight.apple.com/join/SGGCxyRp) | 2025-01-18 |
 | ios | [Sangoma Meet](https://testflight.apple.com/join/BEd12vi5) | 2025-01-17 |
 | ios | [Pushover Notifications](https://testflight.apple.com/join/vkwfdWM0) | 2025-01-10 |
