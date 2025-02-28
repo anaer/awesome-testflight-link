@@ -1,11 +1,14 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Instagram](https://testflight.apple.com/join/72eyUWVE) | 2025-02-26 |
+| ios | [CardioBot - Heart Rate Monitor](https://testflight.apple.com/join/H82FVVt6) | 2025-02-28 |
+| ios | [Feedly](https://testflight.apple.com/join/03ER1aUo) | 2025-02-28 |
+| ios | [Pythonista 3](https://testflight.apple.com/join/qDkBu2ur) | 2025-02-28 |
+| ios | [Quizlet](https://testflight.apple.com/join/mwhcPqxJ) | 2025-02-28 |
+| ios | [Reading List - Book Tracker](https://testflight.apple.com/join/kBS5mVao) | 2025-02-28 |
+| ios | [RocketChat](https://testflight.apple.com/join/3gcYeoMr) | 2025-02-28 |
+| ios | [Spotify - Music and Podcasts](https://testflight.apple.com/join/1SyedSId) | 2025-02-28 |
 | ios | [ProtonMail - Encrypted Email](https://testflight.apple.com/join/8SxXknzD) | 2025-02-26 |
-| ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2025-02-26 |
-| ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2025-02-26 |
-| ios | [ColorSlurp Beta](https://testflight.apple.com/join/xxEw2j1X) | 2025-02-25 |
 | ios | [GitHub](https://testflight.apple.com/join/NLskzwi5) | 2025-02-25 |
 | ios | [AmazFaces](https://testflight.apple.com/join/4hBEKHHg) | 2025-02-23 |
 | ios | [Pinterest beta](https://testflight.apple.com/join/ffIBkq35) | 2025-02-21 |
