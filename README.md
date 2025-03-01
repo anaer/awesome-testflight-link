@@ -1,13 +1,17 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [CardioBot - Heart Rate Monitor](https://testflight.apple.com/join/H82FVVt6) | 2025-02-28 |
+| ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2025-03-01 |
+| ios | [ColorSlurp Beta](https://testflight.apple.com/join/xxEw2j1X) | 2025-03-01 |
+| ios | [Meditation Timer Zenzitizer](https://testflight.apple.com/join/QvKyRJ8x) | 2025-03-01 |
+| ios | [Musixmatch Lyrics Finder](https://testflight.apple.com/join/7yLzN5td) | 2025-03-01 |
+| ios | [Overcast beta](https://testflight.apple.com/join/37azzGPG) | 2025-03-01 |
+| ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2025-03-01 |
+| ios | [网易 Filmly](https://testflight.apple.com/join/sIj5iOoj) | 2025-03-01 |
+| ios_game | [MLBB Beta](https://testflight.apple.com/join/yYjKTTlT) | 2025-03-01 |
 | ios | [Feedly](https://testflight.apple.com/join/03ER1aUo) | 2025-02-28 |
-| ios | [Pythonista 3](https://testflight.apple.com/join/qDkBu2ur) | 2025-02-28 |
 | ios | [Quizlet](https://testflight.apple.com/join/mwhcPqxJ) | 2025-02-28 |
-| ios | [Reading List - Book Tracker](https://testflight.apple.com/join/kBS5mVao) | 2025-02-28 |
 | ios | [RocketChat](https://testflight.apple.com/join/3gcYeoMr) | 2025-02-28 |
-| ios | [Spotify - Music and Podcasts](https://testflight.apple.com/join/1SyedSId) | 2025-02-28 |
 | ios | [ProtonMail - Encrypted Email](https://testflight.apple.com/join/8SxXknzD) | 2025-02-26 |
 | ios | [GitHub](https://testflight.apple.com/join/NLskzwi5) | 2025-02-25 |
 | ios | [AmazFaces](https://testflight.apple.com/join/4hBEKHHg) | 2025-02-23 |
