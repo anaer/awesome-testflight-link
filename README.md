@@ -1,12 +1,10 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2025-03-02 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2025-03-01 |
 | ios | [ColorSlurp Beta](https://testflight.apple.com/join/xxEw2j1X) | 2025-03-01 |
 | ios | [Meditation Timer Zenzitizer](https://testflight.apple.com/join/QvKyRJ8x) | 2025-03-01 |
-| ios | [Musixmatch Lyrics Finder](https://testflight.apple.com/join/7yLzN5td) | 2025-03-01 |
-| ios | [Overcast beta](https://testflight.apple.com/join/37azzGPG) | 2025-03-01 |
-| ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2025-03-01 |
 | ios | [网易 Filmly](https://testflight.apple.com/join/sIj5iOoj) | 2025-03-01 |
 | ios_game | [MLBB Beta](https://testflight.apple.com/join/yYjKTTlT) | 2025-03-01 |
 | ios | [Feedly](https://testflight.apple.com/join/03ER1aUo) | 2025-02-28 |
