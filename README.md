@@ -1,11 +1,9 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Just Timers](https://testflight.apple.com/join/pyzrz0oT) | 2025-03-03 |
-| ios | [Microsoft Loop beta](https://testflight.apple.com/join/KNyadcIZ) | 2025-03-03 |
-| ios | [Skype For iPhone](https://testflight.apple.com/join/fB5IkJT7) | 2025-03-03 |
+| ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2025-03-04 |
+| ios | [Task Flow: To-Do List & Tasks](https://testflight.apple.com/join/JyqxBPFf) | 2025-03-04 |
 | ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2025-03-03 |
-| ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2025-03-03 |
 | ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2025-03-02 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2025-03-01 |
 | ios | [ColorSlurp Beta](https://testflight.apple.com/join/xxEw2j1X) | 2025-03-01 |
