@@ -3,7 +3,6 @@
 | --- | --- | --- |
 | ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2025-03-04 |
 | ios | [Task Flow: To-Do List & Tasks](https://testflight.apple.com/join/JyqxBPFf) | 2025-03-04 |
-| ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2025-03-03 |
 | ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2025-03-02 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2025-03-01 |
 | ios | [ColorSlurp Beta](https://testflight.apple.com/join/xxEw2j1X) | 2025-03-01 |
@@ -48,7 +47,6 @@
 | ios | [Monosnap - screenshot editor](https://testflight.apple.com/join/qQzBVHZs) | 2024-12-16 |
 | ios | [World Clock Time Widget](https://testflight.apple.com/join/8wa9T053) | 2024-12-15 |
 | ios | [Finance Bay](https://testflight.apple.com/join/y4etT8Ht) | 2024-12-14 |
-| ios | [Grindr - Gay Dating & Chat](https://testflight.apple.com/join/eO265vw7) | 2024-12-14 |
 | ios | [BeReal](https://testflight.apple.com/join/IM4jE5XY) | 2024-12-03 |
 | ios | [Clipchamp Dev](https://testflight.apple.com/join/rG93mFo8) | 2024-11-30 |
 | ios | [MyFRITZ!App](https://testflight.apple.com/join/U0v1rBE5) | 2024-11-30 |
@@ -98,7 +96,6 @@
 | ios | [SweeLOL](https://testflight.apple.com/join/FT9n1ncG) | 2024-07-02 |
 | ios | [Cheatsheet](https://testflight.apple.com/join/E7AnyPlA) | 2024-06-26 |
 | ios | [SM.MS](https://testflight.apple.com/join/bQz911w3) | 2024-06-19 |
-| ios | [Parcel - Delivery Tracking](https://testflight.apple.com/join/fMeg6C4A) | 2024-06-14 |
 | ios | [SHARE NOW (car2go & DriveNow)](https://testflight.apple.com/join/1SsBDNCj) | 2024-06-04 |
 | ios | [Microsoft PowerPoint](https://testflight.apple.com/join/a9Ef0N3g) | 2024-06-01 |
 | ios | [Ruuvi Station](https://testflight.apple.com/join/loHFrEV1) | 2024-05-31 |
