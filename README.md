@@ -1,9 +1,10 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2025-03-04 |
+| chinese | [QQ beta](https://testflight.apple.com/join/R5FNGUl3) | 2025-03-06 |
+| ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-03-06 |
+| ios | [Parcel - Delivery Tracking](https://testflight.apple.com/join/fMeg6C4A) | 2025-03-06 |
 | ios | [Task Flow: To-Do List & Tasks](https://testflight.apple.com/join/JyqxBPFf) | 2025-03-04 |
-| ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2025-03-02 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2025-03-01 |
 | ios | [ColorSlurp Beta](https://testflight.apple.com/join/xxEw2j1X) | 2025-03-01 |
 | ios | [Meditation Timer Zenzitizer](https://testflight.apple.com/join/QvKyRJ8x) | 2025-03-01 |
