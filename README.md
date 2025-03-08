@@ -1,8 +1,9 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| chinese | [QQ beta](https://testflight.apple.com/join/R5FNGUl3) | 2025-03-06 |
-| ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-03-06 |
+| ios | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2025-03-08 |
+| ios | [Lock Launcher beta](https://testflight.apple.com/join/clHxFnLa) | 2025-03-08 |
+| macos | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2025-03-08 |
 | ios | [Parcel - Delivery Tracking](https://testflight.apple.com/join/fMeg6C4A) | 2025-03-06 |
 | ios | [Task Flow: To-Do List & Tasks](https://testflight.apple.com/join/JyqxBPFf) | 2025-03-04 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2025-03-01 |
