@@ -1,10 +1,7 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2025-03-08 |
-| ios | [Lock Launcher beta](https://testflight.apple.com/join/clHxFnLa) | 2025-03-08 |
-| macos | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2025-03-08 |
-| ios | [Parcel - Delivery Tracking](https://testflight.apple.com/join/fMeg6C4A) | 2025-03-06 |
+| ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2025-03-09 |
 | ios | [Task Flow: To-Do List & Tasks](https://testflight.apple.com/join/JyqxBPFf) | 2025-03-04 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2025-03-01 |
 | ios | [ColorSlurp Beta](https://testflight.apple.com/join/xxEw2j1X) | 2025-03-01 |
