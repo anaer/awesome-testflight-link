@@ -1,7 +1,10 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2025-03-09 |
+| ios | [1Password - Password Manager beta](https://testflight.apple.com/join/fzDLkIVK) | 2025-03-10 |
+| ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2025-03-10 |
+| ios | [YACReader](https://testflight.apple.com/join/5zhB7sRP) | 2025-03-10 |
+| ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2025-03-10 |
 | ios | [Task Flow: To-Do List & Tasks](https://testflight.apple.com/join/JyqxBPFf) | 2025-03-04 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2025-03-01 |
 | ios | [ColorSlurp Beta](https://testflight.apple.com/join/xxEw2j1X) | 2025-03-01 |
