@@ -1,9 +1,9 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [1Password - Password Manager beta](https://testflight.apple.com/join/fzDLkIVK) | 2025-03-10 |
-| ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2025-03-10 |
-| ios | [YACReader](https://testflight.apple.com/join/5zhB7sRP) | 2025-03-10 |
+| chinese | [微信读书](https://testflight.apple.com/join/5MWjLpYl) | 2025-03-11 |
+| ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-03-11 |
+| ios_game | [Minecraft Preview](https://testflight.apple.com/join/qC1ZnReJ) | 2025-03-11 |
 | ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2025-03-10 |
 | ios | [Task Flow: To-Do List & Tasks](https://testflight.apple.com/join/JyqxBPFf) | 2025-03-04 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2025-03-01 |
@@ -19,7 +19,6 @@
 | ios | [AmazFaces](https://testflight.apple.com/join/4hBEKHHg) | 2025-02-23 |
 | ios | [Pinterest beta](https://testflight.apple.com/join/ffIBkq35) | 2025-02-21 |
 | macos | [Batch Clipboard](https://testflight.apple.com/join/epg3cusH) | 2025-02-21 |
-| ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2025-02-20 |
 | ios | [Me@Walmart](https://testflight.apple.com/join/bqo4smK7) | 2025-02-19 |
 | ios | [Phone Call Notes: VoxNote](https://testflight.apple.com/join/vjNaxsFb) | 2025-02-19 |
 | ios | [Reddit](https://testflight.apple.com/join/b9jMyOWt) | 2025-02-19 |
