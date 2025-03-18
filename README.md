@@ -1,7 +1,11 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Quizlet](https://testflight.apple.com/join/mwhcPqxJ) | 2025-03-17 |
+| ios | [AliExpress - Shopping App beta](https://testflight.apple.com/join/TFhYeUyJ) | 2025-03-18 |
+| ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-03-18 |
+| ios | [Instagram](https://testflight.apple.com/join/72eyUWVE) | 2025-03-18 |
+| ios | [Plex](https://testflight.apple.com/join/MY6JTzix) | 2025-03-18 |
+| ios | [搜狗输入法](https://testflight.apple.com/join/lSZdpEPH) | 2025-03-18 |
 | ios_game | [Minecraft: Education Edition beta](https://testflight.apple.com/join/sBDlEXYr) | 2025-03-17 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2025-03-15 |
 | ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2025-03-15 |
@@ -66,7 +70,6 @@
 | ios | [Shadow PC beta](https://testflight.apple.com/join/PxpSW79P) | 2024-11-18 |
 | ios | [UniFi](https://testflight.apple.com/join/Pkd9a658) | 2024-11-18 |
 | ios | [Windscribe VPN](https://testflight.apple.com/join/oKib5JOq) | 2024-11-18 |
-| ios | [PushUp Workout Daily at Home](https://testflight.apple.com/join/myFEz6DW) | 2024-11-17 |
 | ios | [Health Export](https://testflight.apple.com/join/g5FcLFJQ) | 2024-11-12 |
 | ios | [Hadge](https://testflight.apple.com/join/rFLkfNSu) | 2024-11-06 |
 | chinese | [微信键盘 beta](https://testflight.apple.com/join/iSTXkF4K) | 2024-11-01 |
