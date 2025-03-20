@@ -1,10 +1,14 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| chinese | [QQ beta](https://testflight.apple.com/join/R5FNGUl3) | 2025-03-20 |
+| ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2025-03-20 |
+| ios | [CardioBot - Heart Rate Monitor](https://testflight.apple.com/join/H82FVVt6) | 2025-03-20 |
+| ios | [CharMap](https://testflight.apple.com/join/TL68k0Sp) | 2025-03-20 |
+| ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2025-03-20 |
+| ios | [Overcast beta](https://testflight.apple.com/join/37azzGPG) | 2025-03-20 |
 | ios | [Parcel - Delivery Tracking](https://testflight.apple.com/join/fMeg6C4A) | 2025-03-19 |
 | ios | [搜狗输入法](https://testflight.apple.com/join/lSZdpEPH) | 2025-03-18 |
-| ios_game | [Minecraft: Education Edition beta](https://testflight.apple.com/join/sBDlEXYr) | 2025-03-17 |
-| ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2025-03-15 |
 | ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2025-03-15 |
 | ios | [Task Flow: To-Do List & Tasks](https://testflight.apple.com/join/JyqxBPFf) | 2025-03-04 |
 | ios | [ColorSlurp Beta](https://testflight.apple.com/join/xxEw2j1X) | 2025-03-01 |
@@ -41,7 +45,6 @@
 | ios | [Microsoft Whiteboard](https://testflight.apple.com/join/HSWkbCxV) | 2025-01-03 |
 | ios | [Termius – SSH client](https://testflight.apple.com/join/MnuClabg) | 2025-01-03 |
 | ios | [KDE Connect](https://testflight.apple.com/join/vxCluwBF) | 2025-01-02 |
-| ios | [VFeed](https://testflight.apple.com/join/ZdC5U0fR) | 2024-12-18 |
 | ios | [Monosnap - screenshot editor](https://testflight.apple.com/join/qQzBVHZs) | 2024-12-16 |
 | ios | [Finance Bay](https://testflight.apple.com/join/y4etT8Ht) | 2024-12-14 |
 | ios | [BeReal](https://testflight.apple.com/join/IM4jE5XY) | 2024-12-03 |
