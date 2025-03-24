@@ -1,6 +1,10 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2025-03-24 |
+| ios | [Keka](https://testflight.apple.com/join/gPYINGCJ) | 2025-03-24 |
+| ios | [Pinterest beta](https://testflight.apple.com/join/ffIBkq35) | 2025-03-24 |
+| ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2025-03-24 |
 | ios | [CharMap](https://testflight.apple.com/join/TL68k0Sp) | 2025-03-20 |
 | ios | [Parcel - Delivery Tracking](https://testflight.apple.com/join/fMeg6C4A) | 2025-03-19 |
 | ios | [搜狗输入法](https://testflight.apple.com/join/lSZdpEPH) | 2025-03-18 |
@@ -97,7 +101,6 @@
 | ios | [Trello — Organize anything!](https://testflight.apple.com/join/cRWMcQsr) | 2024-04-02 |
 | chinese | [事线 - 串事成线](https://testflight.apple.com/join/grxohdR3) | 2024-03-26 |
 | ios | [Television Time](https://testflight.apple.com/join/eP0BTwVi) | 2024-03-23 |
-| ios | [Jira Cloud by Atlassian](https://testflight.apple.com/join/2lm7vHBS) | 2024-03-09 |
 | ios | [Twitch Beta](https://testflight.apple.com/join/8vRKFAiY) | 2024-02-23 |
 | ios | [F1ATV](https://testflight.apple.com/join/NRswe1IZ) | 2024-02-20 |
 | ios | [Sleep Cycle - Sleep Tracker beta](https://testflight.apple.com/join/tCeANbZi) | 2024-02-07 |
