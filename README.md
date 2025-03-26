@@ -1,9 +1,8 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2025-03-25 |
+| ios | [Phone Call Notes: VoxNote](https://testflight.apple.com/join/vjNaxsFb) | 2025-03-26 |
 | ios | [Instagram](https://testflight.apple.com/join/72eyUWVE) | 2025-03-25 |
-| ios | [Jira Cloud by Atlassian](https://testflight.apple.com/join/2lm7vHBS) | 2025-03-25 |
 | ios | [Spotify - Music and Podcasts](https://testflight.apple.com/join/1SyedSId) | 2025-03-25 |
 | ios | [Spotify Music](https://testflight.apple.com/join/7lt2tesn) | 2025-03-25 |
 | ios | [CharMap](https://testflight.apple.com/join/TL68k0Sp) | 2025-03-20 |
@@ -71,7 +70,6 @@
 | chinese | [微信键盘 beta](https://testflight.apple.com/join/iSTXkF4K) | 2024-11-01 |
 | ios | [Tunna - Xray/V2ray Proxy Utility](https://testflight.apple.com/join/dqMoJObA) | 2024-10-28 |
 | ios | [Fedicat](https://testflight.apple.com/join/b6GatWTY) | 2024-10-27 |
-| chinese | [我的世界-网易](https://testflight.apple.com/join/mOxZm1dD) | 2024-10-24 |
 | ios | [FotMob Live Soccer Scores](https://testflight.apple.com/join/zEAwGlrV) | 2024-10-24 |
 | chinese | [Weibo intl. beta](https://testflight.apple.com/join/2LslNUOW) | 2024-10-19 |
 | ios | [FRITZ!App TV](https://testflight.apple.com/join/Zl2czQO2) | 2024-10-19 |
