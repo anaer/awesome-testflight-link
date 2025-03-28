@@ -1,10 +1,13 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Phone Call Notes: VoxNote](https://testflight.apple.com/join/vjNaxsFb) | 2025-03-26 |
-| ios | [Instagram](https://testflight.apple.com/join/72eyUWVE) | 2025-03-25 |
+| ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2025-03-28 |
+| ios | [Love2D Game Maker](https://testflight.apple.com/join/bCLmQKfQ) | 2025-03-28 |
+| ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2025-03-28 |
+| ios | [Sleep Cycle - Sleep Tracker beta](https://testflight.apple.com/join/tCeANbZi) | 2025-03-28 |
+| ios | [Sleep Cycle alarm clock](https://testflight.apple.com/join/8RcEFqFF) | 2025-03-28 |
+| ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2025-03-28 |
 | ios | [Spotify - Music and Podcasts](https://testflight.apple.com/join/1SyedSId) | 2025-03-25 |
-| ios | [Spotify Music](https://testflight.apple.com/join/7lt2tesn) | 2025-03-25 |
 | ios | [CharMap](https://testflight.apple.com/join/TL68k0Sp) | 2025-03-20 |
 | ios | [Parcel - Delivery Tracking](https://testflight.apple.com/join/fMeg6C4A) | 2025-03-19 |
 | ios | [搜狗输入法](https://testflight.apple.com/join/lSZdpEPH) | 2025-03-18 |
@@ -38,11 +41,9 @@
 | ios | [Dash Calc](https://testflight.apple.com/join/4vmNqTE8) | 2025-01-07 |
 | ios | [Go Map!!](https://testflight.apple.com/join/T96F9wYq) | 2025-01-07 |
 | ios | [KyPass 4 密码管理](https://testflight.apple.com/join/wlZmOo9t) | 2025-01-03 |
-| ios | [Microsoft Whiteboard](https://testflight.apple.com/join/HSWkbCxV) | 2025-01-03 |
 | ios | [Termius – SSH client](https://testflight.apple.com/join/MnuClabg) | 2025-01-03 |
 | ios | [KDE Connect](https://testflight.apple.com/join/vxCluwBF) | 2025-01-02 |
 | ios | [Monosnap - screenshot editor](https://testflight.apple.com/join/qQzBVHZs) | 2024-12-16 |
-| ios | [Finance Bay](https://testflight.apple.com/join/y4etT8Ht) | 2024-12-14 |
 | ios | [BeReal](https://testflight.apple.com/join/IM4jE5XY) | 2024-12-03 |
 | ios | [Clipchamp Dev](https://testflight.apple.com/join/rG93mFo8) | 2024-11-30 |
 | ios | [MyFRITZ!App](https://testflight.apple.com/join/U0v1rBE5) | 2024-11-30 |
