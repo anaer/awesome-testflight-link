@@ -1,6 +1,13 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| chinese | [酷狗概念版](https://testflight.apple.com/join/IOgbaxds) | 2025-03-29 |
+| ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2025-03-29 |
+| ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2025-03-29 |
+| ios | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2025-03-29 |
+| ios | [Herald: Latest News](https://testflight.apple.com/join/pkrdVu0n) | 2025-03-29 |
+| ios | [Jira Cloud by Atlassian](https://testflight.apple.com/join/2lm7vHBS) | 2025-03-29 |
+| macos | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2025-03-29 |
 | ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2025-03-28 |
 | ios | [Love2D Game Maker](https://testflight.apple.com/join/bCLmQKfQ) | 2025-03-28 |
 | ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2025-03-28 |
@@ -40,7 +47,6 @@
 | ios | [DailyTown](https://testflight.apple.com/join/Q37kksaC) | 2025-01-08 |
 | ios | [Dash Calc](https://testflight.apple.com/join/4vmNqTE8) | 2025-01-07 |
 | ios | [Go Map!!](https://testflight.apple.com/join/T96F9wYq) | 2025-01-07 |
-| ios | [KyPass 4 密码管理](https://testflight.apple.com/join/wlZmOo9t) | 2025-01-03 |
 | ios | [Termius – SSH client](https://testflight.apple.com/join/MnuClabg) | 2025-01-03 |
 | ios | [KDE Connect](https://testflight.apple.com/join/vxCluwBF) | 2025-01-02 |
 | ios | [Monosnap - screenshot editor](https://testflight.apple.com/join/qQzBVHZs) | 2024-12-16 |
