@@ -1,12 +1,11 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [FRITZ!App WLAN](https://testflight.apple.com/join/vbfCKamq) | 2025-03-30 |
+| ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2025-03-31 |
 | ios | [StarPlayrX](https://testflight.apple.com/join/Ecz0xXvf) | 2025-03-30 |
 | chinese | [酷狗概念版](https://testflight.apple.com/join/IOgbaxds) | 2025-03-29 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2025-03-29 |
 | ios | [Herald: Latest News](https://testflight.apple.com/join/pkrdVu0n) | 2025-03-29 |
-| ios | [Jira Cloud by Atlassian](https://testflight.apple.com/join/2lm7vHBS) | 2025-03-29 |
 | ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2025-03-28 |
 | ios | [Love2D Game Maker](https://testflight.apple.com/join/bCLmQKfQ) | 2025-03-28 |
 | ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2025-03-28 |
@@ -96,7 +95,6 @@
 | ios | [SHARE NOW (car2go & DriveNow)](https://testflight.apple.com/join/1SsBDNCj) | 2024-06-04 |
 | ios | [Microsoft PowerPoint](https://testflight.apple.com/join/a9Ef0N3g) | 2024-06-01 |
 | ios | [Ruuvi Station](https://testflight.apple.com/join/loHFrEV1) | 2024-05-31 |
-| ios | [Möbius Sync - Syncthing iOS](https://testflight.apple.com/join/n5A7ceuK) | 2024-05-28 |
 | ios | [Opera Touch web browser](https://testflight.apple.com/join/ASrCFVHB) | 2024-05-28 |
 | ios | [AdGuard VPN](https://testflight.apple.com/join/fZRiD1zt) | 2024-05-24 |
 | ios | [TV Time – #1 Show Tracker](https://testflight.apple.com/join/hjKkDsc4) | 2024-05-24 |
