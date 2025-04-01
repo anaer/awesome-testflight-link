@@ -1,18 +1,19 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2025-03-31 |
+| ios | [Gaming for Peace-GAP](https://testflight.apple.com/join/tJu81Sch) | 2025-04-01 |
+| ios | [Jira Cloud by Atlassian](https://testflight.apple.com/join/2lm7vHBS) | 2025-04-01 |
+| ios | [Microsoft SwiftKey Keyboard](https://testflight.apple.com/join/yhIhAvjp) | 2025-04-01 |
+| ios | [Overcast beta](https://testflight.apple.com/join/37azzGPG) | 2025-04-01 |
+| ios | [Phone Call Notes: VoxNote](https://testflight.apple.com/join/vjNaxsFb) | 2025-04-01 |
+| ios | [iSH Shell](https://testflight.apple.com/join/97i7KM8O) | 2025-04-01 |
 | ios | [StarPlayrX](https://testflight.apple.com/join/Ecz0xXvf) | 2025-03-30 |
 | chinese | [酷狗概念版](https://testflight.apple.com/join/IOgbaxds) | 2025-03-29 |
-| ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2025-03-29 |
 | ios | [Herald: Latest News](https://testflight.apple.com/join/pkrdVu0n) | 2025-03-29 |
 | ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2025-03-28 |
 | ios | [Love2D Game Maker](https://testflight.apple.com/join/bCLmQKfQ) | 2025-03-28 |
 | ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2025-03-28 |
-| ios | [Sleep Cycle - Sleep Tracker beta](https://testflight.apple.com/join/tCeANbZi) | 2025-03-28 |
-| ios | [Sleep Cycle alarm clock](https://testflight.apple.com/join/8RcEFqFF) | 2025-03-28 |
 | ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2025-03-28 |
-| ios | [Spotify - Music and Podcasts](https://testflight.apple.com/join/1SyedSId) | 2025-03-25 |
 | ios | [CharMap](https://testflight.apple.com/join/TL68k0Sp) | 2025-03-20 |
 | ios | [Parcel - Delivery Tracking](https://testflight.apple.com/join/fMeg6C4A) | 2025-03-19 |
 | ios | [搜狗输入法](https://testflight.apple.com/join/lSZdpEPH) | 2025-03-18 |
