@@ -1,10 +1,15 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| chinese | [比亚迪](https://testflight.apple.com/join/ae77GeWM) | 2025-04-03 |
+| ios | [Erasee: Background Remover](https://testflight.apple.com/join/t6xnU9H3) | 2025-04-03 |
+| ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-04-03 |
+| ios | [Instagram](https://testflight.apple.com/join/72eyUWVE) | 2025-04-03 |
+| ios | [Microsoft OneDrive](https://testflight.apple.com/join/LtgPLzrQ) | 2025-04-03 |
+| ios | [Microsoft SwiftKey Keyboard](https://testflight.apple.com/join/yhIhAvjp) | 2025-04-03 |
+| ios | [Pockity](https://testflight.apple.com/join/4qfWwXvP) | 2025-04-03 |
 | chinese | [我的世界-网易](https://testflight.apple.com/join/mOxZm1dD) | 2025-04-02 |
-| ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2025-04-02 |
 | ios | [MuseoTrack](https://testflight.apple.com/join/jR1MsqSt) | 2025-04-02 |
-| ios | [Musixmatch Lyrics Finder](https://testflight.apple.com/join/7yLzN5td) | 2025-04-02 |
 | ios | [Gaming for Peace-GAP](https://testflight.apple.com/join/tJu81Sch) | 2025-04-01 |
 | ios | [Jira Cloud by Atlassian](https://testflight.apple.com/join/2lm7vHBS) | 2025-04-01 |
 | ios | [StarPlayrX](https://testflight.apple.com/join/Ecz0xXvf) | 2025-03-30 |
