@@ -1,21 +1,22 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| chinese | [比亚迪](https://testflight.apple.com/join/ae77GeWM) | 2025-04-03 |
+| chinese | [QQ beta](https://testflight.apple.com/join/R5FNGUl3) | 2025-04-04 |
+| chinese | [哔哩哔哩](https://testflight.apple.com/join/K4pM1kHu) | 2025-04-04 |
+| ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2025-04-04 |
+| ios | [Cash App](https://testflight.apple.com/join/An0RiOFF) | 2025-04-04 |
+| ios | [Overcast beta](https://testflight.apple.com/join/37azzGPG) | 2025-04-04 |
+| ios | [Phone Call Notes: VoxNote](https://testflight.apple.com/join/vjNaxsFb) | 2025-04-04 |
+| ios_game | [Stick War 3](https://testflight.apple.com/join/eUx3WxVj) | 2025-04-04 |
 | ios | [Erasee: Background Remover](https://testflight.apple.com/join/t6xnU9H3) | 2025-04-03 |
 | ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-04-03 |
 | ios | [Instagram](https://testflight.apple.com/join/72eyUWVE) | 2025-04-03 |
-| ios | [Microsoft OneDrive](https://testflight.apple.com/join/LtgPLzrQ) | 2025-04-03 |
-| ios | [Microsoft SwiftKey Keyboard](https://testflight.apple.com/join/yhIhAvjp) | 2025-04-03 |
-| ios | [Pockity](https://testflight.apple.com/join/4qfWwXvP) | 2025-04-03 |
 | chinese | [我的世界-网易](https://testflight.apple.com/join/mOxZm1dD) | 2025-04-02 |
 | ios | [MuseoTrack](https://testflight.apple.com/join/jR1MsqSt) | 2025-04-02 |
 | ios | [Gaming for Peace-GAP](https://testflight.apple.com/join/tJu81Sch) | 2025-04-01 |
-| ios | [Jira Cloud by Atlassian](https://testflight.apple.com/join/2lm7vHBS) | 2025-04-01 |
 | ios | [StarPlayrX](https://testflight.apple.com/join/Ecz0xXvf) | 2025-03-30 |
 | chinese | [酷狗概念版](https://testflight.apple.com/join/IOgbaxds) | 2025-03-29 |
 | ios | [Herald: Latest News](https://testflight.apple.com/join/pkrdVu0n) | 2025-03-29 |
-| ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2025-03-28 |
 | ios | [Love2D Game Maker](https://testflight.apple.com/join/bCLmQKfQ) | 2025-03-28 |
 | ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2025-03-28 |
 | ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2025-03-28 |
@@ -56,7 +57,6 @@
 | ios | [Monosnap - screenshot editor](https://testflight.apple.com/join/qQzBVHZs) | 2024-12-16 |
 | ios | [BeReal](https://testflight.apple.com/join/IM4jE5XY) | 2024-12-03 |
 | ios | [Clipchamp Dev](https://testflight.apple.com/join/rG93mFo8) | 2024-11-30 |
-| ios | [MyFRITZ!App](https://testflight.apple.com/join/U0v1rBE5) | 2024-11-30 |
 | ios | [Proton VPN: Fast & Secure](https://testflight.apple.com/join/3yl2MSbw) | 2024-11-30 |
 | ios | [Spark Mail - Email by Readdle](https://testflight.apple.com/join/O2wj7i0x) | 2024-11-26 |
 | ios | [feeeed](https://testflight.apple.com/join/ixRrWfQL) | 2024-11-20 |
