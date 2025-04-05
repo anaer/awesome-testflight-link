@@ -1,16 +1,11 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Quizlet](https://testflight.apple.com/join/mwhcPqxJ) | 2025-04-05 |
 | chinese | [QQ beta](https://testflight.apple.com/join/R5FNGUl3) | 2025-04-04 |
-| chinese | [哔哩哔哩](https://testflight.apple.com/join/K4pM1kHu) | 2025-04-04 |
-| ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2025-04-04 |
-| ios | [Cash App](https://testflight.apple.com/join/An0RiOFF) | 2025-04-04 |
-| ios | [Overcast beta](https://testflight.apple.com/join/37azzGPG) | 2025-04-04 |
 | ios | [Phone Call Notes: VoxNote](https://testflight.apple.com/join/vjNaxsFb) | 2025-04-04 |
-| ios_game | [Stick War 3](https://testflight.apple.com/join/eUx3WxVj) | 2025-04-04 |
 | ios | [Erasee: Background Remover](https://testflight.apple.com/join/t6xnU9H3) | 2025-04-03 |
 | ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-04-03 |
-| ios | [Instagram](https://testflight.apple.com/join/72eyUWVE) | 2025-04-03 |
 | chinese | [我的世界-网易](https://testflight.apple.com/join/mOxZm1dD) | 2025-04-02 |
 | ios | [MuseoTrack](https://testflight.apple.com/join/jR1MsqSt) | 2025-04-02 |
 | ios | [Gaming for Peace-GAP](https://testflight.apple.com/join/tJu81Sch) | 2025-04-01 |
@@ -19,7 +14,6 @@
 | ios | [Herald: Latest News](https://testflight.apple.com/join/pkrdVu0n) | 2025-03-29 |
 | ios | [Love2D Game Maker](https://testflight.apple.com/join/bCLmQKfQ) | 2025-03-28 |
 | ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2025-03-28 |
-| ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2025-03-28 |
 | ios | [CharMap](https://testflight.apple.com/join/TL68k0Sp) | 2025-03-20 |
 | ios | [Parcel - Delivery Tracking](https://testflight.apple.com/join/fMeg6C4A) | 2025-03-19 |
 | ios | [搜狗输入法](https://testflight.apple.com/join/lSZdpEPH) | 2025-03-18 |
