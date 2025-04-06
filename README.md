@@ -1,8 +1,8 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Quizlet](https://testflight.apple.com/join/mwhcPqxJ) | 2025-04-05 |
-| chinese | [QQ beta](https://testflight.apple.com/join/R5FNGUl3) | 2025-04-04 |
+| ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2025-04-06 |
+| ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2025-04-06 |
 | ios | [Phone Call Notes: VoxNote](https://testflight.apple.com/join/vjNaxsFb) | 2025-04-04 |
 | ios | [Erasee: Background Remover](https://testflight.apple.com/join/t6xnU9H3) | 2025-04-03 |
 | ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-04-03 |
