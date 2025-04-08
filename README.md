@@ -1,6 +1,7 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [FM Radio x Radddio App](https://testflight.apple.com/join/JaRYx1fE) | 2025-04-08 |
 | ios | [Microsoft Loop beta](https://testflight.apple.com/join/KNyadcIZ) | 2025-04-07 |
 | ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2025-04-07 |
 | ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2025-04-06 |
