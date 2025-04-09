@@ -1,11 +1,14 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2025-04-09 |
+| ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2025-04-09 |
+| ios | [Everlog](https://testflight.apple.com/join/sOCDYE65) | 2025-04-09 |
+| ios | [Plex](https://testflight.apple.com/join/MY6JTzix) | 2025-04-09 |
+| ios | [Spotify - Music and Podcasts](https://testflight.apple.com/join/1SyedSId) | 2025-04-09 |
+| ios | [搜狗输入法](https://testflight.apple.com/join/lSZdpEPH) | 2025-04-09 |
+| ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2025-04-09 |
 | ios | [FM Radio x Radddio App](https://testflight.apple.com/join/JaRYx1fE) | 2025-04-08 |
-| ios | [Microsoft Loop beta](https://testflight.apple.com/join/KNyadcIZ) | 2025-04-07 |
-| ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2025-04-07 |
-| ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2025-04-06 |
-| ios | [Phone Call Notes: VoxNote](https://testflight.apple.com/join/vjNaxsFb) | 2025-04-04 |
 | ios | [Erasee: Background Remover](https://testflight.apple.com/join/t6xnU9H3) | 2025-04-03 |
 | ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-04-03 |
 | chinese | [我的世界-网易](https://testflight.apple.com/join/mOxZm1dD) | 2025-04-02 |
