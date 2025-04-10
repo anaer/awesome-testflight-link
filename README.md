@@ -1,11 +1,15 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Instagram](https://testflight.apple.com/join/72eyUWVE) | 2025-04-10 |
+| ios | [Phone Call Notes: VoxNote](https://testflight.apple.com/join/vjNaxsFb) | 2025-04-10 |
+| ios | [Sleep Cycle - Sleep Tracker beta](https://testflight.apple.com/join/tCeANbZi) | 2025-04-10 |
+| ios | [Sleep Cycle alarm clock](https://testflight.apple.com/join/8RcEFqFF) | 2025-04-10 |
+| ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2025-04-10 |
 | ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2025-04-09 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2025-04-09 |
 | ios | [Everlog](https://testflight.apple.com/join/sOCDYE65) | 2025-04-09 |
 | ios | [Plex](https://testflight.apple.com/join/MY6JTzix) | 2025-04-09 |
-| ios | [Spotify - Music and Podcasts](https://testflight.apple.com/join/1SyedSId) | 2025-04-09 |
 | ios | [搜狗输入法](https://testflight.apple.com/join/lSZdpEPH) | 2025-04-09 |
 | ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2025-04-09 |
 | ios | [FM Radio x Radddio App](https://testflight.apple.com/join/JaRYx1fE) | 2025-04-08 |
@@ -25,7 +29,6 @@
 | ios | [ColorSlurp Beta](https://testflight.apple.com/join/xxEw2j1X) | 2025-03-01 |
 | ios | [Meditation Timer Zenzitizer](https://testflight.apple.com/join/QvKyRJ8x) | 2025-03-01 |
 | ios | [网易 Filmly](https://testflight.apple.com/join/sIj5iOoj) | 2025-03-01 |
-| ios_game | [MLBB Beta](https://testflight.apple.com/join/yYjKTTlT) | 2025-03-01 |
 | ios | [Feedly](https://testflight.apple.com/join/03ER1aUo) | 2025-02-28 |
 | ios | [RocketChat](https://testflight.apple.com/join/3gcYeoMr) | 2025-02-28 |
 | ios | [ProtonMail - Encrypted Email](https://testflight.apple.com/join/8SxXknzD) | 2025-02-26 |
