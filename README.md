@@ -1,20 +1,17 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Instagram](https://testflight.apple.com/join/72eyUWVE) | 2025-04-10 |
-| ios | [Phone Call Notes: VoxNote](https://testflight.apple.com/join/vjNaxsFb) | 2025-04-10 |
+| ios | [Microsoft Outlook](https://testflight.apple.com/join/QkU4VS1s) | 2025-04-11 |
+| ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2025-04-11 |
 | ios | [Sleep Cycle - Sleep Tracker beta](https://testflight.apple.com/join/tCeANbZi) | 2025-04-10 |
 | ios | [Sleep Cycle alarm clock](https://testflight.apple.com/join/8RcEFqFF) | 2025-04-10 |
-| ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2025-04-10 |
 | ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2025-04-09 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2025-04-09 |
-| ios | [Everlog](https://testflight.apple.com/join/sOCDYE65) | 2025-04-09 |
 | ios | [Plex](https://testflight.apple.com/join/MY6JTzix) | 2025-04-09 |
 | ios | [搜狗输入法](https://testflight.apple.com/join/lSZdpEPH) | 2025-04-09 |
 | ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2025-04-09 |
 | ios | [FM Radio x Radddio App](https://testflight.apple.com/join/JaRYx1fE) | 2025-04-08 |
 | ios | [Erasee: Background Remover](https://testflight.apple.com/join/t6xnU9H3) | 2025-04-03 |
-| ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-04-03 |
 | chinese | [我的世界-网易](https://testflight.apple.com/join/mOxZm1dD) | 2025-04-02 |
 | ios | [MuseoTrack](https://testflight.apple.com/join/jR1MsqSt) | 2025-04-02 |
 | ios | [Gaming for Peace-GAP](https://testflight.apple.com/join/tJu81Sch) | 2025-04-01 |
@@ -54,7 +51,6 @@
 | ios | [Dash Calc](https://testflight.apple.com/join/4vmNqTE8) | 2025-01-07 |
 | ios | [Go Map!!](https://testflight.apple.com/join/T96F9wYq) | 2025-01-07 |
 | ios | [Termius – SSH client](https://testflight.apple.com/join/MnuClabg) | 2025-01-03 |
-| ios | [KDE Connect](https://testflight.apple.com/join/vxCluwBF) | 2025-01-02 |
 | ios | [Monosnap - screenshot editor](https://testflight.apple.com/join/qQzBVHZs) | 2024-12-16 |
 | ios | [BeReal](https://testflight.apple.com/join/IM4jE5XY) | 2024-12-03 |
 | ios | [Clipchamp Dev](https://testflight.apple.com/join/rG93mFo8) | 2024-11-30 |
