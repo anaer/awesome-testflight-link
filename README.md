@@ -1,14 +1,13 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Microsoft Outlook](https://testflight.apple.com/join/QkU4VS1s) | 2025-04-11 |
-| ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2025-04-11 |
+| ios | [Facebook](https://testflight.apple.com/join/C1a3MRG4) | 2025-04-12 |
+| ios | [Keka](https://testflight.apple.com/join/gPYINGCJ) | 2025-04-12 |
 | ios | [Sleep Cycle - Sleep Tracker beta](https://testflight.apple.com/join/tCeANbZi) | 2025-04-10 |
 | ios | [Sleep Cycle alarm clock](https://testflight.apple.com/join/8RcEFqFF) | 2025-04-10 |
 | ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2025-04-09 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2025-04-09 |
 | ios | [Plex](https://testflight.apple.com/join/MY6JTzix) | 2025-04-09 |
-| ios | [搜狗输入法](https://testflight.apple.com/join/lSZdpEPH) | 2025-04-09 |
 | ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2025-04-09 |
 | ios | [FM Radio x Radddio App](https://testflight.apple.com/join/JaRYx1fE) | 2025-04-08 |
 | ios | [Erasee: Background Remover](https://testflight.apple.com/join/t6xnU9H3) | 2025-04-03 |
