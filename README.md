@@ -1,6 +1,9 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [1Password - Password Manager beta](https://testflight.apple.com/join/fzDLkIVK) | 2025-04-14 |
+| ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2025-04-14 |
+| ios | [MyFRITZ!App](https://testflight.apple.com/join/U0v1rBE5) | 2025-04-14 |
 | ios | [Mindustry](https://testflight.apple.com/join/79Azm1hZ) | 2025-04-13 |
 | ios | [Facebook](https://testflight.apple.com/join/C1a3MRG4) | 2025-04-12 |
 | ios | [Sleep Cycle - Sleep Tracker beta](https://testflight.apple.com/join/tCeANbZi) | 2025-04-10 |
@@ -18,7 +21,6 @@
 | chinese | [酷狗概念版](https://testflight.apple.com/join/IOgbaxds) | 2025-03-29 |
 | ios | [Herald: Latest News](https://testflight.apple.com/join/pkrdVu0n) | 2025-03-29 |
 | ios | [Love2D Game Maker](https://testflight.apple.com/join/bCLmQKfQ) | 2025-03-28 |
-| ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2025-03-28 |
 | ios | [CharMap](https://testflight.apple.com/join/TL68k0Sp) | 2025-03-20 |
 | ios | [Parcel - Delivery Tracking](https://testflight.apple.com/join/fMeg6C4A) | 2025-03-19 |
 | ios | [Task Flow: To-Do List & Tasks](https://testflight.apple.com/join/JyqxBPFf) | 2025-03-04 |
