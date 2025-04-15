@@ -1,15 +1,14 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [1Password - Password Manager beta](https://testflight.apple.com/join/fzDLkIVK) | 2025-04-14 |
-| ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2025-04-14 |
-| ios | [MyFRITZ!App](https://testflight.apple.com/join/U0v1rBE5) | 2025-04-14 |
+| ios | [Dropbox](https://testflight.apple.com/join/LBZaRq4I) | 2025-04-15 |
+| ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2025-04-15 |
+| ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-04-15 |
 | ios | [Mindustry](https://testflight.apple.com/join/79Azm1hZ) | 2025-04-13 |
 | ios | [Facebook](https://testflight.apple.com/join/C1a3MRG4) | 2025-04-12 |
 | ios | [Sleep Cycle - Sleep Tracker beta](https://testflight.apple.com/join/tCeANbZi) | 2025-04-10 |
 | ios | [Sleep Cycle alarm clock](https://testflight.apple.com/join/8RcEFqFF) | 2025-04-10 |
 | ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2025-04-09 |
-| ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2025-04-09 |
 | ios | [Plex](https://testflight.apple.com/join/MY6JTzix) | 2025-04-09 |
 | ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2025-04-09 |
 | ios | [FM Radio x Radddio App](https://testflight.apple.com/join/JaRYx1fE) | 2025-04-08 |
