@@ -1,9 +1,12 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| chinese | [哔哩哔哩](https://testflight.apple.com/join/K4pM1kHu) | 2025-04-16 |
+| ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2025-04-16 |
+| ios | [Grindr - Gay Dating & Chat](https://testflight.apple.com/join/eO265vw7) | 2025-04-16 |
+| ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2025-04-16 |
 | ios | [Dropbox](https://testflight.apple.com/join/LBZaRq4I) | 2025-04-15 |
 | ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2025-04-15 |
-| ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-04-15 |
 | ios | [Mindustry](https://testflight.apple.com/join/79Azm1hZ) | 2025-04-13 |
 | ios | [Facebook](https://testflight.apple.com/join/C1a3MRG4) | 2025-04-12 |
 | ios | [Sleep Cycle - Sleep Tracker beta](https://testflight.apple.com/join/tCeANbZi) | 2025-04-10 |
