@@ -1,7 +1,12 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| chinese | [知乎](https://testflight.apple.com/join/TX83Mn7J) | 2025-04-17 |
+| ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2025-04-18 |
+| ios | [S1 Mufu](https://testflight.apple.com/join/KwboYTNt) | 2025-04-18 |
+| ios | [Sangoma Meet](https://testflight.apple.com/join/BEd12vi5) | 2025-04-18 |
+| ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2025-04-18 |
+| ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2025-04-18 |
+| macos | [WhatsApp Messenger](https://testflight.apple.com/join/krUFQpyJ) | 2025-04-18 |
 | ios | [Keka](https://testflight.apple.com/join/gPYINGCJ) | 2025-04-17 |
 | macos | [Caffeine Utility](https://testflight.apple.com/join/WHIbsose) | 2025-04-17 |
 | ios | [Grindr - Gay Dating & Chat](https://testflight.apple.com/join/eO265vw7) | 2025-04-16 |
@@ -46,7 +51,6 @@
 | ios | [Filmlog](https://testflight.apple.com/join/ywiozhph) | 2025-01-28 |
 | ios | [RainViewer: Live Weather Radar](https://testflight.apple.com/join/OZ1B4sTS) | 2025-01-23 |
 | ios | [FRITZ!App Fon](https://testflight.apple.com/join/SGGCxyRp) | 2025-01-18 |
-| ios | [Pushover Notifications](https://testflight.apple.com/join/vkwfdWM0) | 2025-01-10 |
 | ios | [Dash Calc](https://testflight.apple.com/join/4vmNqTE8) | 2025-01-07 |
 | ios | [Go Map!!](https://testflight.apple.com/join/T96F9wYq) | 2025-01-07 |
 | ios | [Termius – SSH client](https://testflight.apple.com/join/MnuClabg) | 2025-01-03 |
