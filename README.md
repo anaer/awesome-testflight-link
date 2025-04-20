@@ -1,7 +1,7 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2025-04-19 |
+| ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2025-04-20 |
 | ios | [Sangoma Meet](https://testflight.apple.com/join/BEd12vi5) | 2025-04-18 |
 | ios | [Keka](https://testflight.apple.com/join/gPYINGCJ) | 2025-04-17 |
 | macos | [Caffeine Utility](https://testflight.apple.com/join/WHIbsose) | 2025-04-17 |
@@ -63,7 +63,6 @@
 | ios | [MSN (Start)](https://testflight.apple.com/join/jOahtut6) | 2024-11-18 |
 | ios | [Mastodon](https://testflight.apple.com/join/ebSjPU84) | 2024-11-18 |
 | ios | [Microsoft Defender: Security](https://testflight.apple.com/join/AYVtbvfc) | 2024-11-18 |
-| ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2024-11-18 |
 | ios | [Monzo Bank - Mobile Banking](https://testflight.apple.com/join/2NZLBFyb) | 2024-11-18 |
 | ios | [Opera GX](https://testflight.apple.com/join/t3k1AVL3) | 2024-11-18 |
 | ios | [Oura](https://testflight.apple.com/join/NPhd6XTF) | 2024-11-18 |
