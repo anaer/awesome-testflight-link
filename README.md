@@ -1,7 +1,13 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2025-04-20 |
+| chinese | [抖音](https://testflight.apple.com/join/ZILJgZhU) | 2025-04-21 |
+| chinese | [滴答清单 TickTick](https://testflight.apple.com/join/vWQPDFQU) | 2025-04-21 |
+| ios | [KeyCalc - Retro Calculator](https://testflight.apple.com/join/Uy465Q3m) | 2025-04-21 |
+| ios | [MyFRITZ!App](https://testflight.apple.com/join/U0v1rBE5) | 2025-04-21 |
+| ios | [Onion Browser](https://testflight.apple.com/join/90DvGBOE) | 2025-04-21 |
+| ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2025-04-21 |
+| ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2025-04-21 |
 | ios | [Sangoma Meet](https://testflight.apple.com/join/BEd12vi5) | 2025-04-18 |
 | ios | [Keka](https://testflight.apple.com/join/gPYINGCJ) | 2025-04-17 |
 | macos | [Caffeine Utility](https://testflight.apple.com/join/WHIbsose) | 2025-04-17 |
@@ -42,7 +48,6 @@
 | ios_game | [Fugl](https://testflight.apple.com/join/bZIZeB4N) | 2025-02-11 |
 | macos | [Code Piper](https://testflight.apple.com/join/7raK338Y) | 2025-02-08 |
 | ios | [Firewalla](https://testflight.apple.com/join/qtUnSjJp) | 2025-02-05 |
-| ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2025-01-29 |
 | macos | [Drafts](https://testflight.apple.com/join/GhPcOrwa) | 2025-01-29 |
 | ios | [Filmlog](https://testflight.apple.com/join/ywiozhph) | 2025-01-28 |
 | ios | [RainViewer: Live Weather Radar](https://testflight.apple.com/join/OZ1B4sTS) | 2025-01-23 |
