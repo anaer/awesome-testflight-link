@@ -1,10 +1,13 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-04-22 |
+| ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-04-22 |
+| ios | [Mixing Station](https://testflight.apple.com/join/lsd9mugy) | 2025-04-22 |
+| ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2025-04-22 |
 | chinese | [抖音](https://testflight.apple.com/join/ZILJgZhU) | 2025-04-21 |
 | chinese | [滴答清单 TickTick](https://testflight.apple.com/join/vWQPDFQU) | 2025-04-21 |
 | ios | [KeyCalc - Retro Calculator](https://testflight.apple.com/join/Uy465Q3m) | 2025-04-21 |
-| ios | [MyFRITZ!App](https://testflight.apple.com/join/U0v1rBE5) | 2025-04-21 |
 | ios | [Onion Browser](https://testflight.apple.com/join/90DvGBOE) | 2025-04-21 |
 | ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2025-04-21 |
 | ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2025-04-21 |
