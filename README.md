@@ -1,6 +1,10 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [CardioBot - Heart Rate Monitor](https://testflight.apple.com/join/H82FVVt6) | 2025-04-24 |
+| ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-04-24 |
+| ios | [搜狗输入法](https://testflight.apple.com/join/lSZdpEPH) | 2025-04-24 |
+| ios_game | [Minecraft: Education Edition beta](https://testflight.apple.com/join/sBDlEXYr) | 2025-04-24 |
 | ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2025-04-22 |
 | chinese | [抖音](https://testflight.apple.com/join/ZILJgZhU) | 2025-04-21 |
 | chinese | [滴答清单 TickTick](https://testflight.apple.com/join/vWQPDFQU) | 2025-04-21 |
