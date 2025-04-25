@@ -1,10 +1,12 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [CardioBot - Heart Rate Monitor](https://testflight.apple.com/join/H82FVVt6) | 2025-04-24 |
+| ios | [Lenna - Video Library Player](https://testflight.apple.com/join/bExxpaX1) | 2025-04-25 |
+| ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2025-04-25 |
+| ios | [Microsoft To-Do](https://testflight.apple.com/join/JSq3UkAz) | 2025-04-25 |
+| ios | [Skype For iPhone](https://testflight.apple.com/join/fB5IkJT7) | 2025-04-25 |
+| ios | [WeChat Beta](https://testflight.apple.com/join/89c3PPBD) | 2025-04-25 |
 | ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-04-24 |
-| ios | [搜狗输入法](https://testflight.apple.com/join/lSZdpEPH) | 2025-04-24 |
-| ios_game | [Minecraft: Education Edition beta](https://testflight.apple.com/join/sBDlEXYr) | 2025-04-24 |
 | ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2025-04-22 |
 | chinese | [抖音](https://testflight.apple.com/join/ZILJgZhU) | 2025-04-21 |
 | chinese | [滴答清单 TickTick](https://testflight.apple.com/join/vWQPDFQU) | 2025-04-21 |
