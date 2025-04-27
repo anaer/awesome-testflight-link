@@ -1,8 +1,6 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Quizlet](https://testflight.apple.com/join/mwhcPqxJ) | 2025-04-26 |
-| ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2025-04-26 |
 | ios | [Lenna - Video Library Player](https://testflight.apple.com/join/bExxpaX1) | 2025-04-25 |
 | ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-04-24 |
 | ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2025-04-22 |
