@@ -1,6 +1,11 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [FRITZ!App WLAN](https://testflight.apple.com/join/vbfCKamq) | 2025-04-28 |
+| ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2025-04-28 |
+| ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2025-04-28 |
+| ios | [Jira Cloud by Atlassian](https://testflight.apple.com/join/2lm7vHBS) | 2025-04-28 |
+| ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2025-04-28 |
 | ios | [Lenna - Video Library Player](https://testflight.apple.com/join/bExxpaX1) | 2025-04-25 |
 | ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-04-24 |
 | ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2025-04-22 |
