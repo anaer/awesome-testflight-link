@@ -1,11 +1,14 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| chinese | [哔哩哔哩](https://testflight.apple.com/join/K4pM1kHu) | 2025-04-29 |
+| chinese | [知乎](https://testflight.apple.com/join/TX83Mn7J) | 2025-04-29 |
+| ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2025-04-29 |
+| ios | [Collabora Office](https://testflight.apple.com/join/TEnBWi68) | 2025-04-29 |
+| ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-04-29 |
+| ios | [Ketro](https://testflight.apple.com/join/VnGZhjsZ) | 2025-04-29 |
+| ios | [PushUp Workout Daily at Home](https://testflight.apple.com/join/myFEz6DW) | 2025-04-29 |
 | ios | [FRITZ!App WLAN](https://testflight.apple.com/join/vbfCKamq) | 2025-04-28 |
-| ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2025-04-28 |
-| ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2025-04-28 |
-| ios | [Jira Cloud by Atlassian](https://testflight.apple.com/join/2lm7vHBS) | 2025-04-28 |
-| ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2025-04-28 |
 | ios | [Lenna - Video Library Player](https://testflight.apple.com/join/bExxpaX1) | 2025-04-25 |
 | ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-04-24 |
 | ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2025-04-22 |
@@ -22,7 +25,6 @@
 | ios | [Facebook](https://testflight.apple.com/join/C1a3MRG4) | 2025-04-12 |
 | ios | [Sleep Cycle - Sleep Tracker beta](https://testflight.apple.com/join/tCeANbZi) | 2025-04-10 |
 | ios | [Sleep Cycle alarm clock](https://testflight.apple.com/join/8RcEFqFF) | 2025-04-10 |
-| ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2025-04-09 |
 | ios | [Plex](https://testflight.apple.com/join/MY6JTzix) | 2025-04-09 |
 | ios | [FM Radio x Radddio App](https://testflight.apple.com/join/JaRYx1fE) | 2025-04-08 |
 | ios | [Erasee: Background Remover](https://testflight.apple.com/join/t6xnU9H3) | 2025-04-03 |
