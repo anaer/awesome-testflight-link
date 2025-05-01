@@ -1,12 +1,13 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Clipchamp Dev](https://testflight.apple.com/join/rG93mFo8) | 2025-05-01 |
+| ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-05-01 |
+| ios | [Jira Cloud by Atlassian](https://testflight.apple.com/join/2lm7vHBS) | 2025-05-01 |
+| ios | [uPic](https://testflight.apple.com/join/60QsOvQ1) | 2025-05-01 |
 | ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2025-04-30 |
 | ios | [Finance Bay](https://testflight.apple.com/join/y4etT8Ht) | 2025-04-30 |
-| ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2025-04-30 |
-| ios | [Steam iOS beta](https://testflight.apple.com/join/8BOPXsGz) | 2025-04-30 |
 | ios | [umami Analytics](https://testflight.apple.com/join/AYfPX1Ut) | 2025-04-30 |
-| ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2025-04-30 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2025-04-29 |
 | ios | [Collabora Office](https://testflight.apple.com/join/TEnBWi68) | 2025-04-29 |
 | ios | [Ketro](https://testflight.apple.com/join/VnGZhjsZ) | 2025-04-29 |
