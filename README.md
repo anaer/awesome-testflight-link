@@ -1,19 +1,21 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Clipchamp Dev](https://testflight.apple.com/join/rG93mFo8) | 2025-05-01 |
+| ios | [Cash App](https://testflight.apple.com/join/An0RiOFF) | 2025-05-02 |
+| ios | [Filmlog](https://testflight.apple.com/join/ywiozhph) | 2025-05-02 |
+| ios | [Microsoft Office](https://testflight.apple.com/join/eHAKJBtM) | 2025-05-02 |
+| ios | [Pinterest beta](https://testflight.apple.com/join/ffIBkq35) | 2025-05-02 |
+| ios | [Soulver 3](https://testflight.apple.com/join/Vlb55Wtr) | 2025-05-02 |
 | ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-05-01 |
 | ios | [Jira Cloud by Atlassian](https://testflight.apple.com/join/2lm7vHBS) | 2025-05-01 |
 | ios | [uPic](https://testflight.apple.com/join/60QsOvQ1) | 2025-05-01 |
 | ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2025-04-30 |
-| ios | [Finance Bay](https://testflight.apple.com/join/y4etT8Ht) | 2025-04-30 |
 | ios | [umami Analytics](https://testflight.apple.com/join/AYfPX1Ut) | 2025-04-30 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2025-04-29 |
 | ios | [Collabora Office](https://testflight.apple.com/join/TEnBWi68) | 2025-04-29 |
 | ios | [Ketro](https://testflight.apple.com/join/VnGZhjsZ) | 2025-04-29 |
 | ios | [PushUp Workout Daily at Home](https://testflight.apple.com/join/myFEz6DW) | 2025-04-29 |
 | ios | [Lenna - Video Library Player](https://testflight.apple.com/join/bExxpaX1) | 2025-04-25 |
-| ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-04-24 |
 | ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2025-04-22 |
 | chinese | [抖音](https://testflight.apple.com/join/ZILJgZhU) | 2025-04-21 |
 | chinese | [滴答清单 TickTick](https://testflight.apple.com/join/vWQPDFQU) | 2025-04-21 |
