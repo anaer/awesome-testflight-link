@@ -1,7 +1,8 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Cash App](https://testflight.apple.com/join/An0RiOFF) | 2025-05-02 |
+| ios | [Breveto](https://testflight.apple.com/join/9mqMgFjT) | 2025-05-03 |
+| ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2025-05-03 |
 | ios | [Filmlog](https://testflight.apple.com/join/ywiozhph) | 2025-05-02 |
 | ios | [Microsoft Office](https://testflight.apple.com/join/eHAKJBtM) | 2025-05-02 |
 | ios | [Pinterest beta](https://testflight.apple.com/join/ffIBkq35) | 2025-05-02 |
@@ -11,7 +12,6 @@
 | ios | [uPic](https://testflight.apple.com/join/60QsOvQ1) | 2025-05-01 |
 | ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2025-04-30 |
 | ios | [umami Analytics](https://testflight.apple.com/join/AYfPX1Ut) | 2025-04-30 |
-| ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2025-04-29 |
 | ios | [Collabora Office](https://testflight.apple.com/join/TEnBWi68) | 2025-04-29 |
 | ios | [Ketro](https://testflight.apple.com/join/VnGZhjsZ) | 2025-04-29 |
 | ios | [PushUp Workout Daily at Home](https://testflight.apple.com/join/myFEz6DW) | 2025-04-29 |
@@ -20,7 +20,6 @@
 | chinese | [抖音](https://testflight.apple.com/join/ZILJgZhU) | 2025-04-21 |
 | chinese | [滴答清单 TickTick](https://testflight.apple.com/join/vWQPDFQU) | 2025-04-21 |
 | ios | [KeyCalc - Retro Calculator](https://testflight.apple.com/join/Uy465Q3m) | 2025-04-21 |
-| ios | [Onion Browser](https://testflight.apple.com/join/90DvGBOE) | 2025-04-21 |
 | ios | [Sangoma Meet](https://testflight.apple.com/join/BEd12vi5) | 2025-04-18 |
 | ios | [Keka](https://testflight.apple.com/join/gPYINGCJ) | 2025-04-17 |
 | macos | [Caffeine Utility](https://testflight.apple.com/join/WHIbsose) | 2025-04-17 |
