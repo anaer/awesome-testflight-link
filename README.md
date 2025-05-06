@@ -1,7 +1,9 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2025-05-04 |
+| ios | [Microsoft Loop beta](https://testflight.apple.com/join/KNyadcIZ) | 2025-05-06 |
+| ios | [MyFRITZ!App](https://testflight.apple.com/join/U0v1rBE5) | 2025-05-06 |
+| ios | [Skype For iPhone](https://testflight.apple.com/join/fB5IkJT7) | 2025-05-06 |
 | ios | [Breveto](https://testflight.apple.com/join/9mqMgFjT) | 2025-05-03 |
 | ios | [Filmlog](https://testflight.apple.com/join/ywiozhph) | 2025-05-02 |
 | ios | [Microsoft Office](https://testflight.apple.com/join/eHAKJBtM) | 2025-05-02 |
