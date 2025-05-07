@@ -1,9 +1,12 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Microsoft Loop beta](https://testflight.apple.com/join/KNyadcIZ) | 2025-05-06 |
+| chinese | [比亚迪](https://testflight.apple.com/join/ae77GeWM) | 2025-05-07 |
+| ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2025-05-07 |
+| ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2025-05-07 |
+| ios | [搜狗输入法](https://testflight.apple.com/join/lSZdpEPH) | 2025-05-07 |
+| ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2025-05-07 |
 | ios | [MyFRITZ!App](https://testflight.apple.com/join/U0v1rBE5) | 2025-05-06 |
-| ios | [Skype For iPhone](https://testflight.apple.com/join/fB5IkJT7) | 2025-05-06 |
 | ios | [Breveto](https://testflight.apple.com/join/9mqMgFjT) | 2025-05-03 |
 | ios | [Filmlog](https://testflight.apple.com/join/ywiozhph) | 2025-05-02 |
 | ios | [Microsoft Office](https://testflight.apple.com/join/eHAKJBtM) | 2025-05-02 |
@@ -57,7 +60,6 @@
 | ios | [Tuttii Beta](https://testflight.apple.com/join/2dTbntXZ) | 2025-02-16 |
 | ios | [Fugl](https://testflight.apple.com/join/bZIZeB4N) | 2025-02-11 |
 | ios_game | [Fugl](https://testflight.apple.com/join/bZIZeB4N) | 2025-02-11 |
-| macos | [Code Piper](https://testflight.apple.com/join/7raK338Y) | 2025-02-08 |
 | ios | [Firewalla](https://testflight.apple.com/join/qtUnSjJp) | 2025-02-05 |
 | macos | [Drafts](https://testflight.apple.com/join/GhPcOrwa) | 2025-01-29 |
 | ios | [RainViewer: Live Weather Radar](https://testflight.apple.com/join/OZ1B4sTS) | 2025-01-23 |
