@@ -1,12 +1,12 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-05-08 |
+| ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2025-05-08 |
+| ios | [Trello — Organize anything!](https://testflight.apple.com/join/cRWMcQsr) | 2025-05-08 |
 | chinese | [比亚迪](https://testflight.apple.com/join/ae77GeWM) | 2025-05-07 |
-| ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2025-05-07 |
 | ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2025-05-07 |
-| ios | [搜狗输入法](https://testflight.apple.com/join/lSZdpEPH) | 2025-05-07 |
 | ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2025-05-07 |
-| ios | [MyFRITZ!App](https://testflight.apple.com/join/U0v1rBE5) | 2025-05-06 |
 | ios | [Breveto](https://testflight.apple.com/join/9mqMgFjT) | 2025-05-03 |
 | ios | [Filmlog](https://testflight.apple.com/join/ywiozhph) | 2025-05-02 |
 | ios | [Microsoft Office](https://testflight.apple.com/join/eHAKJBtM) | 2025-05-02 |
