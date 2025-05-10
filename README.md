@@ -1,7 +1,9 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Instagram](https://testflight.apple.com/join/72eyUWVE) | 2025-05-09 |
+| chinese | [哔哩哔哩](https://testflight.apple.com/join/K4pM1kHu) | 2025-05-10 |
+| ios | [Overcast beta](https://testflight.apple.com/join/37azzGPG) | 2025-05-10 |
+| ios | [Phone Call Notes: VoxNote](https://testflight.apple.com/join/vjNaxsFb) | 2025-05-10 |
 | ios | [Pinterest beta](https://testflight.apple.com/join/ffIBkq35) | 2025-05-09 |
 | ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-05-08 |
 | ios | [Trello — Organize anything!](https://testflight.apple.com/join/cRWMcQsr) | 2025-05-08 |
@@ -9,7 +11,6 @@
 | ios | [Filmlog](https://testflight.apple.com/join/ywiozhph) | 2025-05-02 |
 | ios | [Microsoft Office](https://testflight.apple.com/join/eHAKJBtM) | 2025-05-02 |
 | ios | [Soulver 3](https://testflight.apple.com/join/Vlb55Wtr) | 2025-05-02 |
-| ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-05-01 |
 | ios | [uPic](https://testflight.apple.com/join/60QsOvQ1) | 2025-05-01 |
 | ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2025-04-30 |
 | ios | [umami Analytics](https://testflight.apple.com/join/AYfPX1Ut) | 2025-04-30 |
@@ -17,7 +18,6 @@
 | ios | [Ketro](https://testflight.apple.com/join/VnGZhjsZ) | 2025-04-29 |
 | ios | [PushUp Workout Daily at Home](https://testflight.apple.com/join/myFEz6DW) | 2025-04-29 |
 | ios | [Lenna - Video Library Player](https://testflight.apple.com/join/bExxpaX1) | 2025-04-25 |
-| ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2025-04-22 |
 | chinese | [抖音](https://testflight.apple.com/join/ZILJgZhU) | 2025-04-21 |
 | chinese | [滴答清单 TickTick](https://testflight.apple.com/join/vWQPDFQU) | 2025-04-21 |
 | ios | [KeyCalc - Retro Calculator](https://testflight.apple.com/join/Uy465Q3m) | 2025-04-21 |
