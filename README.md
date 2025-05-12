@@ -1,12 +1,13 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2025-05-12 |
+| ios | [MyFRITZ!App](https://testflight.apple.com/join/U0v1rBE5) | 2025-05-12 |
+| ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2025-05-12 |
+| ios | [Twitch Beta](https://testflight.apple.com/join/8vRKFAiY) | 2025-05-12 |
 | chinese | [比亚迪](https://testflight.apple.com/join/ae77GeWM) | 2025-05-11 |
-| ios | [Wipr 2](https://testflight.apple.com/join/YkdEItQi) | 2025-05-11 |
-| ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2025-05-11 |
 | ios | [Phone Call Notes: VoxNote](https://testflight.apple.com/join/vjNaxsFb) | 2025-05-10 |
 | ios | [Pinterest beta](https://testflight.apple.com/join/ffIBkq35) | 2025-05-09 |
-| ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-05-08 |
 | ios | [Trello — Organize anything!](https://testflight.apple.com/join/cRWMcQsr) | 2025-05-08 |
 | ios | [Breveto](https://testflight.apple.com/join/9mqMgFjT) | 2025-05-03 |
 | ios | [Filmlog](https://testflight.apple.com/join/ywiozhph) | 2025-05-02 |
@@ -56,8 +57,6 @@
 | ios | [Reddit](https://testflight.apple.com/join/b9jMyOWt) | 2025-02-19 |
 | chinese | [酷狗音乐](https://testflight.apple.com/join/6cnKUyZ8) | 2025-02-17 |
 | ios | [Tuttii Beta](https://testflight.apple.com/join/2dTbntXZ) | 2025-02-16 |
-| ios | [Fugl](https://testflight.apple.com/join/bZIZeB4N) | 2025-02-11 |
-| ios_game | [Fugl](https://testflight.apple.com/join/bZIZeB4N) | 2025-02-11 |
 | ios | [Firewalla](https://testflight.apple.com/join/qtUnSjJp) | 2025-02-05 |
 | macos | [Drafts](https://testflight.apple.com/join/GhPcOrwa) | 2025-01-29 |
 | ios | [RainViewer: Live Weather Radar](https://testflight.apple.com/join/OZ1B4sTS) | 2025-01-23 |
