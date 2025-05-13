@@ -1,6 +1,12 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2025-05-13 |
+| ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-05-13 |
+| ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-05-13 |
+| ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2025-05-13 |
+| ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2025-05-13 |
+| ios | [Wipr 2](https://testflight.apple.com/join/YkdEItQi) | 2025-05-13 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2025-05-12 |
 | ios | [MyFRITZ!App](https://testflight.apple.com/join/U0v1rBE5) | 2025-05-12 |
 | ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2025-05-12 |
