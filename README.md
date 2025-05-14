@@ -1,17 +1,15 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Proton VPN: Fast & Secure](https://testflight.apple.com/join/3yl2MSbw) | 2025-05-14 |
+| ios | [SimpleTix Box Office](https://testflight.apple.com/join/zyByZSX8) | 2025-05-14 |
+| ios | [Skype For iPhone](https://testflight.apple.com/join/fB5IkJT7) | 2025-05-14 |
 | ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2025-05-13 |
 | ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-05-13 |
 | ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-05-13 |
-| ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2025-05-13 |
 | ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2025-05-13 |
 | ios | [Wipr 2](https://testflight.apple.com/join/YkdEItQi) | 2025-05-13 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2025-05-12 |
-| ios | [MyFRITZ!App](https://testflight.apple.com/join/U0v1rBE5) | 2025-05-12 |
-| ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2025-05-12 |
-| ios | [Twitch Beta](https://testflight.apple.com/join/8vRKFAiY) | 2025-05-12 |
-| chinese | [比亚迪](https://testflight.apple.com/join/ae77GeWM) | 2025-05-11 |
 | ios | [Phone Call Notes: VoxNote](https://testflight.apple.com/join/vjNaxsFb) | 2025-05-10 |
 | ios | [Pinterest beta](https://testflight.apple.com/join/ffIBkq35) | 2025-05-09 |
 | ios | [Trello — Organize anything!](https://testflight.apple.com/join/cRWMcQsr) | 2025-05-08 |
@@ -34,7 +32,6 @@
 | ios | [Grindr - Gay Dating & Chat](https://testflight.apple.com/join/eO265vw7) | 2025-04-16 |
 | ios | [Dropbox](https://testflight.apple.com/join/LBZaRq4I) | 2025-04-15 |
 | ios | [Mindustry](https://testflight.apple.com/join/79Azm1hZ) | 2025-04-13 |
-| ios | [Facebook](https://testflight.apple.com/join/C1a3MRG4) | 2025-04-12 |
 | ios | [Sleep Cycle - Sleep Tracker beta](https://testflight.apple.com/join/tCeANbZi) | 2025-04-10 |
 | ios | [Sleep Cycle alarm clock](https://testflight.apple.com/join/8RcEFqFF) | 2025-04-10 |
 | ios | [Plex](https://testflight.apple.com/join/MY6JTzix) | 2025-04-09 |
