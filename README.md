@@ -1,15 +1,12 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Proton VPN: Fast & Secure](https://testflight.apple.com/join/3yl2MSbw) | 2025-05-14 |
+| chinese | [QQ beta](https://testflight.apple.com/join/R5FNGUl3) | 2025-05-15 |
 | ios | [SimpleTix Box Office](https://testflight.apple.com/join/zyByZSX8) | 2025-05-14 |
-| ios | [Skype For iPhone](https://testflight.apple.com/join/fB5IkJT7) | 2025-05-14 |
 | ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2025-05-13 |
-| ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-05-13 |
 | ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-05-13 |
 | ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2025-05-13 |
 | ios | [Wipr 2](https://testflight.apple.com/join/YkdEItQi) | 2025-05-13 |
-| ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2025-05-12 |
 | ios | [Phone Call Notes: VoxNote](https://testflight.apple.com/join/vjNaxsFb) | 2025-05-10 |
 | ios | [Pinterest beta](https://testflight.apple.com/join/ffIBkq35) | 2025-05-09 |
 | ios | [Trello — Organize anything!](https://testflight.apple.com/join/cRWMcQsr) | 2025-05-08 |
