@@ -1,8 +1,14 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| chinese | [比亚迪](https://testflight.apple.com/join/ae77GeWM) | 2025-05-17 |
+| ios | [Clipchamp Dev](https://testflight.apple.com/join/rG93mFo8) | 2025-05-17 |
+| ios | [MyFRITZ!App](https://testflight.apple.com/join/U0v1rBE5) | 2025-05-17 |
+| ios | [Proton VPN: Fast & Secure](https://testflight.apple.com/join/3yl2MSbw) | 2025-05-17 |
+| ios | [Skype For iPhone](https://testflight.apple.com/join/fB5IkJT7) | 2025-05-17 |
+| ios | [搜狗输入法](https://testflight.apple.com/join/lSZdpEPH) | 2025-05-17 |
+| ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2025-05-17 |
 | ios | [uBlock Origin Lite](https://testflight.apple.com/join/JjTcThrV) | 2025-05-16 |
-| chinese | [QQ beta](https://testflight.apple.com/join/R5FNGUl3) | 2025-05-15 |
 | ios | [SimpleTix Box Office](https://testflight.apple.com/join/zyByZSX8) | 2025-05-14 |
 | ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2025-05-13 |
 | ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-05-13 |
@@ -13,7 +19,6 @@
 | ios | [Trello — Organize anything!](https://testflight.apple.com/join/cRWMcQsr) | 2025-05-08 |
 | ios | [Breveto](https://testflight.apple.com/join/9mqMgFjT) | 2025-05-03 |
 | ios | [Filmlog](https://testflight.apple.com/join/ywiozhph) | 2025-05-02 |
-| ios | [Microsoft Office](https://testflight.apple.com/join/eHAKJBtM) | 2025-05-02 |
 | ios | [Soulver 3](https://testflight.apple.com/join/Vlb55Wtr) | 2025-05-02 |
 | ios | [uPic](https://testflight.apple.com/join/60QsOvQ1) | 2025-05-01 |
 | ios | [umami Analytics](https://testflight.apple.com/join/AYfPX1Ut) | 2025-04-30 |
@@ -99,7 +104,6 @@
 | ios | [Deezer](https://testflight.apple.com/join/e7mCOEeg) | 2024-09-27 |
 | ios | [NS Travel Planner](https://testflight.apple.com/join/ldBwapIg) | 2024-09-26 |
 | ios | [Airmail - Your Mail With You](https://testflight.apple.com/join/wRiLlWPE) | 2024-08-31 |
-| ios | [IFTTT](https://testflight.apple.com/join/Lgmzxy7Y) | 2024-08-31 |
 | ios | [FRITZ!App Smart Home](https://testflight.apple.com/join/kzVJhIg1) | 2024-08-21 |
 | ios | [PDF Viewer Pro by PSPDFKit](https://testflight.apple.com/join/6IMUtZ8n) | 2024-08-15 |
 | ios | [NOS](https://testflight.apple.com/join/i4g2QrrG) | 2024-07-18 |
