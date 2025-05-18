@@ -1,11 +1,10 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| chinese | [比亚迪](https://testflight.apple.com/join/ae77GeWM) | 2025-05-17 |
-| ios | [Clipchamp Dev](https://testflight.apple.com/join/rG93mFo8) | 2025-05-17 |
+| ios | [CardioBot - Heart Rate Monitor](https://testflight.apple.com/join/H82FVVt6) | 2025-05-18 |
+| ios | [Microsoft Office](https://testflight.apple.com/join/eHAKJBtM) | 2025-05-18 |
 | ios | [MyFRITZ!App](https://testflight.apple.com/join/U0v1rBE5) | 2025-05-17 |
 | ios | [Proton VPN: Fast & Secure](https://testflight.apple.com/join/3yl2MSbw) | 2025-05-17 |
-| ios | [Skype For iPhone](https://testflight.apple.com/join/fB5IkJT7) | 2025-05-17 |
 | ios | [搜狗输入法](https://testflight.apple.com/join/lSZdpEPH) | 2025-05-17 |
 | ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2025-05-17 |
 | ios | [uBlock Origin Lite](https://testflight.apple.com/join/JjTcThrV) | 2025-05-16 |
@@ -13,7 +12,6 @@
 | ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2025-05-13 |
 | ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-05-13 |
 | ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2025-05-13 |
-| ios | [Wipr 2](https://testflight.apple.com/join/YkdEItQi) | 2025-05-13 |
 | ios | [Phone Call Notes: VoxNote](https://testflight.apple.com/join/vjNaxsFb) | 2025-05-10 |
 | ios | [Pinterest beta](https://testflight.apple.com/join/ffIBkq35) | 2025-05-09 |
 | ios | [Trello — Organize anything!](https://testflight.apple.com/join/cRWMcQsr) | 2025-05-08 |
@@ -131,7 +129,6 @@
 | ios | [Kodi Remote beta](https://testflight.apple.com/join/VQkpfqDN) | 2023-07-30 |
 | ios | [Readwise Reader beta](https://testflight.apple.com/join/NSeQo22d) | 2023-07-30 |
 | chinese | [西瓜视频](https://testflight.apple.com/join/ZkSx6V4m) | 2023-07-26 |
-| ios | [S.Mario beta](https://testflight.apple.com/join/HLKh7Jx9) | 2023-07-06 |
 | ios_game | [DropZap World](https://testflight.apple.com/join/CdEXgjst) | 2023-07-02 |
 | chinese | [Maxthon Cloud Web Browser](https://testflight.apple.com/join/ONuHkBRv) | 2023-06-22 |
 | ios | [Microsoft Lists](https://testflight.apple.com/join/FL3caOg6) | 2023-04-28 |
