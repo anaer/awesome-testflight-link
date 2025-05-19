@@ -1,12 +1,15 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [CardioBot - Heart Rate Monitor](https://testflight.apple.com/join/H82FVVt6) | 2025-05-18 |
+| ios | [AliExpress - Shopping App beta](https://testflight.apple.com/join/TFhYeUyJ) | 2025-05-19 |
+| ios | [Duolingo](https://testflight.apple.com/join/Sq8bYSnJ) | 2025-05-19 |
+| ios | [FRITZ!App WLAN](https://testflight.apple.com/join/vbfCKamq) | 2025-05-19 |
+| ios | [Instagram](https://testflight.apple.com/join/72eyUWVE) | 2025-05-19 |
+| ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2025-05-19 |
 | ios | [Microsoft Office](https://testflight.apple.com/join/eHAKJBtM) | 2025-05-18 |
 | ios | [MyFRITZ!App](https://testflight.apple.com/join/U0v1rBE5) | 2025-05-17 |
 | ios | [Proton VPN: Fast & Secure](https://testflight.apple.com/join/3yl2MSbw) | 2025-05-17 |
 | ios | [搜狗输入法](https://testflight.apple.com/join/lSZdpEPH) | 2025-05-17 |
-| ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2025-05-17 |
 | ios | [uBlock Origin Lite](https://testflight.apple.com/join/JjTcThrV) | 2025-05-16 |
 | ios | [SimpleTix Box Office](https://testflight.apple.com/join/zyByZSX8) | 2025-05-14 |
 | ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2025-05-13 |
@@ -56,7 +59,6 @@
 | ios | [ProtonMail - Encrypted Email](https://testflight.apple.com/join/8SxXknzD) | 2025-02-26 |
 | ios | [GitHub](https://testflight.apple.com/join/NLskzwi5) | 2025-02-25 |
 | ios | [AmazFaces](https://testflight.apple.com/join/4hBEKHHg) | 2025-02-23 |
-| macos | [Batch Clipboard](https://testflight.apple.com/join/epg3cusH) | 2025-02-21 |
 | ios | [Me@Walmart](https://testflight.apple.com/join/bqo4smK7) | 2025-02-19 |
 | ios | [Reddit](https://testflight.apple.com/join/b9jMyOWt) | 2025-02-19 |
 | chinese | [酷狗音乐](https://testflight.apple.com/join/6cnKUyZ8) | 2025-02-17 |
@@ -83,7 +85,6 @@
 | ios | [Monzo Bank - Mobile Banking](https://testflight.apple.com/join/2NZLBFyb) | 2024-11-18 |
 | ios | [Opera GX](https://testflight.apple.com/join/t3k1AVL3) | 2024-11-18 |
 | ios | [Oura](https://testflight.apple.com/join/NPhd6XTF) | 2024-11-18 |
-| ios | [QR File Transfer](https://testflight.apple.com/join/P5UOcDLa) | 2024-11-18 |
 | ios | [Shadow PC beta](https://testflight.apple.com/join/PxpSW79P) | 2024-11-18 |
 | ios | [UniFi](https://testflight.apple.com/join/Pkd9a658) | 2024-11-18 |
 | ios | [Windscribe VPN](https://testflight.apple.com/join/oKib5JOq) | 2024-11-18 |
