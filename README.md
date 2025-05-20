@@ -1,12 +1,11 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [AliExpress - Shopping App beta](https://testflight.apple.com/join/TFhYeUyJ) | 2025-05-19 |
-| ios | [Duolingo](https://testflight.apple.com/join/Sq8bYSnJ) | 2025-05-19 |
-| ios | [FRITZ!App WLAN](https://testflight.apple.com/join/vbfCKamq) | 2025-05-19 |
-| ios | [Instagram](https://testflight.apple.com/join/72eyUWVE) | 2025-05-19 |
+| ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-05-20 |
+| ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2025-05-20 |
+| ios | [Pythonista 3](https://testflight.apple.com/join/qDkBu2ur) | 2025-05-20 |
+| ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2025-05-20 |
 | ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2025-05-19 |
-| ios | [Microsoft Office](https://testflight.apple.com/join/eHAKJBtM) | 2025-05-18 |
 | ios | [MyFRITZ!App](https://testflight.apple.com/join/U0v1rBE5) | 2025-05-17 |
 | ios | [Proton VPN: Fast & Secure](https://testflight.apple.com/join/3yl2MSbw) | 2025-05-17 |
 | ios | [搜狗输入法](https://testflight.apple.com/join/lSZdpEPH) | 2025-05-17 |
