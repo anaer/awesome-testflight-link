@@ -1,10 +1,14 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| chinese | [比亚迪](https://testflight.apple.com/join/ae77GeWM) | 2025-05-22 |
+| ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2025-05-22 |
+| ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2025-05-22 |
+| ios | [Instagram](https://testflight.apple.com/join/72eyUWVE) | 2025-05-22 |
+| macos | [Batch Clipboard](https://testflight.apple.com/join/epg3cusH) | 2025-05-22 |
 | ios | [Twitch Beta](https://testflight.apple.com/join/8vRKFAiY) | 2025-05-21 |
 | ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-05-20 |
 | ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2025-05-20 |
-| ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2025-05-20 |
 | ios | [MyFRITZ!App](https://testflight.apple.com/join/U0v1rBE5) | 2025-05-17 |
 | ios | [Proton VPN: Fast & Secure](https://testflight.apple.com/join/3yl2MSbw) | 2025-05-17 |
 | ios | [搜狗输入法](https://testflight.apple.com/join/lSZdpEPH) | 2025-05-17 |
@@ -127,7 +131,6 @@
 | ios | [Kodi Remote beta](https://testflight.apple.com/join/VQkpfqDN) | 2023-07-30 |
 | ios | [Readwise Reader beta](https://testflight.apple.com/join/NSeQo22d) | 2023-07-30 |
 | chinese | [西瓜视频](https://testflight.apple.com/join/ZkSx6V4m) | 2023-07-26 |
-| ios_game | [DropZap World](https://testflight.apple.com/join/CdEXgjst) | 2023-07-02 |
 | chinese | [Maxthon Cloud Web Browser](https://testflight.apple.com/join/ONuHkBRv) | 2023-06-22 |
 | ios | [Microsoft Lists](https://testflight.apple.com/join/FL3caOg6) | 2023-04-28 |
 | ios | [Proton Pass](https://testflight.apple.com/join/GiTMzX3I) | 2023-04-25 |
@@ -140,7 +143,6 @@
 | ios | [AnyList](https://testflight.apple.com/join/xwvLPc6o) | 2022-12-15 |
 | ios | [Buffer: Social Media Manager](https://testflight.apple.com/join/DOpMcusn) | 2022-10-13 |
 | ios | [Debit & Credit](https://testflight.apple.com/join/FvufwHrV) | 2022-10-13 |
-| ios | [DropZap World](https://testflight.apple.com/join/CdEXgjst) | 2022-10-13 |
 | ios | [IMDb: Movies & TV Shows](https://testflight.apple.com/join/Y9yo0X5t) | 2022-10-13 |
 | ios | [Nubank](https://testflight.apple.com/join/v3SGNpM5) | 2022-10-13 |
 | ios | [Smart Post: Schedule Media](https://testflight.apple.com/join/a0zXMXbA) | 2022-10-13 |
