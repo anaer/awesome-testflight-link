@@ -1,7 +1,10 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Cash App](https://testflight.apple.com/join/An0RiOFF) | 2025-05-23 |
+| ios | [Clipchamp Dev](https://testflight.apple.com/join/rG93mFo8) | 2025-05-24 |
+| ios | [F1ATV](https://testflight.apple.com/join/NRswe1IZ) | 2025-05-24 |
+| ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2025-05-24 |
+| ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2025-05-24 |
 | ios | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2025-05-23 |
 | macos | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2025-05-23 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2025-05-22 |
@@ -9,7 +12,6 @@
 | ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2025-05-20 |
 | ios | [MyFRITZ!App](https://testflight.apple.com/join/U0v1rBE5) | 2025-05-17 |
 | ios | [Proton VPN: Fast & Secure](https://testflight.apple.com/join/3yl2MSbw) | 2025-05-17 |
-| ios | [搜狗输入法](https://testflight.apple.com/join/lSZdpEPH) | 2025-05-17 |
 | ios | [uBlock Origin Lite](https://testflight.apple.com/join/JjTcThrV) | 2025-05-16 |
 | ios | [SimpleTix Box Office](https://testflight.apple.com/join/zyByZSX8) | 2025-05-14 |
 | ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2025-05-13 |
@@ -26,7 +28,6 @@
 | ios | [Ketro](https://testflight.apple.com/join/VnGZhjsZ) | 2025-04-29 |
 | ios | [PushUp Workout Daily at Home](https://testflight.apple.com/join/myFEz6DW) | 2025-04-29 |
 | ios | [Lenna - Video Library Player](https://testflight.apple.com/join/bExxpaX1) | 2025-04-25 |
-| chinese | [抖音](https://testflight.apple.com/join/ZILJgZhU) | 2025-04-21 |
 | chinese | [滴答清单 TickTick](https://testflight.apple.com/join/vWQPDFQU) | 2025-04-21 |
 | ios | [KeyCalc - Retro Calculator](https://testflight.apple.com/join/Uy465Q3m) | 2025-04-21 |
 | ios | [Sangoma Meet](https://testflight.apple.com/join/BEd12vi5) | 2025-04-18 |
