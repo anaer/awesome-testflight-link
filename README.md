@@ -1,12 +1,9 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Clipchamp Dev](https://testflight.apple.com/join/rG93mFo8) | 2025-05-24 |
+| chinese | [比亚迪](https://testflight.apple.com/join/ae77GeWM) | 2025-05-25 |
 | ios | [F1ATV](https://testflight.apple.com/join/NRswe1IZ) | 2025-05-24 |
 | ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2025-05-24 |
-| ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2025-05-24 |
-| ios | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2025-05-23 |
-| macos | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2025-05-23 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2025-05-22 |
 | ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-05-20 |
 | ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2025-05-20 |
