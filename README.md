@@ -1,7 +1,13 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| chinese | [比亚迪](https://testflight.apple.com/join/ae77GeWM) | 2025-05-25 |
+| ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2025-05-26 |
+| ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2025-05-26 |
+| ios | [Instagram](https://testflight.apple.com/join/72eyUWVE) | 2025-05-26 |
+| ios | [Microsoft Office](https://testflight.apple.com/join/eHAKJBtM) | 2025-05-26 |
+| ios | [Microsoft To-Do](https://testflight.apple.com/join/JSq3UkAz) | 2025-05-26 |
+| ios | [Skype For iPhone](https://testflight.apple.com/join/fB5IkJT7) | 2025-05-26 |
+| ios | [Twitch Beta](https://testflight.apple.com/join/8vRKFAiY) | 2025-05-26 |
 | ios | [F1ATV](https://testflight.apple.com/join/NRswe1IZ) | 2025-05-24 |
 | ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2025-05-24 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2025-05-22 |
