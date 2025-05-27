@@ -1,17 +1,14 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2025-05-26 |
+| chinese | [抖音](https://testflight.apple.com/join/ZILJgZhU) | 2025-05-27 |
+| ios | [Tee-Timer](https://testflight.apple.com/join/wzyzzspP) | 2025-05-27 |
 | ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2025-05-26 |
-| ios | [Instagram](https://testflight.apple.com/join/72eyUWVE) | 2025-05-26 |
-| ios | [Microsoft Office](https://testflight.apple.com/join/eHAKJBtM) | 2025-05-26 |
-| ios | [Microsoft To-Do](https://testflight.apple.com/join/JSq3UkAz) | 2025-05-26 |
 | ios | [Skype For iPhone](https://testflight.apple.com/join/fB5IkJT7) | 2025-05-26 |
 | ios | [Twitch Beta](https://testflight.apple.com/join/8vRKFAiY) | 2025-05-26 |
 | ios | [F1ATV](https://testflight.apple.com/join/NRswe1IZ) | 2025-05-24 |
 | ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2025-05-24 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2025-05-22 |
-| ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-05-20 |
 | ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2025-05-20 |
 | ios | [MyFRITZ!App](https://testflight.apple.com/join/U0v1rBE5) | 2025-05-17 |
 | ios | [Proton VPN: Fast & Secure](https://testflight.apple.com/join/3yl2MSbw) | 2025-05-17 |
