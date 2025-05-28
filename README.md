@@ -1,11 +1,17 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Grocery-Smart Grocery List](https://testflight.apple.com/join/v29eXz9t) | 2025-05-28 |
+| ios | [Jira Cloud by Atlassian](https://testflight.apple.com/join/2lm7vHBS) | 2025-05-28 |
+| ios | [Microsoft Office](https://testflight.apple.com/join/eHAKJBtM) | 2025-05-28 |
+| ios | [Xbox Family Settings beta](https://testflight.apple.com/join/8oUnDzMQ) | 2025-05-28 |
+| ios | [搜狗输入法](https://testflight.apple.com/join/lSZdpEPH) | 2025-05-28 |
+| ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2025-05-28 |
+| ios_game | [Minecraft: Education Edition beta](https://testflight.apple.com/join/sBDlEXYr) | 2025-05-28 |
 | chinese | [抖音](https://testflight.apple.com/join/ZILJgZhU) | 2025-05-27 |
 | ios | [Tee-Timer](https://testflight.apple.com/join/wzyzzspP) | 2025-05-27 |
 | ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2025-05-26 |
 | ios | [Skype For iPhone](https://testflight.apple.com/join/fB5IkJT7) | 2025-05-26 |
-| ios | [Twitch Beta](https://testflight.apple.com/join/8vRKFAiY) | 2025-05-26 |
 | ios | [F1ATV](https://testflight.apple.com/join/NRswe1IZ) | 2025-05-24 |
 | ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2025-05-24 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2025-05-22 |
@@ -15,9 +21,7 @@
 | ios | [uBlock Origin Lite](https://testflight.apple.com/join/JjTcThrV) | 2025-05-16 |
 | ios | [SimpleTix Box Office](https://testflight.apple.com/join/zyByZSX8) | 2025-05-14 |
 | ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2025-05-13 |
-| ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-05-13 |
 | ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2025-05-13 |
-| ios | [Pinterest beta](https://testflight.apple.com/join/ffIBkq35) | 2025-05-09 |
 | ios | [Trello — Organize anything!](https://testflight.apple.com/join/cRWMcQsr) | 2025-05-08 |
 | ios | [Breveto](https://testflight.apple.com/join/9mqMgFjT) | 2025-05-03 |
 | ios | [Filmlog](https://testflight.apple.com/join/ywiozhph) | 2025-05-02 |
