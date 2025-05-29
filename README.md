@@ -1,14 +1,15 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Grocery-Smart Grocery List](https://testflight.apple.com/join/v29eXz9t) | 2025-05-28 |
-| ios | [Jira Cloud by Atlassian](https://testflight.apple.com/join/2lm7vHBS) | 2025-05-28 |
+| ios | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2025-05-29 |
+| ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-05-29 |
+| ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-05-29 |
+| ios | [PDF Expert: PDF Editor](https://testflight.apple.com/join/UE75wprO) | 2025-05-29 |
+| macos | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2025-05-29 |
 | ios | [Microsoft Office](https://testflight.apple.com/join/eHAKJBtM) | 2025-05-28 |
 | ios | [Xbox Family Settings beta](https://testflight.apple.com/join/8oUnDzMQ) | 2025-05-28 |
-| ios | [搜狗输入法](https://testflight.apple.com/join/lSZdpEPH) | 2025-05-28 |
 | ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2025-05-28 |
 | ios_game | [Minecraft: Education Edition beta](https://testflight.apple.com/join/sBDlEXYr) | 2025-05-28 |
-| chinese | [抖音](https://testflight.apple.com/join/ZILJgZhU) | 2025-05-27 |
 | ios | [Tee-Timer](https://testflight.apple.com/join/wzyzzspP) | 2025-05-27 |
 | ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2025-05-26 |
 | ios | [Skype For iPhone](https://testflight.apple.com/join/fB5IkJT7) | 2025-05-26 |
@@ -116,7 +117,6 @@
 | ios | [Microsoft PowerPoint](https://testflight.apple.com/join/a9Ef0N3g) | 2024-06-01 |
 | ios | [Ruuvi Station](https://testflight.apple.com/join/loHFrEV1) | 2024-05-31 |
 | ios | [Opera Touch web browser](https://testflight.apple.com/join/ASrCFVHB) | 2024-05-28 |
-| ios | [AdGuard VPN](https://testflight.apple.com/join/fZRiD1zt) | 2024-05-24 |
 | ios | [TV Time – #1 Show Tracker](https://testflight.apple.com/join/hjKkDsc4) | 2024-05-24 |
 | ios | [Revolut - Radically Better](https://testflight.apple.com/join/oqrinjQB) | 2024-05-16 |
 | ios | [TrackMyTour](https://testflight.apple.com/join/tv9dt6po) | 2024-04-15 |
