@@ -1,13 +1,14 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2025-05-29 |
+| chinese | [iCost 记账](https://testflight.apple.com/join/pm1jk978) | 2025-05-30 |
+| chinese | [抖音](https://testflight.apple.com/join/ZILJgZhU) | 2025-05-30 |
+| ios | [AdGuard VPN](https://testflight.apple.com/join/fZRiD1zt) | 2025-05-30 |
+| ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2025-05-30 |
+| ios | [腾讯视频HD](https://testflight.apple.com/join/9JaSzwSN) | 2025-05-30 |
 | ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-05-29 |
 | ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-05-29 |
-| ios | [PDF Expert: PDF Editor](https://testflight.apple.com/join/UE75wprO) | 2025-05-29 |
-| macos | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2025-05-29 |
 | ios | [Microsoft Office](https://testflight.apple.com/join/eHAKJBtM) | 2025-05-28 |
-| ios | [Xbox Family Settings beta](https://testflight.apple.com/join/8oUnDzMQ) | 2025-05-28 |
 | ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2025-05-28 |
 | ios_game | [Minecraft: Education Edition beta](https://testflight.apple.com/join/sBDlEXYr) | 2025-05-28 |
 | ios | [Tee-Timer](https://testflight.apple.com/join/wzyzzspP) | 2025-05-27 |
