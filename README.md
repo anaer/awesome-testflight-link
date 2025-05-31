@@ -1,12 +1,13 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| chinese | [iCost 记账](https://testflight.apple.com/join/pm1jk978) | 2025-05-30 |
+| ios | [1Blocker](https://testflight.apple.com/join/KjmVWFnT) | 2025-05-31 |
+| ios | [Grocery-Smart Grocery List](https://testflight.apple.com/join/v29eXz9t) | 2025-05-31 |
+| ios | [Jira Cloud by Atlassian](https://testflight.apple.com/join/2lm7vHBS) | 2025-05-31 |
+| ios | [PPSSPP - PSP emulator](https://testflight.apple.com/join/uNlhFG0m) | 2025-05-31 |
+| ios | [S1 Mufu](https://testflight.apple.com/join/KwboYTNt) | 2025-05-31 |
 | chinese | [抖音](https://testflight.apple.com/join/ZILJgZhU) | 2025-05-30 |
 | ios | [AdGuard VPN](https://testflight.apple.com/join/fZRiD1zt) | 2025-05-30 |
-| ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2025-05-30 |
-| ios | [腾讯视频HD](https://testflight.apple.com/join/9JaSzwSN) | 2025-05-30 |
-| ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-05-29 |
 | ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-05-29 |
 | ios | [Microsoft Office](https://testflight.apple.com/join/eHAKJBtM) | 2025-05-28 |
 | ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2025-05-28 |
@@ -140,7 +141,6 @@
 | ios | [Ride Wait Times](https://testflight.apple.com/join/yQNmMRwB) | 2023-02-11 |
 | macos | [Ride Wait Times](https://testflight.apple.com/join/yQNmMRwB) | 2023-02-11 |
 | ios | [Day One Journal](https://testflight.apple.com/join/NXLBigzY) | 2023-02-06 |
-| ios_game | [Cell to Singularity](https://testflight.apple.com/join/RD9jGH9S) | 2023-01-15 |
 | ios | [Qobuz](https://testflight.apple.com/join/GPJZwnh9) | 2023-01-14 |
 | ios | [AnyList](https://testflight.apple.com/join/xwvLPc6o) | 2022-12-15 |
 | ios | [Buffer: Social Media Manager](https://testflight.apple.com/join/DOpMcusn) | 2022-10-13 |
