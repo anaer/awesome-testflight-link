@@ -1,14 +1,14 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [1Blocker](https://testflight.apple.com/join/KjmVWFnT) | 2025-05-31 |
+| chinese | [比亚迪](https://testflight.apple.com/join/ae77GeWM) | 2025-06-01 |
+| ios | [CardioBot - Heart Rate Monitor](https://testflight.apple.com/join/H82FVVt6) | 2025-06-01 |
+| ios | [Just Timers](https://testflight.apple.com/join/pyzrz0oT) | 2025-06-01 |
 | ios | [Grocery-Smart Grocery List](https://testflight.apple.com/join/v29eXz9t) | 2025-05-31 |
-| ios | [Jira Cloud by Atlassian](https://testflight.apple.com/join/2lm7vHBS) | 2025-05-31 |
 | ios | [PPSSPP - PSP emulator](https://testflight.apple.com/join/uNlhFG0m) | 2025-05-31 |
 | ios | [S1 Mufu](https://testflight.apple.com/join/KwboYTNt) | 2025-05-31 |
 | chinese | [抖音](https://testflight.apple.com/join/ZILJgZhU) | 2025-05-30 |
 | ios | [AdGuard VPN](https://testflight.apple.com/join/fZRiD1zt) | 2025-05-30 |
-| ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-05-29 |
 | ios | [Microsoft Office](https://testflight.apple.com/join/eHAKJBtM) | 2025-05-28 |
 | ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2025-05-28 |
 | ios_game | [Minecraft: Education Edition beta](https://testflight.apple.com/join/sBDlEXYr) | 2025-05-28 |
