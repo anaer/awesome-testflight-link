@@ -1,14 +1,18 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| chinese | [比亚迪](https://testflight.apple.com/join/ae77GeWM) | 2025-06-04 |
+| chinese | [抖音](https://testflight.apple.com/join/ZILJgZhU) | 2025-06-05 |
+| ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2025-06-05 |
+| ios | [CardioBot - Heart Rate Monitor](https://testflight.apple.com/join/H82FVVt6) | 2025-06-05 |
+| ios | [Freebox](https://testflight.apple.com/join/q9vICEOv) | 2025-06-05 |
+| ios | [Jira Cloud by Atlassian](https://testflight.apple.com/join/2lm7vHBS) | 2025-06-05 |
+| ios | [Microsoft SwiftKey Keyboard](https://testflight.apple.com/join/yhIhAvjp) | 2025-06-05 |
+| ios | [Unicode Keyboard](https://testflight.apple.com/join/YKH3kGpt) | 2025-06-05 |
+| ios | [腾讯视频HD](https://testflight.apple.com/join/9JaSzwSN) | 2025-06-05 |
 | ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-06-04 |
 | ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-06-04 |
 | ios | [Microsoft Loop beta](https://testflight.apple.com/join/KNyadcIZ) | 2025-06-04 |
 | ios | [Spotify - Music and Podcasts](https://testflight.apple.com/join/1SyedSId) | 2025-06-04 |
-| ios | [Spotify Music](https://testflight.apple.com/join/7lt2tesn) | 2025-06-04 |
-| ios | [搜狗输入法](https://testflight.apple.com/join/lSZdpEPH) | 2025-06-04 |
-| macos | [Batch Clipboard](https://testflight.apple.com/join/epg3cusH) | 2025-06-04 |
 | ios | [Twitch Beta](https://testflight.apple.com/join/8vRKFAiY) | 2025-06-02 |
 | ios | [PPSSPP - PSP emulator](https://testflight.apple.com/join/uNlhFG0m) | 2025-05-31 |
 | ios | [AdGuard VPN](https://testflight.apple.com/join/fZRiD1zt) | 2025-05-30 |
