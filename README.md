@@ -1,14 +1,15 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| chinese | [比亚迪](https://testflight.apple.com/join/ae77GeWM) | 2025-06-06 |
+| ios | [Grocery-Smart Grocery List](https://testflight.apple.com/join/v29eXz9t) | 2025-06-06 |
+| ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2025-06-06 |
+| ios_game | [Cell to Singularity](https://testflight.apple.com/join/RD9jGH9S) | 2025-06-06 |
+| macos | [Batch Clipboard](https://testflight.apple.com/join/epg3cusH) | 2025-06-06 |
 | chinese | [抖音](https://testflight.apple.com/join/ZILJgZhU) | 2025-06-05 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2025-06-05 |
-| ios | [CardioBot - Heart Rate Monitor](https://testflight.apple.com/join/H82FVVt6) | 2025-06-05 |
 | ios | [Freebox](https://testflight.apple.com/join/q9vICEOv) | 2025-06-05 |
-| ios | [Jira Cloud by Atlassian](https://testflight.apple.com/join/2lm7vHBS) | 2025-06-05 |
-| ios | [Microsoft SwiftKey Keyboard](https://testflight.apple.com/join/yhIhAvjp) | 2025-06-05 |
 | ios | [Unicode Keyboard](https://testflight.apple.com/join/YKH3kGpt) | 2025-06-05 |
-| ios | [腾讯视频HD](https://testflight.apple.com/join/9JaSzwSN) | 2025-06-05 |
 | ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-06-04 |
 | ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-06-04 |
 | ios | [Microsoft Loop beta](https://testflight.apple.com/join/KNyadcIZ) | 2025-06-04 |
@@ -20,10 +21,8 @@
 | ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2025-05-28 |
 | ios_game | [Minecraft: Education Edition beta](https://testflight.apple.com/join/sBDlEXYr) | 2025-05-28 |
 | ios | [Tee-Timer](https://testflight.apple.com/join/wzyzzspP) | 2025-05-27 |
-| ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2025-05-26 |
 | ios | [Skype For iPhone](https://testflight.apple.com/join/fB5IkJT7) | 2025-05-26 |
 | ios | [F1ATV](https://testflight.apple.com/join/NRswe1IZ) | 2025-05-24 |
-| ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2025-05-24 |
 | ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2025-05-20 |
 | ios | [MyFRITZ!App](https://testflight.apple.com/join/U0v1rBE5) | 2025-05-17 |
 | ios | [Proton VPN: Fast & Secure](https://testflight.apple.com/join/3yl2MSbw) | 2025-05-17 |
