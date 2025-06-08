@@ -1,15 +1,13 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Cash App](https://testflight.apple.com/join/An0RiOFF) | 2025-06-07 |
+| ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2025-06-08 |
 | ios | [Grocery-Smart Grocery List](https://testflight.apple.com/join/v29eXz9t) | 2025-06-06 |
 | ios_game | [Cell to Singularity](https://testflight.apple.com/join/RD9jGH9S) | 2025-06-06 |
 | macos | [Batch Clipboard](https://testflight.apple.com/join/epg3cusH) | 2025-06-06 |
-| chinese | [抖音](https://testflight.apple.com/join/ZILJgZhU) | 2025-06-05 |
 | ios | [CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky) | 2025-06-05 |
 | ios | [Freebox](https://testflight.apple.com/join/q9vICEOv) | 2025-06-05 |
 | ios | [Unicode Keyboard](https://testflight.apple.com/join/YKH3kGpt) | 2025-06-05 |
-| ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-06-04 |
 | ios | [Spotify - Music and Podcasts](https://testflight.apple.com/join/1SyedSId) | 2025-06-04 |
 | ios | [PPSSPP - PSP emulator](https://testflight.apple.com/join/uNlhFG0m) | 2025-05-31 |
 | ios | [AdGuard VPN](https://testflight.apple.com/join/fZRiD1zt) | 2025-05-30 |
@@ -24,7 +22,6 @@
 | ios | [Proton VPN: Fast & Secure](https://testflight.apple.com/join/3yl2MSbw) | 2025-05-17 |
 | ios | [uBlock Origin Lite](https://testflight.apple.com/join/JjTcThrV) | 2025-05-16 |
 | ios | [SimpleTix Box Office](https://testflight.apple.com/join/zyByZSX8) | 2025-05-14 |
-| ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2025-05-13 |
 | ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2025-05-13 |
 | ios | [Trello — Organize anything!](https://testflight.apple.com/join/cRWMcQsr) | 2025-05-08 |
 | ios | [Breveto](https://testflight.apple.com/join/9mqMgFjT) | 2025-05-03 |
@@ -52,7 +49,6 @@
 | ios | [MuseoTrack](https://testflight.apple.com/join/jR1MsqSt) | 2025-04-02 |
 | ios | [Gaming for Peace-GAP](https://testflight.apple.com/join/tJu81Sch) | 2025-04-01 |
 | ios | [StarPlayrX](https://testflight.apple.com/join/Ecz0xXvf) | 2025-03-30 |
-| chinese | [酷狗概念版](https://testflight.apple.com/join/IOgbaxds) | 2025-03-29 |
 | ios | [Herald: Latest News](https://testflight.apple.com/join/pkrdVu0n) | 2025-03-29 |
 | ios | [Love2D Game Maker](https://testflight.apple.com/join/bCLmQKfQ) | 2025-03-28 |
 | ios | [CharMap](https://testflight.apple.com/join/TL68k0Sp) | 2025-03-20 |
