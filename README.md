@@ -1,11 +1,11 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| chinese | [哔哩哔哩](https://testflight.apple.com/join/K4pM1kHu) | 2025-06-09 |
-| chinese | [酷狗概念版](https://testflight.apple.com/join/IOgbaxds) | 2025-06-09 |
-| ios | [1Blocker](https://testflight.apple.com/join/KjmVWFnT) | 2025-06-09 |
-| ios | [Instagram](https://testflight.apple.com/join/72eyUWVE) | 2025-06-09 |
-| ios | [Pinterest beta](https://testflight.apple.com/join/ffIBkq35) | 2025-06-09 |
+| chinese | [比亚迪](https://testflight.apple.com/join/ae77GeWM) | 2025-06-10 |
+| ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-06-10 |
+| ios | [Notion](https://testflight.apple.com/join/YSo8aVCS) | 2025-06-10 |
+| ios | [Pythonista 3](https://testflight.apple.com/join/qDkBu2ur) | 2025-06-10 |
+| ios | [Spotify - Music and Podcasts](https://testflight.apple.com/join/1SyedSId) | 2025-06-10 |
 | ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2025-06-09 |
 | ios_game | [Cell to Singularity](https://testflight.apple.com/join/RD9jGH9S) | 2025-06-06 |
 | macos | [Batch Clipboard](https://testflight.apple.com/join/epg3cusH) | 2025-06-06 |
@@ -63,7 +63,6 @@
 | ios | [GitHub](https://testflight.apple.com/join/NLskzwi5) | 2025-02-25 |
 | ios | [AmazFaces](https://testflight.apple.com/join/4hBEKHHg) | 2025-02-23 |
 | ios | [Me@Walmart](https://testflight.apple.com/join/bqo4smK7) | 2025-02-19 |
-| ios | [Reddit](https://testflight.apple.com/join/b9jMyOWt) | 2025-02-19 |
 | chinese | [酷狗音乐](https://testflight.apple.com/join/6cnKUyZ8) | 2025-02-17 |
 | ios | [Tuttii Beta](https://testflight.apple.com/join/2dTbntXZ) | 2025-02-16 |
 | ios | [Firewalla](https://testflight.apple.com/join/qtUnSjJp) | 2025-02-05 |
@@ -90,10 +89,8 @@
 | ios | [Oura](https://testflight.apple.com/join/NPhd6XTF) | 2024-11-18 |
 | ios | [Shadow PC beta](https://testflight.apple.com/join/PxpSW79P) | 2024-11-18 |
 | ios | [UniFi](https://testflight.apple.com/join/Pkd9a658) | 2024-11-18 |
-| ios | [Windscribe VPN](https://testflight.apple.com/join/oKib5JOq) | 2024-11-18 |
 | ios | [Health Export](https://testflight.apple.com/join/g5FcLFJQ) | 2024-11-12 |
 | ios | [Hadge](https://testflight.apple.com/join/rFLkfNSu) | 2024-11-06 |
-| chinese | [微信键盘 beta](https://testflight.apple.com/join/iSTXkF4K) | 2024-11-01 |
 | ios | [Tunna - Xray/V2ray Proxy Utility](https://testflight.apple.com/join/dqMoJObA) | 2024-10-28 |
 | ios | [Fedicat](https://testflight.apple.com/join/b6GatWTY) | 2024-10-27 |
 | ios | [FotMob Live Soccer Scores](https://testflight.apple.com/join/zEAwGlrV) | 2024-10-24 |
