@@ -1,12 +1,11 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| chinese | [抖音](https://testflight.apple.com/join/ZILJgZhU) | 2025-06-11 |
+| ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-06-11 |
+| ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2025-06-11 |
 | chinese | [比亚迪](https://testflight.apple.com/join/ae77GeWM) | 2025-06-10 |
 | ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-06-10 |
-| ios | [Notion](https://testflight.apple.com/join/YSo8aVCS) | 2025-06-10 |
-| ios | [Pythonista 3](https://testflight.apple.com/join/qDkBu2ur) | 2025-06-10 |
-| ios | [Spotify - Music and Podcasts](https://testflight.apple.com/join/1SyedSId) | 2025-06-10 |
-| ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2025-06-09 |
 | ios_game | [Cell to Singularity](https://testflight.apple.com/join/RD9jGH9S) | 2025-06-06 |
 | macos | [Batch Clipboard](https://testflight.apple.com/join/epg3cusH) | 2025-06-06 |
 | ios | [Freebox](https://testflight.apple.com/join/q9vICEOv) | 2025-06-05 |
@@ -90,7 +89,6 @@
 | ios | [Shadow PC beta](https://testflight.apple.com/join/PxpSW79P) | 2024-11-18 |
 | ios | [UniFi](https://testflight.apple.com/join/Pkd9a658) | 2024-11-18 |
 | ios | [Health Export](https://testflight.apple.com/join/g5FcLFJQ) | 2024-11-12 |
-| ios | [Hadge](https://testflight.apple.com/join/rFLkfNSu) | 2024-11-06 |
 | ios | [Tunna - Xray/V2ray Proxy Utility](https://testflight.apple.com/join/dqMoJObA) | 2024-10-28 |
 | ios | [Fedicat](https://testflight.apple.com/join/b6GatWTY) | 2024-10-27 |
 | ios | [FotMob Live Soccer Scores](https://testflight.apple.com/join/zEAwGlrV) | 2024-10-24 |
