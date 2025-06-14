@@ -1,9 +1,8 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| chinese | [抖音](https://testflight.apple.com/join/ZILJgZhU) | 2025-06-11 |
-| ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-06-11 |
-| ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2025-06-11 |
+| ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2025-06-14 |
+| ios | [S1 Mufu](https://testflight.apple.com/join/KwboYTNt) | 2025-06-14 |
 | chinese | [比亚迪](https://testflight.apple.com/join/ae77GeWM) | 2025-06-10 |
 | ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-06-10 |
 | ios_game | [Cell to Singularity](https://testflight.apple.com/join/RD9jGH9S) | 2025-06-06 |
