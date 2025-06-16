@@ -1,12 +1,10 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Everlog](https://testflight.apple.com/join/sOCDYE65) | 2025-06-15 |
-| ios | [Microsoft OneDrive](https://testflight.apple.com/join/LtgPLzrQ) | 2025-06-15 |
-| ios | [Möbius Sync - Syncthing iOS](https://testflight.apple.com/join/n5A7ceuK) | 2025-06-15 |
-| ios | [Pockity](https://testflight.apple.com/join/4qfWwXvP) | 2025-06-15 |
+| chinese | [iCost 记账](https://testflight.apple.com/join/pm1jk978) | 2025-06-16 |
+| ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2025-06-16 |
+| ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2025-06-16 |
 | ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2025-06-14 |
-| ios | [S1 Mufu](https://testflight.apple.com/join/KwboYTNt) | 2025-06-14 |
 | ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-06-10 |
 | ios_game | [Cell to Singularity](https://testflight.apple.com/join/RD9jGH9S) | 2025-06-06 |
 | macos | [Batch Clipboard](https://testflight.apple.com/join/epg3cusH) | 2025-06-06 |
