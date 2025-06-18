@@ -1,7 +1,13 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| chinese | [iCost 记账](https://testflight.apple.com/join/pm1jk978) | 2025-06-16 |
+| chinese | [我的世界-网易](https://testflight.apple.com/join/mOxZm1dD) | 2025-06-18 |
+| chinese | [比亚迪](https://testflight.apple.com/join/ae77GeWM) | 2025-06-18 |
+| ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2025-06-18 |
+| ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-06-18 |
+| ios | [ProtonMail - Encrypted Email](https://testflight.apple.com/join/8SxXknzD) | 2025-06-18 |
+| ios | [Reddit](https://testflight.apple.com/join/b9jMyOWt) | 2025-06-18 |
+| ios | [Twitch Beta](https://testflight.apple.com/join/8vRKFAiY) | 2025-06-18 |
 | ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2025-06-16 |
 | ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2025-06-16 |
 | ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2025-06-14 |
@@ -22,7 +28,6 @@
 | ios | [Proton VPN: Fast & Secure](https://testflight.apple.com/join/3yl2MSbw) | 2025-05-17 |
 | ios | [uBlock Origin Lite](https://testflight.apple.com/join/JjTcThrV) | 2025-05-16 |
 | ios | [SimpleTix Box Office](https://testflight.apple.com/join/zyByZSX8) | 2025-05-14 |
-| ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2025-05-13 |
 | ios | [Trello — Organize anything!](https://testflight.apple.com/join/cRWMcQsr) | 2025-05-08 |
 | ios | [Breveto](https://testflight.apple.com/join/9mqMgFjT) | 2025-05-03 |
 | ios | [Filmlog](https://testflight.apple.com/join/ywiozhph) | 2025-05-02 |
