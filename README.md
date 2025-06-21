@@ -1,15 +1,12 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Grocery-Smart Grocery List](https://testflight.apple.com/join/v29eXz9t) | 2025-06-21 |
+| ios | [Hadge](https://testflight.apple.com/join/rFLkfNSu) | 2025-06-21 |
+| ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2025-06-21 |
 | chinese | [我的世界-网易](https://testflight.apple.com/join/mOxZm1dD) | 2025-06-18 |
-| chinese | [比亚迪](https://testflight.apple.com/join/ae77GeWM) | 2025-06-18 |
-| ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2025-06-18 |
-| ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-06-18 |
-| ios | [ProtonMail - Encrypted Email](https://testflight.apple.com/join/8SxXknzD) | 2025-06-18 |
-| ios | [Reddit](https://testflight.apple.com/join/b9jMyOWt) | 2025-06-18 |
 | ios | [Twitch Beta](https://testflight.apple.com/join/8vRKFAiY) | 2025-06-18 |
 | ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2025-06-16 |
-| ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2025-06-16 |
 | ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2025-06-14 |
 | ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-06-10 |
 | ios_game | [Cell to Singularity](https://testflight.apple.com/join/RD9jGH9S) | 2025-06-06 |
@@ -130,7 +127,6 @@
 | ios | [Readwise Reader beta](https://testflight.apple.com/join/NSeQo22d) | 2023-07-30 |
 | chinese | [西瓜视频](https://testflight.apple.com/join/ZkSx6V4m) | 2023-07-26 |
 | chinese | [Maxthon Cloud Web Browser](https://testflight.apple.com/join/ONuHkBRv) | 2023-06-22 |
-| ios | [Microsoft Lists](https://testflight.apple.com/join/FL3caOg6) | 2023-04-28 |
 | ios | [Proton Pass](https://testflight.apple.com/join/GiTMzX3I) | 2023-04-25 |
 | ios | [Ulysses](https://testflight.apple.com/join/r7ehG0dQ) | 2023-04-10 |
 | ios | [Ride Wait Times](https://testflight.apple.com/join/yQNmMRwB) | 2023-02-11 |
