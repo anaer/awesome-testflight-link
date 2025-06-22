@@ -1,12 +1,14 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| chinese | [比亚迪](https://testflight.apple.com/join/ae77GeWM) | 2025-06-22 |
+| ios | [Möbius Sync - Syncthing iOS](https://testflight.apple.com/join/n5A7ceuK) | 2025-06-22 |
+| ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2025-06-22 |
 | ios | [Grocery-Smart Grocery List](https://testflight.apple.com/join/v29eXz9t) | 2025-06-21 |
 | ios | [Hadge](https://testflight.apple.com/join/rFLkfNSu) | 2025-06-21 |
 | ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2025-06-21 |
 | chinese | [我的世界-网易](https://testflight.apple.com/join/mOxZm1dD) | 2025-06-18 |
 | ios | [Twitch Beta](https://testflight.apple.com/join/8vRKFAiY) | 2025-06-18 |
-| ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2025-06-16 |
 | ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2025-06-14 |
 | ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-06-10 |
 | ios_game | [Cell to Singularity](https://testflight.apple.com/join/RD9jGH9S) | 2025-06-06 |
@@ -15,7 +17,6 @@
 | ios | [Unicode Keyboard](https://testflight.apple.com/join/YKH3kGpt) | 2025-06-05 |
 | ios | [PPSSPP - PSP emulator](https://testflight.apple.com/join/uNlhFG0m) | 2025-05-31 |
 | ios | [AdGuard VPN](https://testflight.apple.com/join/fZRiD1zt) | 2025-05-30 |
-| ios | [Microsoft Office](https://testflight.apple.com/join/eHAKJBtM) | 2025-05-28 |
 | ios_game | [Minecraft: Education Edition beta](https://testflight.apple.com/join/sBDlEXYr) | 2025-05-28 |
 | ios | [Tee-Timer](https://testflight.apple.com/join/wzyzzspP) | 2025-05-27 |
 | ios | [Skype For iPhone](https://testflight.apple.com/join/fB5IkJT7) | 2025-05-26 |
@@ -81,7 +82,6 @@
 | ios | [Element X - Secure Chat & Call](https://testflight.apple.com/join/uZbeZCOi) | 2024-11-18 |
 | ios | [Intuit Credit Karma](https://testflight.apple.com/join/JrqR9vkv) | 2024-11-18 |
 | ios | [Life360: Find Friends & Family beta](https://testflight.apple.com/join/syX6IOJF) | 2024-11-18 |
-| ios | [MSN (Start)](https://testflight.apple.com/join/jOahtut6) | 2024-11-18 |
 | ios | [Mastodon](https://testflight.apple.com/join/ebSjPU84) | 2024-11-18 |
 | ios | [Microsoft Defender: Security](https://testflight.apple.com/join/AYVtbvfc) | 2024-11-18 |
 | ios | [Monzo Bank - Mobile Banking](https://testflight.apple.com/join/2NZLBFyb) | 2024-11-18 |
