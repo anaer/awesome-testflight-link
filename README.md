@@ -1,16 +1,16 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Instagram](https://testflight.apple.com/join/72eyUWVE) | 2025-06-23 |
+| ios | [Onion Browser](https://testflight.apple.com/join/90DvGBOE) | 2025-06-23 |
+| ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2025-06-23 |
 | chinese | [比亚迪](https://testflight.apple.com/join/ae77GeWM) | 2025-06-22 |
-| ios | [Möbius Sync - Syncthing iOS](https://testflight.apple.com/join/n5A7ceuK) | 2025-06-22 |
-| ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2025-06-22 |
 | ios | [Grocery-Smart Grocery List](https://testflight.apple.com/join/v29eXz9t) | 2025-06-21 |
 | ios | [Hadge](https://testflight.apple.com/join/rFLkfNSu) | 2025-06-21 |
 | ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2025-06-21 |
 | chinese | [我的世界-网易](https://testflight.apple.com/join/mOxZm1dD) | 2025-06-18 |
 | ios | [Twitch Beta](https://testflight.apple.com/join/8vRKFAiY) | 2025-06-18 |
 | ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2025-06-14 |
-| ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-06-10 |
 | ios_game | [Cell to Singularity](https://testflight.apple.com/join/RD9jGH9S) | 2025-06-06 |
 | macos | [Batch Clipboard](https://testflight.apple.com/join/epg3cusH) | 2025-06-06 |
 | ios | [Freebox](https://testflight.apple.com/join/q9vICEOv) | 2025-06-05 |
@@ -24,7 +24,6 @@
 | ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2025-05-20 |
 | ios | [MyFRITZ!App](https://testflight.apple.com/join/U0v1rBE5) | 2025-05-17 |
 | ios | [Proton VPN: Fast & Secure](https://testflight.apple.com/join/3yl2MSbw) | 2025-05-17 |
-| ios | [uBlock Origin Lite](https://testflight.apple.com/join/JjTcThrV) | 2025-05-16 |
 | ios | [SimpleTix Box Office](https://testflight.apple.com/join/zyByZSX8) | 2025-05-14 |
 | ios | [Trello — Organize anything!](https://testflight.apple.com/join/cRWMcQsr) | 2025-05-08 |
 | ios | [Breveto](https://testflight.apple.com/join/9mqMgFjT) | 2025-05-03 |
