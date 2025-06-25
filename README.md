@@ -1,11 +1,10 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Instagram](https://testflight.apple.com/join/72eyUWVE) | 2025-06-23 |
-| ios | [Onion Browser](https://testflight.apple.com/join/90DvGBOE) | 2025-06-23 |
-| ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2025-06-23 |
+| chinese | [QQ beta](https://testflight.apple.com/join/R5FNGUl3) | 2025-06-25 |
+| ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2025-06-25 |
+| ios | [Reddit](https://testflight.apple.com/join/b9jMyOWt) | 2025-06-25 |
 | chinese | [比亚迪](https://testflight.apple.com/join/ae77GeWM) | 2025-06-22 |
-| ios | [Grocery-Smart Grocery List](https://testflight.apple.com/join/v29eXz9t) | 2025-06-21 |
 | ios | [Hadge](https://testflight.apple.com/join/rFLkfNSu) | 2025-06-21 |
 | ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2025-06-21 |
 | chinese | [我的世界-网易](https://testflight.apple.com/join/mOxZm1dD) | 2025-06-18 |
