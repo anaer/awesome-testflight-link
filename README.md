@@ -1,10 +1,22 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| chinese | [微信键盘 beta](https://testflight.apple.com/join/iSTXkF4K) | 2025-06-26 |
+| chinese | [抖音](https://testflight.apple.com/join/ZILJgZhU) | 2025-06-26 |
+| ios | [FRITZ!App WLAN](https://testflight.apple.com/join/vbfCKamq) | 2025-06-26 |
+| ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2025-06-26 |
+| ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-06-26 |
+| ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-06-26 |
+| ios | [Microsoft Loop beta](https://testflight.apple.com/join/KNyadcIZ) | 2025-06-26 |
+| ios | [Microsoft Office](https://testflight.apple.com/join/eHAKJBtM) | 2025-06-26 |
+| ios | [Microsoft OneDrive](https://testflight.apple.com/join/LtgPLzrQ) | 2025-06-26 |
+| ios | [Pinterest beta](https://testflight.apple.com/join/ffIBkq35) | 2025-06-26 |
+| ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2025-06-26 |
+| ios | [Steam iOS beta](https://testflight.apple.com/join/8BOPXsGz) | 2025-06-26 |
+| ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2025-06-26 |
 | chinese | [QQ beta](https://testflight.apple.com/join/R5FNGUl3) | 2025-06-25 |
 | ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2025-06-25 |
 | ios | [Reddit](https://testflight.apple.com/join/b9jMyOWt) | 2025-06-25 |
-| chinese | [比亚迪](https://testflight.apple.com/join/ae77GeWM) | 2025-06-22 |
 | ios | [Hadge](https://testflight.apple.com/join/rFLkfNSu) | 2025-06-21 |
 | ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2025-06-21 |
 | chinese | [我的世界-网易](https://testflight.apple.com/join/mOxZm1dD) | 2025-06-18 |
