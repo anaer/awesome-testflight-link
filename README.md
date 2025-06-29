@@ -1,13 +1,10 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Spotify - Music and Podcasts](https://testflight.apple.com/join/1SyedSId) | 2025-06-29 |
 | chinese | [比亚迪](https://testflight.apple.com/join/ae77GeWM) | 2025-06-28 |
-| ios | [1Password - Password Manager beta](https://testflight.apple.com/join/fzDLkIVK) | 2025-06-28 |
-| ios | [Microsoft Office](https://testflight.apple.com/join/eHAKJBtM) | 2025-06-28 |
-| ios | [Jira Cloud by Atlassian](https://testflight.apple.com/join/2lm7vHBS) | 2025-06-27 |
 | ios | [搜狗输入法](https://testflight.apple.com/join/lSZdpEPH) | 2025-06-27 |
 | ios_game | [MLBB Beta](https://testflight.apple.com/join/yYjKTTlT) | 2025-06-27 |
-| chinese | [微信键盘 beta](https://testflight.apple.com/join/iSTXkF4K) | 2025-06-26 |
 | chinese | [抖音](https://testflight.apple.com/join/ZILJgZhU) | 2025-06-26 |
 | ios | [FRITZ!App WLAN](https://testflight.apple.com/join/vbfCKamq) | 2025-06-26 |
 | ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-06-26 |
