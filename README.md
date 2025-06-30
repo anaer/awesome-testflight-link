@@ -1,7 +1,9 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Spotify - Music and Podcasts](https://testflight.apple.com/join/1SyedSId) | 2025-06-29 |
+| ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2025-06-30 |
+| ios_game | [Tappy Engine](https://testflight.apple.com/join/ZnTGTn2A) | 2025-06-30 |
+| ios_game | [Zombies Endless](https://testflight.apple.com/join/6Ya9E8jU) | 2025-06-30 |
 | chinese | [比亚迪](https://testflight.apple.com/join/ae77GeWM) | 2025-06-28 |
 | ios | [搜狗输入法](https://testflight.apple.com/join/lSZdpEPH) | 2025-06-27 |
 | ios_game | [MLBB Beta](https://testflight.apple.com/join/yYjKTTlT) | 2025-06-27 |
