@@ -1,13 +1,14 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| chinese | [酷狗概念版](https://testflight.apple.com/join/IOgbaxds) | 2025-07-01 |
+| ios | [UniFi](https://testflight.apple.com/join/Pkd9a658) | 2025-07-01 |
 | ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2025-06-30 |
 | ios_game | [Tappy Engine](https://testflight.apple.com/join/ZnTGTn2A) | 2025-06-30 |
 | ios_game | [Zombies Endless](https://testflight.apple.com/join/6Ya9E8jU) | 2025-06-30 |
 | chinese | [比亚迪](https://testflight.apple.com/join/ae77GeWM) | 2025-06-28 |
 | ios | [搜狗输入法](https://testflight.apple.com/join/lSZdpEPH) | 2025-06-27 |
 | ios_game | [MLBB Beta](https://testflight.apple.com/join/yYjKTTlT) | 2025-06-27 |
-| chinese | [抖音](https://testflight.apple.com/join/ZILJgZhU) | 2025-06-26 |
 | ios | [FRITZ!App WLAN](https://testflight.apple.com/join/vbfCKamq) | 2025-06-26 |
 | ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-06-26 |
 | ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-06-26 |
@@ -56,7 +57,6 @@
 | ios | [Plex](https://testflight.apple.com/join/MY6JTzix) | 2025-04-09 |
 | ios | [FM Radio x Radddio App](https://testflight.apple.com/join/JaRYx1fE) | 2025-04-08 |
 | ios | [Erasee: Background Remover](https://testflight.apple.com/join/t6xnU9H3) | 2025-04-03 |
-| ios | [MuseoTrack](https://testflight.apple.com/join/jR1MsqSt) | 2025-04-02 |
 | ios | [Gaming for Peace-GAP](https://testflight.apple.com/join/tJu81Sch) | 2025-04-01 |
 | ios | [StarPlayrX](https://testflight.apple.com/join/Ecz0xXvf) | 2025-03-30 |
 | ios | [Herald: Latest News](https://testflight.apple.com/join/pkrdVu0n) | 2025-03-29 |
