@@ -1,14 +1,12 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| chinese | [酷狗概念版](https://testflight.apple.com/join/IOgbaxds) | 2025-07-01 |
+| ios | [Facebook](https://testflight.apple.com/join/C1a3MRG4) | 2025-07-02 |
+| ios | [Quizlet](https://testflight.apple.com/join/mwhcPqxJ) | 2025-07-02 |
 | ios | [UniFi](https://testflight.apple.com/join/Pkd9a658) | 2025-07-01 |
 | ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2025-06-30 |
 | ios_game | [Tappy Engine](https://testflight.apple.com/join/ZnTGTn2A) | 2025-06-30 |
 | ios_game | [Zombies Endless](https://testflight.apple.com/join/6Ya9E8jU) | 2025-06-30 |
-| chinese | [比亚迪](https://testflight.apple.com/join/ae77GeWM) | 2025-06-28 |
-| ios | [搜狗输入法](https://testflight.apple.com/join/lSZdpEPH) | 2025-06-27 |
-| ios_game | [MLBB Beta](https://testflight.apple.com/join/yYjKTTlT) | 2025-06-27 |
 | ios | [FRITZ!App WLAN](https://testflight.apple.com/join/vbfCKamq) | 2025-06-26 |
 | ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-06-26 |
 | ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-06-26 |
