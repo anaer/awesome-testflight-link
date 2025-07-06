@@ -1,8 +1,9 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2025-07-06 |
+| macos | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2025-07-06 |
 | chinese | [我的世界-网易](https://testflight.apple.com/join/mOxZm1dD) | 2025-07-04 |
-| chinese | [抖音](https://testflight.apple.com/join/ZILJgZhU) | 2025-07-04 |
 | ios | [Windscribe VPN](https://testflight.apple.com/join/oKib5JOq) | 2025-07-04 |
 | chinese | [比亚迪](https://testflight.apple.com/join/ae77GeWM) | 2025-07-03 |
 | ios | [Jira Cloud by Atlassian](https://testflight.apple.com/join/2lm7vHBS) | 2025-07-03 |
