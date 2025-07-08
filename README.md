@@ -1,13 +1,14 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2025-07-06 |
-| macos | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2025-07-06 |
+| ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2025-07-08 |
+| ios | [Microsoft Loop beta](https://testflight.apple.com/join/KNyadcIZ) | 2025-07-08 |
+| ios | [Microsoft SwiftKey Keyboard](https://testflight.apple.com/join/yhIhAvjp) | 2025-07-08 |
+| ios | [搜狗输入法](https://testflight.apple.com/join/lSZdpEPH) | 2025-07-08 |
 | chinese | [我的世界-网易](https://testflight.apple.com/join/mOxZm1dD) | 2025-07-04 |
 | ios | [Windscribe VPN](https://testflight.apple.com/join/oKib5JOq) | 2025-07-04 |
 | chinese | [比亚迪](https://testflight.apple.com/join/ae77GeWM) | 2025-07-03 |
 | ios | [Jira Cloud by Atlassian](https://testflight.apple.com/join/2lm7vHBS) | 2025-07-03 |
-| ios | [Facebook](https://testflight.apple.com/join/C1a3MRG4) | 2025-07-02 |
 | ios | [Quizlet](https://testflight.apple.com/join/mwhcPqxJ) | 2025-07-02 |
 | ios | [UniFi](https://testflight.apple.com/join/Pkd9a658) | 2025-07-01 |
 | ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2025-06-30 |
@@ -79,7 +80,6 @@
 | ios | [Dash Calc](https://testflight.apple.com/join/4vmNqTE8) | 2025-01-07 |
 | ios | [Go Map!!](https://testflight.apple.com/join/T96F9wYq) | 2025-01-07 |
 | ios | [Termius – SSH client](https://testflight.apple.com/join/MnuClabg) | 2025-01-03 |
-| ios | [Monosnap - screenshot editor](https://testflight.apple.com/join/qQzBVHZs) | 2024-12-16 |
 | ios | [BeReal](https://testflight.apple.com/join/IM4jE5XY) | 2024-12-03 |
 | ios | [Spark Mail - Email by Readdle](https://testflight.apple.com/join/O2wj7i0x) | 2024-11-26 |
 | ios | [feeeed](https://testflight.apple.com/join/ixRrWfQL) | 2024-11-20 |
@@ -99,7 +99,6 @@
 | ios | [Fedicat](https://testflight.apple.com/join/b6GatWTY) | 2024-10-27 |
 | ios | [FotMob Live Soccer Scores](https://testflight.apple.com/join/zEAwGlrV) | 2024-10-24 |
 | chinese | [Weibo intl. beta](https://testflight.apple.com/join/2LslNUOW) | 2024-10-19 |
-| ios | [FRITZ!App TV](https://testflight.apple.com/join/Zl2czQO2) | 2024-10-19 |
 | ios | [Microsoft Designer beta](https://testflight.apple.com/join/KsuaylTZ) | 2024-10-17 |
 | ios | [Graphite: Photo to Sketch App beta](https://testflight.apple.com/join/gRhGuXzI) | 2024-10-16 |
 | ios | [Microsoft Bing Search](https://testflight.apple.com/join/YAKT5ew9) | 2024-10-13 |
