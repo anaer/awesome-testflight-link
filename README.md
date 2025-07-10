@@ -1,11 +1,13 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| chinese | [抖音](https://testflight.apple.com/join/ZILJgZhU) | 2025-07-10 |
+| ios | [Overcast beta](https://testflight.apple.com/join/37azzGPG) | 2025-07-10 |
+| ios | [Reddit](https://testflight.apple.com/join/b9jMyOWt) | 2025-07-10 |
+| ios | [Spotify - Music and Podcasts](https://testflight.apple.com/join/1SyedSId) | 2025-07-10 |
 | ios | [Count In Days](https://testflight.apple.com/join/3aUpFGCc) | 2025-07-09 |
 | ios | [IT之家](https://testflight.apple.com/join/eD9uChwY) | 2025-07-09 |
 | ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2025-07-08 |
-| ios | [Microsoft Loop beta](https://testflight.apple.com/join/KNyadcIZ) | 2025-07-08 |
-| ios | [Microsoft SwiftKey Keyboard](https://testflight.apple.com/join/yhIhAvjp) | 2025-07-08 |
 | ios | [搜狗输入法](https://testflight.apple.com/join/lSZdpEPH) | 2025-07-08 |
 | chinese | [我的世界-网易](https://testflight.apple.com/join/mOxZm1dD) | 2025-07-04 |
 | ios | [Windscribe VPN](https://testflight.apple.com/join/oKib5JOq) | 2025-07-04 |
@@ -128,7 +130,6 @@
 | ios | [Property Finder](https://testflight.apple.com/join/ctQoX4vC) | 2023-10-14 |
 | ios | [Chanyan](https://testflight.apple.com/join/ky5bRwMY) | 2023-09-23 |
 | ios | [Wikipedia](https://testflight.apple.com/join/Z0AU0KXC) | 2023-09-16 |
-| ios | [Obsidian - Connected Notes beta](https://testflight.apple.com/join/f3moqRS1) | 2023-08-07 |
 | ios | [Kodi Remote beta](https://testflight.apple.com/join/VQkpfqDN) | 2023-07-30 |
 | ios | [Readwise Reader beta](https://testflight.apple.com/join/NSeQo22d) | 2023-07-30 |
 | chinese | [西瓜视频](https://testflight.apple.com/join/ZkSx6V4m) | 2023-07-26 |
