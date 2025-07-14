@@ -1,12 +1,16 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Grocery-Smart Grocery List](https://testflight.apple.com/join/v29eXz9t) | 2025-07-14 |
+| ios | [Microsoft Office](https://testflight.apple.com/join/eHAKJBtM) | 2025-07-14 |
+| ios | [Monal - XMPP Chat](https://testflight.apple.com/join/lLLlgHpB) | 2025-07-14 |
+| ios | [Pedal - Your cycling companion](https://testflight.apple.com/join/aaSgUXmq) | 2025-07-14 |
+| macos | [Monal - XMPP Chatting](https://testflight.apple.com/join/tGH2m5vf) | 2025-07-14 |
 | ios | [Everlog](https://testflight.apple.com/join/sOCDYE65) | 2025-07-13 |
 | ios | [Pockity](https://testflight.apple.com/join/4qfWwXvP) | 2025-07-13 |
 | ios | [Reddit](https://testflight.apple.com/join/b9jMyOWt) | 2025-07-10 |
 | ios | [Count In Days](https://testflight.apple.com/join/3aUpFGCc) | 2025-07-09 |
 | ios | [IT之家](https://testflight.apple.com/join/eD9uChwY) | 2025-07-09 |
-| ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2025-07-08 |
 | ios | [搜狗输入法](https://testflight.apple.com/join/lSZdpEPH) | 2025-07-08 |
 | chinese | [我的世界-网易](https://testflight.apple.com/join/mOxZm1dD) | 2025-07-04 |
 | ios | [Windscribe VPN](https://testflight.apple.com/join/oKib5JOq) | 2025-07-04 |
@@ -46,7 +50,6 @@
 | ios | [Collabora Office](https://testflight.apple.com/join/TEnBWi68) | 2025-04-29 |
 | ios | [Ketro](https://testflight.apple.com/join/VnGZhjsZ) | 2025-04-29 |
 | ios | [PushUp Workout Daily at Home](https://testflight.apple.com/join/myFEz6DW) | 2025-04-29 |
-| ios | [Lenna - Video Library Player](https://testflight.apple.com/join/bExxpaX1) | 2025-04-25 |
 | chinese | [滴答清单 TickTick](https://testflight.apple.com/join/vWQPDFQU) | 2025-04-21 |
 | ios | [Sangoma Meet](https://testflight.apple.com/join/BEd12vi5) | 2025-04-18 |
 | ios | [Keka](https://testflight.apple.com/join/gPYINGCJ) | 2025-04-17 |
