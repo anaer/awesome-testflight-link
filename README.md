@@ -1,6 +1,9 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Facebook](https://testflight.apple.com/join/C1a3MRG4) | 2025-07-15 |
+| ios | [Spotify - Music and Podcasts](https://testflight.apple.com/join/1SyedSId) | 2025-07-15 |
+| ios | [Spotify Music](https://testflight.apple.com/join/7lt2tesn) | 2025-07-15 |
 | ios | [Grocery-Smart Grocery List](https://testflight.apple.com/join/v29eXz9t) | 2025-07-14 |
 | ios | [Microsoft Office](https://testflight.apple.com/join/eHAKJBtM) | 2025-07-14 |
 | ios | [Monal - XMPP Chat](https://testflight.apple.com/join/lLLlgHpB) | 2025-07-14 |
