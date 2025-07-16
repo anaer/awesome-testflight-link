@@ -1,16 +1,12 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Facebook](https://testflight.apple.com/join/C1a3MRG4) | 2025-07-15 |
 | ios | [Spotify - Music and Podcasts](https://testflight.apple.com/join/1SyedSId) | 2025-07-15 |
 | ios | [Spotify Music](https://testflight.apple.com/join/7lt2tesn) | 2025-07-15 |
 | ios | [Grocery-Smart Grocery List](https://testflight.apple.com/join/v29eXz9t) | 2025-07-14 |
-| ios | [Microsoft Office](https://testflight.apple.com/join/eHAKJBtM) | 2025-07-14 |
 | ios | [Monal - XMPP Chat](https://testflight.apple.com/join/lLLlgHpB) | 2025-07-14 |
 | ios | [Pedal - Your cycling companion](https://testflight.apple.com/join/aaSgUXmq) | 2025-07-14 |
 | macos | [Monal - XMPP Chatting](https://testflight.apple.com/join/tGH2m5vf) | 2025-07-14 |
-| ios | [Everlog](https://testflight.apple.com/join/sOCDYE65) | 2025-07-13 |
-| ios | [Pockity](https://testflight.apple.com/join/4qfWwXvP) | 2025-07-13 |
 | ios | [Reddit](https://testflight.apple.com/join/b9jMyOWt) | 2025-07-10 |
 | ios | [Count In Days](https://testflight.apple.com/join/3aUpFGCc) | 2025-07-09 |
 | ios | [IT之家](https://testflight.apple.com/join/eD9uChwY) | 2025-07-09 |
