@@ -1,9 +1,9 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Discord](https://testflight.apple.com/join/gdE4pRzI) | 2025-07-18 |
 | chinese | [抖音](https://testflight.apple.com/join/ZILJgZhU) | 2025-07-17 |
 | ios | [HexT](https://testflight.apple.com/join/ixTrfIgF) | 2025-07-17 |
-| ios | [Spotify Music](https://testflight.apple.com/join/7lt2tesn) | 2025-07-15 |
 | ios | [Grocery-Smart Grocery List](https://testflight.apple.com/join/v29eXz9t) | 2025-07-14 |
 | ios | [Monal - XMPP Chat](https://testflight.apple.com/join/lLLlgHpB) | 2025-07-14 |
 | ios | [Pedal - Your cycling companion](https://testflight.apple.com/join/aaSgUXmq) | 2025-07-14 |
@@ -49,7 +49,6 @@
 | ios | [Collabora Office](https://testflight.apple.com/join/TEnBWi68) | 2025-04-29 |
 | ios | [Ketro](https://testflight.apple.com/join/VnGZhjsZ) | 2025-04-29 |
 | ios | [PushUp Workout Daily at Home](https://testflight.apple.com/join/myFEz6DW) | 2025-04-29 |
-| chinese | [滴答清单 TickTick](https://testflight.apple.com/join/vWQPDFQU) | 2025-04-21 |
 | ios | [Sangoma Meet](https://testflight.apple.com/join/BEd12vi5) | 2025-04-18 |
 | ios | [Keka](https://testflight.apple.com/join/gPYINGCJ) | 2025-04-17 |
 | macos | [Caffeine Utility](https://testflight.apple.com/join/WHIbsose) | 2025-04-17 |
