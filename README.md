@@ -1,9 +1,8 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| chinese | [微信键盘 beta](https://testflight.apple.com/join/iSTXkF4K) | 2025-07-20 |
 | ios | [Just Timers](https://testflight.apple.com/join/pyzrz0oT) | 2025-07-19 |
-| ios | [Möbius Sync - Syncthing iOS](https://testflight.apple.com/join/n5A7ceuK) | 2025-07-19 |
-| ios | [Spotify Music](https://testflight.apple.com/join/7lt2tesn) | 2025-07-19 |
 | chinese | [抖音](https://testflight.apple.com/join/ZILJgZhU) | 2025-07-17 |
 | ios | [HexT](https://testflight.apple.com/join/ixTrfIgF) | 2025-07-17 |
 | ios | [Grocery-Smart Grocery List](https://testflight.apple.com/join/v29eXz9t) | 2025-07-14 |
@@ -26,7 +25,6 @@
 | ios | [Hadge](https://testflight.apple.com/join/rFLkfNSu) | 2025-06-21 |
 | ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2025-06-21 |
 | ios | [Twitch Beta](https://testflight.apple.com/join/8vRKFAiY) | 2025-06-18 |
-| ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2025-06-14 |
 | ios_game | [Cell to Singularity](https://testflight.apple.com/join/RD9jGH9S) | 2025-06-06 |
 | macos | [Batch Clipboard](https://testflight.apple.com/join/epg3cusH) | 2025-06-06 |
 | ios | [Freebox](https://testflight.apple.com/join/q9vICEOv) | 2025-06-05 |
