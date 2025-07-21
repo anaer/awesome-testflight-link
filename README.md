@@ -1,11 +1,8 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| chinese | [微信键盘 beta](https://testflight.apple.com/join/iSTXkF4K) | 2025-07-20 |
-| ios | [Just Timers](https://testflight.apple.com/join/pyzrz0oT) | 2025-07-19 |
-| chinese | [抖音](https://testflight.apple.com/join/ZILJgZhU) | 2025-07-17 |
+| ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-07-21 |
 | ios | [HexT](https://testflight.apple.com/join/ixTrfIgF) | 2025-07-17 |
-| ios | [Grocery-Smart Grocery List](https://testflight.apple.com/join/v29eXz9t) | 2025-07-14 |
 | ios | [Monal - XMPP Chat](https://testflight.apple.com/join/lLLlgHpB) | 2025-07-14 |
 | ios | [Pedal - Your cycling companion](https://testflight.apple.com/join/aaSgUXmq) | 2025-07-14 |
 | macos | [Monal - XMPP Chatting](https://testflight.apple.com/join/tGH2m5vf) | 2025-07-14 |
