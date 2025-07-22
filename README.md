@@ -1,6 +1,12 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [1Password - Password Manager beta](https://testflight.apple.com/join/fzDLkIVK) | 2025-07-22 |
+| ios | [Finance Bay](https://testflight.apple.com/join/y4etT8Ht) | 2025-07-22 |
+| ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-07-22 |
+| ios | [Microsoft To-Do](https://testflight.apple.com/join/JSq3UkAz) | 2025-07-22 |
+| ios | [Quizlet](https://testflight.apple.com/join/mwhcPqxJ) | 2025-07-22 |
+| ios | [Xbox Family Settings beta](https://testflight.apple.com/join/8oUnDzMQ) | 2025-07-22 |
 | ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-07-21 |
 | ios | [HexT](https://testflight.apple.com/join/ixTrfIgF) | 2025-07-17 |
 | ios | [Monal - XMPP Chat](https://testflight.apple.com/join/lLLlgHpB) | 2025-07-14 |
