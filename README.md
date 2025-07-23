@@ -1,12 +1,14 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [1Password - Password Manager beta](https://testflight.apple.com/join/fzDLkIVK) | 2025-07-22 |
-| ios | [Finance Bay](https://testflight.apple.com/join/y4etT8Ht) | 2025-07-22 |
+| ios | [1Blocker](https://testflight.apple.com/join/KjmVWFnT) | 2025-07-23 |
+| ios | [AliExpress - Shopping App beta](https://testflight.apple.com/join/TFhYeUyJ) | 2025-07-23 |
+| ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2025-07-23 |
+| ios | [MuseoTrack](https://testflight.apple.com/join/jR1MsqSt) | 2025-07-23 |
+| ios | [Sonic Compass](https://testflight.apple.com/join/dwXDCbv7) | 2025-07-23 |
+| ios | [Spotify - Music and Podcasts](https://testflight.apple.com/join/1SyedSId) | 2025-07-23 |
+| ios | [Wipr 2](https://testflight.apple.com/join/YkdEItQi) | 2025-07-23 |
 | ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-07-22 |
-| ios | [Microsoft To-Do](https://testflight.apple.com/join/JSq3UkAz) | 2025-07-22 |
-| ios | [Quizlet](https://testflight.apple.com/join/mwhcPqxJ) | 2025-07-22 |
-| ios | [Xbox Family Settings beta](https://testflight.apple.com/join/8oUnDzMQ) | 2025-07-22 |
 | ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-07-21 |
 | ios | [HexT](https://testflight.apple.com/join/ixTrfIgF) | 2025-07-17 |
 | ios | [Monal - XMPP Chat](https://testflight.apple.com/join/lLLlgHpB) | 2025-07-14 |
@@ -110,7 +112,6 @@
 | ios | [PDF Viewer Pro by PSPDFKit](https://testflight.apple.com/join/6IMUtZ8n) | 2024-08-15 |
 | ios | [NOS](https://testflight.apple.com/join/i4g2QrrG) | 2024-07-18 |
 | ios | [Signal - Private Messenger](https://testflight.apple.com/join/8FHtd1Jq) | 2024-07-02 |
-| ios | [SweeLOL](https://testflight.apple.com/join/FT9n1ncG) | 2024-07-02 |
 | ios | [Cheatsheet](https://testflight.apple.com/join/E7AnyPlA) | 2024-06-26 |
 | ios | [SHARE NOW (car2go & DriveNow)](https://testflight.apple.com/join/1SsBDNCj) | 2024-06-04 |
 | ios | [Microsoft PowerPoint](https://testflight.apple.com/join/a9Ef0N3g) | 2024-06-01 |
@@ -136,7 +137,6 @@
 | ios | [Ride Wait Times](https://testflight.apple.com/join/yQNmMRwB) | 2023-02-11 |
 | macos | [Ride Wait Times](https://testflight.apple.com/join/yQNmMRwB) | 2023-02-11 |
 | ios | [Day One Journal](https://testflight.apple.com/join/NXLBigzY) | 2023-02-06 |
-| ios | [Qobuz](https://testflight.apple.com/join/GPJZwnh9) | 2023-01-14 |
 | ios | [AnyList](https://testflight.apple.com/join/xwvLPc6o) | 2022-12-15 |
 | ios | [Buffer: Social Media Manager](https://testflight.apple.com/join/DOpMcusn) | 2022-10-13 |
 | ios | [Debit & Credit](https://testflight.apple.com/join/FvufwHrV) | 2022-10-13 |
