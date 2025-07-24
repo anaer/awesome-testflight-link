@@ -1,13 +1,11 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [1Blocker](https://testflight.apple.com/join/KjmVWFnT) | 2025-07-23 |
-| ios | [AliExpress - Shopping App beta](https://testflight.apple.com/join/TFhYeUyJ) | 2025-07-23 |
+| ios | [Onion Browser](https://testflight.apple.com/join/90DvGBOE) | 2025-07-24 |
+| ios | [Qobuz](https://testflight.apple.com/join/GPJZwnh9) | 2025-07-24 |
 | ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2025-07-23 |
 | ios | [MuseoTrack](https://testflight.apple.com/join/jR1MsqSt) | 2025-07-23 |
 | ios | [Sonic Compass](https://testflight.apple.com/join/dwXDCbv7) | 2025-07-23 |
-| ios | [Spotify - Music and Podcasts](https://testflight.apple.com/join/1SyedSId) | 2025-07-23 |
-| ios | [Wipr 2](https://testflight.apple.com/join/YkdEItQi) | 2025-07-23 |
 | ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-07-22 |
 | ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-07-21 |
 | ios | [HexT](https://testflight.apple.com/join/ixTrfIgF) | 2025-07-17 |
