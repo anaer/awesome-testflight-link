@@ -1,11 +1,11 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Lenna - Video Library Player](https://testflight.apple.com/join/bExxpaX1) | 2025-07-27 |
+| ios | [Microsoft To-Do](https://testflight.apple.com/join/JSq3UkAz) | 2025-07-27 |
 | chinese | [抖音](https://testflight.apple.com/join/ZILJgZhU) | 2025-07-26 |
 | ios | [Documents by Readdle](https://testflight.apple.com/join/EOPEVoDA) | 2025-07-26 |
 | ios | [Facebook](https://testflight.apple.com/join/C1a3MRG4) | 2025-07-26 |
-| ios | [Microsoft OneDrive](https://testflight.apple.com/join/LtgPLzrQ) | 2025-07-26 |
-| ios | [Xbox](https://testflight.apple.com/join/dfUeaFHS) | 2025-07-26 |
 | chinese | [QQ beta](https://testflight.apple.com/join/R5FNGUl3) | 2025-07-25 |
 | ios | [MuseoTrack](https://testflight.apple.com/join/jR1MsqSt) | 2025-07-23 |
 | ios | [Sonic Compass](https://testflight.apple.com/join/dwXDCbv7) | 2025-07-23 |
