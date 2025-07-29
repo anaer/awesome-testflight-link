@@ -1,11 +1,14 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [1Password - Password Manager beta](https://testflight.apple.com/join/fzDLkIVK) | 2025-07-29 |
+| ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-07-29 |
+| ios | [Quizlet](https://testflight.apple.com/join/mwhcPqxJ) | 2025-07-29 |
+| ios | [WhatsApp Business](https://testflight.apple.com/join/oscYikr0) | 2025-07-29 |
+| ios | [Xbox](https://testflight.apple.com/join/dfUeaFHS) | 2025-07-29 |
 | ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2025-07-28 |
-| chinese | [抖音](https://testflight.apple.com/join/ZILJgZhU) | 2025-07-26 |
 | ios | [Documents by Readdle](https://testflight.apple.com/join/EOPEVoDA) | 2025-07-26 |
 | ios | [Facebook](https://testflight.apple.com/join/C1a3MRG4) | 2025-07-26 |
-| chinese | [QQ beta](https://testflight.apple.com/join/R5FNGUl3) | 2025-07-25 |
 | ios | [MuseoTrack](https://testflight.apple.com/join/jR1MsqSt) | 2025-07-23 |
 | ios | [Sonic Compass](https://testflight.apple.com/join/dwXDCbv7) | 2025-07-23 |
 | ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-07-22 |
@@ -77,7 +80,6 @@
 | ios | [Firewalla](https://testflight.apple.com/join/qtUnSjJp) | 2025-02-05 |
 | macos | [Drafts](https://testflight.apple.com/join/GhPcOrwa) | 2025-01-29 |
 | ios | [RainViewer: Live Weather Radar](https://testflight.apple.com/join/OZ1B4sTS) | 2025-01-23 |
-| ios | [FRITZ!App Fon](https://testflight.apple.com/join/SGGCxyRp) | 2025-01-18 |
 | ios | [Dash Calc](https://testflight.apple.com/join/4vmNqTE8) | 2025-01-07 |
 | ios | [Go Map!!](https://testflight.apple.com/join/T96F9wYq) | 2025-01-07 |
 | ios | [Termius – SSH client](https://testflight.apple.com/join/MnuClabg) | 2025-01-03 |
