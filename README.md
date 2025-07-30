@@ -1,11 +1,14 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [1Password - Password Manager beta](https://testflight.apple.com/join/fzDLkIVK) | 2025-07-29 |
+| chinese | [抖音](https://testflight.apple.com/join/ZILJgZhU) | 2025-07-30 |
+| ios | [AliExpress - Shopping App beta](https://testflight.apple.com/join/TFhYeUyJ) | 2025-07-30 |
+| ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2025-07-30 |
+| ios | [Qobuz](https://testflight.apple.com/join/GPJZwnh9) | 2025-07-30 |
+| ios | [S1 Mufu](https://testflight.apple.com/join/KwboYTNt) | 2025-07-30 |
+| ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2025-07-30 |
 | ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-07-29 |
 | ios | [Quizlet](https://testflight.apple.com/join/mwhcPqxJ) | 2025-07-29 |
-| ios | [WhatsApp Business](https://testflight.apple.com/join/oscYikr0) | 2025-07-29 |
-| ios | [Xbox](https://testflight.apple.com/join/dfUeaFHS) | 2025-07-29 |
 | ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2025-07-28 |
 | ios | [Documents by Readdle](https://testflight.apple.com/join/EOPEVoDA) | 2025-07-26 |
 | ios | [Facebook](https://testflight.apple.com/join/C1a3MRG4) | 2025-07-26 |
@@ -39,7 +42,6 @@
 | ios | [AdGuard VPN](https://testflight.apple.com/join/fZRiD1zt) | 2025-05-30 |
 | ios_game | [Minecraft: Education Edition beta](https://testflight.apple.com/join/sBDlEXYr) | 2025-05-28 |
 | ios | [Tee-Timer](https://testflight.apple.com/join/wzyzzspP) | 2025-05-27 |
-| ios | [Skype For iPhone](https://testflight.apple.com/join/fB5IkJT7) | 2025-05-26 |
 | ios | [F1ATV](https://testflight.apple.com/join/NRswe1IZ) | 2025-05-24 |
 | ios | [MyFRITZ!App](https://testflight.apple.com/join/U0v1rBE5) | 2025-05-17 |
 | ios | [Proton VPN: Fast & Secure](https://testflight.apple.com/join/3yl2MSbw) | 2025-05-17 |
@@ -48,7 +50,6 @@
 | ios | [Breveto](https://testflight.apple.com/join/9mqMgFjT) | 2025-05-03 |
 | ios | [Filmlog](https://testflight.apple.com/join/ywiozhph) | 2025-05-02 |
 | ios | [Soulver 3](https://testflight.apple.com/join/Vlb55Wtr) | 2025-05-02 |
-| ios | [uPic](https://testflight.apple.com/join/60QsOvQ1) | 2025-05-01 |
 | ios | [umami Analytics](https://testflight.apple.com/join/AYfPX1Ut) | 2025-04-30 |
 | ios | [Collabora Office](https://testflight.apple.com/join/TEnBWi68) | 2025-04-29 |
 | ios | [Ketro](https://testflight.apple.com/join/VnGZhjsZ) | 2025-04-29 |
