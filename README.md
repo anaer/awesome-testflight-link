@@ -1,12 +1,9 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| chinese | [抖音](https://testflight.apple.com/join/ZILJgZhU) | 2025-07-30 |
-| ios | [AliExpress - Shopping App beta](https://testflight.apple.com/join/TFhYeUyJ) | 2025-07-30 |
+| ios | [Microsoft Outlook](https://testflight.apple.com/join/QkU4VS1s) | 2025-07-31 |
+| ios | [Microsoft SwiftKey Keyboard](https://testflight.apple.com/join/yhIhAvjp) | 2025-07-31 |
 | ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2025-07-30 |
-| ios | [Qobuz](https://testflight.apple.com/join/GPJZwnh9) | 2025-07-30 |
-| ios | [S1 Mufu](https://testflight.apple.com/join/KwboYTNt) | 2025-07-30 |
-| ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2025-07-30 |
 | ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-07-29 |
 | ios | [Quizlet](https://testflight.apple.com/join/mwhcPqxJ) | 2025-07-29 |
 | ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2025-07-28 |
