@@ -1,8 +1,8 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Microsoft Outlook](https://testflight.apple.com/join/QkU4VS1s) | 2025-07-31 |
-| ios | [Microsoft SwiftKey Keyboard](https://testflight.apple.com/join/yhIhAvjp) | 2025-07-31 |
+| chinese | [抖音](https://testflight.apple.com/join/ZILJgZhU) | 2025-08-01 |
+| ios_game | [Minecraft Preview](https://testflight.apple.com/join/qC1ZnReJ) | 2025-08-01 |
 | ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2025-07-30 |
 | ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-07-29 |
 | ios | [Quizlet](https://testflight.apple.com/join/mwhcPqxJ) | 2025-07-29 |
