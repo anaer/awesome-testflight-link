@@ -2,9 +2,7 @@
 | type | name | last_modify |
 | --- | --- | --- |
 | chinese | [抖音](https://testflight.apple.com/join/ZILJgZhU) | 2025-08-01 |
-| ios_game | [Minecraft Preview](https://testflight.apple.com/join/qC1ZnReJ) | 2025-08-01 |
 | ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2025-07-30 |
-| ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-07-29 |
 | ios | [Quizlet](https://testflight.apple.com/join/mwhcPqxJ) | 2025-07-29 |
 | ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2025-07-28 |
 | ios | [Documents by Readdle](https://testflight.apple.com/join/EOPEVoDA) | 2025-07-26 |
