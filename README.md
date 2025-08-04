@@ -1,8 +1,10 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [1Password - Password Manager beta](https://testflight.apple.com/join/fzDLkIVK) | 2025-08-04 |
+| ios | [Microsoft Loop beta](https://testflight.apple.com/join/KNyadcIZ) | 2025-08-04 |
+| ios | [Qobuz](https://testflight.apple.com/join/GPJZwnh9) | 2025-08-04 |
 | ios | [Lenna - Video Library Player](https://testflight.apple.com/join/bExxpaX1) | 2025-08-03 |
-| ios | [Music Harbor](https://testflight.apple.com/join/uaazZoIc) | 2025-08-03 |
 | ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2025-07-30 |
 | ios | [Quizlet](https://testflight.apple.com/join/mwhcPqxJ) | 2025-07-29 |
 | ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2025-07-28 |
