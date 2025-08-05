@@ -1,9 +1,13 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [1Password - Password Manager beta](https://testflight.apple.com/join/fzDLkIVK) | 2025-08-04 |
-| ios | [Microsoft Loop beta](https://testflight.apple.com/join/KNyadcIZ) | 2025-08-04 |
-| ios | [Qobuz](https://testflight.apple.com/join/GPJZwnh9) | 2025-08-04 |
+| ios | [1Blocker](https://testflight.apple.com/join/KjmVWFnT) | 2025-08-05 |
+| ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2025-08-05 |
+| ios | [Microsoft Office](https://testflight.apple.com/join/eHAKJBtM) | 2025-08-05 |
+| ios | [Spotify - Music and Podcasts](https://testflight.apple.com/join/1SyedSId) | 2025-08-05 |
+| ios | [Spotify Music](https://testflight.apple.com/join/7lt2tesn) | 2025-08-05 |
+| ios | [UTM Remote Virtual Machines](https://testflight.apple.com/join/mFlnyMv3) | 2025-08-05 |
+| ios_game | [Build Me This: Parts to Profit](https://testflight.apple.com/join/U4GabrwT) | 2025-08-05 |
 | ios | [Lenna - Video Library Player](https://testflight.apple.com/join/bExxpaX1) | 2025-08-03 |
 | ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2025-07-30 |
 | ios | [Quizlet](https://testflight.apple.com/join/mwhcPqxJ) | 2025-07-29 |
@@ -17,7 +21,6 @@
 | ios | [Monal - XMPP Chat](https://testflight.apple.com/join/lLLlgHpB) | 2025-07-14 |
 | ios | [Pedal - Your cycling companion](https://testflight.apple.com/join/aaSgUXmq) | 2025-07-14 |
 | macos | [Monal - XMPP Chatting](https://testflight.apple.com/join/tGH2m5vf) | 2025-07-14 |
-| ios | [Reddit](https://testflight.apple.com/join/b9jMyOWt) | 2025-07-10 |
 | ios | [Count In Days](https://testflight.apple.com/join/3aUpFGCc) | 2025-07-09 |
 | ios | [IT之家](https://testflight.apple.com/join/eD9uChwY) | 2025-07-09 |
 | ios | [搜狗输入法](https://testflight.apple.com/join/lSZdpEPH) | 2025-07-08 |
