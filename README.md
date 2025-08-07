@@ -1,7 +1,6 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [MSN (Start)](https://testflight.apple.com/join/jOahtut6) | 2025-08-06 |
 | ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-08-06 |
 | ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2025-08-06 |
 | ios | [Reddit](https://testflight.apple.com/join/b9jMyOWt) | 2025-08-06 |
@@ -23,7 +22,6 @@
 | ios | [Count In Days](https://testflight.apple.com/join/3aUpFGCc) | 2025-07-09 |
 | ios | [IT之家](https://testflight.apple.com/join/eD9uChwY) | 2025-07-09 |
 | ios | [搜狗输入法](https://testflight.apple.com/join/lSZdpEPH) | 2025-07-08 |
-| chinese | [我的世界-网易](https://testflight.apple.com/join/mOxZm1dD) | 2025-07-04 |
 | ios | [Windscribe VPN](https://testflight.apple.com/join/oKib5JOq) | 2025-07-04 |
 | ios | [Jira Cloud by Atlassian](https://testflight.apple.com/join/2lm7vHBS) | 2025-07-03 |
 | ios | [UniFi](https://testflight.apple.com/join/Pkd9a658) | 2025-07-01 |
