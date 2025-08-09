@@ -1,9 +1,10 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| chinese | [我的世界-网易](https://testflight.apple.com/join/mOxZm1dD) | 2025-08-09 |
+| ios | [Discord](https://testflight.apple.com/join/gdE4pRzI) | 2025-08-09 |
+| ios | [Notion](https://testflight.apple.com/join/YSo8aVCS) | 2025-08-09 |
 | chinese | [抖音](https://testflight.apple.com/join/ZILJgZhU) | 2025-08-08 |
-| ios | [Microsoft OneDrive](https://testflight.apple.com/join/LtgPLzrQ) | 2025-08-08 |
-| ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-08-06 |
 | ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2025-08-06 |
 | ios | [Reddit](https://testflight.apple.com/join/b9jMyOWt) | 2025-08-06 |
 | ios | [UTM Remote Virtual Machines](https://testflight.apple.com/join/mFlnyMv3) | 2025-08-05 |
