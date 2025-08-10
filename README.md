@@ -2,15 +2,12 @@
 | type | name | last_modify |
 | --- | --- | --- |
 | chinese | [我的世界-网易](https://testflight.apple.com/join/mOxZm1dD) | 2025-08-09 |
-| ios | [Discord](https://testflight.apple.com/join/gdE4pRzI) | 2025-08-09 |
-| ios | [Notion](https://testflight.apple.com/join/YSo8aVCS) | 2025-08-09 |
 | chinese | [抖音](https://testflight.apple.com/join/ZILJgZhU) | 2025-08-08 |
 | ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2025-08-06 |
 | ios | [Reddit](https://testflight.apple.com/join/b9jMyOWt) | 2025-08-06 |
 | ios | [UTM Remote Virtual Machines](https://testflight.apple.com/join/mFlnyMv3) | 2025-08-05 |
 | ios_game | [Build Me This: Parts to Profit](https://testflight.apple.com/join/U4GabrwT) | 2025-08-05 |
 | ios | [Lenna - Video Library Player](https://testflight.apple.com/join/bExxpaX1) | 2025-08-03 |
-| ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2025-07-30 |
 | ios | [Quizlet](https://testflight.apple.com/join/mwhcPqxJ) | 2025-07-29 |
 | ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2025-07-28 |
 | ios | [Documents by Readdle](https://testflight.apple.com/join/EOPEVoDA) | 2025-07-26 |
@@ -33,7 +30,6 @@
 | ios_game | [Zombies Endless](https://testflight.apple.com/join/6Ya9E8jU) | 2025-06-30 |
 | ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2025-06-26 |
 | ios | [Hadge](https://testflight.apple.com/join/rFLkfNSu) | 2025-06-21 |
-| ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2025-06-21 |
 | ios | [Twitch Beta](https://testflight.apple.com/join/8vRKFAiY) | 2025-06-18 |
 | ios_game | [Cell to Singularity](https://testflight.apple.com/join/RD9jGH9S) | 2025-06-06 |
 | macos | [Batch Clipboard](https://testflight.apple.com/join/epg3cusH) | 2025-06-06 |
