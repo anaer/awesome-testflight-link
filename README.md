@@ -1,15 +1,16 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2025-08-12 |
+| ios | [MSN (Start)](https://testflight.apple.com/join/jOahtut6) | 2025-08-12 |
+| ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2025-08-12 |
 | ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2025-08-11 |
 | chinese | [我的世界-网易](https://testflight.apple.com/join/mOxZm1dD) | 2025-08-09 |
 | ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2025-08-06 |
-| ios | [Reddit](https://testflight.apple.com/join/b9jMyOWt) | 2025-08-06 |
 | ios | [UTM Remote Virtual Machines](https://testflight.apple.com/join/mFlnyMv3) | 2025-08-05 |
 | ios_game | [Build Me This: Parts to Profit](https://testflight.apple.com/join/U4GabrwT) | 2025-08-05 |
 | ios | [Lenna - Video Library Player](https://testflight.apple.com/join/bExxpaX1) | 2025-08-03 |
 | ios | [Quizlet](https://testflight.apple.com/join/mwhcPqxJ) | 2025-07-29 |
-| ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2025-07-28 |
 | ios | [Documents by Readdle](https://testflight.apple.com/join/EOPEVoDA) | 2025-07-26 |
 | ios | [Facebook](https://testflight.apple.com/join/C1a3MRG4) | 2025-07-26 |
 | ios | [MuseoTrack](https://testflight.apple.com/join/jR1MsqSt) | 2025-07-23 |
