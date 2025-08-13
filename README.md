@@ -1,9 +1,9 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| chinese | [QQ beta](https://testflight.apple.com/join/R5FNGUl3) | 2025-08-13 |
+| ios | [Reddit](https://testflight.apple.com/join/b9jMyOWt) | 2025-08-13 |
 | ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2025-08-12 |
-| ios | [MSN (Start)](https://testflight.apple.com/join/jOahtut6) | 2025-08-12 |
-| ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2025-08-12 |
 | ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2025-08-11 |
 | chinese | [我的世界-网易](https://testflight.apple.com/join/mOxZm1dD) | 2025-08-09 |
 | ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2025-08-06 |
@@ -18,7 +18,6 @@
 | ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-07-22 |
 | ios | [HexT](https://testflight.apple.com/join/ixTrfIgF) | 2025-07-17 |
 | ios | [Monal - XMPP Chat](https://testflight.apple.com/join/lLLlgHpB) | 2025-07-14 |
-| ios | [Pedal - Your cycling companion](https://testflight.apple.com/join/aaSgUXmq) | 2025-07-14 |
 | macos | [Monal - XMPP Chatting](https://testflight.apple.com/join/tGH2m5vf) | 2025-07-14 |
 | ios | [Count In Days](https://testflight.apple.com/join/3aUpFGCc) | 2025-07-09 |
 | ios | [IT之家](https://testflight.apple.com/join/eD9uChwY) | 2025-07-09 |
