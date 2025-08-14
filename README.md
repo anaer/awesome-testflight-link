@@ -1,10 +1,11 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| chinese | [QQ beta](https://testflight.apple.com/join/R5FNGUl3) | 2025-08-13 |
-| ios | [Reddit](https://testflight.apple.com/join/b9jMyOWt) | 2025-08-13 |
+| ios | [FRITZ!App WLAN](https://testflight.apple.com/join/vbfCKamq) | 2025-08-14 |
+| ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2025-08-14 |
+| ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-08-14 |
+| ios | [Qobuz](https://testflight.apple.com/join/GPJZwnh9) | 2025-08-14 |
 | ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2025-08-12 |
-| ios | [Rave – Watch Party](https://testflight.apple.com/join/OrZ9CLQU) | 2025-08-11 |
 | chinese | [我的世界-网易](https://testflight.apple.com/join/mOxZm1dD) | 2025-08-09 |
 | ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2025-08-06 |
 | ios | [UTM Remote Virtual Machines](https://testflight.apple.com/join/mFlnyMv3) | 2025-08-05 |
@@ -54,7 +55,6 @@
 | ios | [Sangoma Meet](https://testflight.apple.com/join/BEd12vi5) | 2025-04-18 |
 | ios | [Keka](https://testflight.apple.com/join/gPYINGCJ) | 2025-04-17 |
 | macos | [Caffeine Utility](https://testflight.apple.com/join/WHIbsose) | 2025-04-17 |
-| ios | [Grindr - Gay Dating & Chat](https://testflight.apple.com/join/eO265vw7) | 2025-04-16 |
 | ios | [Dropbox](https://testflight.apple.com/join/LBZaRq4I) | 2025-04-15 |
 | ios | [Mindustry](https://testflight.apple.com/join/79Azm1hZ) | 2025-04-13 |
 | ios | [Sleep Cycle - Sleep Tracker beta](https://testflight.apple.com/join/tCeANbZi) | 2025-04-10 |
