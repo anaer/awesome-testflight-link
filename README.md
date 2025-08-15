@@ -1,11 +1,13 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| chinese | [抖音](https://testflight.apple.com/join/ZILJgZhU) | 2025-08-15 |
+| ios | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2025-08-15 |
+| ios | [Jira Server by Atlassian](https://testflight.apple.com/join/6JbjYbSY) | 2025-08-15 |
+| ios | [Reddit](https://testflight.apple.com/join/b9jMyOWt) | 2025-08-15 |
+| macos | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2025-08-15 |
 | ios | [FRITZ!App WLAN](https://testflight.apple.com/join/vbfCKamq) | 2025-08-14 |
-| ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2025-08-14 |
-| ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-08-14 |
 | ios | [Qobuz](https://testflight.apple.com/join/GPJZwnh9) | 2025-08-14 |
-| ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2025-08-12 |
 | chinese | [我的世界-网易](https://testflight.apple.com/join/mOxZm1dD) | 2025-08-09 |
 | ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2025-08-06 |
 | ios | [UTM Remote Virtual Machines](https://testflight.apple.com/join/mFlnyMv3) | 2025-08-05 |
