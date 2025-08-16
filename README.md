@@ -1,11 +1,10 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| chinese | [抖音](https://testflight.apple.com/join/ZILJgZhU) | 2025-08-15 |
-| ios | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2025-08-15 |
+| chinese | [酷狗概念版](https://testflight.apple.com/join/IOgbaxds) | 2025-08-16 |
+| ios | [FRITZ!App Fon](https://testflight.apple.com/join/SGGCxyRp) | 2025-08-16 |
+| ios | [Grocery-Smart Grocery List](https://testflight.apple.com/join/v29eXz9t) | 2025-08-16 |
 | ios | [Jira Server by Atlassian](https://testflight.apple.com/join/6JbjYbSY) | 2025-08-15 |
-| ios | [Reddit](https://testflight.apple.com/join/b9jMyOWt) | 2025-08-15 |
-| macos | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2025-08-15 |
 | ios | [FRITZ!App WLAN](https://testflight.apple.com/join/vbfCKamq) | 2025-08-14 |
 | ios | [Qobuz](https://testflight.apple.com/join/GPJZwnh9) | 2025-08-14 |
 | chinese | [我的世界-网易](https://testflight.apple.com/join/mOxZm1dD) | 2025-08-09 |
@@ -35,7 +34,6 @@
 | ios | [Hadge](https://testflight.apple.com/join/rFLkfNSu) | 2025-06-21 |
 | ios | [Twitch Beta](https://testflight.apple.com/join/8vRKFAiY) | 2025-06-18 |
 | ios_game | [Cell to Singularity](https://testflight.apple.com/join/RD9jGH9S) | 2025-06-06 |
-| macos | [Batch Clipboard](https://testflight.apple.com/join/epg3cusH) | 2025-06-06 |
 | ios | [Freebox](https://testflight.apple.com/join/q9vICEOv) | 2025-06-05 |
 | ios | [Unicode Keyboard](https://testflight.apple.com/join/YKH3kGpt) | 2025-06-05 |
 | ios | [PPSSPP - PSP emulator](https://testflight.apple.com/join/uNlhFG0m) | 2025-05-31 |
@@ -146,6 +144,5 @@
 | ios | [LIFX](https://testflight.apple.com/join/TYoQEz4T) | 2022-10-11 |
 | ios | [Microsoft Authenticator](https://testflight.apple.com/join/Coqmmppd) | 2022-10-11 |
 | ios | [ntv Nachrichten](https://testflight.apple.com/join/n65TDvGb) | 2022-10-11 |
-| ios | [waipu.tv](https://testflight.apple.com/join/l72L1OK3) | 2022-10-11 |
 | ios | [GroupMe](https://testflight.apple.com/join/6CcTotfX) | 2022-10-09 |
 | macos | [Parcel](https://testflight.apple.com/join/GfswMZn4) | 2022-08-08 |
