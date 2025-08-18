@@ -1,10 +1,13 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2025-08-18 |
+| ios | [MSN (Start)](https://testflight.apple.com/join/jOahtut6) | 2025-08-18 |
+| ios | [腾讯视频HD](https://testflight.apple.com/join/9JaSzwSN) | 2025-08-18 |
+| macos | [Pricing Manager](https://testflight.apple.com/join/ZYsBYMhT) | 2025-08-18 |
 | ios | [FRITZ!App Fon](https://testflight.apple.com/join/SGGCxyRp) | 2025-08-16 |
 | ios | [Grocery-Smart Grocery List](https://testflight.apple.com/join/v29eXz9t) | 2025-08-16 |
 | ios | [Jira Server by Atlassian](https://testflight.apple.com/join/6JbjYbSY) | 2025-08-15 |
-| ios | [FRITZ!App WLAN](https://testflight.apple.com/join/vbfCKamq) | 2025-08-14 |
 | ios | [Qobuz](https://testflight.apple.com/join/GPJZwnh9) | 2025-08-14 |
 | chinese | [我的世界-网易](https://testflight.apple.com/join/mOxZm1dD) | 2025-08-09 |
 | ios | [UTM Remote Virtual Machines](https://testflight.apple.com/join/mFlnyMv3) | 2025-08-05 |
