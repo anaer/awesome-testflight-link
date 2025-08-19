@@ -1,9 +1,11 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2025-08-18 |
-| ios | [MSN (Start)](https://testflight.apple.com/join/jOahtut6) | 2025-08-18 |
-| ios | [腾讯视频HD](https://testflight.apple.com/join/9JaSzwSN) | 2025-08-18 |
+| chinese | [抖音](https://testflight.apple.com/join/ZILJgZhU) | 2025-08-19 |
+| ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2025-08-19 |
+| ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2025-08-19 |
+| ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-08-19 |
+| ios | [Pinterest beta](https://testflight.apple.com/join/ffIBkq35) | 2025-08-19 |
 | macos | [Pricing Manager](https://testflight.apple.com/join/ZYsBYMhT) | 2025-08-18 |
 | ios | [FRITZ!App Fon](https://testflight.apple.com/join/SGGCxyRp) | 2025-08-16 |
 | ios | [Grocery-Smart Grocery List](https://testflight.apple.com/join/v29eXz9t) | 2025-08-16 |
