@@ -1,6 +1,8 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| chinese | [微信键盘 beta](https://testflight.apple.com/join/iSTXkF4K) | 2025-08-20 |
+| ios | [Reddit](https://testflight.apple.com/join/b9jMyOWt) | 2025-08-20 |
 | chinese | [抖音](https://testflight.apple.com/join/ZILJgZhU) | 2025-08-19 |
 | ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2025-08-19 |
 | ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2025-08-19 |
