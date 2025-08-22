@@ -1,13 +1,9 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| chinese | [QQ beta](https://testflight.apple.com/join/R5FNGUl3) | 2025-08-21 |
-| ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2025-08-21 |
 | ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2025-08-21 |
-| chinese | [抖音](https://testflight.apple.com/join/ZILJgZhU) | 2025-08-19 |
 | ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2025-08-19 |
 | ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2025-08-19 |
-| ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-08-19 |
 | ios | [Pinterest beta](https://testflight.apple.com/join/ffIBkq35) | 2025-08-19 |
 | macos | [Pricing Manager](https://testflight.apple.com/join/ZYsBYMhT) | 2025-08-18 |
 | ios | [FRITZ!App Fon](https://testflight.apple.com/join/SGGCxyRp) | 2025-08-16 |
@@ -43,7 +39,6 @@
 | ios | [PPSSPP - PSP emulator](https://testflight.apple.com/join/uNlhFG0m) | 2025-05-31 |
 | ios | [AdGuard VPN](https://testflight.apple.com/join/fZRiD1zt) | 2025-05-30 |
 | ios | [Tee-Timer](https://testflight.apple.com/join/wzyzzspP) | 2025-05-27 |
-| ios | [F1ATV](https://testflight.apple.com/join/NRswe1IZ) | 2025-05-24 |
 | ios | [MyFRITZ!App](https://testflight.apple.com/join/U0v1rBE5) | 2025-05-17 |
 | ios | [Proton VPN: Fast & Secure](https://testflight.apple.com/join/3yl2MSbw) | 2025-05-17 |
 | ios | [SimpleTix Box Office](https://testflight.apple.com/join/zyByZSX8) | 2025-05-14 |
