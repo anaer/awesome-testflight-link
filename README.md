@@ -1,6 +1,10 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| chinese | [抖音](https://testflight.apple.com/join/ZILJgZhU) | 2025-08-23 |
+| ios | [Microsoft OneDrive](https://testflight.apple.com/join/LtgPLzrQ) | 2025-08-23 |
+| ios | [Spotify - Music and Podcasts](https://testflight.apple.com/join/1SyedSId) | 2025-08-23 |
+| macos | [Batch Clipboard](https://testflight.apple.com/join/epg3cusH) | 2025-08-23 |
 | ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2025-08-21 |
 | ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2025-08-19 |
 | ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2025-08-19 |
