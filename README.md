@@ -1,9 +1,11 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| chinese | [抖音](https://testflight.apple.com/join/ZILJgZhU) | 2025-08-23 |
+| ios | [Microsoft Loop beta](https://testflight.apple.com/join/KNyadcIZ) | 2025-08-24 |
+| ios | [Notion](https://testflight.apple.com/join/YSo8aVCS) | 2025-08-24 |
+| ios | [iSH Shell](https://testflight.apple.com/join/97i7KM8O) | 2025-08-24 |
+| ios | [腾讯视频HD](https://testflight.apple.com/join/9JaSzwSN) | 2025-08-24 |
 | ios | [Microsoft OneDrive](https://testflight.apple.com/join/LtgPLzrQ) | 2025-08-23 |
-| ios | [Spotify - Music and Podcasts](https://testflight.apple.com/join/1SyedSId) | 2025-08-23 |
 | macos | [Batch Clipboard](https://testflight.apple.com/join/epg3cusH) | 2025-08-23 |
 | ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2025-08-21 |
 | ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2025-08-19 |
@@ -11,7 +13,6 @@
 | ios | [Pinterest beta](https://testflight.apple.com/join/ffIBkq35) | 2025-08-19 |
 | macos | [Pricing Manager](https://testflight.apple.com/join/ZYsBYMhT) | 2025-08-18 |
 | ios | [FRITZ!App Fon](https://testflight.apple.com/join/SGGCxyRp) | 2025-08-16 |
-| ios | [Grocery-Smart Grocery List](https://testflight.apple.com/join/v29eXz9t) | 2025-08-16 |
 | ios | [Jira Server by Atlassian](https://testflight.apple.com/join/6JbjYbSY) | 2025-08-15 |
 | ios | [Qobuz](https://testflight.apple.com/join/GPJZwnh9) | 2025-08-14 |
 | chinese | [我的世界-网易](https://testflight.apple.com/join/mOxZm1dD) | 2025-08-09 |
