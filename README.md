@@ -1,10 +1,10 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [CardioBot - Heart Rate Monitor](https://testflight.apple.com/join/H82FVVt6) | 2025-08-25 |
+| ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-08-26 |
+| ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-08-26 |
 | ios | [Pedal - Your cycling companion](https://testflight.apple.com/join/aaSgUXmq) | 2025-08-25 |
 | macos | [Batch Clipboard](https://testflight.apple.com/join/epg3cusH) | 2025-08-23 |
-| ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2025-08-21 |
 | ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2025-08-19 |
 | ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2025-08-19 |
 | ios | [Pinterest beta](https://testflight.apple.com/join/ffIBkq35) | 2025-08-19 |
