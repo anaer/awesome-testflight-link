@@ -1,8 +1,9 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-08-26 |
-| ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-08-26 |
+| chinese | [红果短剧](https://testflight.apple.com/join/Rfr1mzqS) | 2025-08-27 |
+| ios | [Reddit](https://testflight.apple.com/join/b9jMyOWt) | 2025-08-27 |
+| ios | [TV Time – #1 Show Tracker](https://testflight.apple.com/join/hjKkDsc4) | 2025-08-27 |
 | ios | [Pedal - Your cycling companion](https://testflight.apple.com/join/aaSgUXmq) | 2025-08-25 |
 | macos | [Batch Clipboard](https://testflight.apple.com/join/epg3cusH) | 2025-08-23 |
 | ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2025-08-19 |
