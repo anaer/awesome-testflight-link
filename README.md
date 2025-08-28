@@ -1,14 +1,19 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| chinese | [QQ beta](https://testflight.apple.com/join/R5FNGUl3) | 2025-08-28 |
+| chinese | [抖音](https://testflight.apple.com/join/ZILJgZhU) | 2025-08-28 |
+| ios | [Grindr - Gay Dating & Chat](https://testflight.apple.com/join/eO265vw7) | 2025-08-28 |
+| ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-08-28 |
+| ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2025-08-28 |
+| ios | [Onion Browser](https://testflight.apple.com/join/90DvGBOE) | 2025-08-28 |
+| ios | [Onion Browser](https://testflight.apple.com/join/iPWLRpZu) | 2025-08-28 |
+| ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2025-08-28 |
 | chinese | [红果短剧](https://testflight.apple.com/join/Rfr1mzqS) | 2025-08-27 |
-| ios | [Reddit](https://testflight.apple.com/join/b9jMyOWt) | 2025-08-27 |
 | ios | [TV Time – #1 Show Tracker](https://testflight.apple.com/join/hjKkDsc4) | 2025-08-27 |
-| ios | [Pedal - Your cycling companion](https://testflight.apple.com/join/aaSgUXmq) | 2025-08-25 |
 | macos | [Batch Clipboard](https://testflight.apple.com/join/epg3cusH) | 2025-08-23 |
 | ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2025-08-19 |
 | ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2025-08-19 |
-| ios | [Pinterest beta](https://testflight.apple.com/join/ffIBkq35) | 2025-08-19 |
 | macos | [Pricing Manager](https://testflight.apple.com/join/ZYsBYMhT) | 2025-08-18 |
 | ios | [FRITZ!App Fon](https://testflight.apple.com/join/SGGCxyRp) | 2025-08-16 |
 | ios | [Jira Server by Atlassian](https://testflight.apple.com/join/6JbjYbSY) | 2025-08-15 |
