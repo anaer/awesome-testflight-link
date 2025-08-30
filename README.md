@@ -1,14 +1,12 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [F1ATV](https://testflight.apple.com/join/NRswe1IZ) | 2025-08-30 |
+| ios | [Pushover Notifications](https://testflight.apple.com/join/vkwfdWM0) | 2025-08-30 |
+| ios_game | [Minecraft Preview](https://testflight.apple.com/join/qC1ZnReJ) | 2025-08-30 |
 | ios | [Microsoft Lists](https://testflight.apple.com/join/FL3caOg6) | 2025-08-29 |
-| ios | [Microsoft Office](https://testflight.apple.com/join/eHAKJBtM) | 2025-08-29 |
-| ios | [Microsoft OneDrive](https://testflight.apple.com/join/LtgPLzrQ) | 2025-08-29 |
 | ios | [World Clock Time Widget](https://testflight.apple.com/join/8wa9T053) | 2025-08-29 |
-| ios | [infltr - Infinite Filters](https://testflight.apple.com/join/In6e3GcJ) | 2025-08-29 |
-| ios | [腾讯视频HD](https://testflight.apple.com/join/9JaSzwSN) | 2025-08-29 |
 | chinese | [抖音](https://testflight.apple.com/join/ZILJgZhU) | 2025-08-28 |
-| ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-08-28 |
 | chinese | [红果短剧](https://testflight.apple.com/join/Rfr1mzqS) | 2025-08-27 |
 | ios | [TV Time – #1 Show Tracker](https://testflight.apple.com/join/hjKkDsc4) | 2025-08-27 |
 | macos | [Batch Clipboard](https://testflight.apple.com/join/epg3cusH) | 2025-08-23 |
