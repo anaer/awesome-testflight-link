@@ -3,8 +3,6 @@
 | --- | --- | --- |
 | ios | [F1ATV](https://testflight.apple.com/join/NRswe1IZ) | 2025-08-30 |
 | ios | [Pushover Notifications](https://testflight.apple.com/join/vkwfdWM0) | 2025-08-30 |
-| ios_game | [Minecraft Preview](https://testflight.apple.com/join/qC1ZnReJ) | 2025-08-30 |
-| ios | [Microsoft Lists](https://testflight.apple.com/join/FL3caOg6) | 2025-08-29 |
 | ios | [World Clock Time Widget](https://testflight.apple.com/join/8wa9T053) | 2025-08-29 |
 | chinese | [抖音](https://testflight.apple.com/join/ZILJgZhU) | 2025-08-28 |
 | chinese | [红果短剧](https://testflight.apple.com/join/Rfr1mzqS) | 2025-08-27 |
