@@ -1,6 +1,9 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| chinese | [哔哩哔哩](https://testflight.apple.com/join/K4pM1kHu) | 2025-09-01 |
+| ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2025-09-01 |
+| ios | [Microsoft SwiftKey Keyboard](https://testflight.apple.com/join/yhIhAvjp) | 2025-09-01 |
 | ios | [F1ATV](https://testflight.apple.com/join/NRswe1IZ) | 2025-08-30 |
 | ios | [Pushover Notifications](https://testflight.apple.com/join/vkwfdWM0) | 2025-08-30 |
 | ios | [World Clock Time Widget](https://testflight.apple.com/join/8wa9T053) | 2025-08-29 |
@@ -41,9 +44,7 @@
 | ios | [Freebox](https://testflight.apple.com/join/q9vICEOv) | 2025-06-05 |
 | ios | [Unicode Keyboard](https://testflight.apple.com/join/YKH3kGpt) | 2025-06-05 |
 | ios | [AdGuard VPN](https://testflight.apple.com/join/fZRiD1zt) | 2025-05-30 |
-| ios | [Tee-Timer](https://testflight.apple.com/join/wzyzzspP) | 2025-05-27 |
 | ios | [MyFRITZ!App](https://testflight.apple.com/join/U0v1rBE5) | 2025-05-17 |
-| ios | [Proton VPN: Fast & Secure](https://testflight.apple.com/join/3yl2MSbw) | 2025-05-17 |
 | ios | [SimpleTix Box Office](https://testflight.apple.com/join/zyByZSX8) | 2025-05-14 |
 | ios | [Trello — Organize anything!](https://testflight.apple.com/join/cRWMcQsr) | 2025-05-08 |
 | ios | [Breveto](https://testflight.apple.com/join/9mqMgFjT) | 2025-05-03 |
