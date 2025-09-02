@@ -1,9 +1,8 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| chinese | [哔哩哔哩](https://testflight.apple.com/join/K4pM1kHu) | 2025-09-01 |
-| ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2025-09-01 |
-| ios | [Microsoft SwiftKey Keyboard](https://testflight.apple.com/join/yhIhAvjp) | 2025-09-01 |
+| ios | [Everlog](https://testflight.apple.com/join/sOCDYE65) | 2025-09-02 |
+| ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-09-02 |
 | ios | [F1ATV](https://testflight.apple.com/join/NRswe1IZ) | 2025-08-30 |
 | ios | [Pushover Notifications](https://testflight.apple.com/join/vkwfdWM0) | 2025-08-30 |
 | ios | [World Clock Time Widget](https://testflight.apple.com/join/8wa9T053) | 2025-08-29 |
@@ -20,7 +19,6 @@
 | chinese | [我的世界-网易](https://testflight.apple.com/join/mOxZm1dD) | 2025-08-09 |
 | ios | [UTM Remote Virtual Machines](https://testflight.apple.com/join/mFlnyMv3) | 2025-08-05 |
 | ios_game | [Build Me This: Parts to Profit](https://testflight.apple.com/join/U4GabrwT) | 2025-08-05 |
-| ios | [Lenna - Video Library Player](https://testflight.apple.com/join/bExxpaX1) | 2025-08-03 |
 | ios | [Quizlet](https://testflight.apple.com/join/mwhcPqxJ) | 2025-07-29 |
 | ios | [Documents by Readdle](https://testflight.apple.com/join/EOPEVoDA) | 2025-07-26 |
 | ios | [Facebook](https://testflight.apple.com/join/C1a3MRG4) | 2025-07-26 |
@@ -41,8 +39,6 @@
 | ios | [Hadge](https://testflight.apple.com/join/rFLkfNSu) | 2025-06-21 |
 | ios | [Twitch Beta](https://testflight.apple.com/join/8vRKFAiY) | 2025-06-18 |
 | ios_game | [Cell to Singularity](https://testflight.apple.com/join/RD9jGH9S) | 2025-06-06 |
-| ios | [Freebox](https://testflight.apple.com/join/q9vICEOv) | 2025-06-05 |
-| ios | [Unicode Keyboard](https://testflight.apple.com/join/YKH3kGpt) | 2025-06-05 |
 | ios | [AdGuard VPN](https://testflight.apple.com/join/fZRiD1zt) | 2025-05-30 |
 | ios | [MyFRITZ!App](https://testflight.apple.com/join/U0v1rBE5) | 2025-05-17 |
 | ios | [SimpleTix Box Office](https://testflight.apple.com/join/zyByZSX8) | 2025-05-14 |
