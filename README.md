@@ -1,15 +1,15 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [FRITZ!App TV](https://testflight.apple.com/join/Zl2czQO2) | 2025-09-04 |
+| ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-09-04 |
+| ios | [Musixmatch Lyrics Finder](https://testflight.apple.com/join/7yLzN5td) | 2025-09-04 |
+| ios | [Pedal - Your cycling companion](https://testflight.apple.com/join/aaSgUXmq) | 2025-09-04 |
+| ios | [Proton VPN: Fast & Secure](https://testflight.apple.com/join/3yl2MSbw) | 2025-09-04 |
 | ios | [Bitwarden Beta](https://testflight.apple.com/join/S4OQEYYQ) | 2025-09-03 |
-| ios | [Grindr - Gay Dating & Chat](https://testflight.apple.com/join/eO265vw7) | 2025-09-03 |
-| ios | [S1 Mufu](https://testflight.apple.com/join/KwboYTNt) | 2025-09-03 |
-| ios | [搜狗输入法](https://testflight.apple.com/join/lSZdpEPH) | 2025-09-03 |
-| ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-09-02 |
 | ios | [F1ATV](https://testflight.apple.com/join/NRswe1IZ) | 2025-08-30 |
 | ios | [Pushover Notifications](https://testflight.apple.com/join/vkwfdWM0) | 2025-08-30 |
 | ios | [World Clock Time Widget](https://testflight.apple.com/join/8wa9T053) | 2025-08-29 |
-| chinese | [抖音](https://testflight.apple.com/join/ZILJgZhU) | 2025-08-28 |
 | chinese | [红果短剧](https://testflight.apple.com/join/Rfr1mzqS) | 2025-08-27 |
 | ios | [TV Time – #1 Show Tracker](https://testflight.apple.com/join/hjKkDsc4) | 2025-08-27 |
 | macos | [Batch Clipboard](https://testflight.apple.com/join/epg3cusH) | 2025-08-23 |
@@ -22,7 +22,6 @@
 | chinese | [我的世界-网易](https://testflight.apple.com/join/mOxZm1dD) | 2025-08-09 |
 | ios | [UTM Remote Virtual Machines](https://testflight.apple.com/join/mFlnyMv3) | 2025-08-05 |
 | ios_game | [Build Me This: Parts to Profit](https://testflight.apple.com/join/U4GabrwT) | 2025-08-05 |
-| ios | [Quizlet](https://testflight.apple.com/join/mwhcPqxJ) | 2025-07-29 |
 | ios | [Documents by Readdle](https://testflight.apple.com/join/EOPEVoDA) | 2025-07-26 |
 | ios | [Facebook](https://testflight.apple.com/join/C1a3MRG4) | 2025-07-26 |
 | ios | [MuseoTrack](https://testflight.apple.com/join/jR1MsqSt) | 2025-07-23 |
@@ -41,7 +40,6 @@
 | ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2025-06-26 |
 | ios | [Hadge](https://testflight.apple.com/join/rFLkfNSu) | 2025-06-21 |
 | ios | [Twitch Beta](https://testflight.apple.com/join/8vRKFAiY) | 2025-06-18 |
-| ios_game | [Cell to Singularity](https://testflight.apple.com/join/RD9jGH9S) | 2025-06-06 |
 | ios | [AdGuard VPN](https://testflight.apple.com/join/fZRiD1zt) | 2025-05-30 |
 | ios | [MyFRITZ!App](https://testflight.apple.com/join/U0v1rBE5) | 2025-05-17 |
 | ios | [SimpleTix Box Office](https://testflight.apple.com/join/zyByZSX8) | 2025-05-14 |
