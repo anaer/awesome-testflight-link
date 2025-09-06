@@ -1,12 +1,7 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Microsoft OneDrive](https://testflight.apple.com/join/LtgPLzrQ) | 2025-09-05 |
-| ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2025-09-05 |
-| ios | [Reddit](https://testflight.apple.com/join/b9jMyOWt) | 2025-09-05 |
-| ios | [waipu.tv](https://testflight.apple.com/join/l72L1OK3) | 2025-09-05 |
 | ios | [FRITZ!App TV](https://testflight.apple.com/join/Zl2czQO2) | 2025-09-04 |
-| ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-09-04 |
 | ios | [Musixmatch Lyrics Finder](https://testflight.apple.com/join/7yLzN5td) | 2025-09-04 |
 | ios | [Pedal - Your cycling companion](https://testflight.apple.com/join/aaSgUXmq) | 2025-09-04 |
 | ios | [Proton VPN: Fast & Secure](https://testflight.apple.com/join/3yl2MSbw) | 2025-09-04 |
@@ -43,7 +38,6 @@
 | ios_game | [Zombies Endless](https://testflight.apple.com/join/6Ya9E8jU) | 2025-06-30 |
 | ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2025-06-26 |
 | ios | [Hadge](https://testflight.apple.com/join/rFLkfNSu) | 2025-06-21 |
-| ios | [Twitch Beta](https://testflight.apple.com/join/8vRKFAiY) | 2025-06-18 |
 | ios | [AdGuard VPN](https://testflight.apple.com/join/fZRiD1zt) | 2025-05-30 |
 | ios | [MyFRITZ!App](https://testflight.apple.com/join/U0v1rBE5) | 2025-05-17 |
 | ios | [SimpleTix Box Office](https://testflight.apple.com/join/zyByZSX8) | 2025-05-14 |
