@@ -1,6 +1,8 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2025-09-08 |
+| ios | [Twitch Beta](https://testflight.apple.com/join/8vRKFAiY) | 2025-09-08 |
 | ios | [FRITZ!App TV](https://testflight.apple.com/join/Zl2czQO2) | 2025-09-04 |
 | ios | [Musixmatch Lyrics Finder](https://testflight.apple.com/join/7yLzN5td) | 2025-09-04 |
 | ios | [Pedal - Your cycling companion](https://testflight.apple.com/join/aaSgUXmq) | 2025-09-04 |
