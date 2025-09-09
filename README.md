@@ -1,8 +1,14 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| chinese | [微信键盘 beta](https://testflight.apple.com/join/iSTXkF4K) | 2025-09-09 |
+| chinese | [抖音](https://testflight.apple.com/join/ZILJgZhU) | 2025-09-09 |
+| ios | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2025-09-09 |
+| ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-09-09 |
+| ios | [Microsoft SwiftKey Keyboard](https://testflight.apple.com/join/yhIhAvjp) | 2025-09-09 |
+| ios | [Tee-Timer](https://testflight.apple.com/join/wzyzzspP) | 2025-09-09 |
+| macos | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2025-09-09 |
 | ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2025-09-08 |
-| ios | [Twitch Beta](https://testflight.apple.com/join/8vRKFAiY) | 2025-09-08 |
 | ios | [FRITZ!App TV](https://testflight.apple.com/join/Zl2czQO2) | 2025-09-04 |
 | ios | [Musixmatch Lyrics Finder](https://testflight.apple.com/join/7yLzN5td) | 2025-09-04 |
 | ios | [Pedal - Your cycling companion](https://testflight.apple.com/join/aaSgUXmq) | 2025-09-04 |
@@ -15,7 +21,6 @@
 | ios | [TV Time – #1 Show Tracker](https://testflight.apple.com/join/hjKkDsc4) | 2025-08-27 |
 | macos | [Batch Clipboard](https://testflight.apple.com/join/epg3cusH) | 2025-08-23 |
 | ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2025-08-19 |
-| ios | [Firefox Beta](https://testflight.apple.com/join/JdsubPZs) | 2025-08-19 |
 | macos | [Pricing Manager](https://testflight.apple.com/join/ZYsBYMhT) | 2025-08-18 |
 | ios | [FRITZ!App Fon](https://testflight.apple.com/join/SGGCxyRp) | 2025-08-16 |
 | ios | [Jira Server by Atlassian](https://testflight.apple.com/join/6JbjYbSY) | 2025-08-15 |
