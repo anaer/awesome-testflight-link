@@ -1,14 +1,15 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| chinese | [微信键盘 beta](https://testflight.apple.com/join/iSTXkF4K) | 2025-09-09 |
+| ios | [1Password - Password Manager beta](https://testflight.apple.com/join/fzDLkIVK) | 2025-09-10 |
+| ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-09-10 |
+| ios | [Microsoft Outlook](https://testflight.apple.com/join/QkU4VS1s) | 2025-09-10 |
+| ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2025-09-10 |
+| ios | [iSH Shell](https://testflight.apple.com/join/97i7KM8O) | 2025-09-10 |
 | chinese | [抖音](https://testflight.apple.com/join/ZILJgZhU) | 2025-09-09 |
 | ios | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2025-09-09 |
-| ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-09-09 |
-| ios | [Microsoft SwiftKey Keyboard](https://testflight.apple.com/join/yhIhAvjp) | 2025-09-09 |
 | ios | [Tee-Timer](https://testflight.apple.com/join/wzyzzspP) | 2025-09-09 |
 | macos | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2025-09-09 |
-| ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2025-09-08 |
 | ios | [FRITZ!App TV](https://testflight.apple.com/join/Zl2czQO2) | 2025-09-04 |
 | ios | [Musixmatch Lyrics Finder](https://testflight.apple.com/join/7yLzN5td) | 2025-09-04 |
 | ios | [Pedal - Your cycling companion](https://testflight.apple.com/join/aaSgUXmq) | 2025-09-04 |
