@@ -1,11 +1,12 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [1Password - Password Manager beta](https://testflight.apple.com/join/fzDLkIVK) | 2025-09-10 |
-| ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-09-10 |
-| ios | [Microsoft Outlook](https://testflight.apple.com/join/QkU4VS1s) | 2025-09-10 |
+| chinese | [滴答清单 TickTick](https://testflight.apple.com/join/vWQPDFQU) | 2025-09-11 |
+| ios | [Just Timers](https://testflight.apple.com/join/pyzrz0oT) | 2025-09-11 |
+| ios | [Microsoft OneDrive](https://testflight.apple.com/join/LtgPLzrQ) | 2025-09-11 |
+| ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2025-09-11 |
+| ios | [Spotify Music](https://testflight.apple.com/join/7lt2tesn) | 2025-09-11 |
 | ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2025-09-10 |
-| ios | [iSH Shell](https://testflight.apple.com/join/97i7KM8O) | 2025-09-10 |
 | chinese | [抖音](https://testflight.apple.com/join/ZILJgZhU) | 2025-09-09 |
 | ios | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2025-09-09 |
 | ios | [Tee-Timer](https://testflight.apple.com/join/wzyzzspP) | 2025-09-09 |
