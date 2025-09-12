@@ -1,16 +1,12 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Twitch Beta](https://testflight.apple.com/join/8vRKFAiY) | 2025-09-12 |
 | chinese | [滴答清单 TickTick](https://testflight.apple.com/join/vWQPDFQU) | 2025-09-11 |
 | ios | [Just Timers](https://testflight.apple.com/join/pyzrz0oT) | 2025-09-11 |
-| ios | [Microsoft OneDrive](https://testflight.apple.com/join/LtgPLzrQ) | 2025-09-11 |
-| ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2025-09-11 |
-| ios | [Spotify Music](https://testflight.apple.com/join/7lt2tesn) | 2025-09-11 |
 | ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2025-09-10 |
 | chinese | [抖音](https://testflight.apple.com/join/ZILJgZhU) | 2025-09-09 |
-| ios | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2025-09-09 |
 | ios | [Tee-Timer](https://testflight.apple.com/join/wzyzzspP) | 2025-09-09 |
-| macos | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2025-09-09 |
 | ios | [FRITZ!App TV](https://testflight.apple.com/join/Zl2czQO2) | 2025-09-04 |
 | ios | [Musixmatch Lyrics Finder](https://testflight.apple.com/join/7yLzN5td) | 2025-09-04 |
 | ios | [Pedal - Your cycling companion](https://testflight.apple.com/join/aaSgUXmq) | 2025-09-04 |
@@ -125,7 +121,6 @@
 | ios | [希沃白板](https://testflight.apple.com/join/d6MQLpKY) | 2023-12-07 |
 | ios | [Brave](https://testflight.apple.com/join/Trcbh1o3) | 2023-12-02 |
 | ios | [Property Finder](https://testflight.apple.com/join/ctQoX4vC) | 2023-10-14 |
-| ios | [Chanyan](https://testflight.apple.com/join/ky5bRwMY) | 2023-09-23 |
 | ios | [Wikipedia](https://testflight.apple.com/join/Z0AU0KXC) | 2023-09-16 |
 | ios | [Kodi Remote beta](https://testflight.apple.com/join/VQkpfqDN) | 2023-07-30 |
 | ios | [Readwise Reader beta](https://testflight.apple.com/join/NSeQo22d) | 2023-07-30 |
