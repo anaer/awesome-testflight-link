@@ -1,7 +1,11 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Twitch Beta](https://testflight.apple.com/join/8vRKFAiY) | 2025-09-12 |
+| chinese | [iCost 记账](https://testflight.apple.com/join/pm1jk978) | 2025-09-13 |
+| ios | [Cash App](https://testflight.apple.com/join/An0RiOFF) | 2025-09-13 |
+| ios | [Grindr - Gay Dating & Chat](https://testflight.apple.com/join/eO265vw7) | 2025-09-13 |
+| ios | [Microsoft SwiftKey Keyboard](https://testflight.apple.com/join/yhIhAvjp) | 2025-09-13 |
+| ios | [infltr - Infinite Filters](https://testflight.apple.com/join/In6e3GcJ) | 2025-09-13 |
 | chinese | [滴答清单 TickTick](https://testflight.apple.com/join/vWQPDFQU) | 2025-09-11 |
 | ios | [Just Timers](https://testflight.apple.com/join/pyzrz0oT) | 2025-09-11 |
 | ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2025-09-10 |
