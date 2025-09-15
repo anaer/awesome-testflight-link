@@ -1,6 +1,8 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2025-09-15 |
+| ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2025-09-15 |
 | chinese | [滴答清单 TickTick](https://testflight.apple.com/join/vWQPDFQU) | 2025-09-11 |
 | ios | [Just Timers](https://testflight.apple.com/join/pyzrz0oT) | 2025-09-11 |
 | ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2025-09-10 |
