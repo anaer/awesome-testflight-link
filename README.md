@@ -1,10 +1,11 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| chinese | [QQ beta](https://testflight.apple.com/join/R5FNGUl3) | 2025-09-17 |
+| ios | [Pockity](https://testflight.apple.com/join/4qfWwXvP) | 2025-09-17 |
+| ios | [Reddit](https://testflight.apple.com/join/b9jMyOWt) | 2025-09-17 |
 | chinese | [抖音](https://testflight.apple.com/join/ZILJgZhU) | 2025-09-16 |
-| ios | [AliExpress - Shopping App beta](https://testflight.apple.com/join/TFhYeUyJ) | 2025-09-16 |
 | ios | [Chanyan](https://testflight.apple.com/join/ky5bRwMY) | 2025-09-16 |
-| ios | [Twitch Beta](https://testflight.apple.com/join/8vRKFAiY) | 2025-09-16 |
 | ios | [搜狗输入法](https://testflight.apple.com/join/lSZdpEPH) | 2025-09-16 |
 | chinese | [滴答清单 TickTick](https://testflight.apple.com/join/vWQPDFQU) | 2025-09-11 |
 | ios | [Just Timers](https://testflight.apple.com/join/pyzrz0oT) | 2025-09-11 |
