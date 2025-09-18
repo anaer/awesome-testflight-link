@@ -1,10 +1,14 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [1Password - Password Manager beta](https://testflight.apple.com/join/fzDLkIVK) | 2025-09-18 |
+| ios | [Grindr - Gay Dating & Chat](https://testflight.apple.com/join/eO265vw7) | 2025-09-18 |
+| ios | [Lenna - Video Library Player](https://testflight.apple.com/join/bExxpaX1) | 2025-09-18 |
+| ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-09-18 |
+| ios | [Television Time](https://testflight.apple.com/join/eP0BTwVi) | 2025-09-18 |
+| ios | [和风天气 - 可视化天气 beta](https://testflight.apple.com/join/9KR0Xx7E) | 2025-09-18 |
 | chinese | [QQ beta](https://testflight.apple.com/join/R5FNGUl3) | 2025-09-17 |
 | ios | [Pockity](https://testflight.apple.com/join/4qfWwXvP) | 2025-09-17 |
-| ios | [Reddit](https://testflight.apple.com/join/b9jMyOWt) | 2025-09-17 |
-| chinese | [抖音](https://testflight.apple.com/join/ZILJgZhU) | 2025-09-16 |
 | ios | [Chanyan](https://testflight.apple.com/join/ky5bRwMY) | 2025-09-16 |
 | ios | [搜狗输入法](https://testflight.apple.com/join/lSZdpEPH) | 2025-09-16 |
 | chinese | [滴答清单 TickTick](https://testflight.apple.com/join/vWQPDFQU) | 2025-09-11 |
@@ -49,7 +53,6 @@
 | ios | [Hadge](https://testflight.apple.com/join/rFLkfNSu) | 2025-06-21 |
 | ios | [AdGuard VPN](https://testflight.apple.com/join/fZRiD1zt) | 2025-05-30 |
 | ios | [MyFRITZ!App](https://testflight.apple.com/join/U0v1rBE5) | 2025-05-17 |
-| ios | [SimpleTix Box Office](https://testflight.apple.com/join/zyByZSX8) | 2025-05-14 |
 | ios | [Trello — Organize anything!](https://testflight.apple.com/join/cRWMcQsr) | 2025-05-08 |
 | ios | [Breveto](https://testflight.apple.com/join/9mqMgFjT) | 2025-05-03 |
 | ios | [Filmlog](https://testflight.apple.com/join/ywiozhph) | 2025-05-02 |
