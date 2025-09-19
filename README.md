@@ -1,11 +1,14 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [1Password - Password Manager beta](https://testflight.apple.com/join/fzDLkIVK) | 2025-09-18 |
+| chinese | [抖音](https://testflight.apple.com/join/ZILJgZhU) | 2025-09-19 |
+| chinese | [百度贴吧](https://testflight.apple.com/join/GgBqXAqm) | 2025-09-19 |
+| ios | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2025-09-19 |
+| ios | [Microsoft Office](https://testflight.apple.com/join/eHAKJBtM) | 2025-09-19 |
+| ios | [Quizlet](https://testflight.apple.com/join/mwhcPqxJ) | 2025-09-19 |
+| macos | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2025-09-19 |
 | ios | [Grindr - Gay Dating & Chat](https://testflight.apple.com/join/eO265vw7) | 2025-09-18 |
 | ios | [Lenna - Video Library Player](https://testflight.apple.com/join/bExxpaX1) | 2025-09-18 |
-| ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-09-18 |
-| ios | [Television Time](https://testflight.apple.com/join/eP0BTwVi) | 2025-09-18 |
 | ios | [和风天气 - 可视化天气 beta](https://testflight.apple.com/join/9KR0Xx7E) | 2025-09-18 |
 | chinese | [QQ beta](https://testflight.apple.com/join/R5FNGUl3) | 2025-09-17 |
 | ios | [Pockity](https://testflight.apple.com/join/4qfWwXvP) | 2025-09-17 |
@@ -67,8 +70,6 @@
 | ios | [Sleep Cycle - Sleep Tracker beta](https://testflight.apple.com/join/tCeANbZi) | 2025-04-10 |
 | ios | [Sleep Cycle alarm clock](https://testflight.apple.com/join/8RcEFqFF) | 2025-04-10 |
 | ios | [Plex](https://testflight.apple.com/join/MY6JTzix) | 2025-04-09 |
-| ios | [FM Radio x Radddio App](https://testflight.apple.com/join/JaRYx1fE) | 2025-04-08 |
-| ios | [Erasee: Background Remover](https://testflight.apple.com/join/t6xnU9H3) | 2025-04-03 |
 | ios | [Gaming for Peace-GAP](https://testflight.apple.com/join/tJu81Sch) | 2025-04-01 |
 | ios | [Herald: Latest News](https://testflight.apple.com/join/pkrdVu0n) | 2025-03-29 |
 | ios | [Love2D Game Maker](https://testflight.apple.com/join/bCLmQKfQ) | 2025-03-28 |
