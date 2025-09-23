@@ -1,10 +1,12 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| chinese | [微信键盘 beta](https://testflight.apple.com/join/iSTXkF4K) | 2025-09-23 |
+| ios | [Cash App](https://testflight.apple.com/join/An0RiOFF) | 2025-09-23 |
+| ios | [Facebook](https://testflight.apple.com/join/C1a3MRG4) | 2025-09-23 |
+| ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2025-09-23 |
 | ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-09-22 |
-| ios | [Microsoft Lists](https://testflight.apple.com/join/FL3caOg6) | 2025-09-22 |
 | ios | [Twitch Beta](https://testflight.apple.com/join/8vRKFAiY) | 2025-09-22 |
-| ios | [腾讯视频HD](https://testflight.apple.com/join/9JaSzwSN) | 2025-09-22 |
 | chinese | [百度贴吧](https://testflight.apple.com/join/GgBqXAqm) | 2025-09-19 |
 | ios | [Lenna - Video Library Player](https://testflight.apple.com/join/bExxpaX1) | 2025-09-18 |
 | chinese | [QQ beta](https://testflight.apple.com/join/R5FNGUl3) | 2025-09-17 |
