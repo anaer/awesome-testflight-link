@@ -1,12 +1,11 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Finance Bay](https://testflight.apple.com/join/y4etT8Ht) | 2025-09-24 |
+| chinese | [抖音](https://testflight.apple.com/join/ZILJgZhU) | 2025-09-25 |
+| ios | [Microsoft To-Do](https://testflight.apple.com/join/JSq3UkAz) | 2025-09-25 |
+| ios | [Onion Browser](https://testflight.apple.com/join/90DvGBOE) | 2025-09-25 |
 | ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-09-24 |
 | ios | [Reddit](https://testflight.apple.com/join/b9jMyOWt) | 2025-09-24 |
-| ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2025-09-23 |
-| ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-09-22 |
-| ios | [Twitch Beta](https://testflight.apple.com/join/8vRKFAiY) | 2025-09-22 |
 | chinese | [百度贴吧](https://testflight.apple.com/join/GgBqXAqm) | 2025-09-19 |
 | ios | [Lenna - Video Library Player](https://testflight.apple.com/join/bExxpaX1) | 2025-09-18 |
 | chinese | [QQ beta](https://testflight.apple.com/join/R5FNGUl3) | 2025-09-17 |
@@ -111,7 +110,6 @@
 | ios | [Airmail - Your Mail With You](https://testflight.apple.com/join/wRiLlWPE) | 2024-08-31 |
 | ios | [FRITZ!App Smart Home](https://testflight.apple.com/join/kzVJhIg1) | 2024-08-21 |
 | ios | [PDF Viewer Pro by PSPDFKit](https://testflight.apple.com/join/6IMUtZ8n) | 2024-08-15 |
-| ios | [NOS](https://testflight.apple.com/join/i4g2QrrG) | 2024-07-18 |
 | ios | [Signal - Private Messenger](https://testflight.apple.com/join/8FHtd1Jq) | 2024-07-02 |
 | ios | [Cheatsheet](https://testflight.apple.com/join/E7AnyPlA) | 2024-06-26 |
 | ios | [SHARE NOW (car2go & DriveNow)](https://testflight.apple.com/join/1SsBDNCj) | 2024-06-04 |
