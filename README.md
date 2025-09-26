@@ -1,9 +1,12 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| chinese | [微信键盘 beta](https://testflight.apple.com/join/iSTXkF4K) | 2025-09-26 |
+| ios | [Everlog](https://testflight.apple.com/join/sOCDYE65) | 2025-09-26 |
+| ios | [Grocery-Smart Grocery List](https://testflight.apple.com/join/v29eXz9t) | 2025-09-26 |
+| ios | [Microsoft Outlook](https://testflight.apple.com/join/QkU4VS1s) | 2025-09-26 |
+| ios | [waipu.tv](https://testflight.apple.com/join/l72L1OK3) | 2025-09-26 |
 | chinese | [抖音](https://testflight.apple.com/join/ZILJgZhU) | 2025-09-25 |
-| ios | [Microsoft To-Do](https://testflight.apple.com/join/JSq3UkAz) | 2025-09-25 |
-| ios | [Onion Browser](https://testflight.apple.com/join/90DvGBOE) | 2025-09-25 |
 | ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-09-24 |
 | ios | [Reddit](https://testflight.apple.com/join/b9jMyOWt) | 2025-09-24 |
 | chinese | [百度贴吧](https://testflight.apple.com/join/GgBqXAqm) | 2025-09-19 |
@@ -12,7 +15,6 @@
 | ios | [Chanyan](https://testflight.apple.com/join/ky5bRwMY) | 2025-09-16 |
 | ios | [搜狗输入法](https://testflight.apple.com/join/lSZdpEPH) | 2025-09-16 |
 | chinese | [滴答清单 TickTick](https://testflight.apple.com/join/vWQPDFQU) | 2025-09-11 |
-| ios | [Just Timers](https://testflight.apple.com/join/pyzrz0oT) | 2025-09-11 |
 | ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2025-09-10 |
 | ios | [Tee-Timer](https://testflight.apple.com/join/wzyzzspP) | 2025-09-09 |
 | ios | [FRITZ!App TV](https://testflight.apple.com/join/Zl2czQO2) | 2025-09-04 |
