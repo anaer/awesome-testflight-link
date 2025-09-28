@@ -1,13 +1,13 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [1Password - Password Manager beta](https://testflight.apple.com/join/fzDLkIVK) | 2025-09-27 |
+| ios | [Grindr - Gay Dating & Chat](https://testflight.apple.com/join/eO265vw7) | 2025-09-28 |
+| ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-09-28 |
+| ios | [Microsoft Loop beta](https://testflight.apple.com/join/KNyadcIZ) | 2025-09-28 |
 | chinese | [微信键盘 beta](https://testflight.apple.com/join/iSTXkF4K) | 2025-09-26 |
 | ios | [Everlog](https://testflight.apple.com/join/sOCDYE65) | 2025-09-26 |
 | ios | [Microsoft Outlook](https://testflight.apple.com/join/QkU4VS1s) | 2025-09-26 |
-| ios | [waipu.tv](https://testflight.apple.com/join/l72L1OK3) | 2025-09-26 |
 | chinese | [抖音](https://testflight.apple.com/join/ZILJgZhU) | 2025-09-25 |
-| ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-09-24 |
 | chinese | [百度贴吧](https://testflight.apple.com/join/GgBqXAqm) | 2025-09-19 |
 | ios | [Lenna - Video Library Player](https://testflight.apple.com/join/bExxpaX1) | 2025-09-18 |
 | chinese | [QQ beta](https://testflight.apple.com/join/R5FNGUl3) | 2025-09-17 |
