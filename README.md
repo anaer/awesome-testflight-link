@@ -1,13 +1,13 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| chinese | [酷狗音乐](https://testflight.apple.com/join/6cnKUyZ8) | 2025-09-29 |
+| ios | [Just Timers](https://testflight.apple.com/join/pyzrz0oT) | 2025-09-29 |
+| ios | [腾讯视频HD](https://testflight.apple.com/join/9JaSzwSN) | 2025-09-29 |
 | ios | [Grindr - Gay Dating & Chat](https://testflight.apple.com/join/eO265vw7) | 2025-09-28 |
-| ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-09-28 |
-| ios | [Microsoft Loop beta](https://testflight.apple.com/join/KNyadcIZ) | 2025-09-28 |
 | chinese | [微信键盘 beta](https://testflight.apple.com/join/iSTXkF4K) | 2025-09-26 |
 | ios | [Everlog](https://testflight.apple.com/join/sOCDYE65) | 2025-09-26 |
 | ios | [Microsoft Outlook](https://testflight.apple.com/join/QkU4VS1s) | 2025-09-26 |
-| chinese | [抖音](https://testflight.apple.com/join/ZILJgZhU) | 2025-09-25 |
 | chinese | [百度贴吧](https://testflight.apple.com/join/GgBqXAqm) | 2025-09-19 |
 | ios | [Lenna - Video Library Player](https://testflight.apple.com/join/bExxpaX1) | 2025-09-18 |
 | chinese | [QQ beta](https://testflight.apple.com/join/R5FNGUl3) | 2025-09-17 |
@@ -17,7 +17,6 @@
 | ios | [Tee-Timer](https://testflight.apple.com/join/wzyzzspP) | 2025-09-09 |
 | ios | [FRITZ!App TV](https://testflight.apple.com/join/Zl2czQO2) | 2025-09-04 |
 | ios | [Musixmatch Lyrics Finder](https://testflight.apple.com/join/7yLzN5td) | 2025-09-04 |
-| ios | [Pedal - Your cycling companion](https://testflight.apple.com/join/aaSgUXmq) | 2025-09-04 |
 | ios | [Proton VPN: Fast & Secure](https://testflight.apple.com/join/3yl2MSbw) | 2025-09-04 |
 | ios | [Bitwarden Beta](https://testflight.apple.com/join/S4OQEYYQ) | 2025-09-03 |
 | ios | [F1ATV](https://testflight.apple.com/join/NRswe1IZ) | 2025-08-30 |
