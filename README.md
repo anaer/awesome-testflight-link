@@ -1,12 +1,16 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Facebook](https://testflight.apple.com/join/C1a3MRG4) | 2025-09-30 |
+| ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-09-30 |
+| ios | [Lock Launcher beta](https://testflight.apple.com/join/clHxFnLa) | 2025-09-30 |
+| ios | [Microsoft Office](https://testflight.apple.com/join/eHAKJBtM) | 2025-09-30 |
+| ios | [Norton](https://testflight.apple.com/join/iHcEgAaT) | 2025-09-30 |
+| ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2025-09-30 |
+| ios | [waipu.tv](https://testflight.apple.com/join/l72L1OK3) | 2025-09-30 |
 | chinese | [酷狗音乐](https://testflight.apple.com/join/6cnKUyZ8) | 2025-09-29 |
-| ios | [Just Timers](https://testflight.apple.com/join/pyzrz0oT) | 2025-09-29 |
-| ios | [腾讯视频HD](https://testflight.apple.com/join/9JaSzwSN) | 2025-09-29 |
 | ios | [Grindr - Gay Dating & Chat](https://testflight.apple.com/join/eO265vw7) | 2025-09-28 |
 | chinese | [微信键盘 beta](https://testflight.apple.com/join/iSTXkF4K) | 2025-09-26 |
-| ios | [Everlog](https://testflight.apple.com/join/sOCDYE65) | 2025-09-26 |
 | ios | [Microsoft Outlook](https://testflight.apple.com/join/QkU4VS1s) | 2025-09-26 |
 | chinese | [百度贴吧](https://testflight.apple.com/join/GgBqXAqm) | 2025-09-19 |
 | ios | [Lenna - Video Library Player](https://testflight.apple.com/join/bExxpaX1) | 2025-09-18 |
