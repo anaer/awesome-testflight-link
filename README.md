@@ -1,6 +1,11 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| chinese | [抖音](https://testflight.apple.com/join/ZILJgZhU) | 2025-10-02 |
+| ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-10-02 |
+| ios | [Twitch Beta](https://testflight.apple.com/join/8vRKFAiY) | 2025-10-02 |
+| ios | [infltr - Infinite Filters](https://testflight.apple.com/join/In6e3GcJ) | 2025-10-02 |
+| ios_game | [Minecraft Preview](https://testflight.apple.com/join/qC1ZnReJ) | 2025-10-02 |
 | ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-09-30 |
 | chinese | [微信键盘 beta](https://testflight.apple.com/join/iSTXkF4K) | 2025-09-26 |
 | ios | [Microsoft Outlook](https://testflight.apple.com/join/QkU4VS1s) | 2025-09-26 |
