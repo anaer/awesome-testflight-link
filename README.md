@@ -1,10 +1,11 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| chinese | [抖音](https://testflight.apple.com/join/ZILJgZhU) | 2025-10-02 |
-| ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-10-02 |
-| ios | [Twitch Beta](https://testflight.apple.com/join/8vRKFAiY) | 2025-10-02 |
-| ios | [infltr - Infinite Filters](https://testflight.apple.com/join/In6e3GcJ) | 2025-10-02 |
+| ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2025-10-03 |
+| ios | [Everlog](https://testflight.apple.com/join/sOCDYE65) | 2025-10-03 |
+| ios | [Facebook](https://testflight.apple.com/join/C1a3MRG4) | 2025-10-03 |
+| ios | [Microsoft Lists](https://testflight.apple.com/join/FL3caOg6) | 2025-10-03 |
+| ios | [waipu.tv](https://testflight.apple.com/join/l72L1OK3) | 2025-10-03 |
 | ios_game | [Minecraft Preview](https://testflight.apple.com/join/qC1ZnReJ) | 2025-10-02 |
 | ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-09-30 |
 | chinese | [微信键盘 beta](https://testflight.apple.com/join/iSTXkF4K) | 2025-09-26 |
