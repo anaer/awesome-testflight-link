@@ -1,12 +1,12 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Just Timers](https://testflight.apple.com/join/pyzrz0oT) | 2025-10-04 |
+| ios | [Microsoft OneDrive](https://testflight.apple.com/join/LtgPLzrQ) | 2025-10-04 |
+| ios | [Quizlet](https://testflight.apple.com/join/mwhcPqxJ) | 2025-10-04 |
 | ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2025-10-03 |
 | ios | [Everlog](https://testflight.apple.com/join/sOCDYE65) | 2025-10-03 |
-| ios | [Facebook](https://testflight.apple.com/join/C1a3MRG4) | 2025-10-03 |
-| ios | [Microsoft Lists](https://testflight.apple.com/join/FL3caOg6) | 2025-10-03 |
 | ios | [waipu.tv](https://testflight.apple.com/join/l72L1OK3) | 2025-10-03 |
-| ios_game | [Minecraft Preview](https://testflight.apple.com/join/qC1ZnReJ) | 2025-10-02 |
 | ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-09-30 |
 | chinese | [微信键盘 beta](https://testflight.apple.com/join/iSTXkF4K) | 2025-09-26 |
 | ios | [Microsoft Outlook](https://testflight.apple.com/join/QkU4VS1s) | 2025-09-26 |
