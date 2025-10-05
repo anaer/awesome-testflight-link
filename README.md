@@ -1,10 +1,8 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Just Timers](https://testflight.apple.com/join/pyzrz0oT) | 2025-10-04 |
-| ios | [Microsoft OneDrive](https://testflight.apple.com/join/LtgPLzrQ) | 2025-10-04 |
-| ios | [Quizlet](https://testflight.apple.com/join/mwhcPqxJ) | 2025-10-04 |
-| ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2025-10-03 |
+| chinese | [抖音](https://testflight.apple.com/join/ZILJgZhU) | 2025-10-05 |
+| ios | [Onion Browser](https://testflight.apple.com/join/iPWLRpZu) | 2025-10-05 |
 | ios | [Everlog](https://testflight.apple.com/join/sOCDYE65) | 2025-10-03 |
 | ios | [waipu.tv](https://testflight.apple.com/join/l72L1OK3) | 2025-10-03 |
 | ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-09-30 |
@@ -64,7 +62,6 @@
 | ios | [Mindustry](https://testflight.apple.com/join/79Azm1hZ) | 2025-04-13 |
 | ios | [Sleep Cycle - Sleep Tracker beta](https://testflight.apple.com/join/tCeANbZi) | 2025-04-10 |
 | ios | [Sleep Cycle alarm clock](https://testflight.apple.com/join/8RcEFqFF) | 2025-04-10 |
-| ios | [Plex](https://testflight.apple.com/join/MY6JTzix) | 2025-04-09 |
 | ios | [Gaming for Peace-GAP](https://testflight.apple.com/join/tJu81Sch) | 2025-04-01 |
 | ios | [Herald: Latest News](https://testflight.apple.com/join/pkrdVu0n) | 2025-03-29 |
 | ios | [Love2D Game Maker](https://testflight.apple.com/join/bCLmQKfQ) | 2025-03-28 |
