@@ -1,12 +1,10 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| chinese | [抖音](https://testflight.apple.com/join/ZILJgZhU) | 2025-10-05 |
-| ios | [Onion Browser](https://testflight.apple.com/join/iPWLRpZu) | 2025-10-05 |
+| ios | [Lenna - Video Library Player](https://testflight.apple.com/join/bExxpaX1) | 2025-10-06 |
+| ios | [Twitch Beta](https://testflight.apple.com/join/8vRKFAiY) | 2025-10-06 |
 | ios | [Everlog](https://testflight.apple.com/join/sOCDYE65) | 2025-10-03 |
 | ios | [waipu.tv](https://testflight.apple.com/join/l72L1OK3) | 2025-10-03 |
-| ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-09-30 |
-| chinese | [微信键盘 beta](https://testflight.apple.com/join/iSTXkF4K) | 2025-09-26 |
 | ios | [Microsoft Outlook](https://testflight.apple.com/join/QkU4VS1s) | 2025-09-26 |
 | chinese | [百度贴吧](https://testflight.apple.com/join/GgBqXAqm) | 2025-09-19 |
 | chinese | [QQ beta](https://testflight.apple.com/join/R5FNGUl3) | 2025-09-17 |
