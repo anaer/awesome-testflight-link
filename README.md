@@ -1,8 +1,9 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Lenna - Video Library Player](https://testflight.apple.com/join/bExxpaX1) | 2025-10-06 |
-| ios | [Twitch Beta](https://testflight.apple.com/join/8vRKFAiY) | 2025-10-06 |
+| ios | [MSN (Start)](https://testflight.apple.com/join/jOahtut6) | 2025-10-07 |
+| ios | [Microsoft Lists](https://testflight.apple.com/join/FL3caOg6) | 2025-10-07 |
+| ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2025-10-07 |
 | ios | [Everlog](https://testflight.apple.com/join/sOCDYE65) | 2025-10-03 |
 | ios | [waipu.tv](https://testflight.apple.com/join/l72L1OK3) | 2025-10-03 |
 | ios | [Microsoft Outlook](https://testflight.apple.com/join/QkU4VS1s) | 2025-09-26 |
