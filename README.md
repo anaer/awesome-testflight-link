@@ -1,8 +1,10 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [MSN (Start)](https://testflight.apple.com/join/jOahtut6) | 2025-10-07 |
-| ios | [Microsoft Lists](https://testflight.apple.com/join/FL3caOg6) | 2025-10-07 |
+| ios | [CardioBot - Heart Rate Monitor](https://testflight.apple.com/join/H82FVVt6) | 2025-10-08 |
+| ios | [ColorSlurp Beta](https://testflight.apple.com/join/xxEw2j1X) | 2025-10-08 |
+| ios | [Microsoft To-Do](https://testflight.apple.com/join/JSq3UkAz) | 2025-10-08 |
+| ios_game | [Cell to Singularity](https://testflight.apple.com/join/RD9jGH9S) | 2025-10-08 |
 | ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2025-10-07 |
 | ios | [Everlog](https://testflight.apple.com/join/sOCDYE65) | 2025-10-03 |
 | ios | [waipu.tv](https://testflight.apple.com/join/l72L1OK3) | 2025-10-03 |
