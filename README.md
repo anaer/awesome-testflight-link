@@ -1,14 +1,13 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [CardioBot - Heart Rate Monitor](https://testflight.apple.com/join/H82FVVt6) | 2025-10-08 |
+| chinese | [微信键盘 beta](https://testflight.apple.com/join/iSTXkF4K) | 2025-10-09 |
+| ios | [FRITZ!App WLAN](https://testflight.apple.com/join/vbfCKamq) | 2025-10-09 |
+| ios | [GitHub](https://testflight.apple.com/join/NLskzwi5) | 2025-10-09 |
 | ios | [ColorSlurp Beta](https://testflight.apple.com/join/xxEw2j1X) | 2025-10-08 |
-| ios | [Microsoft To-Do](https://testflight.apple.com/join/JSq3UkAz) | 2025-10-08 |
 | ios_game | [Cell to Singularity](https://testflight.apple.com/join/RD9jGH9S) | 2025-10-08 |
 | ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2025-10-07 |
-| ios | [Everlog](https://testflight.apple.com/join/sOCDYE65) | 2025-10-03 |
 | ios | [waipu.tv](https://testflight.apple.com/join/l72L1OK3) | 2025-10-03 |
-| ios | [Microsoft Outlook](https://testflight.apple.com/join/QkU4VS1s) | 2025-09-26 |
 | chinese | [百度贴吧](https://testflight.apple.com/join/GgBqXAqm) | 2025-09-19 |
 | chinese | [QQ beta](https://testflight.apple.com/join/R5FNGUl3) | 2025-09-17 |
 | ios | [Chanyan](https://testflight.apple.com/join/ky5bRwMY) | 2025-09-16 |
@@ -66,7 +65,6 @@
 | ios | [Gaming for Peace-GAP](https://testflight.apple.com/join/tJu81Sch) | 2025-04-01 |
 | ios | [Herald: Latest News](https://testflight.apple.com/join/pkrdVu0n) | 2025-03-29 |
 | ios | [Love2D Game Maker](https://testflight.apple.com/join/bCLmQKfQ) | 2025-03-28 |
-| ios | [Parcel - Delivery Tracking](https://testflight.apple.com/join/fMeg6C4A) | 2025-03-19 |
 | ios | [Meditation Timer Zenzitizer](https://testflight.apple.com/join/QvKyRJ8x) | 2025-03-01 |
 | ios | [网易 Filmly](https://testflight.apple.com/join/sIj5iOoj) | 2025-03-01 |
 | ios | [Feedly](https://testflight.apple.com/join/03ER1aUo) | 2025-02-28 |
@@ -109,7 +107,6 @@
 | ios | [Signal - Private Messenger](https://testflight.apple.com/join/8FHtd1Jq) | 2024-07-02 |
 | ios | [Cheatsheet](https://testflight.apple.com/join/E7AnyPlA) | 2024-06-26 |
 | ios | [SHARE NOW (car2go & DriveNow)](https://testflight.apple.com/join/1SsBDNCj) | 2024-06-04 |
-| ios | [Microsoft PowerPoint](https://testflight.apple.com/join/a9Ef0N3g) | 2024-06-01 |
 | ios | [Ruuvi Station](https://testflight.apple.com/join/loHFrEV1) | 2024-05-31 |
 | ios | [Opera Touch web browser](https://testflight.apple.com/join/ASrCFVHB) | 2024-05-28 |
 | ios | [Revolut - Radically Better](https://testflight.apple.com/join/oqrinjQB) | 2024-05-16 |
