@@ -1,9 +1,8 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| chinese | [微信键盘 beta](https://testflight.apple.com/join/iSTXkF4K) | 2025-10-09 |
-| ios | [FRITZ!App WLAN](https://testflight.apple.com/join/vbfCKamq) | 2025-10-09 |
-| ios | [GitHub](https://testflight.apple.com/join/NLskzwi5) | 2025-10-09 |
+| ios | [Just Timers](https://testflight.apple.com/join/pyzrz0oT) | 2025-10-10 |
+| ios | [Microsoft PowerPoint](https://testflight.apple.com/join/a9Ef0N3g) | 2025-10-10 |
 | ios | [ColorSlurp Beta](https://testflight.apple.com/join/xxEw2j1X) | 2025-10-08 |
 | ios_game | [Cell to Singularity](https://testflight.apple.com/join/RD9jGH9S) | 2025-10-08 |
 | ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2025-10-07 |
