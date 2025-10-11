@@ -1,11 +1,11 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Just Timers](https://testflight.apple.com/join/pyzrz0oT) | 2025-10-10 |
-| ios | [Microsoft PowerPoint](https://testflight.apple.com/join/a9Ef0N3g) | 2025-10-10 |
+| ios | [Facebook](https://testflight.apple.com/join/C1a3MRG4) | 2025-10-11 |
+| ios | [Lenna - Video Library Player](https://testflight.apple.com/join/bExxpaX1) | 2025-10-11 |
+| ios | [Parcel - Delivery Tracking](https://testflight.apple.com/join/fMeg6C4A) | 2025-10-11 |
 | ios | [ColorSlurp Beta](https://testflight.apple.com/join/xxEw2j1X) | 2025-10-08 |
 | ios_game | [Cell to Singularity](https://testflight.apple.com/join/RD9jGH9S) | 2025-10-08 |
-| ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2025-10-07 |
 | ios | [waipu.tv](https://testflight.apple.com/join/l72L1OK3) | 2025-10-03 |
 | chinese | [百度贴吧](https://testflight.apple.com/join/GgBqXAqm) | 2025-09-19 |
 | chinese | [QQ beta](https://testflight.apple.com/join/R5FNGUl3) | 2025-09-17 |
@@ -36,7 +36,6 @@
 | ios | [HexT](https://testflight.apple.com/join/ixTrfIgF) | 2025-07-17 |
 | ios | [Monal - XMPP Chat](https://testflight.apple.com/join/lLLlgHpB) | 2025-07-14 |
 | macos | [Monal - XMPP Chatting](https://testflight.apple.com/join/tGH2m5vf) | 2025-07-14 |
-| ios | [Count In Days](https://testflight.apple.com/join/3aUpFGCc) | 2025-07-09 |
 | ios | [IT之家](https://testflight.apple.com/join/eD9uChwY) | 2025-07-09 |
 | ios | [Windscribe VPN](https://testflight.apple.com/join/oKib5JOq) | 2025-07-04 |
 | ios | [Jira Cloud by Atlassian](https://testflight.apple.com/join/2lm7vHBS) | 2025-07-03 |
