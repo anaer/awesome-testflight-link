@@ -1,11 +1,14 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Microsoft Lists](https://testflight.apple.com/join/FL3caOg6) | 2025-10-13 |
+| ios | [Parcel - Delivery Tracking](https://testflight.apple.com/join/fMeg6C4A) | 2025-10-13 |
+| ios | [Plex](https://testflight.apple.com/join/MY6JTzix) | 2025-10-13 |
+| ios | [Twitch Beta](https://testflight.apple.com/join/8vRKFAiY) | 2025-10-13 |
 | chinese | [哔哩哔哩](https://testflight.apple.com/join/K4pM1kHu) | 2025-10-12 |
 | ios | [Facebook](https://testflight.apple.com/join/C1a3MRG4) | 2025-10-11 |
 | ios | [ColorSlurp Beta](https://testflight.apple.com/join/xxEw2j1X) | 2025-10-08 |
 | ios_game | [Cell to Singularity](https://testflight.apple.com/join/RD9jGH9S) | 2025-10-08 |
-| ios | [waipu.tv](https://testflight.apple.com/join/l72L1OK3) | 2025-10-03 |
 | chinese | [百度贴吧](https://testflight.apple.com/join/GgBqXAqm) | 2025-09-19 |
 | chinese | [QQ beta](https://testflight.apple.com/join/R5FNGUl3) | 2025-09-17 |
 | ios | [Chanyan](https://testflight.apple.com/join/ky5bRwMY) | 2025-09-16 |
@@ -26,7 +29,6 @@
 | ios | [FRITZ!App Fon](https://testflight.apple.com/join/SGGCxyRp) | 2025-08-16 |
 | ios | [Jira Server by Atlassian](https://testflight.apple.com/join/6JbjYbSY) | 2025-08-15 |
 | ios | [Qobuz](https://testflight.apple.com/join/GPJZwnh9) | 2025-08-14 |
-| chinese | [我的世界-网易](https://testflight.apple.com/join/mOxZm1dD) | 2025-08-09 |
 | ios | [UTM Remote Virtual Machines](https://testflight.apple.com/join/mFlnyMv3) | 2025-08-05 |
 | ios_game | [Build Me This: Parts to Profit](https://testflight.apple.com/join/U4GabrwT) | 2025-08-05 |
 | ios | [Documents by Readdle](https://testflight.apple.com/join/EOPEVoDA) | 2025-07-26 |
@@ -40,7 +42,6 @@
 | ios | [Jira Cloud by Atlassian](https://testflight.apple.com/join/2lm7vHBS) | 2025-07-03 |
 | ios | [UniFi](https://testflight.apple.com/join/Pkd9a658) | 2025-07-01 |
 | ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2025-06-30 |
-| ios_game | [Tappy Engine](https://testflight.apple.com/join/ZnTGTn2A) | 2025-06-30 |
 | ios_game | [Zombies Endless](https://testflight.apple.com/join/6Ya9E8jU) | 2025-06-30 |
 | ios | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2025-06-26 |
 | ios | [Hadge](https://testflight.apple.com/join/rFLkfNSu) | 2025-06-21 |
