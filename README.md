@@ -1,11 +1,9 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Microsoft Lists](https://testflight.apple.com/join/FL3caOg6) | 2025-10-13 |
+| ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2025-10-14 |
 | ios | [Parcel - Delivery Tracking](https://testflight.apple.com/join/fMeg6C4A) | 2025-10-13 |
-| ios | [Plex](https://testflight.apple.com/join/MY6JTzix) | 2025-10-13 |
 | ios | [Twitch Beta](https://testflight.apple.com/join/8vRKFAiY) | 2025-10-13 |
-| chinese | [哔哩哔哩](https://testflight.apple.com/join/K4pM1kHu) | 2025-10-12 |
 | ios | [Facebook](https://testflight.apple.com/join/C1a3MRG4) | 2025-10-11 |
 | ios | [ColorSlurp Beta](https://testflight.apple.com/join/xxEw2j1X) | 2025-10-08 |
 | ios_game | [Cell to Singularity](https://testflight.apple.com/join/RD9jGH9S) | 2025-10-08 |
