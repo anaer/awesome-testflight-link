@@ -1,12 +1,11 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| chinese | [微信键盘 beta](https://testflight.apple.com/join/iSTXkF4K) | 2025-10-15 |
-| ios | [Finance Bay](https://testflight.apple.com/join/y4etT8Ht) | 2025-10-15 |
-| ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-10-15 |
-| ios | [Microsoft Loop beta](https://testflight.apple.com/join/KNyadcIZ) | 2025-10-15 |
-| ios | [Norton](https://testflight.apple.com/join/iHcEgAaT) | 2025-10-15 |
-| ios | [Pockity](https://testflight.apple.com/join/4qfWwXvP) | 2025-10-15 |
+| chinese | [我的世界-网易](https://testflight.apple.com/join/mOxZm1dD) | 2025-10-16 |
+| ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-10-16 |
+| ios | [Microsoft Lists](https://testflight.apple.com/join/FL3caOg6) | 2025-10-16 |
+| ios | [Microsoft PowerPoint](https://testflight.apple.com/join/a9Ef0N3g) | 2025-10-16 |
+| ios | [Reddit](https://testflight.apple.com/join/b9jMyOWt) | 2025-10-16 |
 | ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2025-10-14 |
 | ios | [Parcel - Delivery Tracking](https://testflight.apple.com/join/fMeg6C4A) | 2025-10-13 |
 | ios | [Facebook](https://testflight.apple.com/join/C1a3MRG4) | 2025-10-11 |
@@ -19,7 +18,6 @@
 | chinese | [滴答清单 TickTick](https://testflight.apple.com/join/vWQPDFQU) | 2025-09-11 |
 | ios | [Tee-Timer](https://testflight.apple.com/join/wzyzzspP) | 2025-09-09 |
 | ios | [FRITZ!App TV](https://testflight.apple.com/join/Zl2czQO2) | 2025-09-04 |
-| ios | [Musixmatch Lyrics Finder](https://testflight.apple.com/join/7yLzN5td) | 2025-09-04 |
 | ios | [Proton VPN: Fast & Secure](https://testflight.apple.com/join/3yl2MSbw) | 2025-09-04 |
 | ios | [Bitwarden Beta](https://testflight.apple.com/join/S4OQEYYQ) | 2025-09-03 |
 | ios | [F1ATV](https://testflight.apple.com/join/NRswe1IZ) | 2025-08-30 |
