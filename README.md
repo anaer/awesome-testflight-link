@@ -1,10 +1,11 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Dropbox](https://testflight.apple.com/join/LBZaRq4I) | 2025-10-17 |
+| ios | [Grindr - Gay Dating & Chat](https://testflight.apple.com/join/eO265vw7) | 2025-10-17 |
+| ios | [Newsbite](https://testflight.apple.com/join/7sus3M6q) | 2025-10-17 |
+| ios | [Overcast beta](https://testflight.apple.com/join/37azzGPG) | 2025-10-17 |
 | chinese | [我的世界-网易](https://testflight.apple.com/join/mOxZm1dD) | 2025-10-16 |
-| ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-10-16 |
-| ios | [Microsoft Lists](https://testflight.apple.com/join/FL3caOg6) | 2025-10-16 |
-| ios | [Microsoft PowerPoint](https://testflight.apple.com/join/a9Ef0N3g) | 2025-10-16 |
 | ios | [Reddit](https://testflight.apple.com/join/b9jMyOWt) | 2025-10-16 |
 | ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2025-10-14 |
 | ios | [Parcel - Delivery Tracking](https://testflight.apple.com/join/fMeg6C4A) | 2025-10-13 |
