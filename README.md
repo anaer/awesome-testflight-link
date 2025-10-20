@@ -1,9 +1,11 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| chinese | [哔哩哔哩](https://testflight.apple.com/join/K4pM1kHu) | 2025-10-18 |
+| ios | [Grocery-Smart Grocery List](https://testflight.apple.com/join/v29eXz9t) | 2025-10-19 |
+| ios | [Lenna - Video Library Player](https://testflight.apple.com/join/bExxpaX1) | 2025-10-19 |
+| ios | [Television Time](https://testflight.apple.com/join/eP0BTwVi) | 2025-10-19 |
+| ios | [waipu.tv](https://testflight.apple.com/join/l72L1OK3) | 2025-10-19 |
 | chinese | [酷狗音乐](https://testflight.apple.com/join/6cnKUyZ8) | 2025-10-18 |
-| ios | [Microsoft Outlook](https://testflight.apple.com/join/QkU4VS1s) | 2025-10-18 |
 | ios | [Newsbite](https://testflight.apple.com/join/7sus3M6q) | 2025-10-17 |
 | ios | [Overcast beta](https://testflight.apple.com/join/37azzGPG) | 2025-10-17 |
 | chinese | [我的世界-网易](https://testflight.apple.com/join/mOxZm1dD) | 2025-10-16 |
