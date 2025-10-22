@@ -1,10 +1,12 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Grocery-Smart Grocery List](https://testflight.apple.com/join/v29eXz9t) | 2025-10-19 |
-| ios | [Lenna - Video Library Player](https://testflight.apple.com/join/bExxpaX1) | 2025-10-19 |
-| ios | [Television Time](https://testflight.apple.com/join/eP0BTwVi) | 2025-10-19 |
-| ios | [waipu.tv](https://testflight.apple.com/join/l72L1OK3) | 2025-10-19 |
+| ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-10-21 |
+| ios | [Grindr - Gay Dating & Chat](https://testflight.apple.com/join/eO265vw7) | 2025-10-21 |
+| ios | [KDE Connect](https://testflight.apple.com/join/vxCluwBF) | 2025-10-21 |
+| ios | [MSN (Start)](https://testflight.apple.com/join/jOahtut6) | 2025-10-21 |
+| ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-10-21 |
+| ios | [Microsoft Office](https://testflight.apple.com/join/eHAKJBtM) | 2025-10-21 |
 | chinese | [酷狗音乐](https://testflight.apple.com/join/6cnKUyZ8) | 2025-10-18 |
 | ios | [Newsbite](https://testflight.apple.com/join/7sus3M6q) | 2025-10-17 |
 | ios | [Overcast beta](https://testflight.apple.com/join/37azzGPG) | 2025-10-17 |
@@ -36,8 +38,6 @@
 | ios_game | [Build Me This: Parts to Profit](https://testflight.apple.com/join/U4GabrwT) | 2025-08-05 |
 | ios | [Documents by Readdle](https://testflight.apple.com/join/EOPEVoDA) | 2025-07-26 |
 | ios | [MuseoTrack](https://testflight.apple.com/join/jR1MsqSt) | 2025-07-23 |
-| ios | [Sonic Compass](https://testflight.apple.com/join/dwXDCbv7) | 2025-07-23 |
-| ios | [HexT](https://testflight.apple.com/join/ixTrfIgF) | 2025-07-17 |
 | ios | [Monal - XMPP Chat](https://testflight.apple.com/join/lLLlgHpB) | 2025-07-14 |
 | macos | [Monal - XMPP Chatting](https://testflight.apple.com/join/tGH2m5vf) | 2025-07-14 |
 | ios | [IT之家](https://testflight.apple.com/join/eD9uChwY) | 2025-07-09 |
