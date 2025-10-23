@@ -1,12 +1,11 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-10-21 |
+| ios | [Microsoft Outlook](https://testflight.apple.com/join/QkU4VS1s) | 2025-10-22 |
+| ios | [Television Time](https://testflight.apple.com/join/eP0BTwVi) | 2025-10-22 |
 | ios | [Grindr - Gay Dating & Chat](https://testflight.apple.com/join/eO265vw7) | 2025-10-21 |
 | ios | [KDE Connect](https://testflight.apple.com/join/vxCluwBF) | 2025-10-21 |
-| ios | [MSN (Start)](https://testflight.apple.com/join/jOahtut6) | 2025-10-21 |
 | ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-10-21 |
-| ios | [Microsoft Office](https://testflight.apple.com/join/eHAKJBtM) | 2025-10-21 |
 | chinese | [酷狗音乐](https://testflight.apple.com/join/6cnKUyZ8) | 2025-10-18 |
 | ios | [Newsbite](https://testflight.apple.com/join/7sus3M6q) | 2025-10-17 |
 | ios | [Overcast beta](https://testflight.apple.com/join/37azzGPG) | 2025-10-17 |
