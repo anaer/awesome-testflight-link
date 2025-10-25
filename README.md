@@ -1,9 +1,10 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2025-10-24 |
+| ios | [Dropbox](https://testflight.apple.com/join/LBZaRq4I) | 2025-10-24 |
+| ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-10-24 |
 | ios | [Mixing Station](https://testflight.apple.com/join/lsd9mugy) | 2025-10-23 |
-| ios | [Twitch Beta](https://testflight.apple.com/join/8vRKFAiY) | 2025-10-23 |
-| ios | [腾讯视频HD](https://testflight.apple.com/join/9JaSzwSN) | 2025-10-23 |
 | ios | [KDE Connect](https://testflight.apple.com/join/vxCluwBF) | 2025-10-21 |
 | chinese | [酷狗音乐](https://testflight.apple.com/join/6cnKUyZ8) | 2025-10-18 |
 | ios | [Newsbite](https://testflight.apple.com/join/7sus3M6q) | 2025-10-17 |
