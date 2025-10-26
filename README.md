@@ -1,10 +1,16 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Facebook](https://testflight.apple.com/join/C1a3MRG4) | 2025-10-25 |
+| ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2025-10-25 |
+| ios | [GitHub](https://testflight.apple.com/join/NLskzwi5) | 2025-10-25 |
+| ios | [Just Timers](https://testflight.apple.com/join/pyzrz0oT) | 2025-10-25 |
+| ios | [MSN (Start)](https://testflight.apple.com/join/jOahtut6) | 2025-10-25 |
+| ios | [Microsoft PowerPoint](https://testflight.apple.com/join/a9Ef0N3g) | 2025-10-25 |
+| ios | [NOS](https://testflight.apple.com/join/i4g2QrrG) | 2025-10-25 |
+| ios | [Onion Browser](https://testflight.apple.com/join/90DvGBOE) | 2025-10-25 |
+| ios | [Television Time](https://testflight.apple.com/join/eP0BTwVi) | 2025-10-25 |
 | ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2025-10-24 |
-| ios | [Dropbox](https://testflight.apple.com/join/LBZaRq4I) | 2025-10-24 |
-| ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-10-24 |
-| ios | [Mixing Station](https://testflight.apple.com/join/lsd9mugy) | 2025-10-23 |
 | ios | [KDE Connect](https://testflight.apple.com/join/vxCluwBF) | 2025-10-21 |
 | chinese | [酷狗音乐](https://testflight.apple.com/join/6cnKUyZ8) | 2025-10-18 |
 | ios | [Newsbite](https://testflight.apple.com/join/7sus3M6q) | 2025-10-17 |
@@ -50,7 +56,6 @@
 | ios | [AdGuard VPN](https://testflight.apple.com/join/fZRiD1zt) | 2025-05-30 |
 | ios | [MyFRITZ!App](https://testflight.apple.com/join/U0v1rBE5) | 2025-05-17 |
 | ios | [Trello — Organize anything!](https://testflight.apple.com/join/cRWMcQsr) | 2025-05-08 |
-| ios | [Breveto](https://testflight.apple.com/join/9mqMgFjT) | 2025-05-03 |
 | ios | [Filmlog](https://testflight.apple.com/join/ywiozhph) | 2025-05-02 |
 | ios | [Soulver 3](https://testflight.apple.com/join/Vlb55Wtr) | 2025-05-02 |
 | ios | [Collabora Office](https://testflight.apple.com/join/TEnBWi68) | 2025-04-29 |
