@@ -1,15 +1,9 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Everlog](https://testflight.apple.com/join/sOCDYE65) | 2025-10-26 |
 | ios | [Facebook](https://testflight.apple.com/join/C1a3MRG4) | 2025-10-25 |
-| ios | [Facebook Messenger](https://testflight.apple.com/join/njVWbUm0) | 2025-10-25 |
 | ios | [GitHub](https://testflight.apple.com/join/NLskzwi5) | 2025-10-25 |
-| ios | [Just Timers](https://testflight.apple.com/join/pyzrz0oT) | 2025-10-25 |
-| ios | [MSN (Start)](https://testflight.apple.com/join/jOahtut6) | 2025-10-25 |
-| ios | [Microsoft PowerPoint](https://testflight.apple.com/join/a9Ef0N3g) | 2025-10-25 |
-| ios | [NOS](https://testflight.apple.com/join/i4g2QrrG) | 2025-10-25 |
-| ios | [Onion Browser](https://testflight.apple.com/join/90DvGBOE) | 2025-10-25 |
-| ios | [Television Time](https://testflight.apple.com/join/eP0BTwVi) | 2025-10-25 |
 | ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2025-10-24 |
 | ios | [KDE Connect](https://testflight.apple.com/join/vxCluwBF) | 2025-10-21 |
 | chinese | [酷狗音乐](https://testflight.apple.com/join/6cnKUyZ8) | 2025-10-18 |
