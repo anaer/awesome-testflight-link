@@ -1,8 +1,10 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| chinese | [微信键盘 beta](https://testflight.apple.com/join/iSTXkF4K) | 2025-10-27 |
+| ios | [FRITZ!App WLAN](https://testflight.apple.com/join/vbfCKamq) | 2025-10-27 |
+| ios | [Lenna - Video Library Player](https://testflight.apple.com/join/bExxpaX1) | 2025-10-27 |
 | ios | [Everlog](https://testflight.apple.com/join/sOCDYE65) | 2025-10-26 |
-| ios | [Facebook](https://testflight.apple.com/join/C1a3MRG4) | 2025-10-25 |
 | ios | [GitHub](https://testflight.apple.com/join/NLskzwi5) | 2025-10-25 |
 | ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2025-10-24 |
 | ios | [KDE Connect](https://testflight.apple.com/join/vxCluwBF) | 2025-10-21 |
