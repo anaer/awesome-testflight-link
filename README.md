@@ -1,9 +1,11 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| chinese | [微信键盘 beta](https://testflight.apple.com/join/iSTXkF4K) | 2025-10-27 |
+| ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-10-28 |
+| ios | [Microsoft Outlook](https://testflight.apple.com/join/QkU4VS1s) | 2025-10-28 |
+| ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2025-10-28 |
+| ios | [Twitch Beta](https://testflight.apple.com/join/8vRKFAiY) | 2025-10-28 |
 | ios | [FRITZ!App WLAN](https://testflight.apple.com/join/vbfCKamq) | 2025-10-27 |
-| ios | [Lenna - Video Library Player](https://testflight.apple.com/join/bExxpaX1) | 2025-10-27 |
 | ios | [Everlog](https://testflight.apple.com/join/sOCDYE65) | 2025-10-26 |
 | ios | [GitHub](https://testflight.apple.com/join/NLskzwi5) | 2025-10-25 |
 | ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2025-10-24 |
@@ -58,7 +60,6 @@
 | ios | [PushUp Workout Daily at Home](https://testflight.apple.com/join/myFEz6DW) | 2025-04-29 |
 | ios | [Sangoma Meet](https://testflight.apple.com/join/BEd12vi5) | 2025-04-18 |
 | ios | [Keka](https://testflight.apple.com/join/gPYINGCJ) | 2025-04-17 |
-| macos | [Caffeine Utility](https://testflight.apple.com/join/WHIbsose) | 2025-04-17 |
 | ios | [Mindustry](https://testflight.apple.com/join/79Azm1hZ) | 2025-04-13 |
 | ios | [Sleep Cycle - Sleep Tracker beta](https://testflight.apple.com/join/tCeANbZi) | 2025-04-10 |
 | ios | [Sleep Cycle alarm clock](https://testflight.apple.com/join/8RcEFqFF) | 2025-04-10 |
