@@ -1,12 +1,11 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Grindr - Gay Dating & Chat](https://testflight.apple.com/join/eO265vw7) | 2025-10-29 |
+| ios | [Lenna - Video Library Player](https://testflight.apple.com/join/bExxpaX1) | 2025-10-29 |
 | ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-10-28 |
-| ios | [Microsoft Outlook](https://testflight.apple.com/join/QkU4VS1s) | 2025-10-28 |
 | ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2025-10-28 |
 | ios | [Twitch Beta](https://testflight.apple.com/join/8vRKFAiY) | 2025-10-28 |
-| ios | [FRITZ!App WLAN](https://testflight.apple.com/join/vbfCKamq) | 2025-10-27 |
-| ios | [Everlog](https://testflight.apple.com/join/sOCDYE65) | 2025-10-26 |
 | ios | [GitHub](https://testflight.apple.com/join/NLskzwi5) | 2025-10-25 |
 | ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2025-10-24 |
 | ios | [KDE Connect](https://testflight.apple.com/join/vxCluwBF) | 2025-10-21 |
