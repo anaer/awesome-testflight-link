@@ -1,16 +1,17 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2025-10-31 |
+| ios | [FRITZ!App WLAN](https://testflight.apple.com/join/vbfCKamq) | 2025-10-31 |
+| ios | [Feeds - All the Web, One Feed](https://testflight.apple.com/join/YBFNq1bw) | 2025-10-31 |
+| ios | [Just Timers](https://testflight.apple.com/join/pyzrz0oT) | 2025-10-31 |
+| ios | [MEGA](https://testflight.apple.com/join/4x1P5Tnx) | 2025-10-31 |
+| macos | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2025-10-31 |
 | ios | [Everlog](https://testflight.apple.com/join/sOCDYE65) | 2025-10-30 |
 | ios | [KyPass 4 密码管理](https://testflight.apple.com/join/wlZmOo9t) | 2025-10-30 |
-| ios | [Lock Launcher beta](https://testflight.apple.com/join/clHxFnLa) | 2025-10-30 |
-| ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-10-30 |
-| ios | [Microsoft OneDrive](https://testflight.apple.com/join/LtgPLzrQ) | 2025-10-30 |
-| ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2025-10-30 |
 | ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-10-28 |
 | ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2025-10-28 |
 | ios | [GitHub](https://testflight.apple.com/join/NLskzwi5) | 2025-10-25 |
-| ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2025-10-24 |
 | ios | [KDE Connect](https://testflight.apple.com/join/vxCluwBF) | 2025-10-21 |
 | chinese | [酷狗音乐](https://testflight.apple.com/join/6cnKUyZ8) | 2025-10-18 |
 | ios | [Newsbite](https://testflight.apple.com/join/7sus3M6q) | 2025-10-17 |
