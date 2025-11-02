@@ -1,12 +1,10 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2025-10-31 |
-| ios | [FRITZ!App WLAN](https://testflight.apple.com/join/vbfCKamq) | 2025-10-31 |
+| ios | [Microsoft To-Do](https://testflight.apple.com/join/JSq3UkAz) | 2025-11-01 |
+| ios_game | [Minecraft Preview](https://testflight.apple.com/join/qC1ZnReJ) | 2025-11-01 |
 | ios | [Feeds - All the Web, One Feed](https://testflight.apple.com/join/YBFNq1bw) | 2025-10-31 |
-| ios | [Just Timers](https://testflight.apple.com/join/pyzrz0oT) | 2025-10-31 |
 | ios | [MEGA](https://testflight.apple.com/join/4x1P5Tnx) | 2025-10-31 |
-| macos | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2025-10-31 |
 | ios | [Everlog](https://testflight.apple.com/join/sOCDYE65) | 2025-10-30 |
 | ios | [KyPass 4 密码管理](https://testflight.apple.com/join/wlZmOo9t) | 2025-10-30 |
 | ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-10-28 |
