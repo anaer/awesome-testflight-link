@@ -1,8 +1,6 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Microsoft To-Do](https://testflight.apple.com/join/JSq3UkAz) | 2025-11-01 |
-| ios_game | [Minecraft Preview](https://testflight.apple.com/join/qC1ZnReJ) | 2025-11-01 |
 | ios | [Feeds - All the Web, One Feed](https://testflight.apple.com/join/YBFNq1bw) | 2025-10-31 |
 | ios | [MEGA](https://testflight.apple.com/join/4x1P5Tnx) | 2025-10-31 |
 | ios | [Everlog](https://testflight.apple.com/join/sOCDYE65) | 2025-10-30 |
