@@ -1,12 +1,19 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| chinese | [网易爆米花](https://testflight.apple.com/join/sIj5iOoj) | 2025-11-04 |
+| chinese | [豆包](https://testflight.apple.com/join/mAE3jS7i) | 2025-11-04 |
+| chinese | [豆瓣](https://testflight.apple.com/join/w5En3SPV) | 2025-11-04 |
+| macos | [Odak - Menu Bar Timer](https://testflight.apple.com/join/JTWaYdDX) | 2025-11-04 |
+| ios | [Microsoft Loop beta](https://testflight.apple.com/join/KNyadcIZ) | 2025-11-03 |
+| ios | [Twitch Beta](https://testflight.apple.com/join/8vRKFAiY) | 2025-11-03 |
+| ios | [和风天气 - 可视化天气 beta](https://testflight.apple.com/join/9KR0Xx7E) | 2025-11-03 |
+| macos | [Caffeine Utility](https://testflight.apple.com/join/WHIbsose) | 2025-11-03 |
 | ios | [Feeds - All the Web, One Feed](https://testflight.apple.com/join/YBFNq1bw) | 2025-10-31 |
 | ios | [MEGA](https://testflight.apple.com/join/4x1P5Tnx) | 2025-10-31 |
 | ios | [Everlog](https://testflight.apple.com/join/sOCDYE65) | 2025-10-30 |
 | ios | [KyPass 4 密码管理](https://testflight.apple.com/join/wlZmOo9t) | 2025-10-30 |
 | ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-10-28 |
-| ios | [Microsoft Remote Desktop Beta](https://testflight.apple.com/join/vkLIflUJ) | 2025-10-28 |
 | ios | [GitHub](https://testflight.apple.com/join/NLskzwi5) | 2025-10-25 |
 | ios | [KDE Connect](https://testflight.apple.com/join/vxCluwBF) | 2025-10-21 |
 | chinese | [酷狗音乐](https://testflight.apple.com/join/6cnKUyZ8) | 2025-10-18 |
