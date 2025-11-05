@@ -4,10 +4,9 @@
 | chinese | [网易爆米花](https://testflight.apple.com/join/sIj5iOoj) | 2025-11-04 |
 | chinese | [豆包](https://testflight.apple.com/join/mAE3jS7i) | 2025-11-04 |
 | chinese | [豆瓣](https://testflight.apple.com/join/w5En3SPV) | 2025-11-04 |
+| ios | [Grindr - Gay Dating & Chat](https://testflight.apple.com/join/eO265vw7) | 2025-11-04 |
+| ios | [Microsoft Lists](https://testflight.apple.com/join/FL3caOg6) | 2025-11-04 |
 | macos | [Odak - Menu Bar Timer](https://testflight.apple.com/join/JTWaYdDX) | 2025-11-04 |
-| ios | [Microsoft Loop beta](https://testflight.apple.com/join/KNyadcIZ) | 2025-11-03 |
-| ios | [Twitch Beta](https://testflight.apple.com/join/8vRKFAiY) | 2025-11-03 |
-| ios | [和风天气 - 可视化天气 beta](https://testflight.apple.com/join/9KR0Xx7E) | 2025-11-03 |
 | macos | [Caffeine Utility](https://testflight.apple.com/join/WHIbsose) | 2025-11-03 |
 | ios | [Feeds - All the Web, One Feed](https://testflight.apple.com/join/YBFNq1bw) | 2025-10-31 |
 | ios | [MEGA](https://testflight.apple.com/join/4x1P5Tnx) | 2025-10-31 |
