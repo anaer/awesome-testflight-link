@@ -1,6 +1,11 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| chinese | [微信读书](https://testflight.apple.com/join/5MWjLpYl) | 2025-11-06 |
+| ios | [GitHub](https://testflight.apple.com/join/NLskzwi5) | 2025-11-06 |
+| ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-11-06 |
+| ios | [Microsoft OneDrive](https://testflight.apple.com/join/LtgPLzrQ) | 2025-11-06 |
+| ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2025-11-06 |
 | chinese | [IT之家](https://testflight.apple.com/join/eD9uChwY) | 2025-11-05 |
 | chinese | [优酷视频HD](https://testflight.apple.com/join/RDuRYxRE) | 2025-11-05 |
 | chinese | [希沃白板](https://testflight.apple.com/join/d6MQLpKY) | 2025-11-05 |
@@ -9,10 +14,7 @@
 | chinese | [豆包](https://testflight.apple.com/join/YthnpWFf) | 2025-11-05 |
 | chinese | [迅雷浏览器](https://testflight.apple.com/join/TX6YlL2B) | 2025-11-05 |
 | chinese | [酷我音乐](https://testflight.apple.com/join/XWYSZMaS) | 2025-11-05 |
-| chinese | [酷狗概念版](https://testflight.apple.com/join/DdscKm1S) | 2025-11-05 |
 | chinese | [闲鱼](https://testflight.apple.com/join/JfpY3pHe) | 2025-11-05 |
-| ios | [Microsoft Outlook](https://testflight.apple.com/join/QkU4VS1s) | 2025-11-05 |
-| ios | [Plex](https://testflight.apple.com/join/MY6JTzix) | 2025-11-05 |
 | ios | [PopCin](https://testflight.apple.com/join/98X2u19n) | 2025-11-05 |
 | ios | [Star Wander - AR Night Sky Map](https://testflight.apple.com/join/5hmQk6ba) | 2025-11-05 |
 | ios | [Twitch Beta](https://testflight.apple.com/join/8vRKFAiY) | 2025-11-05 |
@@ -113,7 +115,6 @@
 | ios | [FotMob Live Soccer Scores](https://testflight.apple.com/join/zEAwGlrV) | 2024-10-24 |
 | chinese | [Weibo intl. beta](https://testflight.apple.com/join/2LslNUOW) | 2024-10-19 |
 | ios | [Graphite: Photo to Sketch App beta](https://testflight.apple.com/join/gRhGuXzI) | 2024-10-16 |
-| ios | [Microsoft Bing Search](https://testflight.apple.com/join/YAKT5ew9) | 2024-10-13 |
 | ios | [Deezer](https://testflight.apple.com/join/e7mCOEeg) | 2024-09-27 |
 | ios | [NS Travel Planner](https://testflight.apple.com/join/ldBwapIg) | 2024-09-26 |
 | ios | [Airmail - Your Mail With You](https://testflight.apple.com/join/wRiLlWPE) | 2024-08-31 |
