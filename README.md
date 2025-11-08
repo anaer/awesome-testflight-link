@@ -1,11 +1,8 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| chinese | [微信读书](https://testflight.apple.com/join/5MWjLpYl) | 2025-11-06 |
+| chinese | [微信输入法](https://testflight.apple.com/join/iSTXkF4K) | 2025-11-07 |
 | ios | [GitHub](https://testflight.apple.com/join/NLskzwi5) | 2025-11-06 |
-| ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-11-06 |
-| ios | [Microsoft OneDrive](https://testflight.apple.com/join/LtgPLzrQ) | 2025-11-06 |
-| ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2025-11-06 |
 | chinese | [IT之家](https://testflight.apple.com/join/eD9uChwY) | 2025-11-05 |
 | chinese | [优酷视频HD](https://testflight.apple.com/join/RDuRYxRE) | 2025-11-05 |
 | chinese | [希沃白板](https://testflight.apple.com/join/d6MQLpKY) | 2025-11-05 |
@@ -17,18 +14,15 @@
 | chinese | [闲鱼](https://testflight.apple.com/join/JfpY3pHe) | 2025-11-05 |
 | ios | [PopCin](https://testflight.apple.com/join/98X2u19n) | 2025-11-05 |
 | ios | [Star Wander - AR Night Sky Map](https://testflight.apple.com/join/5hmQk6ba) | 2025-11-05 |
-| ios | [Twitch Beta](https://testflight.apple.com/join/8vRKFAiY) | 2025-11-05 |
 | chinese | [网易爆米花](https://testflight.apple.com/join/sIj5iOoj) | 2025-11-04 |
 | chinese | [豆包](https://testflight.apple.com/join/mAE3jS7i) | 2025-11-04 |
 | chinese | [豆瓣](https://testflight.apple.com/join/w5En3SPV) | 2025-11-04 |
-| ios | [Grindr - Gay Dating & Chat](https://testflight.apple.com/join/eO265vw7) | 2025-11-04 |
 | ios | [Microsoft Lists](https://testflight.apple.com/join/FL3caOg6) | 2025-11-04 |
 | macos | [Odak - Menu Bar Timer](https://testflight.apple.com/join/JTWaYdDX) | 2025-11-04 |
 | ios | [Feeds - All the Web, One Feed](https://testflight.apple.com/join/YBFNq1bw) | 2025-10-31 |
 | ios | [MEGA](https://testflight.apple.com/join/4x1P5Tnx) | 2025-10-31 |
 | ios | [Everlog](https://testflight.apple.com/join/sOCDYE65) | 2025-10-30 |
 | ios | [KyPass 4 密码管理](https://testflight.apple.com/join/wlZmOo9t) | 2025-10-30 |
-| ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-10-28 |
 | ios | [KDE Connect](https://testflight.apple.com/join/vxCluwBF) | 2025-10-21 |
 | chinese | [酷狗音乐](https://testflight.apple.com/join/6cnKUyZ8) | 2025-10-18 |
 | ios | [Newsbite](https://testflight.apple.com/join/7sus3M6q) | 2025-10-17 |
@@ -54,7 +48,6 @@
 | macos | [Batch Clipboard](https://testflight.apple.com/join/epg3cusH) | 2025-08-23 |
 | macos | [Pricing Manager](https://testflight.apple.com/join/ZYsBYMhT) | 2025-08-18 |
 | ios | [FRITZ!App Fon](https://testflight.apple.com/join/SGGCxyRp) | 2025-08-16 |
-| ios | [Jira Server by Atlassian](https://testflight.apple.com/join/6JbjYbSY) | 2025-08-15 |
 | ios | [Qobuz](https://testflight.apple.com/join/GPJZwnh9) | 2025-08-14 |
 | ios | [UTM Remote Virtual Machines](https://testflight.apple.com/join/mFlnyMv3) | 2025-08-05 |
 | ios_game | [Build Me This: Parts to Profit](https://testflight.apple.com/join/U4GabrwT) | 2025-08-05 |
