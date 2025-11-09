@@ -1,10 +1,11 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| chinese | [微信输入法](https://testflight.apple.com/join/iSTXkF4K) | 2025-11-07 |
+| ios | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2025-11-08 |
+| ios | [Microsoft OneNote](https://testflight.apple.com/join/uDgoqfGS) | 2025-11-08 |
+| macos | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2025-11-08 |
 | ios | [GitHub](https://testflight.apple.com/join/NLskzwi5) | 2025-11-06 |
 | chinese | [IT之家](https://testflight.apple.com/join/eD9uChwY) | 2025-11-05 |
-| chinese | [优酷视频HD](https://testflight.apple.com/join/RDuRYxRE) | 2025-11-05 |
 | chinese | [希沃白板](https://testflight.apple.com/join/d6MQLpKY) | 2025-11-05 |
 | chinese | [搜狗输入法](https://testflight.apple.com/join/lSZdpEPH) | 2025-11-05 |
 | chinese | [百度输入法](https://testflight.apple.com/join/tZIfgySI) | 2025-11-05 |
