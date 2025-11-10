@@ -1,9 +1,10 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2025-11-08 |
-| ios | [Microsoft OneNote](https://testflight.apple.com/join/uDgoqfGS) | 2025-11-08 |
-| macos | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2025-11-08 |
+| chinese | [酷狗概念版](https://testflight.apple.com/join/DdscKm1S) | 2025-11-09 |
+| ios | [Microsoft Outlook](https://testflight.apple.com/join/QkU4VS1s) | 2025-11-09 |
+| ios | [Pedal - Your cycling companion](https://testflight.apple.com/join/aaSgUXmq) | 2025-11-09 |
+| ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2025-11-09 |
 | ios | [GitHub](https://testflight.apple.com/join/NLskzwi5) | 2025-11-06 |
 | chinese | [IT之家](https://testflight.apple.com/join/eD9uChwY) | 2025-11-05 |
 | chinese | [希沃白板](https://testflight.apple.com/join/d6MQLpKY) | 2025-11-05 |
