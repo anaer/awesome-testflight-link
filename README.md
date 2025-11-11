@@ -1,10 +1,10 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| chinese | [酷狗概念版](https://testflight.apple.com/join/DdscKm1S) | 2025-11-09 |
-| ios | [Microsoft Outlook](https://testflight.apple.com/join/QkU4VS1s) | 2025-11-09 |
+| chinese | [爱奇艺](https://testflight.apple.com/join/alLbf0ju) | 2025-11-10 |
+| ios | [Microsoft Loop beta](https://testflight.apple.com/join/KNyadcIZ) | 2025-11-10 |
+| ios | [Twitch Beta](https://testflight.apple.com/join/8vRKFAiY) | 2025-11-10 |
 | ios | [Pedal - Your cycling companion](https://testflight.apple.com/join/aaSgUXmq) | 2025-11-09 |
-| ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2025-11-09 |
 | ios | [GitHub](https://testflight.apple.com/join/NLskzwi5) | 2025-11-06 |
 | chinese | [IT之家](https://testflight.apple.com/join/eD9uChwY) | 2025-11-05 |
 | chinese | [希沃白板](https://testflight.apple.com/join/d6MQLpKY) | 2025-11-05 |
@@ -52,7 +52,6 @@
 | ios | [FRITZ!App Fon](https://testflight.apple.com/join/SGGCxyRp) | 2025-08-16 |
 | ios | [Qobuz](https://testflight.apple.com/join/GPJZwnh9) | 2025-08-14 |
 | ios | [UTM Remote Virtual Machines](https://testflight.apple.com/join/mFlnyMv3) | 2025-08-05 |
-| ios_game | [Build Me This: Parts to Profit](https://testflight.apple.com/join/U4GabrwT) | 2025-08-05 |
 | ios | [Documents by Readdle](https://testflight.apple.com/join/EOPEVoDA) | 2025-07-26 |
 | ios | [MuseoTrack](https://testflight.apple.com/join/jR1MsqSt) | 2025-07-23 |
 | ios | [Monal - XMPP Chat](https://testflight.apple.com/join/lLLlgHpB) | 2025-07-14 |
