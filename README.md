@@ -1,9 +1,10 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-11-11 |
+| ios | [MoodTrackMe](https://testflight.apple.com/join/VnHpQmdg) | 2025-11-11 |
+| ios | [Quizlet](https://testflight.apple.com/join/mwhcPqxJ) | 2025-11-11 |
 | chinese | [爱奇艺](https://testflight.apple.com/join/alLbf0ju) | 2025-11-10 |
-| ios | [Microsoft Loop beta](https://testflight.apple.com/join/KNyadcIZ) | 2025-11-10 |
-| ios | [Twitch Beta](https://testflight.apple.com/join/8vRKFAiY) | 2025-11-10 |
 | ios | [Pedal - Your cycling companion](https://testflight.apple.com/join/aaSgUXmq) | 2025-11-09 |
 | ios | [GitHub](https://testflight.apple.com/join/NLskzwi5) | 2025-11-06 |
 | chinese | [IT之家](https://testflight.apple.com/join/eD9uChwY) | 2025-11-05 |
@@ -19,7 +20,6 @@
 | chinese | [网易爆米花](https://testflight.apple.com/join/sIj5iOoj) | 2025-11-04 |
 | chinese | [豆包](https://testflight.apple.com/join/mAE3jS7i) | 2025-11-04 |
 | chinese | [豆瓣](https://testflight.apple.com/join/w5En3SPV) | 2025-11-04 |
-| ios | [Microsoft Lists](https://testflight.apple.com/join/FL3caOg6) | 2025-11-04 |
 | macos | [Odak - Menu Bar Timer](https://testflight.apple.com/join/JTWaYdDX) | 2025-11-04 |
 | ios | [Feeds - All the Web, One Feed](https://testflight.apple.com/join/YBFNq1bw) | 2025-10-31 |
 | ios | [MEGA](https://testflight.apple.com/join/4x1P5Tnx) | 2025-10-31 |
