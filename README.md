@@ -1,6 +1,10 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2025-11-12 |
+| ios | [MSN (Start)](https://testflight.apple.com/join/jOahtut6) | 2025-11-12 |
+| ios | [Microsoft Bing Search](https://testflight.apple.com/join/YAKT5ew9) | 2025-11-12 |
+| ios | [Windows App Mobile](https://testflight.apple.com/join/vkLIflUJ) | 2025-11-12 |
 | ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-11-11 |
 | ios | [MoodTrackMe](https://testflight.apple.com/join/VnHpQmdg) | 2025-11-11 |
 | ios | [Quizlet](https://testflight.apple.com/join/mwhcPqxJ) | 2025-11-11 |
