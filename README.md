@@ -1,13 +1,12 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Plex](https://testflight.apple.com/join/MY6JTzix) | 2025-11-13 |
+| ios | [Steam iOS beta](https://testflight.apple.com/join/8BOPXsGz) | 2025-11-13 |
 | ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2025-11-12 |
-| ios | [MSN (Start)](https://testflight.apple.com/join/jOahtut6) | 2025-11-12 |
 | ios | [Microsoft Bing Search](https://testflight.apple.com/join/YAKT5ew9) | 2025-11-12 |
 | ios | [Windows App Mobile](https://testflight.apple.com/join/vkLIflUJ) | 2025-11-12 |
-| ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-11-11 |
 | ios | [MoodTrackMe](https://testflight.apple.com/join/VnHpQmdg) | 2025-11-11 |
-| ios | [Quizlet](https://testflight.apple.com/join/mwhcPqxJ) | 2025-11-11 |
 | chinese | [爱奇艺](https://testflight.apple.com/join/alLbf0ju) | 2025-11-10 |
 | ios | [Pedal - Your cycling companion](https://testflight.apple.com/join/aaSgUXmq) | 2025-11-09 |
 | ios | [GitHub](https://testflight.apple.com/join/NLskzwi5) | 2025-11-06 |
@@ -30,7 +29,6 @@
 | ios | [Everlog](https://testflight.apple.com/join/sOCDYE65) | 2025-10-30 |
 | ios | [KyPass 4 密码管理](https://testflight.apple.com/join/wlZmOo9t) | 2025-10-30 |
 | ios | [KDE Connect](https://testflight.apple.com/join/vxCluwBF) | 2025-10-21 |
-| chinese | [酷狗音乐](https://testflight.apple.com/join/6cnKUyZ8) | 2025-10-18 |
 | ios | [Newsbite](https://testflight.apple.com/join/7sus3M6q) | 2025-10-17 |
 | ios | [Overcast beta](https://testflight.apple.com/join/37azzGPG) | 2025-10-17 |
 | chinese | [我的世界-网易](https://testflight.apple.com/join/mOxZm1dD) | 2025-10-16 |
@@ -43,7 +41,6 @@
 | ios | [Chanyan](https://testflight.apple.com/join/ky5bRwMY) | 2025-09-16 |
 | chinese | [滴答清单 TickTick](https://testflight.apple.com/join/vWQPDFQU) | 2025-09-11 |
 | ios | [Tee-Timer](https://testflight.apple.com/join/wzyzzspP) | 2025-09-09 |
-| ios | [FRITZ!App TV](https://testflight.apple.com/join/Zl2czQO2) | 2025-09-04 |
 | ios | [Proton VPN: Fast & Secure](https://testflight.apple.com/join/3yl2MSbw) | 2025-09-04 |
 | ios | [Bitwarden Beta](https://testflight.apple.com/join/S4OQEYYQ) | 2025-09-03 |
 | ios | [F1ATV](https://testflight.apple.com/join/NRswe1IZ) | 2025-08-30 |
@@ -145,7 +142,6 @@
 | ios | [Nubank](https://testflight.apple.com/join/v3SGNpM5) | 2022-10-13 |
 | ios | [Smart Post: Schedule Media](https://testflight.apple.com/join/a0zXMXbA) | 2022-10-13 |
 | ios | [WordPress](https://testflight.apple.com/join/AkJQt8Pw) | 2022-10-13 |
-| ios | [Imgur - Meme & GIF Maker](https://testflight.apple.com/join/Qd42y5Pw) | 2022-10-11 |
 | ios | [LIFX](https://testflight.apple.com/join/TYoQEz4T) | 2022-10-11 |
 | ios | [Microsoft Authenticator](https://testflight.apple.com/join/Coqmmppd) | 2022-10-11 |
 | ios | [ntv Nachrichten](https://testflight.apple.com/join/n65TDvGb) | 2022-10-11 |
