@@ -1,21 +1,13 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| chinese | [喜马拉雅FM](https://testflight.apple.com/join/u07lq6bj) | 2025-11-15 |
+| ios | [Facebook](https://testflight.apple.com/join/C1a3MRG4) | 2025-11-15 |
+| ios | [Lenna - Video Library Player](https://testflight.apple.com/join/bExxpaX1) | 2025-11-15 |
+| ios | [Xbox Family Settings beta](https://testflight.apple.com/join/8oUnDzMQ) | 2025-11-15 |
 | chinese | [抖音](https://testflight.apple.com/join/Hm0miNz8) | 2025-11-14 |
 | chinese | [抖音](https://testflight.apple.com/join/ZILJgZhU) | 2025-11-14 |
-| chinese | [番茄小说](https://testflight.apple.com/join/dTUO1uyt) | 2025-11-14 |
-| chinese | [酷狗音乐](https://testflight.apple.com/join/6cnKUyZ8) | 2025-11-14 |
-| chinese | [高德地图](https://testflight.apple.com/join/C9b7GypS) | 2025-11-14 |
-| ios | [Discord](https://testflight.apple.com/join/gdE4pRzI) | 2025-11-14 |
-| ios | [Dropbox](https://testflight.apple.com/join/LBZaRq4I) | 2025-11-14 |
-| ios | [Just Timers](https://testflight.apple.com/join/pyzrz0oT) | 2025-11-14 |
-| ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-11-14 |
-| ios | [Microsoft Outlook](https://testflight.apple.com/join/QkU4VS1s) | 2025-11-14 |
 | ios | [Potatso Lite](https://testflight.apple.com/join/NkF46PRd) | 2025-11-14 |
-| ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2025-11-14 |
-| ios | [和风天气 - 可视化天气 beta](https://testflight.apple.com/join/9KR0Xx7E) | 2025-11-14 |
-| ios | [Steam iOS beta](https://testflight.apple.com/join/8BOPXsGz) | 2025-11-13 |
-| ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2025-11-12 |
 | ios | [Microsoft Bing Search](https://testflight.apple.com/join/YAKT5ew9) | 2025-11-12 |
 | ios | [Windows App Mobile](https://testflight.apple.com/join/vkLIflUJ) | 2025-11-12 |
 | ios | [MoodTrackMe](https://testflight.apple.com/join/VnHpQmdg) | 2025-11-11 |
