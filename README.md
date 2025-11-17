@@ -1,15 +1,12 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| chinese | [酷狗音乐](https://testflight.apple.com/join/6cnKUyZ8) | 2025-11-16 |
 | chinese | [喜马拉雅FM](https://testflight.apple.com/join/u07lq6bj) | 2025-11-15 |
-| ios | [Facebook](https://testflight.apple.com/join/C1a3MRG4) | 2025-11-15 |
-| ios | [Lenna - Video Library Player](https://testflight.apple.com/join/bExxpaX1) | 2025-11-15 |
-| ios | [Xbox Family Settings beta](https://testflight.apple.com/join/8oUnDzMQ) | 2025-11-15 |
 | chinese | [抖音](https://testflight.apple.com/join/Hm0miNz8) | 2025-11-14 |
 | chinese | [抖音](https://testflight.apple.com/join/ZILJgZhU) | 2025-11-14 |
 | ios | [Potatso Lite](https://testflight.apple.com/join/NkF46PRd) | 2025-11-14 |
 | ios | [Microsoft Bing Search](https://testflight.apple.com/join/YAKT5ew9) | 2025-11-12 |
-| ios | [Windows App Mobile](https://testflight.apple.com/join/vkLIflUJ) | 2025-11-12 |
 | ios | [MoodTrackMe](https://testflight.apple.com/join/VnHpQmdg) | 2025-11-11 |
 | ios | [Pedal - Your cycling companion](https://testflight.apple.com/join/aaSgUXmq) | 2025-11-09 |
 | ios | [GitHub](https://testflight.apple.com/join/NLskzwi5) | 2025-11-06 |
@@ -52,7 +49,6 @@
 | chinese | [红果短剧](https://testflight.apple.com/join/Rfr1mzqS) | 2025-08-27 |
 | ios | [TV Time – #1 Show Tracker](https://testflight.apple.com/join/hjKkDsc4) | 2025-08-27 |
 | macos | [Batch Clipboard](https://testflight.apple.com/join/epg3cusH) | 2025-08-23 |
-| macos | [Pricing Manager](https://testflight.apple.com/join/ZYsBYMhT) | 2025-08-18 |
 | ios | [FRITZ!App Fon](https://testflight.apple.com/join/SGGCxyRp) | 2025-08-16 |
 | ios | [Qobuz](https://testflight.apple.com/join/GPJZwnh9) | 2025-08-14 |
 | ios | [UTM Remote Virtual Machines](https://testflight.apple.com/join/mFlnyMv3) | 2025-08-05 |
