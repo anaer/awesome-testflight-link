@@ -1,14 +1,19 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| chinese | [知乎](https://testflight.apple.com/join/TX83Mn7J) | 2025-11-17 |
+| ios | [Cash App](https://testflight.apple.com/join/An0RiOFF) | 2025-11-17 |
+| ios | [Facebook](https://testflight.apple.com/join/C1a3MRG4) | 2025-11-17 |
+| ios | [MSN (Start)](https://testflight.apple.com/join/jOahtut6) | 2025-11-17 |
+| ios | [Steam iOS beta](https://testflight.apple.com/join/8BOPXsGz) | 2025-11-17 |
+| ios | [Twitch Beta](https://testflight.apple.com/join/8vRKFAiY) | 2025-11-17 |
+| ios | [腾讯视频HD](https://testflight.apple.com/join/9JaSzwSN) | 2025-11-17 |
 | chinese | [酷狗音乐](https://testflight.apple.com/join/6cnKUyZ8) | 2025-11-16 |
-| chinese | [喜马拉雅FM](https://testflight.apple.com/join/u07lq6bj) | 2025-11-15 |
 | chinese | [抖音](https://testflight.apple.com/join/Hm0miNz8) | 2025-11-14 |
 | chinese | [抖音](https://testflight.apple.com/join/ZILJgZhU) | 2025-11-14 |
 | ios | [Potatso Lite](https://testflight.apple.com/join/NkF46PRd) | 2025-11-14 |
 | ios | [Microsoft Bing Search](https://testflight.apple.com/join/YAKT5ew9) | 2025-11-12 |
 | ios | [MoodTrackMe](https://testflight.apple.com/join/VnHpQmdg) | 2025-11-11 |
-| ios | [Pedal - Your cycling companion](https://testflight.apple.com/join/aaSgUXmq) | 2025-11-09 |
 | ios | [GitHub](https://testflight.apple.com/join/NLskzwi5) | 2025-11-06 |
 | chinese | [IT之家](https://testflight.apple.com/join/eD9uChwY) | 2025-11-05 |
 | chinese | [希沃白板](https://testflight.apple.com/join/d6MQLpKY) | 2025-11-05 |
@@ -25,7 +30,6 @@
 | chinese | [豆瓣](https://testflight.apple.com/join/w5En3SPV) | 2025-11-04 |
 | macos | [Odak - Menu Bar Timer](https://testflight.apple.com/join/JTWaYdDX) | 2025-11-04 |
 | ios | [Feeds - All the Web, One Feed](https://testflight.apple.com/join/YBFNq1bw) | 2025-10-31 |
-| ios | [MEGA](https://testflight.apple.com/join/4x1P5Tnx) | 2025-10-31 |
 | ios | [Everlog](https://testflight.apple.com/join/sOCDYE65) | 2025-10-30 |
 | ios | [KyPass 4 密码管理](https://testflight.apple.com/join/wlZmOo9t) | 2025-10-30 |
 | ios | [KDE Connect](https://testflight.apple.com/join/vxCluwBF) | 2025-10-21 |
@@ -96,7 +100,6 @@
 | ios | [Element Messenger](https://testflight.apple.com/join/lCeTuDKM) | 2024-11-18 |
 | ios | [Element X - Secure Chat & Call](https://testflight.apple.com/join/uZbeZCOi) | 2024-11-18 |
 | ios | [Intuit Credit Karma](https://testflight.apple.com/join/JrqR9vkv) | 2024-11-18 |
-| ios | [Life360: Find Friends & Family beta](https://testflight.apple.com/join/syX6IOJF) | 2024-11-18 |
 | ios | [Mastodon](https://testflight.apple.com/join/ebSjPU84) | 2024-11-18 |
 | ios | [Microsoft Defender: Security](https://testflight.apple.com/join/AYVtbvfc) | 2024-11-18 |
 | ios | [Monzo Bank - Mobile Banking](https://testflight.apple.com/join/2NZLBFyb) | 2024-11-18 |
