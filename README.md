@@ -1,14 +1,11 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| chinese | [知乎](https://testflight.apple.com/join/TX83Mn7J) | 2025-11-17 |
-| ios | [Cash App](https://testflight.apple.com/join/An0RiOFF) | 2025-11-17 |
+| chinese | [喜马拉雅FM](https://testflight.apple.com/join/u07lq6bj) | 2025-11-18 |
+| ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-11-18 |
+| ios | [Grindr - Gay Dating & Chat](https://testflight.apple.com/join/eO265vw7) | 2025-11-18 |
+| ios | [Life360: Find Friends & Family beta](https://testflight.apple.com/join/syX6IOJF) | 2025-11-18 |
 | ios | [Facebook](https://testflight.apple.com/join/C1a3MRG4) | 2025-11-17 |
-| ios | [MSN (Start)](https://testflight.apple.com/join/jOahtut6) | 2025-11-17 |
-| ios | [Steam iOS beta](https://testflight.apple.com/join/8BOPXsGz) | 2025-11-17 |
-| ios | [Twitch Beta](https://testflight.apple.com/join/8vRKFAiY) | 2025-11-17 |
-| ios | [腾讯视频HD](https://testflight.apple.com/join/9JaSzwSN) | 2025-11-17 |
-| chinese | [酷狗音乐](https://testflight.apple.com/join/6cnKUyZ8) | 2025-11-16 |
 | chinese | [抖音](https://testflight.apple.com/join/Hm0miNz8) | 2025-11-14 |
 | chinese | [抖音](https://testflight.apple.com/join/ZILJgZhU) | 2025-11-14 |
 | ios | [Potatso Lite](https://testflight.apple.com/join/NkF46PRd) | 2025-11-14 |
@@ -36,7 +33,6 @@
 | ios | [Newsbite](https://testflight.apple.com/join/7sus3M6q) | 2025-10-17 |
 | ios | [Overcast beta](https://testflight.apple.com/join/37azzGPG) | 2025-10-17 |
 | chinese | [我的世界-网易](https://testflight.apple.com/join/mOxZm1dD) | 2025-10-16 |
-| ios | [Reddit](https://testflight.apple.com/join/b9jMyOWt) | 2025-10-16 |
 | ios | [Parcel - Delivery Tracking](https://testflight.apple.com/join/fMeg6C4A) | 2025-10-13 |
 | ios | [ColorSlurp Beta](https://testflight.apple.com/join/xxEw2j1X) | 2025-10-08 |
 | ios_game | [Cell to Singularity](https://testflight.apple.com/join/RD9jGH9S) | 2025-10-08 |
@@ -64,7 +60,6 @@
 | ios | [Jira Cloud by Atlassian](https://testflight.apple.com/join/2lm7vHBS) | 2025-07-03 |
 | ios | [UniFi](https://testflight.apple.com/join/Pkd9a658) | 2025-07-01 |
 | ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2025-06-30 |
-| ios_game | [Zombies Endless](https://testflight.apple.com/join/6Ya9E8jU) | 2025-06-30 |
 | ios | [Hadge](https://testflight.apple.com/join/rFLkfNSu) | 2025-06-21 |
 | ios | [AdGuard VPN](https://testflight.apple.com/join/fZRiD1zt) | 2025-05-30 |
 | ios | [MyFRITZ!App](https://testflight.apple.com/join/U0v1rBE5) | 2025-05-17 |
