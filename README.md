@@ -1,9 +1,11 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| chinese | [喜马拉雅FM](https://testflight.apple.com/join/u07lq6bj) | 2025-11-18 |
-| ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-11-18 |
-| ios | [Grindr - Gay Dating & Chat](https://testflight.apple.com/join/eO265vw7) | 2025-11-18 |
+| chinese | [高德地图](https://testflight.apple.com/join/C9b7GypS) | 2025-11-19 |
+| ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2025-11-19 |
+| ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2025-11-19 |
+| ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2025-11-19 |
+| ios | [Windows App Mobile](https://testflight.apple.com/join/vkLIflUJ) | 2025-11-19 |
 | ios | [Life360: Find Friends & Family beta](https://testflight.apple.com/join/syX6IOJF) | 2025-11-18 |
 | ios | [Facebook](https://testflight.apple.com/join/C1a3MRG4) | 2025-11-17 |
 | chinese | [抖音](https://testflight.apple.com/join/Hm0miNz8) | 2025-11-14 |
