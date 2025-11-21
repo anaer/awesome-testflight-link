@@ -1,10 +1,13 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| chinese | [高德地图](https://testflight.apple.com/join/C9b7GypS) | 2025-11-19 |
+| chinese | [喜马拉雅FM](https://testflight.apple.com/join/u07lq6bj) | 2025-11-20 |
+| ios | [Brave](https://testflight.apple.com/join/Trcbh1o3) | 2025-11-20 |
+| ios | [FRITZ!App WLAN](https://testflight.apple.com/join/vbfCKamq) | 2025-11-20 |
+| ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-11-20 |
+| ios | [Twitch Beta](https://testflight.apple.com/join/8vRKFAiY) | 2025-11-20 |
 | ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2025-11-19 |
 | ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2025-11-19 |
-| ios | [TikTok](https://testflight.apple.com/join/pLmKZJKw) | 2025-11-19 |
 | ios | [Windows App Mobile](https://testflight.apple.com/join/vkLIflUJ) | 2025-11-19 |
 | ios | [Life360: Find Friends & Family beta](https://testflight.apple.com/join/syX6IOJF) | 2025-11-18 |
 | ios | [Facebook](https://testflight.apple.com/join/C1a3MRG4) | 2025-11-17 |
@@ -71,7 +74,6 @@
 | ios | [Collabora Office](https://testflight.apple.com/join/TEnBWi68) | 2025-04-29 |
 | ios | [PushUp Workout Daily at Home](https://testflight.apple.com/join/myFEz6DW) | 2025-04-29 |
 | ios | [Sangoma Meet](https://testflight.apple.com/join/BEd12vi5) | 2025-04-18 |
-| ios | [Keka](https://testflight.apple.com/join/gPYINGCJ) | 2025-04-17 |
 | ios | [Mindustry](https://testflight.apple.com/join/79Azm1hZ) | 2025-04-13 |
 | ios | [Sleep Cycle - Sleep Tracker beta](https://testflight.apple.com/join/tCeANbZi) | 2025-04-10 |
 | ios | [Sleep Cycle alarm clock](https://testflight.apple.com/join/8RcEFqFF) | 2025-04-10 |
