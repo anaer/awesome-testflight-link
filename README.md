@@ -1,10 +1,12 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| chinese | [优酷视频HD](https://testflight.apple.com/join/RDuRYxRE) | 2025-11-21 |
+| chinese | [酷狗音乐](https://testflight.apple.com/join/6cnKUyZ8) | 2025-11-21 |
+| ios | [Dropbox](https://testflight.apple.com/join/LBZaRq4I) | 2025-11-21 |
+| ios | [Film Logbook beta](https://testflight.apple.com/join/fV4oQYJD) | 2025-11-21 |
+| ios_game | [Zombies Endless](https://testflight.apple.com/join/6Ya9E8jU) | 2025-11-21 |
 | chinese | [喜马拉雅FM](https://testflight.apple.com/join/u07lq6bj) | 2025-11-20 |
-| ios | [Brave](https://testflight.apple.com/join/Trcbh1o3) | 2025-11-20 |
-| ios | [FRITZ!App WLAN](https://testflight.apple.com/join/vbfCKamq) | 2025-11-20 |
-| ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-11-20 |
 | ios | [Twitch Beta](https://testflight.apple.com/join/8vRKFAiY) | 2025-11-20 |
 | ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2025-11-19 |
 | ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2025-11-19 |
