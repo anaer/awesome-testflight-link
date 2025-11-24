@@ -1,8 +1,10 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| chinese | [iCost 记账](https://testflight.apple.com/join/pm1jk978) | 2025-11-23 |
+| chinese | [酷狗概念版](https://testflight.apple.com/join/DdscKm1S) | 2025-11-23 |
+| ios | [和风天气 - 可视化天气 beta](https://testflight.apple.com/join/9KR0Xx7E) | 2025-11-23 |
 | chinese | [爱奇艺](https://testflight.apple.com/join/alLbf0ju) | 2025-11-22 |
-| ios | [Plex](https://testflight.apple.com/join/MY6JTzix) | 2025-11-22 |
 | ios | [Film Logbook beta](https://testflight.apple.com/join/fV4oQYJD) | 2025-11-21 |
 | ios_game | [Zombies Endless](https://testflight.apple.com/join/6Ya9E8jU) | 2025-11-21 |
 | ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2025-11-19 |
@@ -11,7 +13,6 @@
 | ios | [Life360: Find Friends & Family beta](https://testflight.apple.com/join/syX6IOJF) | 2025-11-18 |
 | ios | [Facebook](https://testflight.apple.com/join/C1a3MRG4) | 2025-11-17 |
 | chinese | [抖音](https://testflight.apple.com/join/Hm0miNz8) | 2025-11-14 |
-| chinese | [抖音](https://testflight.apple.com/join/ZILJgZhU) | 2025-11-14 |
 | ios | [Potatso Lite](https://testflight.apple.com/join/NkF46PRd) | 2025-11-14 |
 | ios | [Microsoft Bing Search](https://testflight.apple.com/join/YAKT5ew9) | 2025-11-12 |
 | ios | [MoodTrackMe](https://testflight.apple.com/join/VnHpQmdg) | 2025-11-11 |
@@ -64,7 +65,6 @@
 | ios | [Jira Cloud by Atlassian](https://testflight.apple.com/join/2lm7vHBS) | 2025-07-03 |
 | ios | [UniFi](https://testflight.apple.com/join/Pkd9a658) | 2025-07-01 |
 | ios | [Slack](https://testflight.apple.com/join/QE3kgqJ2) | 2025-06-30 |
-| ios | [Hadge](https://testflight.apple.com/join/rFLkfNSu) | 2025-06-21 |
 | ios | [AdGuard VPN](https://testflight.apple.com/join/fZRiD1zt) | 2025-05-30 |
 | ios | [MyFRITZ!App](https://testflight.apple.com/join/U0v1rBE5) | 2025-05-17 |
 | ios | [Trello — Organize anything!](https://testflight.apple.com/join/cRWMcQsr) | 2025-05-08 |
