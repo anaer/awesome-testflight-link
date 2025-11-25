@@ -1,14 +1,12 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| chinese | [iCost 记账](https://testflight.apple.com/join/pm1jk978) | 2025-11-23 |
+| ios | [Twitch Beta](https://testflight.apple.com/join/8vRKFAiY) | 2025-11-24 |
 | chinese | [酷狗概念版](https://testflight.apple.com/join/DdscKm1S) | 2025-11-23 |
-| ios | [和风天气 - 可视化天气 beta](https://testflight.apple.com/join/9KR0Xx7E) | 2025-11-23 |
 | chinese | [爱奇艺](https://testflight.apple.com/join/alLbf0ju) | 2025-11-22 |
 | ios | [Film Logbook beta](https://testflight.apple.com/join/fV4oQYJD) | 2025-11-21 |
 | ios_game | [Zombies Endless](https://testflight.apple.com/join/6Ya9E8jU) | 2025-11-21 |
 | ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2025-11-19 |
-| ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2025-11-19 |
 | ios | [Windows App Mobile](https://testflight.apple.com/join/vkLIflUJ) | 2025-11-19 |
 | ios | [Life360: Find Friends & Family beta](https://testflight.apple.com/join/syX6IOJF) | 2025-11-18 |
 | ios | [Facebook](https://testflight.apple.com/join/C1a3MRG4) | 2025-11-17 |
@@ -52,7 +50,6 @@
 | ios | [Pushover Notifications](https://testflight.apple.com/join/vkwfdWM0) | 2025-08-30 |
 | ios | [World Clock Time Widget](https://testflight.apple.com/join/8wa9T053) | 2025-08-29 |
 | chinese | [红果短剧](https://testflight.apple.com/join/Rfr1mzqS) | 2025-08-27 |
-| ios | [TV Time – #1 Show Tracker](https://testflight.apple.com/join/hjKkDsc4) | 2025-08-27 |
 | macos | [Batch Clipboard](https://testflight.apple.com/join/epg3cusH) | 2025-08-23 |
 | ios | [FRITZ!App Fon](https://testflight.apple.com/join/SGGCxyRp) | 2025-08-16 |
 | ios | [Qobuz](https://testflight.apple.com/join/GPJZwnh9) | 2025-08-14 |
@@ -84,7 +81,6 @@
 | ios | [RocketChat](https://testflight.apple.com/join/3gcYeoMr) | 2025-02-28 |
 | ios | [AmazFaces](https://testflight.apple.com/join/4hBEKHHg) | 2025-02-23 |
 | ios | [Me@Walmart](https://testflight.apple.com/join/bqo4smK7) | 2025-02-19 |
-| ios | [Tuttii Beta](https://testflight.apple.com/join/2dTbntXZ) | 2025-02-16 |
 | ios | [Firewalla](https://testflight.apple.com/join/qtUnSjJp) | 2025-02-05 |
 | macos | [Drafts](https://testflight.apple.com/join/GhPcOrwa) | 2025-01-29 |
 | ios | [RainViewer: Live Weather Radar](https://testflight.apple.com/join/OZ1B4sTS) | 2025-01-23 |
