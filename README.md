@@ -1,15 +1,15 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2025-11-25 |
-| ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-11-25 |
+| chinese | [酷狗概念版](https://testflight.apple.com/join/DdscKm1S) | 2025-11-26 |
+| ios | [Lock Launcher beta](https://testflight.apple.com/join/clHxFnLa) | 2025-11-26 |
+| ios_game | [Minecraft: Education Edition beta](https://testflight.apple.com/join/sBDlEXYr) | 2025-11-26 |
+| macos | [Pricing Manager](https://testflight.apple.com/join/ZYsBYMhT) | 2025-11-26 |
 | ios | [Lenna - Video Library Player](https://testflight.apple.com/join/bExxpaX1) | 2025-11-25 |
-| ios | [Microsoft Outlook](https://testflight.apple.com/join/QkU4VS1s) | 2025-11-25 |
 | ios | [Quizlet](https://testflight.apple.com/join/mwhcPqxJ) | 2025-11-25 |
 | ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2025-11-25 |
 | ios_game | [Build Me This: Parts to Profit](https://testflight.apple.com/join/U4GabrwT) | 2025-11-25 |
 | macos | [Caffeine Utility](https://testflight.apple.com/join/WHIbsose) | 2025-11-25 |
-| macos | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2025-11-25 |
 | ios | [Twitch Beta](https://testflight.apple.com/join/8vRKFAiY) | 2025-11-24 |
 | chinese | [爱奇艺](https://testflight.apple.com/join/alLbf0ju) | 2025-11-22 |
 | ios | [Film Logbook beta](https://testflight.apple.com/join/fV4oQYJD) | 2025-11-21 |
