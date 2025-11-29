@@ -3,6 +3,7 @@
 | --- | --- | --- |
 | ios | [Cake Wallet](https://testflight.apple.com/join/f9yFYx9H) | 2025-11-28 |
 | ios | [Element X Nightly beta](https://testflight.apple.com/join/ckwk29aO) | 2025-11-28 |
+| ios | [Lock Launcher beta](https://testflight.apple.com/join/clHxFnLa) | 2025-11-28 |
 | ios | [Met Office (Beta app)](https://testflight.apple.com/join/ScdVVE5Q) | 2025-11-28 |
 | ios | [Met Office Weather Forecast](https://testflight.apple.com/join/MIUMNYDz) | 2025-11-28 |
 | ios | [Microsoft Planner](https://testflight.apple.com/join/moiTpIqb) | 2025-11-28 |
@@ -11,23 +12,13 @@
 | ios | [Stremio Lite](https://testflight.apple.com/join/JKG2j45W) | 2025-11-28 |
 | ios | [Tailscale](https://testflight.apple.com/join/tLcYLZJV) | 2025-11-28 |
 | ios | [TorGuard V2ray Proxy](https://testflight.apple.com/join/a92sVzKq) | 2025-11-28 |
-| chinese | [酷狗音乐](https://testflight.apple.com/join/6cnKUyZ8) | 2025-11-27 |
-| ios | [Brave](https://testflight.apple.com/join/Trcbh1o3) | 2025-11-27 |
 | ios | [Dropbox](https://testflight.apple.com/join/LBZaRq4I) | 2025-11-27 |
-| ios | [Finance Bay](https://testflight.apple.com/join/y4etT8Ht) | 2025-11-27 |
 | ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-11-27 |
-| ios | [Grindr - Gay Dating & Chat](https://testflight.apple.com/join/eO265vw7) | 2025-11-27 |
-| ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-11-27 |
-| ios | [Microsoft Office](https://testflight.apple.com/join/eHAKJBtM) | 2025-11-27 |
-| ios | [Microsoft OneNote](https://testflight.apple.com/join/uDgoqfGS) | 2025-11-27 |
-| ios | [Microsoft Outlook](https://testflight.apple.com/join/QkU4VS1s) | 2025-11-27 |
-| ios | [Microsoft Word](https://testflight.apple.com/join/hw76phYi) | 2025-11-27 |
 | ios_game | [Minecraft Preview](https://testflight.apple.com/join/qC1ZnReJ) | 2025-11-27 |
 | ios_game | [Minecraft: Education Edition beta](https://testflight.apple.com/join/sBDlEXYr) | 2025-11-26 |
 | macos | [Pricing Manager](https://testflight.apple.com/join/ZYsBYMhT) | 2025-11-26 |
 | ios | [Lenna - Video Library Player](https://testflight.apple.com/join/bExxpaX1) | 2025-11-25 |
 | macos | [Caffeine Utility](https://testflight.apple.com/join/WHIbsose) | 2025-11-25 |
-| chinese | [爱奇艺](https://testflight.apple.com/join/alLbf0ju) | 2025-11-22 |
 | ios | [Film Logbook beta](https://testflight.apple.com/join/fV4oQYJD) | 2025-11-21 |
 | ios_game | [Zombies Endless](https://testflight.apple.com/join/6Ya9E8jU) | 2025-11-21 |
 | ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2025-11-19 |
