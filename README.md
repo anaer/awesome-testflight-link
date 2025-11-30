@@ -1,9 +1,9 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Keka](https://testflight.apple.com/join/gPYINGCJ) | 2025-11-29 |
 | ios | [Cake Wallet](https://testflight.apple.com/join/f9yFYx9H) | 2025-11-28 |
 | ios | [Element X Nightly beta](https://testflight.apple.com/join/ckwk29aO) | 2025-11-28 |
-| ios | [Lock Launcher beta](https://testflight.apple.com/join/clHxFnLa) | 2025-11-28 |
 | ios | [Met Office (Beta app)](https://testflight.apple.com/join/ScdVVE5Q) | 2025-11-28 |
 | ios | [Met Office Weather Forecast](https://testflight.apple.com/join/MIUMNYDz) | 2025-11-28 |
 | ios | [Microsoft Planner](https://testflight.apple.com/join/moiTpIqb) | 2025-11-28 |
@@ -12,9 +12,7 @@
 | ios | [Stremio Lite](https://testflight.apple.com/join/JKG2j45W) | 2025-11-28 |
 | ios | [Tailscale](https://testflight.apple.com/join/tLcYLZJV) | 2025-11-28 |
 | ios | [TorGuard V2ray Proxy](https://testflight.apple.com/join/a92sVzKq) | 2025-11-28 |
-| ios | [Dropbox](https://testflight.apple.com/join/LBZaRq4I) | 2025-11-27 |
 | ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-11-27 |
-| ios_game | [Minecraft Preview](https://testflight.apple.com/join/qC1ZnReJ) | 2025-11-27 |
 | ios_game | [Minecraft: Education Edition beta](https://testflight.apple.com/join/sBDlEXYr) | 2025-11-26 |
 | macos | [Pricing Manager](https://testflight.apple.com/join/ZYsBYMhT) | 2025-11-26 |
 | ios | [Lenna - Video Library Player](https://testflight.apple.com/join/bExxpaX1) | 2025-11-25 |
@@ -25,7 +23,6 @@
 | ios | [Windows App Mobile](https://testflight.apple.com/join/vkLIflUJ) | 2025-11-19 |
 | ios | [Life360: Find Friends & Family beta](https://testflight.apple.com/join/syX6IOJF) | 2025-11-18 |
 | ios | [Facebook](https://testflight.apple.com/join/C1a3MRG4) | 2025-11-17 |
-| chinese | [抖音](https://testflight.apple.com/join/Hm0miNz8) | 2025-11-14 |
 | ios | [Potatso Lite](https://testflight.apple.com/join/NkF46PRd) | 2025-11-14 |
 | ios | [Microsoft Bing Search](https://testflight.apple.com/join/YAKT5ew9) | 2025-11-12 |
 | ios | [MoodTrackMe](https://testflight.apple.com/join/VnHpQmdg) | 2025-11-11 |
@@ -42,7 +39,6 @@
 | ios | [Star Wander - AR Night Sky Map](https://testflight.apple.com/join/5hmQk6ba) | 2025-11-05 |
 | chinese | [网易爆米花](https://testflight.apple.com/join/sIj5iOoj) | 2025-11-04 |
 | chinese | [豆包](https://testflight.apple.com/join/mAE3jS7i) | 2025-11-04 |
-| chinese | [豆瓣](https://testflight.apple.com/join/w5En3SPV) | 2025-11-04 |
 | macos | [Odak - Menu Bar Timer](https://testflight.apple.com/join/JTWaYdDX) | 2025-11-04 |
 | ios | [Feeds - All the Web, One Feed](https://testflight.apple.com/join/YBFNq1bw) | 2025-10-31 |
 | ios | [Everlog](https://testflight.apple.com/join/sOCDYE65) | 2025-10-30 |
