@@ -1,7 +1,8 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Microsoft To-Do](https://testflight.apple.com/join/JSq3UkAz) | 2025-11-30 |
+| chinese | [优酷视频HD](https://testflight.apple.com/join/RDuRYxRE) | 2025-12-01 |
+| chinese | [番茄小说](https://testflight.apple.com/join/dTUO1uyt) | 2025-12-01 |
 | ios | [Cake Wallet](https://testflight.apple.com/join/f9yFYx9H) | 2025-11-28 |
 | ios | [Element X Nightly beta](https://testflight.apple.com/join/ckwk29aO) | 2025-11-28 |
 | ios | [Met Office (Beta app)](https://testflight.apple.com/join/ScdVVE5Q) | 2025-11-28 |
@@ -22,7 +23,6 @@
 | ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2025-11-19 |
 | ios | [Windows App Mobile](https://testflight.apple.com/join/vkLIflUJ) | 2025-11-19 |
 | ios | [Life360: Find Friends & Family beta](https://testflight.apple.com/join/syX6IOJF) | 2025-11-18 |
-| ios | [Facebook](https://testflight.apple.com/join/C1a3MRG4) | 2025-11-17 |
 | ios | [Potatso Lite](https://testflight.apple.com/join/NkF46PRd) | 2025-11-14 |
 | ios | [Microsoft Bing Search](https://testflight.apple.com/join/YAKT5ew9) | 2025-11-12 |
 | ios | [MoodTrackMe](https://testflight.apple.com/join/VnHpQmdg) | 2025-11-11 |
@@ -55,7 +55,6 @@
 | chinese | [滴答清单 TickTick](https://testflight.apple.com/join/vWQPDFQU) | 2025-09-11 |
 | ios | [Tee-Timer](https://testflight.apple.com/join/wzyzzspP) | 2025-09-09 |
 | ios | [Proton VPN: Fast & Secure](https://testflight.apple.com/join/3yl2MSbw) | 2025-09-04 |
-| ios | [Bitwarden Beta](https://testflight.apple.com/join/S4OQEYYQ) | 2025-09-03 |
 | ios | [F1ATV](https://testflight.apple.com/join/NRswe1IZ) | 2025-08-30 |
 | ios | [Pushover Notifications](https://testflight.apple.com/join/vkwfdWM0) | 2025-08-30 |
 | ios | [World Clock Time Widget](https://testflight.apple.com/join/8wa9T053) | 2025-08-29 |
