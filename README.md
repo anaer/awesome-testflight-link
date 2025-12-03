@@ -1,8 +1,8 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| chinese | [优酷视频HD](https://testflight.apple.com/join/RDuRYxRE) | 2025-12-01 |
-| chinese | [番茄小说](https://testflight.apple.com/join/dTUO1uyt) | 2025-12-01 |
+| ios | [Microsoft OneDrive](https://testflight.apple.com/join/LtgPLzrQ) | 2025-12-02 |
+| ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2025-12-02 |
 | ios | [Cake Wallet](https://testflight.apple.com/join/f9yFYx9H) | 2025-11-28 |
 | ios | [Element X Nightly beta](https://testflight.apple.com/join/ckwk29aO) | 2025-11-28 |
 | ios | [Met Office (Beta app)](https://testflight.apple.com/join/ScdVVE5Q) | 2025-11-28 |
