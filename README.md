@@ -1,9 +1,11 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| chinese | [喜马拉雅FM](https://testflight.apple.com/join/u07lq6bj) | 2025-12-04 |
+| ios | [Mixing Station](https://testflight.apple.com/join/lsd9mugy) | 2025-12-04 |
+| ios | [Reddit](https://testflight.apple.com/join/b9jMyOWt) | 2025-12-04 |
+| ios | [Xbox](https://testflight.apple.com/join/dfUeaFHS) | 2025-12-04 |
 | chinese | [豆瓣](https://testflight.apple.com/join/w5En3SPV) | 2025-12-03 |
-| ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-12-03 |
-| ios | [Microsoft Outlook](https://testflight.apple.com/join/QkU4VS1s) | 2025-12-03 |
 | ios | [Musixmatch Lyrics Finder](https://testflight.apple.com/join/7yLzN5td) | 2025-12-03 |
 | ios | [Table Habit](https://testflight.apple.com/join/aJ5PWqaR) | 2025-12-03 |
 | ios | [YACReader](https://testflight.apple.com/join/5zhB7sRP) | 2025-12-03 |
