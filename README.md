@@ -1,18 +1,22 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| chinese | [喜马拉雅FM](https://testflight.apple.com/join/u07lq6bj) | 2025-12-04 |
-| ios | [Mixing Station](https://testflight.apple.com/join/lsd9mugy) | 2025-12-04 |
-| ios | [Reddit](https://testflight.apple.com/join/b9jMyOWt) | 2025-12-04 |
+| chinese | [优酷视频HD](https://testflight.apple.com/join/RDuRYxRE) | 2025-12-05 |
+| chinese | [番茄小说](https://testflight.apple.com/join/dTUO1uyt) | 2025-12-05 |
+| chinese | [酷狗概念版](https://testflight.apple.com/join/IOgbaxds) | 2025-12-05 |
+| chinese | [酷狗音乐](https://testflight.apple.com/join/6cnKUyZ8) | 2025-12-05 |
+| ios | [Erasee: Background Remover](https://testflight.apple.com/join/t6xnU9H3) | 2025-12-05 |
+| ios | [Grindr - Gay Dating & Chat](https://testflight.apple.com/join/eO265vw7) | 2025-12-05 |
+| ios | [Keka](https://testflight.apple.com/join/gPYINGCJ) | 2025-12-05 |
+| ios | [Microsoft SwiftKey Keyboard](https://testflight.apple.com/join/yhIhAvjp) | 2025-12-05 |
+| ios | [Twitch Beta](https://testflight.apple.com/join/8vRKFAiY) | 2025-12-05 |
 | ios | [Xbox](https://testflight.apple.com/join/dfUeaFHS) | 2025-12-04 |
 | chinese | [豆瓣](https://testflight.apple.com/join/w5En3SPV) | 2025-12-03 |
-| ios | [Musixmatch Lyrics Finder](https://testflight.apple.com/join/7yLzN5td) | 2025-12-03 |
 | ios | [Table Habit](https://testflight.apple.com/join/aJ5PWqaR) | 2025-12-03 |
 | ios | [YACReader](https://testflight.apple.com/join/5zhB7sRP) | 2025-12-03 |
 | ios | [Microsoft OneDrive](https://testflight.apple.com/join/LtgPLzrQ) | 2025-12-02 |
 | ios | [Cake Wallet](https://testflight.apple.com/join/f9yFYx9H) | 2025-11-28 |
 | ios | [Element X Nightly beta](https://testflight.apple.com/join/ckwk29aO) | 2025-11-28 |
-| ios | [Met Office (Beta app)](https://testflight.apple.com/join/ScdVVE5Q) | 2025-11-28 |
 | ios | [Met Office Weather Forecast](https://testflight.apple.com/join/MIUMNYDz) | 2025-11-28 |
 | ios | [Microsoft Planner](https://testflight.apple.com/join/moiTpIqb) | 2025-11-28 |
 | ios | [Mullvad VPN](https://testflight.apple.com/join/gOpklnGw) | 2025-11-28 |
@@ -27,7 +31,6 @@
 | macos | [Caffeine Utility](https://testflight.apple.com/join/WHIbsose) | 2025-11-25 |
 | ios | [Film Logbook beta](https://testflight.apple.com/join/fV4oQYJD) | 2025-11-21 |
 | ios_game | [Zombies Endless](https://testflight.apple.com/join/6Ya9E8jU) | 2025-11-21 |
-| ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2025-11-19 |
 | ios | [Windows App Mobile](https://testflight.apple.com/join/vkLIflUJ) | 2025-11-19 |
 | ios | [Life360: Find Friends & Family beta](https://testflight.apple.com/join/syX6IOJF) | 2025-11-18 |
 | ios | [Potatso Lite](https://testflight.apple.com/join/NkF46PRd) | 2025-11-14 |
