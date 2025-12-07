@@ -1,15 +1,11 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| chinese | [优酷视频HD](https://testflight.apple.com/join/RDuRYxRE) | 2025-12-05 |
-| chinese | [番茄小说](https://testflight.apple.com/join/dTUO1uyt) | 2025-12-05 |
-| chinese | [酷狗概念版](https://testflight.apple.com/join/IOgbaxds) | 2025-12-05 |
+| chinese | [爱奇艺](https://testflight.apple.com/join/alLbf0ju) | 2025-12-06 |
+| ios | [Just Timers](https://testflight.apple.com/join/pyzrz0oT) | 2025-12-06 |
+| ios | [Plex](https://testflight.apple.com/join/MY6JTzix) | 2025-12-06 |
 | chinese | [酷狗音乐](https://testflight.apple.com/join/6cnKUyZ8) | 2025-12-05 |
 | ios | [Erasee: Background Remover](https://testflight.apple.com/join/t6xnU9H3) | 2025-12-05 |
-| ios | [Grindr - Gay Dating & Chat](https://testflight.apple.com/join/eO265vw7) | 2025-12-05 |
-| ios | [Keka](https://testflight.apple.com/join/gPYINGCJ) | 2025-12-05 |
-| ios | [Microsoft SwiftKey Keyboard](https://testflight.apple.com/join/yhIhAvjp) | 2025-12-05 |
-| ios | [Twitch Beta](https://testflight.apple.com/join/8vRKFAiY) | 2025-12-05 |
 | ios | [Xbox](https://testflight.apple.com/join/dfUeaFHS) | 2025-12-04 |
 | chinese | [豆瓣](https://testflight.apple.com/join/w5En3SPV) | 2025-12-03 |
 | ios | [Table Habit](https://testflight.apple.com/join/aJ5PWqaR) | 2025-12-03 |
