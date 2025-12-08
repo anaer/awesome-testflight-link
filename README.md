@@ -1,6 +1,7 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios_game | [BaZ: Balance at Zero Challenge](https://testflight.apple.com/join/44BSN287) | 2025-12-07 |
 | chinese | [爱奇艺](https://testflight.apple.com/join/alLbf0ju) | 2025-12-06 |
 | ios | [Just Timers](https://testflight.apple.com/join/pyzrz0oT) | 2025-12-06 |
 | ios | [Plex](https://testflight.apple.com/join/MY6JTzix) | 2025-12-06 |
