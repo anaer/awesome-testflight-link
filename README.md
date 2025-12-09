@@ -1,10 +1,14 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2025-12-08 |
+| ios | [Grocery-Smart Grocery List](https://testflight.apple.com/join/v29eXz9t) | 2025-12-08 |
+| ios | [Hadge](https://testflight.apple.com/join/rFLkfNSu) | 2025-12-08 |
+| ios | [Microsoft Loop beta](https://testflight.apple.com/join/KNyadcIZ) | 2025-12-08 |
+| ios | [Norton](https://testflight.apple.com/join/iHcEgAaT) | 2025-12-08 |
+| macos | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2025-12-08 |
 | ios_game | [BaZ: Balance at Zero Challenge](https://testflight.apple.com/join/44BSN287) | 2025-12-07 |
 | chinese | [爱奇艺](https://testflight.apple.com/join/alLbf0ju) | 2025-12-06 |
-| ios | [Just Timers](https://testflight.apple.com/join/pyzrz0oT) | 2025-12-06 |
-| ios | [Plex](https://testflight.apple.com/join/MY6JTzix) | 2025-12-06 |
 | chinese | [酷狗音乐](https://testflight.apple.com/join/6cnKUyZ8) | 2025-12-05 |
 | ios | [Erasee: Background Remover](https://testflight.apple.com/join/t6xnU9H3) | 2025-12-05 |
 | ios | [Xbox](https://testflight.apple.com/join/dfUeaFHS) | 2025-12-04 |
@@ -22,7 +26,6 @@
 | ios | [Tailscale](https://testflight.apple.com/join/tLcYLZJV) | 2025-11-28 |
 | ios | [TorGuard V2ray Proxy](https://testflight.apple.com/join/a92sVzKq) | 2025-11-28 |
 | ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-11-27 |
-| ios_game | [Minecraft: Education Edition beta](https://testflight.apple.com/join/sBDlEXYr) | 2025-11-26 |
 | macos | [Pricing Manager](https://testflight.apple.com/join/ZYsBYMhT) | 2025-11-26 |
 | ios | [Lenna - Video Library Player](https://testflight.apple.com/join/bExxpaX1) | 2025-11-25 |
 | macos | [Caffeine Utility](https://testflight.apple.com/join/WHIbsose) | 2025-11-25 |
