@@ -1,12 +1,15 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2025-12-08 |
-| ios | [Grocery-Smart Grocery List](https://testflight.apple.com/join/v29eXz9t) | 2025-12-08 |
+| chinese | [抖音](https://testflight.apple.com/join/Hm0miNz8) | 2025-12-09 |
+| chinese | [抖音](https://testflight.apple.com/join/ZILJgZhU) | 2025-12-09 |
+| chinese | [酷狗概念版](https://testflight.apple.com/join/DdscKm1S) | 2025-12-09 |
+| ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2025-12-09 |
+| ios | [GitHub](https://testflight.apple.com/join/NLskzwi5) | 2025-12-09 |
+| ios | [Grindr - Gay Dating & Chat](https://testflight.apple.com/join/eO265vw7) | 2025-12-09 |
+| ios | [Reddit](https://testflight.apple.com/join/b9jMyOWt) | 2025-12-09 |
+| ios | [Twitch Beta](https://testflight.apple.com/join/8vRKFAiY) | 2025-12-09 |
 | ios | [Hadge](https://testflight.apple.com/join/rFLkfNSu) | 2025-12-08 |
-| ios | [Microsoft Loop beta](https://testflight.apple.com/join/KNyadcIZ) | 2025-12-08 |
-| ios | [Norton](https://testflight.apple.com/join/iHcEgAaT) | 2025-12-08 |
-| macos | [Dark Noise](https://testflight.apple.com/join/kpKtyijY) | 2025-12-08 |
 | ios_game | [BaZ: Balance at Zero Challenge](https://testflight.apple.com/join/44BSN287) | 2025-12-07 |
 | chinese | [爱奇艺](https://testflight.apple.com/join/alLbf0ju) | 2025-12-06 |
 | chinese | [酷狗音乐](https://testflight.apple.com/join/6cnKUyZ8) | 2025-12-05 |
