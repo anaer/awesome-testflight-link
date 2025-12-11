@@ -1,14 +1,13 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Discord](https://testflight.apple.com/join/gdE4pRzI) | 2025-12-10 |
+| ios | [Microsoft Outlook](https://testflight.apple.com/join/QkU4VS1s) | 2025-12-10 |
+| ios | [Microsoft Whiteboard](https://testflight.apple.com/join/HSWkbCxV) | 2025-12-10 |
+| ios | [NOS](https://testflight.apple.com/join/i4g2QrrG) | 2025-12-10 |
 | chinese | [抖音](https://testflight.apple.com/join/Hm0miNz8) | 2025-12-09 |
 | chinese | [抖音](https://testflight.apple.com/join/ZILJgZhU) | 2025-12-09 |
-| chinese | [酷狗概念版](https://testflight.apple.com/join/DdscKm1S) | 2025-12-09 |
-| ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2025-12-09 |
-| ios | [GitHub](https://testflight.apple.com/join/NLskzwi5) | 2025-12-09 |
-| ios | [Grindr - Gay Dating & Chat](https://testflight.apple.com/join/eO265vw7) | 2025-12-09 |
 | ios | [Reddit](https://testflight.apple.com/join/b9jMyOWt) | 2025-12-09 |
-| ios | [Twitch Beta](https://testflight.apple.com/join/8vRKFAiY) | 2025-12-09 |
 | ios | [Hadge](https://testflight.apple.com/join/rFLkfNSu) | 2025-12-08 |
 | ios_game | [BaZ: Balance at Zero Challenge](https://testflight.apple.com/join/44BSN287) | 2025-12-07 |
 | chinese | [爱奇艺](https://testflight.apple.com/join/alLbf0ju) | 2025-12-06 |
@@ -64,7 +63,6 @@
 | chinese | [百度贴吧](https://testflight.apple.com/join/GgBqXAqm) | 2025-09-19 |
 | chinese | [QQ beta](https://testflight.apple.com/join/R5FNGUl3) | 2025-09-17 |
 | ios | [Chanyan](https://testflight.apple.com/join/ky5bRwMY) | 2025-09-16 |
-| chinese | [滴答清单 TickTick](https://testflight.apple.com/join/vWQPDFQU) | 2025-09-11 |
 | ios | [Tee-Timer](https://testflight.apple.com/join/wzyzzspP) | 2025-09-09 |
 | ios | [Proton VPN: Fast & Secure](https://testflight.apple.com/join/3yl2MSbw) | 2025-09-04 |
 | ios | [F1ATV](https://testflight.apple.com/join/NRswe1IZ) | 2025-08-30 |
@@ -161,4 +159,3 @@
 | ios | [Microsoft Authenticator](https://testflight.apple.com/join/Coqmmppd) | 2022-10-11 |
 | ios | [ntv Nachrichten](https://testflight.apple.com/join/n65TDvGb) | 2022-10-11 |
 | ios | [GroupMe](https://testflight.apple.com/join/6CcTotfX) | 2022-10-09 |
-| macos | [Parcel](https://testflight.apple.com/join/GfswMZn4) | 2022-08-08 |
