@@ -1,19 +1,18 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| chinese | [优酷视频HD](https://testflight.apple.com/join/RDuRYxRE) | 2025-12-12 |
-| ios | [Dropbox](https://testflight.apple.com/join/LBZaRq4I) | 2025-12-12 |
-| ios | [Grindr - Gay Dating & Chat](https://testflight.apple.com/join/eO265vw7) | 2025-12-12 |
+| ios | [GitHub](https://testflight.apple.com/join/NLskzwi5) | 2025-12-13 |
+| ios | [Grocery-Smart Grocery List](https://testflight.apple.com/join/v29eXz9t) | 2025-12-13 |
+| ios | [Microsoft PowerPoint](https://testflight.apple.com/join/a9Ef0N3g) | 2025-12-13 |
+| ios | [Quizlet](https://testflight.apple.com/join/mwhcPqxJ) | 2025-12-13 |
 | ios | [Just Timers](https://testflight.apple.com/join/pyzrz0oT) | 2025-12-12 |
 | ios | [Microsoft Loop beta](https://testflight.apple.com/join/KNyadcIZ) | 2025-12-12 |
 | ios | [Musixmatch Lyrics Finder](https://testflight.apple.com/join/7yLzN5td) | 2025-12-12 |
 | ios | [Pinterest beta](https://testflight.apple.com/join/ffIBkq35) | 2025-12-12 |
-| ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2025-12-12 |
 | ios | [Twitch Beta](https://testflight.apple.com/join/8vRKFAiY) | 2025-12-12 |
 | ios | [Microsoft Whiteboard](https://testflight.apple.com/join/HSWkbCxV) | 2025-12-10 |
 | chinese | [抖音](https://testflight.apple.com/join/Hm0miNz8) | 2025-12-09 |
 | chinese | [抖音](https://testflight.apple.com/join/ZILJgZhU) | 2025-12-09 |
-| ios | [Reddit](https://testflight.apple.com/join/b9jMyOWt) | 2025-12-09 |
 | ios | [Hadge](https://testflight.apple.com/join/rFLkfNSu) | 2025-12-08 |
 | ios_game | [BaZ: Balance at Zero Challenge](https://testflight.apple.com/join/44BSN287) | 2025-12-07 |
 | chinese | [酷狗音乐](https://testflight.apple.com/join/6cnKUyZ8) | 2025-12-05 |
