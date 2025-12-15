@@ -1,12 +1,10 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2025-12-14 |
+| ios | [Xbox Family Settings beta](https://testflight.apple.com/join/8oUnDzMQ) | 2025-12-14 |
 | ios | [GitHub](https://testflight.apple.com/join/NLskzwi5) | 2025-12-13 |
-| ios | [Grocery-Smart Grocery List](https://testflight.apple.com/join/v29eXz9t) | 2025-12-13 |
-| ios | [Microsoft PowerPoint](https://testflight.apple.com/join/a9Ef0N3g) | 2025-12-13 |
 | ios | [Quizlet](https://testflight.apple.com/join/mwhcPqxJ) | 2025-12-13 |
-| ios | [Just Timers](https://testflight.apple.com/join/pyzrz0oT) | 2025-12-12 |
-| ios | [Microsoft Loop beta](https://testflight.apple.com/join/KNyadcIZ) | 2025-12-12 |
 | ios | [Musixmatch Lyrics Finder](https://testflight.apple.com/join/7yLzN5td) | 2025-12-12 |
 | ios | [Pinterest beta](https://testflight.apple.com/join/ffIBkq35) | 2025-12-12 |
 | ios | [Twitch Beta](https://testflight.apple.com/join/8vRKFAiY) | 2025-12-12 |
