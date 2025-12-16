@@ -1,16 +1,15 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2025-12-14 |
-| ios | [Xbox Family Settings beta](https://testflight.apple.com/join/8oUnDzMQ) | 2025-12-14 |
-| ios | [GitHub](https://testflight.apple.com/join/NLskzwi5) | 2025-12-13 |
+| chinese | [喜马拉雅FM](https://testflight.apple.com/join/u07lq6bj) | 2025-12-15 |
+| ios | [Lock Launcher beta](https://testflight.apple.com/join/clHxFnLa) | 2025-12-15 |
+| ios | [Microsoft Outlook](https://testflight.apple.com/join/QkU4VS1s) | 2025-12-15 |
 | ios | [Quizlet](https://testflight.apple.com/join/mwhcPqxJ) | 2025-12-13 |
 | ios | [Musixmatch Lyrics Finder](https://testflight.apple.com/join/7yLzN5td) | 2025-12-12 |
 | ios | [Pinterest beta](https://testflight.apple.com/join/ffIBkq35) | 2025-12-12 |
 | ios | [Twitch Beta](https://testflight.apple.com/join/8vRKFAiY) | 2025-12-12 |
 | ios | [Microsoft Whiteboard](https://testflight.apple.com/join/HSWkbCxV) | 2025-12-10 |
 | chinese | [抖音](https://testflight.apple.com/join/Hm0miNz8) | 2025-12-09 |
-| chinese | [抖音](https://testflight.apple.com/join/ZILJgZhU) | 2025-12-09 |
 | ios | [Hadge](https://testflight.apple.com/join/rFLkfNSu) | 2025-12-08 |
 | ios_game | [BaZ: Balance at Zero Challenge](https://testflight.apple.com/join/44BSN287) | 2025-12-07 |
 | chinese | [酷狗音乐](https://testflight.apple.com/join/6cnKUyZ8) | 2025-12-05 |
@@ -58,7 +57,6 @@
 | ios | [KyPass 4 密码管理](https://testflight.apple.com/join/wlZmOo9t) | 2025-10-30 |
 | ios | [KDE Connect](https://testflight.apple.com/join/vxCluwBF) | 2025-10-21 |
 | ios | [Newsbite](https://testflight.apple.com/join/7sus3M6q) | 2025-10-17 |
-| chinese | [我的世界-网易](https://testflight.apple.com/join/mOxZm1dD) | 2025-10-16 |
 | ios | [Parcel - Delivery Tracking](https://testflight.apple.com/join/fMeg6C4A) | 2025-10-13 |
 | ios | [ColorSlurp Beta](https://testflight.apple.com/join/xxEw2j1X) | 2025-10-08 |
 | ios_game | [Cell to Singularity](https://testflight.apple.com/join/RD9jGH9S) | 2025-10-08 |
@@ -85,7 +83,6 @@
 | ios | [MyFRITZ!App](https://testflight.apple.com/join/U0v1rBE5) | 2025-05-17 |
 | ios | [Trello — Organize anything!](https://testflight.apple.com/join/cRWMcQsr) | 2025-05-08 |
 | ios | [Filmlog](https://testflight.apple.com/join/ywiozhph) | 2025-05-02 |
-| ios | [Soulver 3](https://testflight.apple.com/join/Vlb55Wtr) | 2025-05-02 |
 | ios | [Collabora Office](https://testflight.apple.com/join/TEnBWi68) | 2025-04-29 |
 | ios | [PushUp Workout Daily at Home](https://testflight.apple.com/join/myFEz6DW) | 2025-04-29 |
 | ios | [Sangoma Meet](https://testflight.apple.com/join/BEd12vi5) | 2025-04-18 |
