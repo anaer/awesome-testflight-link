@@ -1,9 +1,13 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| chinese | [酷狗概念版](https://testflight.apple.com/join/DdscKm1S) | 2025-12-16 |
+| ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2025-12-16 |
+| ios | [Brave](https://testflight.apple.com/join/Trcbh1o3) | 2025-12-16 |
+| ios | [GitHub](https://testflight.apple.com/join/NLskzwi5) | 2025-12-16 |
+| ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2025-12-16 |
+| ios | [Unicode Keyboard](https://testflight.apple.com/join/YKH3kGpt) | 2025-12-16 |
 | chinese | [喜马拉雅FM](https://testflight.apple.com/join/u07lq6bj) | 2025-12-15 |
-| ios | [Lock Launcher beta](https://testflight.apple.com/join/clHxFnLa) | 2025-12-15 |
-| ios | [Microsoft Outlook](https://testflight.apple.com/join/QkU4VS1s) | 2025-12-15 |
 | ios | [Quizlet](https://testflight.apple.com/join/mwhcPqxJ) | 2025-12-13 |
 | ios | [Musixmatch Lyrics Finder](https://testflight.apple.com/join/7yLzN5td) | 2025-12-12 |
 | ios | [Pinterest beta](https://testflight.apple.com/join/ffIBkq35) | 2025-12-12 |
