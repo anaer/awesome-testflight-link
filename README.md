@@ -1,16 +1,15 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| chinese | [酷狗概念版](https://testflight.apple.com/join/DdscKm1S) | 2025-12-16 |
-| ios | [AdGuard  — adblock&privacy beta](https://testflight.apple.com/join/PMfu4nmW) | 2025-12-16 |
-| ios | [Brave](https://testflight.apple.com/join/Trcbh1o3) | 2025-12-16 |
+| chinese | [抖音](https://testflight.apple.com/join/ZILJgZhU) | 2025-12-17 |
+| ios | [FRITZ!App WLAN](https://testflight.apple.com/join/vbfCKamq) | 2025-12-17 |
+| ios | [Television Time](https://testflight.apple.com/join/eP0BTwVi) | 2025-12-17 |
+| ios | [waipu.tv](https://testflight.apple.com/join/l72L1OK3) | 2025-12-17 |
+| ios_game | [Bitlings](https://testflight.apple.com/join/pz81XTrD) | 2025-12-17 |
 | ios | [GitHub](https://testflight.apple.com/join/NLskzwi5) | 2025-12-16 |
-| ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2025-12-16 |
 | ios | [Unicode Keyboard](https://testflight.apple.com/join/YKH3kGpt) | 2025-12-16 |
-| chinese | [喜马拉雅FM](https://testflight.apple.com/join/u07lq6bj) | 2025-12-15 |
 | ios | [Quizlet](https://testflight.apple.com/join/mwhcPqxJ) | 2025-12-13 |
 | ios | [Musixmatch Lyrics Finder](https://testflight.apple.com/join/7yLzN5td) | 2025-12-12 |
-| ios | [Pinterest beta](https://testflight.apple.com/join/ffIBkq35) | 2025-12-12 |
 | ios | [Twitch Beta](https://testflight.apple.com/join/8vRKFAiY) | 2025-12-12 |
 | ios | [Microsoft Whiteboard](https://testflight.apple.com/join/HSWkbCxV) | 2025-12-10 |
 | chinese | [抖音](https://testflight.apple.com/join/Hm0miNz8) | 2025-12-09 |
@@ -34,7 +33,6 @@
 | ios | [TorGuard V2ray Proxy](https://testflight.apple.com/join/a92sVzKq) | 2025-11-28 |
 | ios | [Google Chrome](https://testflight.apple.com/join/LPQmtkUs) | 2025-11-27 |
 | macos | [Pricing Manager](https://testflight.apple.com/join/ZYsBYMhT) | 2025-11-26 |
-| ios | [Lenna - Video Library Player](https://testflight.apple.com/join/bExxpaX1) | 2025-11-25 |
 | macos | [Caffeine Utility](https://testflight.apple.com/join/WHIbsose) | 2025-11-25 |
 | ios | [Film Logbook beta](https://testflight.apple.com/join/fV4oQYJD) | 2025-11-21 |
 | ios_game | [Zombies Endless](https://testflight.apple.com/join/6Ya9E8jU) | 2025-11-21 |
