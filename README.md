@@ -1,12 +1,13 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| chinese | [抖音](https://testflight.apple.com/join/ZILJgZhU) | 2025-12-17 |
-| ios | [FRITZ!App WLAN](https://testflight.apple.com/join/vbfCKamq) | 2025-12-17 |
-| ios | [Television Time](https://testflight.apple.com/join/eP0BTwVi) | 2025-12-17 |
-| ios | [waipu.tv](https://testflight.apple.com/join/l72L1OK3) | 2025-12-17 |
+| chinese | [我的世界-网易](https://testflight.apple.com/join/mOxZm1dD) | 2025-12-18 |
+| ios | [Lock Launcher beta](https://testflight.apple.com/join/clHxFnLa) | 2025-12-18 |
+| ios | [MEGA](https://testflight.apple.com/join/4x1P5Tnx) | 2025-12-18 |
+| ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-12-18 |
+| ios | [Microsoft Office](https://testflight.apple.com/join/eHAKJBtM) | 2025-12-18 |
+| ios | [Microsoft OneNote](https://testflight.apple.com/join/uDgoqfGS) | 2025-12-18 |
 | ios_game | [Bitlings](https://testflight.apple.com/join/pz81XTrD) | 2025-12-17 |
-| ios | [GitHub](https://testflight.apple.com/join/NLskzwi5) | 2025-12-16 |
 | ios | [Unicode Keyboard](https://testflight.apple.com/join/YKH3kGpt) | 2025-12-16 |
 | ios | [Quizlet](https://testflight.apple.com/join/mwhcPqxJ) | 2025-12-13 |
 | ios | [Musixmatch Lyrics Finder](https://testflight.apple.com/join/7yLzN5td) | 2025-12-12 |
