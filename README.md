@@ -1,11 +1,11 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| chinese | [我的世界-网易](https://testflight.apple.com/join/mOxZm1dD) | 2025-12-18 |
-| ios | [Lock Launcher beta](https://testflight.apple.com/join/clHxFnLa) | 2025-12-18 |
-| ios | [MEGA](https://testflight.apple.com/join/4x1P5Tnx) | 2025-12-18 |
-| ios | [Microsoft Edge](https://testflight.apple.com/join/JkU2rh21) | 2025-12-18 |
-| ios | [Microsoft Office](https://testflight.apple.com/join/eHAKJBtM) | 2025-12-18 |
+| chinese | [优酷视频HD](https://testflight.apple.com/join/RDuRYxRE) | 2025-12-19 |
+| ios | [FRITZ!App WLAN](https://testflight.apple.com/join/vbfCKamq) | 2025-12-19 |
+| ios | [Lenna - Video Library Player](https://testflight.apple.com/join/bExxpaX1) | 2025-12-19 |
+| ios | [Microsoft Outlook](https://testflight.apple.com/join/QkU4VS1s) | 2025-12-19 |
+| ios | [Reddit](https://testflight.apple.com/join/b9jMyOWt) | 2025-12-19 |
 | ios | [Microsoft OneNote](https://testflight.apple.com/join/uDgoqfGS) | 2025-12-18 |
 | ios_game | [Bitlings](https://testflight.apple.com/join/pz81XTrD) | 2025-12-17 |
 | ios | [Unicode Keyboard](https://testflight.apple.com/join/YKH3kGpt) | 2025-12-16 |
