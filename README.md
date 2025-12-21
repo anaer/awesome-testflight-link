@@ -1,12 +1,15 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
+| chinese | [喜马拉雅FM](https://testflight.apple.com/join/u07lq6bj) | 2025-12-20 |
+| chinese | [抖音](https://testflight.apple.com/join/ZILJgZhU) | 2025-12-20 |
+| chinese | [爱奇艺](https://testflight.apple.com/join/alLbf0ju) | 2025-12-20 |
+| ios | [GitHub](https://testflight.apple.com/join/NLskzwi5) | 2025-12-20 |
+| ios | [Grindr - Gay Dating & Chat](https://testflight.apple.com/join/eO265vw7) | 2025-12-20 |
+| ios | [Keka](https://testflight.apple.com/join/gPYINGCJ) | 2025-12-20 |
+| ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2025-12-20 |
 | chinese | [优酷视频HD](https://testflight.apple.com/join/RDuRYxRE) | 2025-12-19 |
 | ios | [FRITZ!App WLAN](https://testflight.apple.com/join/vbfCKamq) | 2025-12-19 |
-| ios | [Lenna - Video Library Player](https://testflight.apple.com/join/bExxpaX1) | 2025-12-19 |
-| ios | [Microsoft Outlook](https://testflight.apple.com/join/QkU4VS1s) | 2025-12-19 |
-| ios | [Reddit](https://testflight.apple.com/join/b9jMyOWt) | 2025-12-19 |
-| ios | [Microsoft OneNote](https://testflight.apple.com/join/uDgoqfGS) | 2025-12-18 |
 | ios_game | [Bitlings](https://testflight.apple.com/join/pz81XTrD) | 2025-12-17 |
 | ios | [Unicode Keyboard](https://testflight.apple.com/join/YKH3kGpt) | 2025-12-16 |
 | ios | [Quizlet](https://testflight.apple.com/join/mwhcPqxJ) | 2025-12-13 |
@@ -92,7 +95,6 @@
 | ios | [Mindustry](https://testflight.apple.com/join/79Azm1hZ) | 2025-04-13 |
 | ios | [Sleep Cycle - Sleep Tracker beta](https://testflight.apple.com/join/tCeANbZi) | 2025-04-10 |
 | ios | [Sleep Cycle alarm clock](https://testflight.apple.com/join/8RcEFqFF) | 2025-04-10 |
-| ios | [Gaming for Peace-GAP](https://testflight.apple.com/join/tJu81Sch) | 2025-04-01 |
 | ios | [Herald: Latest News](https://testflight.apple.com/join/pkrdVu0n) | 2025-03-29 |
 | ios | [Love2D Game Maker](https://testflight.apple.com/join/bCLmQKfQ) | 2025-03-28 |
 | ios | [Meditation Timer Zenzitizer](https://testflight.apple.com/join/QvKyRJ8x) | 2025-03-01 |
