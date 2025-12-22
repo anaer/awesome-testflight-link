@@ -1,15 +1,18 @@
 # Available Testflight App List
 | type | name | last_modify |
 | --- | --- | --- |
-| chinese | [喜马拉雅FM](https://testflight.apple.com/join/u07lq6bj) | 2025-12-20 |
+| ios_game | [Callisto Beacon: Idle Game](https://testflight.apple.com/join/4Z1erwY2) | 2025-12-22 |
+| chinese | [酷狗概念版](https://testflight.apple.com/join/DdscKm1S) | 2025-12-21 |
+| chinese | [高德地图](https://testflight.apple.com/join/C9b7GypS) | 2025-12-21 |
+| ios | [1Password - Password Manager beta](https://testflight.apple.com/join/fzDLkIVK) | 2025-12-21 |
+| ios | [CardioBot - Heart Rate Monitor](https://testflight.apple.com/join/H82FVVt6) | 2025-12-21 |
+| ios | [Lock Launcher beta](https://testflight.apple.com/join/clHxFnLa) | 2025-12-21 |
+| ios | [Microsoft Excel](https://testflight.apple.com/join/3lIiz1eZ) | 2025-12-21 |
+| ios | [Microsoft PowerPoint](https://testflight.apple.com/join/a9Ef0N3g) | 2025-12-21 |
+| ios | [Microsoft Word](https://testflight.apple.com/join/hw76phYi) | 2025-12-21 |
 | chinese | [抖音](https://testflight.apple.com/join/ZILJgZhU) | 2025-12-20 |
 | chinese | [爱奇艺](https://testflight.apple.com/join/alLbf0ju) | 2025-12-20 |
-| ios | [GitHub](https://testflight.apple.com/join/NLskzwi5) | 2025-12-20 |
-| ios | [Grindr - Gay Dating & Chat](https://testflight.apple.com/join/eO265vw7) | 2025-12-20 |
-| ios | [Keka](https://testflight.apple.com/join/gPYINGCJ) | 2025-12-20 |
-| ios | [Snapchat](https://testflight.apple.com/join/p7hGbZUR) | 2025-12-20 |
 | chinese | [优酷视频HD](https://testflight.apple.com/join/RDuRYxRE) | 2025-12-19 |
-| ios | [FRITZ!App WLAN](https://testflight.apple.com/join/vbfCKamq) | 2025-12-19 |
 | ios_game | [Bitlings](https://testflight.apple.com/join/pz81XTrD) | 2025-12-17 |
 | ios | [Unicode Keyboard](https://testflight.apple.com/join/YKH3kGpt) | 2025-12-16 |
 | ios | [Quizlet](https://testflight.apple.com/join/mwhcPqxJ) | 2025-12-13 |
